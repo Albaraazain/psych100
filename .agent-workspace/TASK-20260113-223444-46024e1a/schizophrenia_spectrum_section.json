@@ -1,0 +1,457 @@
+{
+  "id": "schizophrenia-spectrum",
+  "title": "Schizophrenia Spectrum Disorders",
+  "subtitle": "Psychosis, Delusions, and the Five Disorders",
+  "summary": "The schizophrenia spectrum includes five distinct disorders that share psychotic symptoms but differ in duration, functioning level, and symptom complexity. Schizophrenia (≥6 months, chronic), schizophreniform (1-6 months), schizoaffective (psychosis + mood episodes), brief psychotic disorder (1 day to <1 month, full recovery), and delusional disorder (only delusions, functioning intact) form a spectrum distinguished primarily by time course and symptom pattern.",
+  "keyTakeaways": [
+    "Duration is the PRIMARY diagnostic differentiator: <1 month = brief psychotic, 1-6 months = schizophreniform, ≥6 months = schizophrenia.",
+    "Delusional disorder has ONLY delusions with NO hallucinations, disorganized speech, or negative symptoms - and functioning remains intact outside the delusion.",
+    "Schizoaffective requires BOTH psychotic symptoms AND mood episodes (depression or mania) - not just schizophrenia with some sadness.",
+    "Positive symptoms ADD abnormal experiences (hallucinations, delusions); Negative symptoms REMOVE normal functions (emotion, motivation).",
+    "Clanging is a specific disorganized speech pattern where words are connected by rhyme/sound rather than meaning."
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Overview: Five Disorders, One Spectrum"
+    },
+    {
+      "type": "paragraph",
+      "text": "The schizophrenia spectrum contains five disorders that share psychotic symptoms but differ in critical ways. Understanding these differences is essential for accurate diagnosis."
+    },
+    {
+      "type": "list",
+      "title": "The Five Schizophrenia Spectrum Disorders",
+      "items": [
+        "Schizophrenia: Chronic psychosis lasting ≥6 months with significant functional decline. Includes positive symptoms (delusions, hallucinations, disorganized speech) and negative symptoms (flat affect, reduced motivation).",
+        "Schizophreniform Disorder: SAME symptoms as schizophrenia but duration is only 1-6 months. Can progress to schizophrenia if symptoms persist past 6 months.",
+        "Schizoaffective Disorder: Psychotic symptoms PLUS mood episodes (major depression or mania). Both conditions present together, not just schizophrenia with low mood.",
+        "Brief Psychotic Disorder: Sudden onset psychosis lasting 1 day to <1 month. Often triggered by stress. Full recovery to baseline functioning expected.",
+        "Delusional Disorder: ONLY delusions (≥1 month). No hallucinations, disorganized speech, or negative symptoms. Functioning remains intact outside the delusional belief system."
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "Info",
+      "title": "Duration Timeline - Memorize This",
+      "text": "1 day to <1 month = Brief Psychotic Disorder | 1-6 months = Schizophreniform | ≥6 months = Schizophrenia. Duration is the single most important diagnostic criterion separating these three disorders."
+    },
+    {
+      "type": "heading",
+      "text": "Schizophrenia: The Chronic Disorder"
+    },
+    {
+      "type": "paragraph",
+      "text": "Schizophrenia requires psychotic symptoms persisting for at least 6 months with significant decline in functioning. It affects multiple brain systems, producing both positive and negative symptoms."
+    },
+    {
+      "type": "list",
+      "title": "Positive Symptoms (Adding Abnormal Experiences)",
+      "items": [
+        "Delusions: Fixed false beliefs maintained despite contradictory evidence. Types include persecutory (being harmed), reference (events have special personal meaning), grandiose (exceptional powers), control (external forces controlling thoughts), and somatic (bodily abnormalities).",
+        "Hallucinations: Sensory experiences without external stimuli. Auditory hallucinations (hearing voices) are MOST common in schizophrenia - the person hears sounds that aren't there but experiences them as completely real.",
+        "Disorganized Speech: Speech that doesn't follow logical connections. Includes 'clanging' - connecting words by rhyme or sound rather than meaning.",
+        "Disorganized Behavior: Unpredictable, inappropriate actions that interfere with daily functioning."
+      ]
+    },
+    {
+      "type": "list",
+      "title": "Negative Symptoms (Removing Normal Functions)",
+      "items": [
+        "Flat Affect: Complete absence of emotional expression - face shows no emotion, voice is monotone.",
+        "Blunt Affect: Reduced emotional expression - emotions are present but dampened/muted.",
+        "Inappropriate Affect: Emotional expression that doesn't match the situation - laughing at sad news, crying at jokes.",
+        "Avolition: Loss of motivation and initiative - person stops pursuing goals or activities.",
+        "Alogia: Poverty of speech - brief, empty responses lacking elaboration."
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "AlertCircle",
+      "title": "Why 'Positive' and 'Negative'?",
+      "text": "These terms don't mean 'good' and 'bad.' Positive symptoms ADD something that shouldn't be there (hallucinations, delusions - these are 'additions' to normal experience). Negative symptoms SUBTRACT something that should be there (emotions, motivation - these are 'losses' from normal functioning)."
+    },
+    {
+      "type": "heading",
+      "text": "Clanging: A Concrete Example"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clanging demonstrates how disorganized speech works in schizophrenia. The person connects words based on how they SOUND rather than what they MEAN. Here's an actual clinical example:"
+    },
+    {
+      "type": "callout",
+      "icon": "Info",
+      "title": "Clinical Dialogue - Clanging",
+      "text": "Therapist: 'What color is your dress?' Patient: 'Red... Like a bed.' Therapist: 'Why is it like a bed?' Patient: 'Because it's dead.' Therapist: 'Why is a bed like being dead?' Patient: 'I dunno... maybe it's a med.' Therapist: 'What's a med?' Patient: 'A bled.' Notice: red → bed → dead → med → bled. Each word rhymes with the previous one. The patient's brain is connecting words by SOUND pattern, not logical meaning."
+    },
+    {
+      "type": "heading",
+      "text": "Seven Types of Delusions"
+    },
+    {
+      "type": "list",
+      "title": "Delusion Types with Examples",
+      "items": [
+        "Persecutory: Belief that others are harming, watching, or targeting you. Example: 'The FBI is monitoring me through my laptop.'",
+        "Delusions of Reference: Belief that neutral events have special personal significance. Example: 'The news anchor was sending me coded messages.'",
+        "Grandiose: Belief of having exceptional power, identity, or abilities. Example: 'I am secretly royalty and will inherit a kingdom.'",
+        "Delusions of Control: Belief that external forces control your thoughts or actions. Includes thought insertion (thoughts put into your mind), thought withdrawal (thoughts removed from your mind), and thought broadcasting (your thoughts transmitted to others).",
+        "Somatic: False beliefs about bodily functions or abnormalities. Example: 'I have parasitic worms in my intestines' (despite negative tests).",
+        "Nihilistic: Belief that oneself, others, or the world doesn't exist or has ended. Example: 'The world ended and everyone is just an illusion.'",
+        "Erotomanic: Belief that someone (often a celebrity) is secretly in love with you. Example: 'The famous actor sends me love messages through his TV interviews.'"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Delusional Disorder: Only Delusions, Functioning Intact"
+    },
+    {
+      "type": "paragraph",
+      "text": "Delusional disorder is fundamentally different from schizophrenia. The person has delusions lasting at least 1 month, but NO other psychotic symptoms (no hallucinations, no disorganized speech/behavior, no negative symptoms). Most importantly: functioning is INTACT outside the delusional belief system."
+    },
+    {
+      "type": "callout",
+      "icon": "Info",
+      "title": "Functioning Comparison",
+      "text": "Schizophrenia: Significant decline across multiple life areas - often cannot maintain employment, relationships deteriorate, self-care suffers. Delusional Disorder: Person works full-time, dresses appropriately, has normal conversations - the ONLY problem is their fixed false belief. Example: A bus driver with persecutory delusions (believes neighbors are recording him) still works every day without issues."
+    },
+    {
+      "type": "heading",
+      "text": "Schizoaffective Disorder: Two Problems Together"
+    },
+    {
+      "type": "paragraph",
+      "text": "Schizoaffective disorder requires BOTH: (1) psychotic symptoms meeting schizophrenia criteria, AND (2) major mood episodes (depression or mania). This isn't just 'schizophrenia plus feeling sad' - the person must have full mood episodes that meet diagnostic criteria."
+    },
+    {
+      "type": "list",
+      "title": "Schizoaffective vs. Similar Conditions",
+      "items": [
+        "vs. Schizophrenia: Schizoaffective includes prominent mood episodes; schizophrenia does not.",
+        "vs. Bipolar with Psychotic Features: In bipolar, psychosis ONLY occurs DURING mood episodes. In schizoaffective, psychosis persists even WHEN there's no mood episode happening.",
+        "Key distinction: If you removed the mood episodes, would psychotic symptoms remain? Yes = schizoaffective. No = mood disorder with psychotic features."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Brief Psychotic Disorder: Temporary Break, Full Recovery"
+    },
+    {
+      "type": "paragraph",
+      "text": "Brief psychotic disorder involves sudden onset of psychotic symptoms lasting at least 1 day but less than 1 month. It often occurs after extreme stress. The key feature: COMPLETE return to baseline functioning after the episode ends."
+    },
+    {
+      "type": "callout",
+      "icon": "Info",
+      "title": "Clinical Example - Brief Psychotic Disorder",
+      "text": "A 24-year-old student, after failing exams and having a major argument, suddenly becomes convinced the FBI is monitoring her laptop and classmates are government agents poisoning her food. She screams at 'agents' and barely sleeps for 5 days. After 12 days with low-dose medication and therapy, all symptoms completely disappear. She returns fully to baseline with good insight that the episode was stress-related. This is brief psychotic disorder: stress trigger, short duration (12 days), complete recovery."
+    }
+  ],
+  "questions": [
+    {
+      "question": "A patient has been experiencing auditory hallucinations, persecutory delusions, and flat affect for 4 months. Which diagnosis is most appropriate?",
+      "difficulty": "application",
+      "options": [
+        "Schizophrenia",
+        "Schizophreniform disorder",
+        "Brief psychotic disorder",
+        "Delusional disorder"
+      ],
+      "answer": "Schizophreniform disorder",
+      "explanation": {
+        "correct": "This is schizophreniform disorder. The duration timeline is the key: 4 months falls in the 1-6 month window required for schizophreniform. The symptoms match schizophrenia (hallucinations + delusions + negative symptoms), but schizophrenia requires symptoms for at least 6 months. At 4 months, this is schizophreniform - same symptom picture, shorter duration. If symptoms persist past 6 months, the diagnosis would CHANGE to schizophrenia.",
+        "incorrect": {
+          "Schizophrenia": "Schizophrenia requires symptoms lasting ≥6 months. At only 4 months, we cannot diagnose schizophrenia yet. The 6-month threshold marks the transition from potentially acute episode to chronic disorder. This patient has 2 more months before potentially qualifying for schizophrenia diagnosis.",
+          "Brief psychotic disorder": "Brief psychotic disorder must be LESS than 1 month in duration. This patient has had symptoms for 4 months - far exceeding the 'brief' threshold. Brief psychotic also typically involves complete recovery, which isn't mentioned here.",
+          "Delusional disorder": "Delusional disorder involves ONLY delusions - no hallucinations, no negative symptoms. This patient has auditory hallucinations AND flat affect (a negative symptom) in addition to delusions. Multiple psychotic symptom types rules out delusional disorder."
+        }
+      }
+    },
+    {
+      "question": "What defines 'clanging' in schizophrenia?",
+      "difficulty": "learning",
+      "options": [
+        "Repeating the same phrase over and over",
+        "Connecting words based on rhyme or sound rather than meaning",
+        "Speaking extremely slowly with long pauses",
+        "Using made-up words that have no meaning"
+      ],
+      "answer": "Connecting words based on rhyme or sound rather than meaning",
+      "explanation": {
+        "correct": "Clanging is a specific form of disorganized speech where the person connects words based on how they SOUND rather than what they MEAN. Example: 'Red... like a bed. Because it's dead. Maybe it's a med. A bled.' Each word rhymes with the previous one. The patient's language production system prioritizes sound patterns over logical meaning - words are chosen for their phonetic similarity, not semantic connection.",
+        "incorrect": {
+          "Repeating the same phrase over and over": "This describes perseveration or echolalia (repeating others' words), not clanging. Clanging specifically involves rhyming patterns connecting different words in a chain, not repetition of the same content.",
+          "Speaking extremely slowly with long pauses": "This describes poverty of speech (alogia) or psychomotor slowing, which are negative symptoms. Clanging is actually often rapid - the words flow quickly because sound associations trigger each next word automatically.",
+          "Using made-up words that have no meaning": "This describes neologisms (creating new words). Clanging uses REAL words - they just happen to rhyme with each other instead of forming coherent thoughts. The words themselves are recognizable; their combination doesn't make sense."
+        }
+      }
+    },
+    {
+      "question": "A 58-year-old bus driver believes his neighbors have installed hidden microphones in his walls to blackmail him. He has covered his walls with aluminum foil, filed police reports, but continues to work every day without problems. He has no hallucinations or disorganized behavior. Most likely diagnosis?",
+      "difficulty": "application",
+      "options": [
+        "Schizophrenia",
+        "Schizophreniform disorder",
+        "Delusional disorder, persecutory type",
+        "Brief psychotic disorder"
+      ],
+      "answer": "Delusional disorder, persecutory type",
+      "explanation": {
+        "correct": "This is delusional disorder, persecutory type. The key features: (1) He has delusions (fixed false belief about neighbors recording him), (2) NO hallucinations, (3) NO disorganized behavior outside the delusion (aluminum foil is related to his belief, not random), (4) Functioning is INTACT - he works every day as a bus driver. This intact functioning is the critical distinction. In schizophrenia, the person typically cannot maintain employment. In delusional disorder, life outside the delusion system remains normal.",
+        "incorrect": {
+          "Schizophrenia": "Schizophrenia requires functional decline - the person typically cannot work, maintain relationships, or care for themselves properly. This man works full-time as a bus driver. Also, schizophrenia usually involves multiple symptom types (hallucinations, disorganized speech, negative symptoms) - he only has delusions.",
+          "Schizophreniform disorder": "Schizophreniform has the same symptoms as schizophrenia (multiple psychotic symptom types, functional impairment) but shorter duration. This man has ONLY delusions, preserved functioning, and no other symptoms - the symptom picture doesn't match schizophreniform regardless of duration.",
+          "Brief psychotic disorder": "Brief psychotic disorder requires symptoms to last less than 1 month. The scenario implies this has been ongoing (multiple police reports, covering walls). Also, brief psychotic typically involves full resolution, not ongoing symptoms."
+        }
+      }
+    },
+    {
+      "question": "What distinguishes schizoaffective disorder from schizophrenia with comorbid depression?",
+      "difficulty": "tricky",
+      "options": [
+        "Schizoaffective only occurs in younger patients",
+        "In schizoaffective, mood episodes are prominent features meeting full diagnostic criteria, not just low mood alongside psychosis",
+        "Schizoaffective has only delusions, while schizophrenia has hallucinations too",
+        "There is no real difference - they are the same diagnosis"
+      ],
+      "answer": "In schizoaffective, mood episodes are prominent features meeting full diagnostic criteria, not just low mood alongside psychosis",
+      "explanation": {
+        "correct": "Schizoaffective disorder requires BOTH: (1) full psychotic symptoms meeting schizophrenia criteria, AND (2) major mood episodes (depression or mania) that meet FULL diagnostic criteria. This is different from schizophrenia where someone might feel sad - that's just low mood. Schizoaffective requires actual major depressive episodes (≥5 symptoms for ≥2 weeks) or manic episodes (elevated mood + other criteria). The distinction is clinical severity: mood episodes in schizoaffective are prominent, diagnosable conditions, not just secondary symptoms.",
+        "incorrect": {
+          "Schizoaffective only occurs in younger patients": "Age is not a distinguishing criterion between these disorders. Both can occur at various ages, though psychotic disorders typically onset in late adolescence/early adulthood. Diagnosis is based on symptom pattern, not patient age.",
+          "Schizoaffective has only delusions, while schizophrenia has hallucinations too": "This is backwards and incorrect for both disorders. Schizoaffective includes the FULL range of psychotic symptoms (delusions AND hallucinations AND disorganized speech) PLUS mood episodes. Having 'only delusions' would suggest delusional disorder, not schizoaffective.",
+          "There is no real difference - they are the same diagnosis": "They are distinct diagnoses with different treatment implications. Schizoaffective often requires mood stabilizers or antidepressants IN ADDITION to antipsychotics. Understanding the distinction matters for treatment planning."
+        }
+      }
+    },
+    {
+      "question": "Why are hallucinations and delusions called 'positive' symptoms?",
+      "difficulty": "learning",
+      "options": [
+        "Because they indicate a positive prognosis",
+        "Because they are beneficial to the patient",
+        "Because they ADD abnormal experiences that aren't normally present",
+        "Because they respond positively to medication"
+      ],
+      "answer": "Because they ADD abnormal experiences that aren't normally present",
+      "explanation": {
+        "correct": "In psychiatric terminology, 'positive' means ADDING something that shouldn't be there - hallucinations add perceptions (hearing/seeing things that don't exist), delusions add beliefs (false ideas that weren't there before). Think of it mathematically: positive = addition. The person gains experiences (voices, beliefs) they didn't have before. This contrasts with 'negative' symptoms which REMOVE or reduce normal functions (emotion, motivation, speech). The terms describe the direction of change from normal, not whether symptoms are good or bad.",
+        "incorrect": {
+          "Because they indicate a positive prognosis": "Actually, symptoms don't necessarily predict prognosis this way. Some patients with positive symptoms respond well to treatment, others don't. Negative symptoms are often MORE difficult to treat than positive ones.",
+          "Because they are beneficial to the patient": "Positive symptoms are NOT beneficial - hearing voices and having paranoid beliefs cause significant distress and impairment. 'Positive' is a technical term describing the TYPE of symptom (addition), not its value.",
+          "Because they respond positively to medication": "While positive symptoms often respond to antipsychotic medication, this isn't why they're called 'positive.' The term predates effective medication and refers to the symptom type (added experiences), not treatment response."
+        }
+      }
+    },
+    {
+      "question": "A patient believes famous actor Tom Hanks is secretly in love with her and sends her coded messages through his movies. She interprets his film choices as personal declarations of love. She works full-time as an accountant and appears completely normal in other respects. What type of delusion is this?",
+      "difficulty": "application",
+      "options": [
+        "Grandiose delusion",
+        "Persecutory delusion",
+        "Erotomanic delusion",
+        "Somatic delusion"
+      ],
+      "answer": "Erotomanic delusion",
+      "explanation": {
+        "correct": "This is an erotomanic delusion - the false belief that someone (typically a celebrity or person of higher status) is secretly in love with you. Key features present here: (1) Belief a famous person loves her (Tom Hanks), (2) Never actually met this person, (3) Interprets neutral events as coded love messages (movies as declarations), (4) Maintains normal functioning otherwise (accountant). This is a classic presentation of delusional disorder, erotomanic type - the delusion is specific and encapsulated while the rest of life functions normally.",
+        "incorrect": {
+          "Grandiose delusion": "Grandiose delusions involve believing YOU have exceptional powers, wealth, identity, or abilities (e.g., 'I am secretly royalty'). This patient believes someone ELSE loves her, which is erotomanic. The distinction: grandiose = I am special; erotomanic = someone special loves me.",
+          "Persecutory delusion": "Persecutory delusions involve belief that others are harming, watching, or targeting you negatively (FBI surveillance, neighbors poisoning food). This patient believes someone LOVES her, which is the opposite - attraction rather than persecution.",
+          "Somatic delusion": "Somatic delusions involve false beliefs about bodily functions or abnormalities (parasites in intestines, body parts rotting). This case involves a belief about a relationship, not about her body."
+        }
+      }
+    },
+    {
+      "question": "What happens diagnostically if a patient with schizophreniform disorder still has symptoms after 6 months?",
+      "difficulty": "learning",
+      "options": [
+        "They are cured and no longer need treatment",
+        "The diagnosis changes to schizophrenia",
+        "They develop delusional disorder instead",
+        "The symptoms must resolve by 6 months or the patient dies"
+      ],
+      "answer": "The diagnosis changes to schizophrenia",
+      "explanation": {
+        "correct": "If schizophreniform symptoms persist beyond 6 months, the diagnosis CHANGES to schizophrenia. Schizophreniform is essentially a time-limited diagnosis - it captures the same symptom picture as schizophrenia but during the 1-6 month window before we know if symptoms will become chronic. The 6-month threshold marks the transition from potentially acute/recoverable episode to chronic disorder. This is why schizophreniform can be seen as a 'provisional' diagnosis that may convert to schizophrenia.",
+        "incorrect": {
+          "They are cured and no longer need treatment": "Duration extending PAST 6 months indicates the opposite of cure - it means symptoms are becoming chronic, not resolving. Treatment typically continues and may intensify.",
+          "They develop delusional disorder instead": "Delusional disorder has a completely different symptom picture (only delusions, no other symptoms, intact functioning). Symptoms persisting doesn't change the TYPE of symptoms - it changes the duration-based diagnosis from schizophreniform to schizophrenia.",
+          "The symptoms must resolve by 6 months or the patient dies": "This is completely false. Many people live with schizophrenia for decades. The 6-month mark is a diagnostic boundary, not a medical emergency. Symptoms extending past 6 months changes the diagnosis, not the patient's survival."
+        }
+      }
+    },
+    {
+      "question": "Which of the following is a negative symptom of schizophrenia?",
+      "difficulty": "learning",
+      "options": [
+        "Persecutory delusions",
+        "Auditory hallucinations",
+        "Flat affect",
+        "Disorganized speech"
+      ],
+      "answer": "Flat affect",
+      "explanation": {
+        "correct": "Flat affect is a negative symptom - it represents the REMOVAL or absence of normal emotional expression. The person's face shows no emotion, voice is monotone, there's no visible reaction to happy or sad events. Negative symptoms subtract something that should be there (emotions, motivation, speech content). In contrast, positive symptoms ADD abnormal experiences (hallucinations, delusions, disorganized thinking) that shouldn't be there.",
+        "incorrect": {
+          "Persecutory delusions": "Delusions are POSITIVE symptoms - they ADD a false belief that wasn't there before. Persecutory delusions add the belief that others are harming you. This is an addition to normal cognition, not a subtraction.",
+          "Auditory hallucinations": "Hallucinations are POSITIVE symptoms - they ADD sensory experiences (hearing voices) that don't exist in reality. The person gains perceptions they shouldn't have, making this an addition.",
+          "Disorganized speech": "Disorganized speech (including clanging) is classified as a POSITIVE symptom - it represents an abnormal, added pattern of communication rather than an absence of speech. The speech production is active but disordered."
+        }
+      }
+    },
+    {
+      "question": "A 24-year-old student experiences sudden onset of paranoid delusions (FBI surveillance, classmates poisoning her) after failing exams and having a major argument. She is terrified, barely sleeps for 5 days, and screams at 'agents.' After 12 days of treatment, symptoms completely resolve and she returns to normal with full insight. What diagnosis best fits?",
+      "difficulty": "application",
+      "options": [
+        "Schizophrenia",
+        "Schizophreniform disorder",
+        "Brief psychotic disorder",
+        "Delusional disorder"
+      ],
+      "answer": "Brief psychotic disorder",
+      "explanation": {
+        "correct": "This is brief psychotic disorder. The key features: (1) Sudden onset after identifiable stressors (exams, argument), (2) Duration of 12 days - longer than 1 day but less than 1 month, (3) Full psychotic symptoms during episode (delusions, behavioral disturbance), (4) COMPLETE resolution with treatment, (5) Return to baseline functioning, (6) Good insight afterward. Brief psychotic disorder is often stress-triggered and has excellent prognosis - the person recovers fully. The short duration (<1 month) and complete recovery distinguish it from schizophreniform or schizophrenia.",
+        "incorrect": {
+          "Schizophrenia": "Schizophrenia requires symptoms lasting ≥6 months and typically involves chronic course without full recovery. This patient had symptoms for only 12 days and recovered completely. Also, schizophrenia doesn't typically have clear stress triggers or full resolution.",
+          "Schizophreniform disorder": "Schizophreniform requires 1-6 months of symptoms. At only 12 days, this episode is too SHORT for schizophreniform. The diagnosis is duration-dependent: <1 month = brief psychotic, 1-6 months = schizophreniform.",
+          "Delusional disorder": "Delusional disorder involves ONLY delusions (no behavioral disturbance, no emotional symptoms) with INTACT functioning. This patient showed multiple symptoms (terror, screaming, sleep disturbance, behavioral changes) and significant functional impairment during the episode."
+        }
+      }
+    },
+    {
+      "question": "What distinguishes delusional disorder from schizophrenia in terms of functioning?",
+      "difficulty": "tricky",
+      "options": [
+        "Delusional disorder always leads to hospitalization while schizophrenia doesn't",
+        "In delusional disorder, functioning is intact OUTSIDE the delusion system; schizophrenia involves global functional decline",
+        "Schizophrenia patients can work but delusional disorder patients cannot",
+        "There is no difference in functioning between these disorders"
+      ],
+      "answer": "In delusional disorder, functioning is intact OUTSIDE the delusion system; schizophrenia involves global functional decline",
+      "explanation": {
+        "correct": "This is a critical distinction. In delusional disorder, the person functions normally in ALL areas EXCEPT those directly related to their delusion. A bus driver with persecutory delusions (neighbors recording him) still drives every day, has normal conversations, dresses appropriately. The delusion is 'encapsulated' - contained within one belief system. Schizophrenia causes GLOBAL decline - problems with work, relationships, self-care, across multiple domains. The person with schizophrenia typically cannot maintain employment or independent living.",
+        "incorrect": {
+          "Delusional disorder always leads to hospitalization while schizophrenia doesn't": "This is backwards. People with delusional disorder often NEVER get hospitalized because they function normally and may not seek help. Schizophrenia more commonly requires hospitalization due to severe functional impairment and safety concerns.",
+          "Schizophrenia patients can work but delusional disorder patients cannot": "This is completely reversed. Delusional disorder patients typically CAN work (examples: accountant, bus driver). Schizophrenia patients often CANNOT maintain employment due to cognitive impairment, negative symptoms, and functional decline.",
+          "There is no difference in functioning between these disorders": "Functioning level is one of the MOST important distinctions. Delusional disorder = intact functioning outside delusion. Schizophrenia = significant decline required for diagnosis. This difference has major implications for treatment and prognosis."
+        }
+      }
+    },
+    {
+      "question": "A 28-year-old presents with a 2-year history of auditory hallucinations, persecutory delusions, recurrent major depressive episodes, AND periods of elevated mood with decreased need for sleep. What is the most likely diagnosis?",
+      "difficulty": "application",
+      "options": [
+        "Schizophrenia",
+        "Bipolar disorder with psychotic features",
+        "Schizoaffective disorder",
+        "Major depressive disorder with psychotic features"
+      ],
+      "answer": "Schizoaffective disorder",
+      "explanation": {
+        "correct": "This is schizoaffective disorder. The patient has: (1) Psychotic symptoms - auditory hallucinations and persecutory delusions lasting 2 years, meeting schizophrenia criteria, AND (2) Major mood episodes - both depressive episodes AND elevated mood periods (suggesting manic features). Schizoaffective requires BOTH psychotic symptoms AND major mood episodes. The 2-year duration and presence of both depression and mania alongside continuous psychosis points clearly to schizoaffective.",
+        "incorrect": {
+          "Schizophrenia": "Schizophrenia does NOT include prominent mood episodes. This patient has recurrent major depressive episodes AND elevated mood periods - these are not minor mood fluctuations but significant mood disturbances. When psychosis + major mood episodes both occur, schizoaffective is the diagnosis.",
+          "Bipolar disorder with psychotic features": "In bipolar with psychotic features, psychosis occurs ONLY during mood episodes - when the person is manic or severely depressed. But in schizoaffective, psychotic symptoms persist even BETWEEN mood episodes. This patient has had hallucinations and delusions continuously for 2 years, not just during mood episodes.",
+          "Major depressive disorder with psychotic features": "This diagnosis doesn't account for the elevated mood periods (decreased sleep need, presumably increased energy). Also, in MDD with psychotic features, psychosis occurs only during depression. Here, psychosis is continuous over 2 years, spanning multiple mood states."
+        }
+      }
+    },
+    {
+      "question": "A patient insists they have parasitic worms in their intestines despite multiple negative stool tests, CT scans, and colonoscopies. They spend hours researching rare parasites online. They work normally otherwise. What type of delusion is this?",
+      "difficulty": "learning",
+      "options": [
+        "Persecutory delusion",
+        "Somatic delusion",
+        "Grandiose delusion",
+        "Delusion of reference"
+      ],
+      "answer": "Somatic delusion",
+      "explanation": {
+        "correct": "This is a somatic delusion - a fixed false belief about bodily functions or physical abnormalities. Key features: (1) Belief about her body (parasites in intestines), (2) Persists despite objective contradictory evidence (negative tests), (3) Leads to related behavior (researching parasites, seeking treatment). Somatic delusions involve the person's own body, not persecution by others or special significance of events. The maintained work functioning suggests delusional disorder, somatic type.",
+        "incorrect": {
+          "Persecutory delusion": "Persecutory delusions involve belief that others are harming or targeting you. This patient believes something is wrong with her OWN body, not that external people are hurting her. There's no persecutor in this scenario.",
+          "Grandiose delusion": "Grandiose delusions involve believing you have exceptional powers, wealth, or identity. Believing you have a parasitic infection is not grandiose - it's actually a belief about having something WRONG with you, which is somatic.",
+          "Delusion of reference": "Delusions of reference involve believing neutral events have special personal meaning (news broadcasts containing messages for you). This patient's belief is specifically about her own body, not about external events carrying hidden messages."
+        }
+      }
+    },
+    {
+      "question": "What is the difference between flat affect and inappropriate affect?",
+      "difficulty": "learning",
+      "options": [
+        "Flat affect means exaggerated emotions; inappropriate affect means no emotions",
+        "Flat affect means absence of emotional expression; inappropriate affect means emotions don't match the situation",
+        "They are the same thing",
+        "Flat affect only occurs in depression; inappropriate affect only occurs in schizophrenia"
+      ],
+      "answer": "Flat affect means absence of emotional expression; inappropriate affect means emotions don't match the situation",
+      "explanation": {
+        "correct": "Flat affect = NO emotional expression at all. The person's face is blank, voice monotone, no visible reaction to anything - sad news, happy news, nothing registers outwardly. Inappropriate affect = emotions are PRESENT but WRONG for the context. The person laughs when hearing about a death, cries when told a joke, shows fear during a happy moment. Both are negative symptoms, but flat is ABSENCE of emotion while inappropriate is MISMATCH between emotion and situation.",
+        "incorrect": {
+          "Flat affect means exaggerated emotions; inappropriate affect means no emotions": "This is completely reversed. Flat = absence (no emotions showing). Inappropriate = mismatch (emotions showing but wrong ones for the situation).",
+          "They are the same thing": "They are distinct phenomena. One involves NO emotional display (flat), the other involves MISMATCHED emotional display (inappropriate). Clinically, they look very different and have different implications.",
+          "Flat affect only occurs in depression; inappropriate affect only occurs in schizophrenia": "Both can occur in schizophrenia - they're both classified as negative symptoms. While flat affect can also occur in depression, both types of affect disturbance are seen in schizophrenia spectrum disorders."
+        }
+      }
+    },
+    {
+      "question": "In the schizophrenia spectrum, which disorder has the BEST prognosis with expectation of full recovery?",
+      "difficulty": "learning",
+      "options": [
+        "Schizophrenia",
+        "Schizophreniform disorder",
+        "Brief psychotic disorder",
+        "Delusional disorder"
+      ],
+      "answer": "Brief psychotic disorder",
+      "explanation": {
+        "correct": "Brief psychotic disorder has the best prognosis with expectation of FULL recovery. Key features that predict good outcome: (1) Sudden onset (often stress-triggered), (2) Short duration (must be <1 month), (3) Complete return to baseline functioning required for diagnosis, (4) Good insight typically develops afterward. The person recovers fully and often understands in retrospect that the episode was stress-related. This is fundamentally different from schizophrenia's chronic course.",
+        "incorrect": {
+          "Schizophrenia": "Schizophrenia has the WORST prognosis in the spectrum. It requires ≥6 months of symptoms (chronic), involves significant functional decline, and typically has a long-term, disabling course without treatment. Full recovery is rare.",
+          "Schizophreniform disorder": "Schizophreniform has variable prognosis - some patients recover fully, others progress to schizophrenia. It's a 'middle ground' outcome. Not as good as brief psychotic, not as poor as schizophrenia.",
+          "Delusional disorder": "Delusional disorder can be chronic (examples in the material lasted 2-3 years) and delusions often persist. While functioning remains intact, the delusion itself may not resolve. Recovery isn't expected the way it is in brief psychotic disorder."
+        }
+      }
+    },
+    {
+      "question": "What is 'thought broadcasting' as a delusion type?",
+      "difficulty": "learning",
+      "options": [
+        "Believing your thoughts are being removed from your mind by external forces",
+        "Believing external thoughts are being inserted into your mind",
+        "Believing your thoughts are being transmitted to others who can hear/read them",
+        "Believing you can read other people's thoughts"
+      ],
+      "answer": "Believing your thoughts are being transmitted to others who can hear/read them",
+      "explanation": {
+        "correct": "Thought broadcasting is the delusion that your private thoughts are being transmitted outward so others can hear, read, or know them. The person believes their mental privacy is violated - their thoughts are 'broadcast' like a radio signal that others receive. This is one of three 'thought delusions': thought insertion (others put thoughts IN), thought withdrawal (others take thoughts OUT), and thought broadcasting (your thoughts go OUT to others).",
+        "incorrect": {
+          "Believing your thoughts are being removed from your mind by external forces": "This describes thought WITHDRAWAL - the belief that thoughts are being taken OUT of your mind. Broadcasting is the opposite direction - thoughts going FROM your mind TO others.",
+          "Believing external thoughts are being inserted into your mind": "This describes thought INSERTION - the belief that thoughts are being put INTO your mind from outside. Broadcasting is your own thoughts going outward, not foreign thoughts coming inward.",
+          "Believing you can read other people's thoughts": "This would be telepathy or mind-reading belief. Thought broadcasting specifically means YOUR thoughts are transmitted OUT - others can access YOUR mind, not that you can access theirs."
+        }
+      }
+    },
+    {
+      "question": "A patient's symptoms exactly match schizophrenia criteria, but they've only been present for 3 weeks. What should the clinician diagnose?",
+      "difficulty": "tricky",
+      "options": [
+        "Schizophrenia - symptoms are characteristic",
+        "Schizophreniform disorder - 1-6 month range",
+        "Brief psychotic disorder - less than 1 month",
+        "Delusional disorder - delusions present"
+      ],
+      "answer": "Brief psychotic disorder - less than 1 month",
+      "explanation": {
+        "correct": "At 3 weeks (21 days), this falls in the brief psychotic disorder range: 1 day to <1 month. Duration determines diagnosis in the spectrum, regardless of how 'severe' or 'schizophrenia-like' symptoms appear. The timeline is strict: <1 month = brief psychotic, 1-6 months = schizophreniform, ≥6 months = schizophrenia. You cannot diagnose schizophreniform until symptoms have lasted at least 1 month, and cannot diagnose schizophrenia until 6 months.",
+        "incorrect": {
+          "Schizophrenia - symptoms are characteristic": "Duration trumps symptom picture. Even if symptoms look exactly like schizophrenia, you CANNOT diagnose schizophrenia until 6 months have passed. The 6-month requirement is a core criterion.",
+          "Schizophreniform disorder - 1-6 month range": "Schizophreniform requires symptoms lasting AT LEAST 1 month. At 3 weeks, we haven't reached the 1-month threshold yet. If symptoms persist past 1 month, THEN the diagnosis would change to schizophreniform.",
+          "Delusional disorder - delusions present": "Delusional disorder requires ONLY delusions with no other psychotic symptoms. This patient has symptoms matching full schizophrenia criteria (implying hallucinations, disorganized speech, etc.), ruling out delusional disorder."
+        }
+      }
+    }
+  ]
+}

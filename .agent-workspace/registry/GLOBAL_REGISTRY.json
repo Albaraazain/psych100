@@ -55,6 +55,26 @@
       "success_criteria_count": 3,
       "workspace": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace/TASK-20260113-215354-3963e46b",
       "workspace_base": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace"
+    },
+    "TASK-20260113-222021-11321213": {
+      "description": "Generate additional PSYC100 quiz questions for weeks 6, 7, 8, and 9",
+      "created_at": "2026-01-13T22:20:21.065318",
+      "status": "INITIALIZED",
+      "has_enhanced_context": true,
+      "deliverables_count": 3,
+      "success_criteria_count": 3,
+      "workspace": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace/TASK-20260113-222021-11321213",
+      "workspace_base": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace"
+    },
+    "TASK-20260113-223444-46024e1a": {
+      "description": "Add missing schizophrenia spectrum and personality disorders content to week 10, and rewrite ALL explanations in weeks 10 & 11 to be ADHD-friendly: concrete, detailed mechanisms, step-by-step, no metaphors, clear structure",
+      "created_at": "2026-01-13T22:34:44.069672",
+      "status": "INITIALIZED",
+      "has_enhanced_context": true,
+      "deliverables_count": 3,
+      "success_criteria_count": 5,
+      "workspace": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace/TASK-20260113-223444-46024e1a",
+      "workspace_base": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace"
     }
   },
   "agents": {}

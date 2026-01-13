@@ -1,0 +1,571 @@
+{
+  "metadata": {
+    "source": "week11.json",
+    "topic": "Treatments and Therapies",
+    "total_questions_rewritten": 43,
+    "guidelines_applied": "ADHD-friendly: concrete language, mechanism explanations, no metaphors, specific examples",
+    "rewritten_by": "rewriter-week11-ther-224350-ac39d2",
+    "timestamp": "2026-01-13"
+  },
+  "rewritten_explanations": [
+    {
+      "question_number": 1,
+      "question": "What is the primary mechanism of action for antipsychotic drugs?",
+      "answer": "Decrease dopamine activity",
+      "explanation": {
+        "correct": "Antipsychotic drugs work by physically blocking dopamine D2 receptors in the brain. Here's what happens step-by-step:\n\n1. **Normal state:** Dopamine is released from sending neurons and binds to D2 receptors on receiving neurons\n2. **In psychosis:** There's excessive dopamine activity in the mesolimbic pathway (a specific brain circuit running from midbrain to limbic system)\n3. **What the drug does:** Antipsychotic molecules sit in the D2 receptor slots, physically preventing dopamine from binding\n4. **Result:** Even though dopamine is still being released, it can't activate receptors because the drug molecules are blocking the slots\n5. **Outcome:** Reduced dopamine signaling in the mesolimbic pathway → fewer hallucinations and delusions\n\n**Why positive symptoms improve but negative symptoms don't:** The drug blocks dopamine EVERYWHERE, not just where there's too much. In the prefrontal cortex (responsible for motivation, emotion), there may actually be TOO LITTLE dopamine. Blocking receptors there makes negative symptoms (flat affect, withdrawal) worse or unchanged.",
+        "incorrect": {
+          "Increase serotonin levels": "Wrong neurotransmitter for psychosis treatment. SSRIs increase serotonin for DEPRESSION, not psychosis. Antipsychotics target DOPAMINE receptors specifically. Some newer atypical antipsychotics do affect serotonin as a secondary effect, but the primary anti-hallucination effect comes from dopamine blocking.",
+          "Block GABA receptors": "GABA is an inhibitory neurotransmitter that CALMS brain activity. Blocking GABA would INCREASE neural firing, which would make psychotic symptoms WORSE. Antianxiety drugs (benzodiazepines) ENHANCE GABA, not block it. Antipsychotics work on dopamine, not GABA.",
+          "Enhance norepinephrine function": "Norepinephrine enhancement is the mechanism for certain antidepressants (tricyclics, SNRIs), not antipsychotics. Norepinephrine affects alertness and mood. Antipsychotics reduce dopamine activity specifically because excessive dopamine in certain brain pathways causes hallucinations and delusions."
+        }
+      }
+    },
+    {
+      "question_number": 2,
+      "question": "Which class of antidepressants is associated with milder side effects and more rapid symptom reduction?",
+      "answer": "SSRIs",
+      "explanation": {
+        "correct": "SSRIs (Selective Serotonin Reuptake Inhibitors) became first-line depression treatments because they work like this:\n\n**How SSRIs work:**\n1. Serotonin is released from neuron A into the synapse (gap between neurons)\n2. Some serotonin binds to receptors on neuron B (the receiving neuron)\n3. A reuptake pump (SERT transporter) on neuron A normally vacuums serotonin back for recycling\n4. SSRIs BLOCK this reuptake pump\n5. Result: Serotonin stays in the synapse longer → more receptor activation on neuron B\n\n**Why milder side effects:** SSRIs ONLY block serotonin reuptake. Older antidepressants (tricyclics, MAOIs) affect MULTIPLE neurotransmitter systems, causing more side effects. SSRIs are \"selective\" - they target one system.\n\n**Examples:** Prozac (fluoxetine), Zoloft (sertraline), Lexapro (escitalopram)\n\n**Timeline:** Takes 2-4 weeks for full effect because the brain needs time to adjust receptor sensitivity.",
+        "incorrect": {
+          "Tricyclics": "Tricyclics are an OLDER class with MORE side effects, not fewer. They block reuptake of MULTIPLE neurotransmitters (serotonin, norepinephrine, AND histamine). The histamine blocking causes drowsiness, dry mouth, blurred vision, constipation, and weight gain. They also affect heart rhythm. SSRIs are safer and better tolerated.",
+          "MAO inhibitors": "MAO inhibitors have the MOST SEVERE side effects of any antidepressant class. They block the MAO enzyme that breaks down multiple neurotransmitters. The dangerous problem: tyramine in foods (aged cheese, wine, fermented foods) isn't broken down properly, causing potentially fatal spikes in blood pressure (hypertensive crisis). Patients must follow strict dietary restrictions. Used only when other treatments fail.",
+          "Lithium compounds": "Lithium is NOT an antidepressant at all - it's a mood STABILIZER used for bipolar disorder. It prevents both manic highs and depressive lows. Lithium has a very narrow therapeutic window (the effective dose is close to the toxic dose), requiring regular blood tests to monitor levels. Different medication class entirely."
+        }
+      }
+    },
+    {
+      "question_number": 3,
+      "question": "A major criticism of drug treatments for psychological disorders is that they:",
+      "answer": "Do not teach coping and problem-solving skills",
+      "explanation": {
+        "correct": "Here's the core limitation: medications can change brain chemistry but cannot teach you skills.\n\n**What medications CAN do:**\n- Reduce symptom intensity (less anxiety, improved mood)\n- Stabilize brain chemistry temporarily\n- Make therapy more effective by reducing symptoms enough to participate\n\n**What medications CANNOT do:**\n- Teach you how to challenge negative thoughts\n- Help you practice facing feared situations\n- Give you strategies for managing stress\n- Change your thinking patterns or behavioral habits\n- Provide coping skills for when you stop taking the medication\n\n**The consequence:** When medications are stopped, symptoms often return because nothing changed about how the person thinks, copes, or behaves. The underlying patterns remain.\n\n**This is why combination treatment (medication + therapy) often works best:** Medication reduces symptoms enough to function, while therapy builds lasting skills.",
+        "incorrect": {
+          "Always cure the underlying disorder": "This is backwards - it states a STRENGTH that medications actually DON'T have. Medications do NOT cure disorders; they MANAGE symptoms. When you stop taking antidepressants, depression can return. When you stop taking antipsychotics, psychotic symptoms can return. This IS a valid criticism (not something drugs accomplish).",
+          "Have no side effects": "All psychiatric medications have side effects - that's another valid criticism, not something positive. SSRIs can cause sexual dysfunction, weight changes, and sleep problems. Antipsychotics can cause movement disorders. Benzodiazepines cause dependence. Having side effects is a criticism OF drugs, not a criticism that drugs lack.",
+          "Work immediately for all patients": "This describes something medications DON'T do - they DON'T work immediately or for everyone. Antidepressants take 2-4 weeks; many patients try multiple medications before finding one that works. If medications DID work immediately for everyone, that would be a STRENGTH, not a criticism."
+        }
+      }
+    },
+    {
+      "question_number": 4,
+      "question": "What is the primary goal of psychodynamic therapy?",
+      "answer": "To achieve insight into unconscious conflicts",
+      "explanation": {
+        "correct": "Psychodynamic therapy is based on this core idea: thoughts, memories, and conflicts you're NOT consciously aware of are still affecting your current behavior and emotions.\n\n**What 'insight' actually means:**\n- Becoming consciously aware of patterns you didn't know were affecting you\n- Understanding connections between past experiences and current problems\n- Recognizing your defense mechanisms and why you use them\n\n**How the therapist helps achieve insight:**\n1. Uses techniques like free association (say whatever comes to mind) and dream interpretation\n2. Notices patterns in what the client talks about repeatedly\n3. Points out connections: \"You mention fear of disappointing your father a lot. I notice you also feel anxious about disappointing your boss. Could these be connected?\"\n\n**The theory:** Once you're AWARE of unconscious patterns, you have CHOICE. You can consciously decide to respond differently instead of automatically repeating old patterns.",
+        "incorrect": {
+          "To change automatic thoughts": "This is the goal of COGNITIVE therapy (Beck, CBT), NOT psychodynamic therapy. Cognitive therapy targets conscious thoughts that you can identify and examine. Psychodynamic therapy targets UNCONSCIOUS material - things you're not even aware of until therapy reveals them. Different therapeutic approach with different targets.",
+          "To unlearn maladaptive behaviors": "This is the goal of BEHAVIOR therapy, which uses conditioning principles (exposure, reinforcement) to change learned behaviors. Behaviorists don't explore unconscious material at all - they focus on observable behavior. Psychodynamic therapy is insight-oriented, not behavior-focused.",
+          "To develop unconditional positive regard": "Unconditional positive regard is what the THERAPIST provides in Carl Rogers' HUMANISTIC/person-centered therapy - not the client's goal. In humanistic therapy, the therapist accepts the client without judgment. In psychodynamic therapy, the focus is on uncovering unconscious conflicts through interpretation."
+        }
+      }
+    },
+    {
+      "question_number": 5,
+      "question": "In psychodynamic therapy, free association involves:",
+      "answer": "The client reporting thoughts without censorship",
+      "explanation": {
+        "correct": "Free association is a specific technique where the client says WHATEVER comes to mind without filtering, editing, or judging their thoughts.\n\n**What this looks like in practice:**\n- Client lies on a couch or sits comfortably\n- Therapist says: \"Tell me whatever comes to mind, no matter how silly, embarrassing, or random it seems\"\n- Client speaks continuously: \"I'm thinking about work... that reminds me of my mother... she always criticized my report cards... I feel that same anxiety now when my boss reviews my work...\"\n\n**Why it works:**\n- When you DON'T censor, unconscious material slips through\n- Normally, we filter thoughts before speaking\n- The unfiltered stream reveals patterns, fears, memories, and associations that are hidden when we're careful about what we say\n\n**What the therapist does:**\n- Listens for recurring themes (same fears, relationships, conflicts appearing repeatedly)\n- Notes what topics the client avoids or stumbles on\n- Interprets connections between seemingly random thoughts",
+        "incorrect": {
+          "The client joining a support group without cost": "This misinterprets 'free' as 'no cost' instead of 'unrestricted.' Free association has nothing to do with support groups or payment. The 'free' means thoughts flow freely without being filtered or censored by the client.",
+          "The therapist freely interpreting the client's dreams": "Dream interpretation IS a psychodynamic technique, but this describes what the THERAPIST does, not what free association means. Free association is what the CLIENT does - speaking without censorship. Interpretation is separate from free association.",
+          "The client freely choosing their treatment goals": "This describes client autonomy in treatment planning, not free association. Free association is a specific technique during therapy sessions where the client reports thoughts as they arise without filtering them. Goal-setting is a different process."
+        }
+      }
+    },
+    {
+      "question_number": 6,
+      "question": "According to Carl Rogers, which is NOT one of the three essential therapist attributes in person-centered therapy?",
+      "answer": "Interpretation of unconscious conflicts",
+      "explanation": {
+        "correct": "Interpreting unconscious conflicts is what PSYCHODYNAMIC therapists do, not humanistic therapists like Carl Rogers.\n\n**Rogers' actual three core conditions:**\n\n1. **Unconditional Positive Regard:** Accept the client completely, no matter what they say or do. Don't judge, evaluate, or show disapproval. The client is valued as a person even when describing behaviors the therapist might personally disagree with.\n\n2. **Empathy:** Understand the client's experience from THEIR perspective. Not just \"I understand you're upset\" but truly seeing the world through their eyes and communicating that understanding back.\n\n3. **Genuineness (Congruence):** The therapist is authentic and real, not hiding behind a professional mask. If the therapist is confused, they might say so. Their inner experience matches their outward behavior.\n\n**Why Rogers rejected interpretation:**\nRogers believed clients have their OWN capacity for growth and self-understanding. The therapist's job is to CREATE CONDITIONS for this growth (acceptance, understanding, authenticity) - not to be an expert who tells clients what's \"really\" going on in their unconscious.",
+        "incorrect": {
+          "Unconditional positive regard": "This IS one of Rogers' three core conditions. The therapist shows genuine acceptance without judgment or conditions attached. The client doesn't have to earn the therapist's regard by being a 'good' client or changing. This creates safety for honest self-exploration.",
+          "Empathy": "This IS one of Rogers' three core conditions. The therapist actively works to understand and communicate understanding of the client's subjective experience - how the world looks and feels from the client's point of view.",
+          "Genuineness": "This IS one of Rogers' three core conditions (also called congruence). The therapist is real, authentic, and transparent rather than playing a role or hiding behind professional distance. The therapist's words match their actual feelings."
+        }
+      }
+    },
+    {
+      "question_number": 7,
+      "question": "In Albert Ellis's REBT, the 'B' in the ABCD model represents:",
+      "answer": "Belief system about the activating event",
+      "explanation": {
+        "correct": "Ellis's ABCD model shows that BELIEFS cause emotional reactions, not the events themselves.\n\n**The complete model:**\n\n**A - Activating Event:** Something happens (you fail an exam, someone criticizes you)\n\n**B - Belief:** What you THINK about the event. This is where irrational beliefs operate:\n- \"I MUST be perfect\"\n- \"Everyone MUST approve of me\"\n- \"Things SHOULD always go my way\"\n- \"It's TERRIBLE when they don't\"\n\n**C - Consequence:** Emotional and behavioral results (depression, anxiety, avoidance)\n\n**D - Disputing:** The therapist actively ARGUES against irrational beliefs: \"Why MUST everyone approve of you? Where is that written? What's the evidence that you can't survive disapproval?\"\n\n**Ellis's key insight:**\nTwo people can experience the same event (A) but have completely different emotional consequences (C) because they have different beliefs (B). Change the belief, change the emotion. This is why therapy targets B, not A - you can't always control events, but you can change your thinking about them.",
+        "incorrect": {
+          "Behavior that results from emotions": "Behavior is part of C (Consequences), not B. The consequences include both EMOTIONAL reactions (feeling anxious, depressed) and BEHAVIORAL reactions (avoiding situations, withdrawing). B specifically refers to the COGNITIVE component - beliefs and interpretations.",
+          "Biological factors in mental disorders": "REBT is a cognitive therapy focused entirely on thoughts and beliefs, not biology. While biology plays a role in mental health, that's not what Ellis's B represents. The B is about how you INTERPRET events - your belief system, not your brain chemistry.",
+          "Benefits of rational thinking": "While developing rational thinking IS the goal of REBT, that's not what B stands for. B represents the beliefs (both irrational AND rational) that a person holds. The therapy aims to replace irrational B with rational B, but B itself just means 'Belief.'"
+        }
+      }
+    },
+    {
+      "question_number": 8,
+      "question": "Aaron Beck's cognitive therapy for depression focuses on identifying and changing:",
+      "answer": "Negative automatic thoughts",
+      "explanation": {
+        "correct": "Beck discovered that depressed people have a pattern of automatic negative thoughts that pop up rapidly and feel completely true.\n\n**What 'automatic' means:**\n- These thoughts happen WITHOUT conscious effort\n- They're like reflexes - they just appear\n- They feel like facts, not opinions\n- Example: When you make a small mistake, the thought \"I'm such an idiot\" pops up automatically\n\n**Beck's Negative Triad - three interlocking negative views:**\n1. **Negative view of SELF:** \"I am worthless, inadequate, unlovable\"\n2. **Negative view of WORLD:** \"Everything is hopeless, people are hostile, nothing works out\"\n3. **Negative view of FUTURE:** \"Things will never improve, I'll always fail, there's no point trying\"\n\n**How cognitive therapy works:**\n1. Client learns to CATCH the automatic thoughts (write them down when they happen)\n2. Client EXAMINES evidence for and against the thought: \"Is it TRUE that I'm worthless? What's the actual evidence?\"\n3. Client develops more BALANCED thoughts: \"I made a mistake. That doesn't mean I'm worthless. I've succeeded at many things.\"\n\n**These thoughts are NOT unconscious** (unlike psychodynamic material). They're just automatic and unexamined until therapy teaches you to notice them.",
+        "incorrect": {
+          "Unconscious defense mechanisms": "Defense mechanisms are PSYCHODYNAMIC concepts, not cognitive therapy concepts. Beck focuses on thoughts that ARE accessible to consciousness once you learn to notice them. You can identify 'I'm worthless' as a thought you're having. Truly unconscious material (in the Freudian sense) isn't directly accessible.",
+          "Conditioned fear responses": "Conditioned fear responses are targets of BEHAVIOR therapy, particularly exposure therapy for phobias. Behaviorists focus on learned associations (classical conditioning) and learned behaviors (operant conditioning). Beck's cognitive therapy targets THOUGHTS, not conditioned responses.",
+          "Dopamine receptor activity": "Dopamine is a biological target for MEDICATION (antipsychotics block dopamine receptors). Beck's therapy is purely psychological - it changes how people think through talk therapy, not how their brain chemistry works. Cognitive therapy = changing thoughts. Medication = changing brain chemistry."
+        }
+      }
+    },
+    {
+      "question_number": 9,
+      "question": "A person with social anxiety thinks 'Everyone at the party thinks I'm boring' when no one approaches them immediately. In CBT, this would be considered:",
+      "answer": "A distorted belief to be challenged",
+      "explanation": {
+        "correct": "This thought contains multiple cognitive distortions that CBT would identify and challenge:\n\n**Cognitive distortions in this thought:**\n1. **Mind reading:** Assuming you know what others think (\"They think I'm boring\") without evidence\n2. **Overgeneralization:** \"EVERYONE\" - all-or-nothing thinking\n3. **Jumping to conclusions:** Interpreting no immediate approach as rejection\n\n**How CBT would challenge this:**\n\n**Therapist:** \"What's the evidence that everyone thinks you're boring?\"\n\n**Client might realize:** \"I don't actually know what they think. They're already in conversation. Maybe they didn't see me come in. Maybe they're shy too.\"\n\n**More balanced thought:** \"Some people are already talking. I could join a conversation or wait a few minutes. One person not approaching me doesn't mean everyone dislikes me.\"\n\n**The key insight:** The THOUGHT ('everyone thinks I'm boring') caused the anxiety and early departure, not the situation itself. Someone with different thoughts about the same situation (people talking when they arrive) would feel and behave differently.",
+        "incorrect": {
+          "An accurate assessment requiring acceptance": "CBT does NOT accept distorted thoughts as accurate. This thought involves cognitive errors (mind reading, overgeneralization). The goal is to CHALLENGE and MODIFY inaccurate beliefs, not accept them. Accepting 'everyone thinks I'm boring' would maintain the anxiety and avoidance.",
+          "An unconscious defense mechanism": "Defense mechanisms are PSYCHODYNAMIC concepts. This thought is CONSCIOUS - the person is aware they're having it (that's how they can report it). It's automatic and habitual, but not unconscious. CBT deals with accessible thoughts, not hidden unconscious material.",
+          "A conditioned stimulus for anxiety": "A conditioned stimulus (CS) is a classical conditioning concept from BEHAVIOR therapy. In conditioning terms, the CS is an external stimulus (like a bell, or maybe the party itself). The THOUGHT is not a conditioned stimulus - it's a cognitive interpretation of the situation. CBT views thoughts as mediators between situations and emotions."
+        }
+      }
+    },
+    {
+      "question_number": 10,
+      "question": "Behavior therapy differs from other approaches by viewing psychological problems as:",
+      "answer": "The learned behaviors themselves",
+      "explanation": {
+        "correct": "Behaviorists make a radical claim: the behaviors ARE the problem, not symptoms of something deeper.\n\n**The behavioral view:**\n- Problem behaviors (phobias, addictions, aggression) were LEARNED\n- They were learned through classical conditioning (associations) or operant conditioning (reinforcement/punishment) or observational learning (watching others)\n- If they were LEARNED, they can be UNLEARNED using the same principles\n- No need to dig for unconscious causes or childhood trauma\n- Directly target the behavior that's causing problems\n\n**Example - Phobia of dogs:**\n- Psychodynamic view: Fear of dogs is a SYMPTOM of unconscious conflict (maybe symbolizes a threatening father figure)\n- Behavioral view: Fear of dogs IS the problem. It was learned (maybe bitten as a child). It can be unlearned through exposure therapy\n\n**Why this matters for treatment:**\n- No need for insight into unconscious\n- No need to change thoughts (though CBT adds this)\n- Just use conditioning principles to change the behavior directly\n- Faster, more focused treatment",
+        "incorrect": {
+          "Symptoms of underlying unconscious conflicts": "This is the PSYCHODYNAMIC view, not behavioral. Psychodynamic therapists believe surface behaviors are symptoms of deeper unconscious issues. Behaviorists explicitly REJECT this - they say the behavior itself is the problem, with no hidden cause that needs uncovering.",
+          "Results of irrational belief systems": "This is the COGNITIVE therapy view (Ellis and Beck). Cognitive therapists focus on faulty thinking patterns. While CBT combines cognitive and behavioral approaches, PURE behavior therapy focuses on learned behaviors and conditioning, not belief systems.",
+          "Chemical imbalances in the brain": "This is the BIOLOGICAL/medical model view, which leads to treatment with medication. Behavior therapy is purely psychological - it explains problems through learning history (conditioning experiences), not brain chemistry. Different theoretical framework entirely."
+        }
+      }
+    },
+    {
+      "question_number": 11,
+      "question": "Systematic desensitization treats phobias by:",
+      "answer": "Gradual exposure paired with relaxation techniques",
+      "explanation": {
+        "correct": "Systematic desensitization is a step-by-step process that pairs anxiety-provoking situations with relaxation.\n\n**The process:**\n\n**Step 1 - Learn relaxation:** Patient learns deep muscle relaxation or controlled breathing\n\n**Step 2 - Create fear hierarchy:** A ranked list from LEAST to MOST scary:\n1. Looking at a picture of a spider (low anxiety)\n2. Watching a video of a spider (medium anxiety)\n3. Being in a room with a spider in a cage (higher anxiety)\n4. Having a spider near you (high anxiety)\n5. Holding a spider (maximum anxiety)\n\n**Step 3 - Gradual exposure with relaxation:**\n- Start at Level 1 (picture of spider)\n- Practice relaxation while looking at picture\n- Body can't be relaxed AND anxious at the same time (reciprocal inhibition)\n- Stay until anxiety drops\n- Move to Level 2 only when Level 1 causes no anxiety\n- Repeat all the way up the hierarchy\n\n**Why it works (the mechanism):**\nThe brain learns a new association: spider = relaxation, not spider = panic. This is called counterconditioning - replacing one learned response with an opposite one.",
+        "incorrect": {
+          "Immediate intense exposure to the most feared situation": "This describes FLOODING, not systematic desensitization. Flooding skips the gradual hierarchy and exposes the patient immediately to maximum fear (e.g., room full of spiders). Flooding is faster but more distressing. Systematic desensitization is GRADUAL and uses RELAXATION - two key differences from flooding.",
+          "Pairing the feared stimulus with a noxious stimulus": "This describes AVERSION therapy, which is used for the OPPOSITE problem - when someone is attracted to something harmful (like alcohol). Aversion therapy creates avoidance of something attractive. Systematic desensitization creates comfort with something feared. Opposite goals.",
+          "Analyzing the unconscious meaning of the fear": "This is a PSYCHODYNAMIC approach. Behaviorists don't interpret unconscious meaning - they view the phobia as a learned response that can be unlearned. Systematic desensitization uses conditioning principles (counterconditioning), not insight or interpretation."
+        }
+      }
+    },
+    {
+      "question_number": 12,
+      "question": "Aversion therapy for alcohol abuse would involve:",
+      "answer": "Pairing alcohol consumption with a nausea-inducing drug",
+      "explanation": {
+        "correct": "Aversion therapy uses classical conditioning to make something attractive become disgusting.\n\n**How it works for alcohol abuse:**\n\n1. **Give the person a drug that causes nausea** (like Antabuse/disulfiram or an emetic)\n2. **Have them drink alcohol while nauseous**\n3. **Repeat this pairing multiple times**\n\n**The conditioning process:**\n- Alcohol (previously pleasant) = Conditioned Stimulus (CS)\n- Nausea drug effect = Unconditioned Stimulus (UCS)\n- Nausea/vomiting = Unconditioned Response (UCR)\n- After pairing: Alcohol alone → Nausea = Conditioned Response (CR)\n\n**Cultural example - A Clockwork Orange:**\nIn this film, a violent criminal is given an emetic drug, then forced to watch violence (eyes clamped open). After repeated pairings, violence triggers nausea. The film shows both the mechanism and the ethical concerns.\n\n**Limitations:**\n- Works best when combined with other treatments that teach alternative coping\n- The person might learn that alcohol PLUS that drug causes nausea, but alcohol without the drug might still be appealing\n- Ethical concerns about using punishment/discomfort",
+        "incorrect": {
+          "Gradually exposing the person to alcohol in safe settings": "This sounds like exposure therapy, which is for PHOBIAS (reducing fear of something). Alcohol abuse is the OPPOSITE problem - the person is attracted to alcohol when they shouldn't be. You'd use exposure for fear, aversion for unwanted attraction.",
+          "Teaching the person to challenge irrational beliefs about drinking": "This describes COGNITIVE therapy, which targets thoughts and beliefs. Aversion therapy is BEHAVIORAL - it works through conditioning, not through changing beliefs. A cognitive approach might examine beliefs like 'I need alcohol to relax,' but that's different from conditioning disgust.",
+          "Exploring childhood experiences related to alcohol": "This is a PSYCHODYNAMIC approach - exploring past experiences to gain insight. Aversion therapy doesn't explore the past or seek insight. It simply pairs alcohol with something unpleasant to condition avoidance. No interpretation or exploration of origins."
+        }
+      }
+    },
+    {
+      "question_number": 13,
+      "question": "A token economy works through the principle of:",
+      "answer": "Operant conditioning with positive reinforcement",
+      "explanation": {
+        "correct": "A token economy is a behavior modification system based on B.F. Skinner's operant conditioning principles.\n\n**How it works:**\n\n1. **Identify target behaviors:** What behaviors do you want to increase? (completing hygiene tasks, participating in therapy, following rules)\n\n2. **Give tokens IMMEDIATELY after desired behavior:** Poker chips, points, stickers, checkmarks - something that can be accumulated\n\n3. **Tokens are exchangeable:** Later, tokens can be traded for actual rewards (TV time, special snacks, privileges, activities)\n\n**Why tokens work:**\n- IMMEDIACY: Behavior is reinforced right away, even if the actual reward comes later\n- Tokens bridge the gap between behavior and delayed reward\n- Clear, consistent rules\n- Works across many settings (psychiatric hospitals, schools, prisons, homes)\n\n**The operant conditioning principle:**\n- Positive reinforcement = Adding something pleasant (the token) after a behavior\n- This INCREASES the likelihood of that behavior happening again\n- Token is a secondary reinforcer (learned value) that can be exchanged for primary reinforcers (food, activities with natural value)",
+        "incorrect": {
+          "Classical conditioning with paired stimuli": "Classical conditioning involves pairing stimuli to create associations (like Pavlov's bell + food). Token economies don't pair stimuli - they provide CONSEQUENCES for behavior. When you do X, you receive Y. That's operant conditioning (consequences), not classical conditioning (associations).",
+          "Cognitive restructuring of automatic thoughts": "Cognitive restructuring is a COGNITIVE therapy technique for changing thoughts. Token economies are purely BEHAVIORAL - they don't address thoughts or beliefs at all. The focus is entirely on observable behaviors and their consequences (reinforcement).",
+          "Insight into unconscious motivations": "Insight is the goal of PSYCHODYNAMIC therapy. Token economies are behavioral interventions that don't explore unconscious material. There's no interpretation, no exploration of why behaviors developed - just systematic reinforcement of desired behaviors."
+        }
+      }
+    },
+    {
+      "question_number": 14,
+      "question": "Which treatment approach would MOST likely explore the symbolic meaning of a patient's recurring nightmares?",
+      "answer": "Psychodynamic therapy",
+      "explanation": {
+        "correct": "Dream interpretation is a core psychodynamic technique because Freud called dreams 'the royal road to the unconscious.'\n\n**Psychodynamic view of dreams:**\n- Dreams express unconscious wishes, fears, and conflicts\n- The dream content is symbolic - it represents something else\n- Example: Dreaming of drowning might symbolize feeling overwhelmed by emotions or responsibilities\n- The therapist helps decode the symbols to reveal hidden meanings\n\n**How dream interpretation works:**\n1. Client describes the dream in detail\n2. Client free-associates to elements of the dream (\"What comes to mind when you think of water?\")\n3. Therapist looks for patterns and connections to the client's life\n4. Interpretation: \"You dream of drowning when you feel overwhelmed at work. The water might represent the demands that feel like they're engulfing you.\"\n\n**Why other approaches wouldn't do this:**\n- Behaviorists don't interpret - they'd focus on reducing the nightmare behavior\n- Cognitive therapists might explore thoughts ABOUT the nightmare, but not symbolic meaning\n- Biological approaches might prescribe medication for sleep disturbance",
+        "incorrect": {
+          "Behavior therapy": "Behaviorists focus on observable behaviors, not symbolic interpretation. For recurring nightmares, a behaviorist might use imagery rehearsal therapy (practicing a different ending to the dream) or relaxation techniques. They wouldn't explore what the nightmare 'means' - they'd just try to reduce it.",
+          "Cognitive therapy": "Cognitive therapists focus on conscious thought patterns, not symbols. They might explore what the client THINKS about having the nightmares ('They mean I'm going crazy') but wouldn't interpret the dream content symbolically. Cognitive therapy targets waking thoughts, not dream symbolism.",
+          "Biological therapy": "Biological approaches treat symptoms with medication. A psychiatrist might prescribe prazosin (reduces nightmares in PTSD) or other medications affecting sleep. There's no psychological interpretation of meaning - just pharmacological intervention to reduce the symptom."
+        }
+      }
+    },
+    {
+      "question_number": 15,
+      "question": "ECT (Electroconvulsive Therapy) is MOST commonly used as a treatment for:",
+      "answer": "Severe depression with high suicide risk",
+      "explanation": {
+        "correct": "ECT is specifically indicated for severe, treatment-resistant depression, especially when suicide risk is HIGH and time is critical.\n\n**What happens during ECT:**\n1. Patient is given anesthesia (unconscious) and a muscle relaxant (prevents convulsions from causing injury)\n2. Electrodes placed on scalp\n3. Brief electrical current (less than 1 second) passes through brain\n4. This induces a controlled seizure in the central nervous system (about 30-60 seconds)\n5. Patient wakes up, typically with temporary confusion\n\n**Why ECT is used for severe depression with suicide risk:**\n- **Speed:** Effects can be IMMEDIATE - within days. Medications take 2-4 WEEKS\n- **When waiting is dangerous:** A suicidal patient can't safely wait weeks for medication to work\n- **When medications fail:** ECT is tried after multiple medications haven't worked\n\n**The mechanism is unknown:**\nWe know ECT works for severe depression, but we don't know exactly WHY inducing a seizure helps. Theories include changes in brain chemistry, blood flow, neuroplasticity, or gene expression.",
+        "incorrect": {
+          "Schizophrenia with positive symptoms": "Antipsychotic MEDICATIONS are first-line for schizophrenia, not ECT. Antipsychotics block dopamine receptors to reduce hallucinations and delusions. ECT is occasionally used for catatonic schizophrenia (rare subtype with motor abnormalities) but is NOT the primary treatment for typical schizophrenia symptoms.",
+          "Phobias and anxiety disorders": "Exposure therapy (systematic desensitization, flooding) is the gold-standard for phobias - highly effective behavioral treatment. ECT has no role in treating phobias. Using brain stimulation for a condition that responds well to talk therapy would be inappropriate.",
+          "Alcohol and substance abuse": "Substance use disorders are treated with behavioral interventions (aversion therapy, contingency management), therapy (CBT, motivational interviewing), medication (for withdrawal or cravings), and support programs. ECT has no application in addiction treatment - it's specifically for severe depression."
+        }
+      }
+    },
+    {
+      "question_number": 16,
+      "question": "The primary criticism that 'up to 90% of drug effects may be placebo effects' suggests that:",
+      "answer": "Patient expectations may account for much of the improvement",
+      "explanation": {
+        "correct": "The placebo effect is improvement that occurs because the person EXPECTS to improve, not because of the drug's pharmacological action.\n\n**What this criticism means:**\n\nWhen patients take antidepressants and improve, up to 90% of that improvement might come from:\n- **Expectation:** \"I took a pill, so I should feel better\"\n- **Hope:** \"This might work, things could change\"\n- **Care and attention:** Regular doctor visits, someone listening\n- **Ritual:** The act of taking medication feels like doing something\n\n**What this does NOT mean:**\n- It doesn't mean medications have ZERO biological effect\n- It doesn't mean doctors are lying\n- It means psychological factors (hope, belief, expectation) are POWERFUL - more powerful than we often assume\n\n**Why this matters:**\n- Double-blind placebo-controlled trials are essential to separate real drug effects from placebo\n- Maybe the relationship with the doctor matters as much as the pill\n- Psychological factors in treatment shouldn't be dismissed - they're part of healing",
+        "incorrect": {
+          "Medications have no real biological effects": "This overstates the criticism. Saying 90% may be placebo doesn't mean drugs have ZERO pharmacological effect - just that the drug-specific contribution may be smaller than assumed. Some effect may be real, but placebo accounts for more than expected.",
+          "Drug companies are engaging in fraud": "The placebo effect is a legitimate psychological phenomenon, not evidence of fraud. All medical treatments (including surgery and physical therapies) have placebo components. This is about the psychology of healing, not corporate deception.",
+          "Only 10% of patients respond to medications": "This misreads the statistic. It's not saying only 10% of patients respond - it's saying that AMONG those who respond, 90% of their improvement might be due to expectation rather than pharmacology. Many patients improve; the question is WHY they improve."
+        }
+      }
+    },
+    {
+      "question_number": 17,
+      "question": "A therapist who accepts a client completely without judgment, understands their perspective deeply, and behaves authentically is demonstrating:",
+      "answer": "Unconditional positive regard, empathy, and genuineness",
+      "explanation": {
+        "correct": "These are Carl Rogers' three core conditions for effective person-centered therapy.\n\n**Matching the description to each condition:**\n\n1. **\"Accepts completely without judgment\"** = Unconditional Positive Regard\n   - The client is valued as a person no matter what they reveal\n   - No conditions: \"I'll accept you IF you change\"\n   - Client can share shameful thoughts/behaviors without fearing rejection\n\n2. **\"Understands their perspective deeply\"** = Empathy\n   - Therapist sees the world through the client's eyes\n   - Not just \"I understand,\" but truly grasping their subjective experience\n   - Communicating this understanding back: \"It sounds like you feel...\"\n\n3. **\"Behaves authentically\"** = Genuineness (Congruence)\n   - Therapist is real, not performing a role\n   - Inner experience matches outward behavior\n   - If confused, might say \"I'm not sure I understand\" rather than pretending\n\n**Rogers' theory:** When therapists provide these three conditions, clients naturally move toward growth and self-actualization. The therapist doesn't need techniques - their WAY OF BEING creates the healing environment.",
+        "incorrect": {
+          "Free association and interpretation": "These are PSYCHODYNAMIC techniques. Free association is the client speaking without censorship; interpretation is the therapist explaining unconscious meanings. These are specific techniques, while Rogers describes therapist QUALITIES. Psychodynamic and humanistic are different approaches.",
+          "Systematic desensitization techniques": "Systematic desensitization is a BEHAVIORAL technique using exposure and relaxation for phobias. It's a structured procedure, not a description of therapist qualities. The question describes how the therapist RELATES to the client, not what techniques they use.",
+          "Rational disputation of irrational beliefs": "This is from Ellis's REBT (cognitive therapy). Disputation means actively CHALLENGING the client's beliefs - arguing against irrational thoughts. This is directive and confrontational, the OPPOSITE of Rogers' accepting, non-judgmental approach."
+        }
+      }
+    },
+    {
+      "question_number": 18,
+      "question": "Which statement BEST captures the difference between psychodynamic and cognitive therapies?",
+      "answer": "Psychodynamic focuses on unconscious conflicts; cognitive focuses on conscious thought patterns",
+      "explanation": {
+        "correct": "This captures the fundamental distinction about WHAT each therapy targets.\n\n**Psychodynamic therapy:**\n- Target: Unconscious material - thoughts, memories, and conflicts OUTSIDE your awareness\n- Assumption: You don't KNOW what's really driving your behavior\n- Process: Through free association, dream interpretation, and transference analysis, hidden material emerges\n- Goal: INSIGHT - becoming aware of what was unconscious\n- Example: \"You keep choosing partners who are emotionally unavailable. Let's explore if this connects to your relationship with your distant father.\"\n\n**Cognitive therapy:**\n- Target: Conscious thoughts - automatic but ACCESSIBLE to awareness\n- Assumption: You CAN identify your thoughts when you learn to pay attention\n- Process: Identify thoughts, examine evidence, develop balanced alternatives\n- Goal: Change distorted thinking patterns\n- Example: \"You said 'I'm worthless.' Let's examine that thought. What's the evidence for and against it?\"\n\n**Key distinction:** Automatic thoughts (cognitive) are like reflexes you can catch. Unconscious conflicts (psychodynamic) are hidden until special techniques reveal them.",
+        "incorrect": {
+          "Psychodynamic uses medication; cognitive uses talk therapy": "BOTH are talk therapy approaches. Neither uses medication - that's biological psychiatry. Psychodynamic uses talk to explore the unconscious; cognitive uses talk to change thoughts. The distinction is what they talk ABOUT, not whether they use talk.",
+          "Psychodynamic focuses on the present; cognitive focuses on the past": "This is BACKWARDS. Psychodynamic therapy heavily explores the PAST (childhood, early relationships) to understand current problems. Cognitive therapy focuses on the HERE-AND-NOW, examining current thought patterns regardless of their historical origins.",
+          "Psychodynamic changes behavior; cognitive provides insight": "This is also REVERSED. Psychodynamic therapy provides INSIGHT into unconscious dynamics. Cognitive therapy focuses on changing THOUGHTS to change behavior and emotions. Behavior change is more central to cognitive/behavioral approaches."
+        }
+      }
+    },
+    {
+      "question_number": 19,
+      "question": "A therapist gives a patient tokens (poker chips) for completing hygiene tasks, which can be exchanged for TV time. This is an example of:",
+      "answer": "Token economy using positive reinforcement",
+      "explanation": {
+        "correct": "This is a textbook example of a token economy based on operant conditioning.\n\n**The components:**\n\n1. **Target behavior:** Completing hygiene tasks (showering, brushing teeth, etc.)\n\n2. **Token:** Poker chips given IMMEDIATELY after behavior\n   - Serves as a secondary reinforcer (has learned value)\n   - Bridges the gap between behavior and ultimate reward\n\n3. **Backup reinforcer:** TV time\n   - The actual reward tokens are exchanged for\n   - Has natural reinforcing value\n\n**Why it's positive reinforcement:**\n- Positive = ADDING something (the token)\n- Reinforcement = Increases future behavior\n- After receiving tokens for hygiene → more likely to do hygiene in the future\n\n**Where token economies are used:**\n- Psychiatric hospitals\n- Schools (especially special education)\n- Prisons\n- Home behavior modification programs\n- Any setting where you want to systematically increase specific behaviors",
+        "incorrect": {
+          "Aversion therapy using negative reinforcement": "Two errors here. Aversion therapy pairs attractive stimuli with unpleasant stimuli (like alcohol + nausea) - classical conditioning. This scenario uses positive reinforcement (adding tokens after behavior). Also, negative reinforcement removes something unpleasant; this scenario adds something pleasant.",
+          "Systematic desensitization using relaxation": "Systematic desensitization treats PHOBIAS through gradual exposure paired with relaxation. This scenario has nothing to do with fear or exposure - it's about increasing desirable behaviors through reinforcement. Completely different purpose and technique.",
+          "Free association using uncensored thoughts": "Free association is a PSYCHODYNAMIC technique where clients verbalize thoughts without filtering. This scenario describes operant conditioning in an institutional setting - tokens for behavior. No connection to psychodynamic exploration."
+        }
+      }
+    },
+    {
+      "question_number": 20,
+      "question": "What distinguishes flooding from systematic desensitization?",
+      "answer": "Flooding is immediate intense exposure; systematic desensitization is gradual",
+      "explanation": {
+        "correct": "Both are exposure therapies for phobias, but they differ dramatically in intensity and approach.\n\n**Systematic Desensitization:**\n- Start with LEAST scary situation\n- Work up a hierarchy GRADUALLY\n- Use RELAXATION throughout\n- Lower distress during treatment\n- More sessions needed\n- Lower dropout rate\n\n**Flooding:**\n- Start with MOST SCARY situation immediately\n- NO gradual progression\n- NO relaxation techniques used\n- HIGH distress during treatment\n- Faster results (fewer sessions)\n- Higher dropout rate (some can't tolerate the distress)\n\n**Why flooding works:**\nThe body cannot maintain maximum anxiety indefinitely. After prolonged exposure (30-90 minutes), anxiety naturally decreases (extinction). The brain learns: \"I faced my worst fear, nothing terrible happened, and eventually I felt calmer.\"\n\n**Trade-off:**\nFlooding is faster but more aversive. Systematic desensitization is gentler but takes longer. Both are effective - the choice depends on patient preference and ability to tolerate distress.",
+        "incorrect": {
+          "Flooding uses relaxation; systematic desensitization does not": "This is BACKWARDS. Systematic desensitization specifically uses relaxation techniques (the patient learns relaxation, then practices it while facing feared situations). Flooding does NOT use relaxation - it relies on prolonged exposure until anxiety naturally decreases.",
+          "Flooding uses medication; systematic desensitization uses only therapy": "Neither technique is defined by medication use. Both are purely behavioral interventions. Sometimes medications are used as adjuncts to any therapy, but medication isn't what distinguishes these two approaches.",
+          "Flooding addresses cognitions; systematic desensitization addresses behaviors": "Both are BEHAVIORAL therapies that focus on changing responses to feared stimuli through exposure. Neither primarily targets cognitions (that's cognitive therapy). The difference is exposure INTENSITY and pacing, not cognitive vs. behavioral focus."
+        }
+      }
+    },
+    {
+      "question_number": 21,
+      "question": "According to Beck's cognitive therapy, the 'negative triad' in depression consists of negative views about:",
+      "answer": "Self, world, and future",
+      "explanation": {
+        "correct": "Beck identified three interlocking negative thought patterns that maintain depression.\n\n**The Negative Triad:**\n\n**1. Negative view of SELF:**\n- \"I am worthless\"\n- \"I'm a failure\"\n- \"I'm unlovable\"\n- \"There's something fundamentally wrong with me\"\n\n**2. Negative view of WORLD:**\n- \"The world is hostile\"\n- \"Life is unfair and pointless\"\n- \"Other people can't be trusted\"\n- \"Everything is hopeless\"\n\n**3. Negative view of FUTURE:**\n- \"Things will never get better\"\n- \"I'll always be miserable\"\n- \"There's no point trying\"\n- \"My future is bleak\"\n\n**Why it matters:**\nThese three negative views reinforce each other. If you're worthless (self), and the world is hostile (world), then of course the future is hopeless (future). This creates a trap that maintains depression.\n\n**How cognitive therapy addresses it:**\nIdentify thoughts in each category → Examine evidence → Develop more balanced views in all three domains.",
+        "incorrect": {
+          "Past, present, and future": "While these are time categories, Beck's triad specifically refers to SELF, WORLD, and FUTURE as the three domains of negative thinking. The focus on 'present' isn't part of the model, and 'past' isn't a separate category either.",
+          "Thoughts, emotions, and behaviors": "These are components of the cognitive-behavioral MODEL (how they interconnect and influence each other), not the content of the negative triad. The triad describes WHAT people think negatively about (self, world, future), not the components of experience.",
+          "Family, work, and relationships": "These are life domains that may be affected by depression, but Beck's triad is more abstract - it refers to global views of self, world, and future. Negative views in these three areas then affect specific domains like family and work."
+        }
+      }
+    },
+    {
+      "question_number": 22,
+      "question": "A patient takes medication that blocks dopamine receptors to reduce hallucinations. This medication is likely a(n):",
+      "answer": "Antipsychotic",
+      "explanation": {
+        "correct": "Antipsychotics work specifically by blocking dopamine receptors, which reduces hallucinations and delusions.\n\n**The mechanism:**\n1. In psychosis, there's excessive dopamine activity in the mesolimbic pathway\n2. This overactivity causes positive symptoms (hallucinations, delusions)\n3. Antipsychotic molecules physically sit in dopamine D2 receptor slots\n4. This blocks dopamine from binding and activating those receptors\n5. Result: Reduced dopamine signaling → Fewer hallucinations\n\n**Types of antipsychotics:**\n- **Typical (first-generation):** Chlorpromazine (Thorazine), Haloperidol - stronger dopamine blocking, more movement side effects\n- **Atypical (second-generation):** Risperidone, Olanzapine - also affect serotonin, fewer movement side effects\n\n**Side effects from dopamine blocking:**\n- Movement problems (tremors, stiffness) because dopamine is also involved in motor control\n- This happens because drugs block dopamine EVERYWHERE, not just in the overactive pathway",
+        "incorrect": {
+          "Antidepressant": "Antidepressants primarily affect SEROTONIN and/or NOREPINEPHRINE, not dopamine. SSRIs block serotonin reuptake; SNRIs block both serotonin and norepinephrine reuptake. These treat depression, not hallucinations. Wrong neurotransmitter target.",
+          "Antianxiety drug": "Antianxiety drugs (benzodiazepines like Valium, Xanax) work by enhancing GABA activity, not blocking dopamine. GABA is an inhibitory neurotransmitter that calms neural activity. These reduce anxiety, not hallucinations.",
+          "Mood stabilizer": "Mood stabilizers (like lithium) are used for BIPOLAR disorder to prevent manic and depressive episodes. The mechanism is different from dopamine blocking, and they don't specifically target hallucinations. Different medication class for a different condition."
+        }
+      }
+    },
+    {
+      "question_number": 23,
+      "question": "Why might a therapist combine medication with psychotherapy for optimal outcomes?",
+      "answer": "Medication manages symptoms while therapy teaches coping skills",
+      "explanation": {
+        "correct": "Medication and therapy serve COMPLEMENTARY functions - each does something the other cannot.\n\n**What medication provides:**\n- Reduces symptom intensity (less anxiety, improved mood, reduced psychotic symptoms)\n- Works on brain chemistry directly\n- Can make symptoms manageable enough to participate in therapy\n- Faster initial relief for some conditions\n\n**What therapy provides:**\n- Teaches skills: how to challenge negative thoughts, face fears, solve problems\n- Provides understanding of patterns and triggers\n- Builds coping strategies that remain after treatment ends\n- Addresses life circumstances and relationships\n\n**Why combination often works better:**\n- Medication reduces symptoms so the person can engage in therapy\n- Therapy teaches skills that prevent relapse after medication stops\n- Addressing both biology AND psychology\n\n**Example:**\nA severely depressed person might need medication first just to have enough energy and concentration to attend therapy sessions. Once stabilized, therapy teaches them skills to prevent future episodes.",
+        "incorrect": {
+          "Medication cures the disorder while therapy provides entertainment": "Medications do NOT cure disorders - they manage symptoms. When stopped, symptoms often return. Therapy is treatment, not entertainment - it actively teaches skills and promotes change.",
+          "Medication works faster so therapy is unnecessary": "Medication may work faster initially, but therapy provides LASTING skills. Both are necessary for optimal outcomes in many conditions. Therapy isn't made unnecessary by medication - they serve different purposes.",
+          "They target completely unrelated aspects of the problem": "Actually, they target RELATED but complementary aspects. Both affect mood, anxiety, and behavior - medication through brain chemistry, therapy through learning and cognition. They're interconnected, not unrelated."
+        }
+      }
+    },
+    {
+      "question_number": 24,
+      "question": "The 'D' in Ellis's ABCD model stands for:",
+      "answer": "Disputing",
+      "explanation": {
+        "correct": "D stands for DISPUTING - the therapist's active challenging of irrational beliefs.\n\n**The full ABCD model:**\n- **A** = Activating event (what happened)\n- **B** = Beliefs (irrational thoughts about what happened)\n- **C** = Consequences (emotional and behavioral results)\n- **D** = Disputing (challenging the irrational beliefs)\n\n**What disputing looks like:**\n\n**Client's irrational belief:** \"I MUST be perfect, and it's TERRIBLE when I make mistakes.\"\n\n**Therapist disputes:**\n- \"Where is it written that you MUST be perfect?\"\n- \"What evidence supports that everyone MUST be perfect?\"\n- \"What's the worst that could actually happen if you make a mistake?\"\n- \"Has anyone in history survived making a mistake?\"\n\n**The goal:**\nReplace irrational beliefs with rational ones:\n- Before: \"I MUST be perfect\" (demanding, absolute)\n- After: \"I'd PREFER to do well, but imperfection is human and survivable\" (flexible, realistic)\n\n**Ellis's style:**\nREBT therapists are direct and confrontational - they actively ARGUE against irrational beliefs rather than gently exploring them.",
+        "incorrect": {
+          "Diagnosis": "Diagnosis is a general clinical term for identifying what disorder someone has. It's not part of Ellis's ABCD model. The model is about the therapeutic PROCESS of changing thoughts, not about diagnostic categories.",
+          "Depression": "Depression might be a consequence (C) in the model - an emotional result of irrational beliefs. But D specifically stands for Disputing, the intervention technique that challenges and changes the beliefs causing the depression.",
+          "Determination": "Determination isn't part of the ABCD model. D specifically refers to Disputing - the therapist's action of questioning, challenging, and arguing against the client's irrational beliefs."
+        }
+      }
+    },
+    {
+      "question_number": 25,
+      "question": "Antidepressants that require dietary restrictions due to dangerous food interactions are:",
+      "answer": "MAO inhibitors",
+      "explanation": {
+        "correct": "MAO inhibitors have dangerous interactions with tyramine-containing foods that can cause life-threatening blood pressure spikes.\n\n**The mechanism:**\n\n1. **MAO enzyme normally does:** Breaks down monoamines (serotonin, norepinephrine, dopamine) AND tyramine (found in certain foods)\n\n2. **What MAO inhibitors do:** Block the MAO enzyme, so monoamines build up (treating depression)\n\n3. **The dangerous problem:** Tyramine from food also builds up because MAO can't break it down\n\n4. **What happens:** Tyramine causes norepinephrine release → Massive blood pressure spike (hypertensive crisis) → Can cause stroke or death\n\n**Foods to avoid on MAOIs:**\n- Aged cheeses (cheddar, parmesan, blue cheese)\n- Cured meats (salami, pepperoni)\n- Fermented foods (sauerkraut, kimchi, soy sauce)\n- Red wine, beer\n- Overripe bananas\n\n**Why MAOIs are rarely used:**\nBecause of these dangerous dietary restrictions, MAO inhibitors are only prescribed when SSRIs and other safer antidepressants have failed.",
+        "incorrect": {
+          "SSRIs like Prozac": "SSRIs have NO dangerous food interactions. They only block serotonin reuptake and don't affect the MAO enzyme that metabolizes tyramine. This is one reason SSRIs became first-line treatments - much safer with no dietary restrictions needed.",
+          "Tricyclics": "Tricyclics have MORE side effects than SSRIs (dry mouth, constipation, drowsiness, cardiac effects), but they don't have dangerous food interactions. They work differently from MAO inhibitors and don't affect tyramine metabolism.",
+          "SNRIs like Effexor": "SNRIs block reuptake of serotonin AND norepinephrine, but they don't inhibit MAO. No dangerous tyramine interactions, no dietary restrictions needed. Different mechanism from MAO inhibitors."
+        }
+      }
+    },
+    {
+      "question_number": 26,
+      "question": "What is the mechanism of action for benzodiazepines (antianxiety drugs)?",
+      "answer": "Enhance GABA activity",
+      "explanation": {
+        "correct": "Benzodiazepines work by boosting the effects of GABA, the brain's main inhibitory neurotransmitter.\n\n**Step-by-step mechanism:**\n\n1. **GABA normally does:** When GABA binds to GABA-A receptors, it opens chloride channels, letting negative ions into the neuron. This makes the neuron LESS likely to fire (inhibition = calming effect).\n\n2. **What benzodiazepines do:** They bind to a special site on the GABA-A receptor (not the same site where GABA binds)\n\n3. **Effect:** When a benzodiazepine is attached, GABA binds MORE EFFECTIVELY. The chloride channel opens more, allowing more negative ions in.\n\n4. **Result:** MORE inhibition → neurons fire less → reduced neural activity → calming, anti-anxiety effect\n\n**Examples:** Valium (diazepam), Xanax (alprazolam), Ativan (lorazepam)\n\n**Side effects from enhancing GABA:**\n- Drowsiness (too much calming)\n- Impaired coordination\n- Risk of dependence (brain adapts to the drug being there)",
+        "incorrect": {
+          "Block dopamine receptors": "This is how ANTIPSYCHOTICS work, not antianxiety drugs. Dopamine blocking reduces hallucinations and delusions. Benzodiazepines work on GABA, which affects anxiety through inhibiting neural activity.",
+          "Increase serotonin activity": "This is how SSRIs (antidepressants) work. SSRIs block serotonin reuptake. Benzodiazepines don't affect serotonin - they specifically enhance GABA's inhibitory effects.",
+          "Block norepinephrine reuptake": "This is part of how tricyclics and SNRIs (antidepressants) work. They increase norepinephrine activity by blocking reuptake. Benzodiazepines work through a completely different mechanism - enhancing GABA."
+        }
+      }
+    },
+    {
+      "question_number": 27,
+      "question": "A person with a phobia imagines their fear hierarchy while practicing deep muscle relaxation. This technique is called:",
+      "answer": "Systematic desensitization",
+      "explanation": {
+        "correct": "Systematic desensitization has three essential components, all present in this description:\n\n**Component 1: Fear hierarchy**\nA ranked list of feared situations from least to most anxiety-provoking. The person starts with the least scary and gradually works up.\n\n**Component 2: Relaxation technique**\nDeep muscle relaxation (tensing and releasing muscle groups) or controlled breathing. The person learns this BEFORE starting exposure.\n\n**Component 3: Pairing relaxation with feared imagery/situations**\nWhile maintaining relaxation, the person imagines (or faces) the feared situation. Starting low on the hierarchy, only moving up when no anxiety is felt at the current level.\n\n**Why it works (the mechanism):**\nRelaxation and anxiety are incompatible - your body can't be deeply relaxed AND anxious at the same time (reciprocal inhibition). By repeatedly experiencing the feared stimulus while relaxed, the brain learns a new association: feared object = calm, not feared object = panic.\n\nThis is COUNTERCONDITIONING - replacing one conditioned response (fear) with an opposite one (relaxation).",
+        "incorrect": {
+          "Flooding": "Flooding does NOT use relaxation - it relies on prolonged, intense exposure until anxiety naturally decreases. Flooding also does NOT use a gradual hierarchy - it jumps straight to maximum fear. The key features here (hierarchy + relaxation) are specific to systematic desensitization.",
+          "Aversion therapy": "Aversion therapy pairs ATTRACTIVE stimuli with UNPLEASANT experiences to create avoidance (like alcohol + nausea). This scenario describes the OPPOSITE - pairing a FEARED stimulus with RELAXATION to reduce fear. Different purpose, different process.",
+          "Token economy": "Token economies use reinforcement for desired behaviors - giving tokens after behavior that can be exchanged for rewards. This has nothing to do with phobias, fear hierarchies, or relaxation. Completely different behavioral technique."
+        }
+      }
+    },
+    {
+      "question_number": 28,
+      "question": "Which treatment would be LEAST appropriate for treating a specific phobia like fear of spiders?",
+      "answer": "Psychosurgery",
+      "explanation": {
+        "correct": "Psychosurgery (surgical destruction of brain tissue) for a spider phobia would be like using a nuclear bomb to kill a mosquito - absurdly disproportionate.\n\n**Why psychosurgery is completely inappropriate:**\n\n1. **Specific phobias respond EXTREMELY well to behavioral treatment.** Exposure therapy has 80-90% success rates. Why use irreversible brain surgery when talk therapy works?\n\n2. **Psychosurgery is a LAST RESORT** - used only for severe, treatment-resistant conditions that cause major impairment and have failed all other treatments.\n\n3. **It's irreversible.** Brain tissue doesn't grow back. Using it for a condition that can be treated in a few sessions of exposure therapy would be unethical.\n\n4. **The risks are huge** - permanent personality changes, cognitive impairment, or death - for a condition that has safe, effective treatments.\n\n**When psychosurgery might be considered:**\nSevere, intractable OCD or depression that hasn't responded to years of medication and therapy. Even then, modern procedures are much more precise than historical lobotomies.",
+        "incorrect": {
+          "Systematic desensitization": "This is one of the BEST treatments for specific phobias. Gradual exposure paired with relaxation is highly effective, with strong research support. First-line treatment for phobias.",
+          "Flooding": "Also an effective phobia treatment. Immediate intense exposure is faster than systematic desensitization, though more distressing. Evidence-based and appropriate for phobias.",
+          "Virtual reality exposure therapy": "VR exposure is a modern, effective variation of exposure therapy. It allows safe, controlled exposure to feared stimuli (like virtual spiders) in a therapist's office. Increasingly used and appropriate for phobias."
+        }
+      }
+    },
+    {
+      "question_number": 29,
+      "question": "The goal of psychodynamic therapy is primarily to help clients achieve:",
+      "answer": "Insight into unconscious conflicts",
+      "explanation": {
+        "correct": "INSIGHT is the central therapeutic goal in psychodynamic therapy - becoming consciously aware of things that were affecting you outside awareness.\n\n**What insight means in practice:**\n\n1. **Recognizing patterns you didn't know were there:**\n\"I keep choosing partners who are emotionally unavailable - I never realized I was repeating my relationship with my distant mother.\"\n\n2. **Understanding the origins of current problems:**\n\"My fear of failure makes sense now - my father's criticism whenever I made mistakes taught me that mistakes mean rejection.\"\n\n3. **Seeing defense mechanisms in action:**\n\"I realize I've been using intellectualization to avoid feeling sad about the loss.\"\n\n**The theory behind insight:**\n- What's unconscious controls you without your knowledge\n- Once you're AWARE of it, you have CHOICE\n- Awareness of the pattern → ability to change the pattern\n\n**How therapists facilitate insight:**\nFree association, dream interpretation, transference analysis, and interpretation of recurring themes.",
+        "incorrect": {
+          "Behavioral change through reinforcement": "This is the goal of BEHAVIOR therapy, using operant conditioning principles. Behaviorists focus on observable behavior and its consequences, not insight or unconscious material.",
+          "Rational thinking patterns": "This is the goal of COGNITIVE therapy (Beck, Ellis). Cognitive therapists help clients identify and change distorted thought patterns. The focus is on conscious cognition, not unconscious conflicts.",
+          "Relaxation responses": "Relaxation training is used in SYSTEMATIC DESENSITIZATION (behavior therapy) for treating phobias. Psychodynamic therapy doesn't teach relaxation - it explores unconscious dynamics through talk."
+        }
+      }
+    },
+    {
+      "question_number": 30,
+      "question": "A therapist notices a patient is reacting to her as if she were his critical mother. In psychodynamic terms, this is called:",
+      "answer": "Transference",
+      "explanation": {
+        "correct": "Transference is when the client unconsciously transfers feelings, expectations, and relationship patterns from significant people in their past onto the therapist.\n\n**What's happening in this example:**\n- The client relates to the therapist AS IF she were his mother\n- He expects criticism, feels defensive, or acts submissive\n- The therapist isn't actually being critical - the client is responding to his internal image of his mother\n- This reveals his relationship patterns and unresolved issues\n\n**Why transference is therapeutically useful:**\n1. It shows patterns that operate in the client's other relationships too\n2. It can be examined in real-time: \"I notice you seem to expect me to criticize you. Who else in your life has been critical?\"\n3. It provides access to emotional material that might be hard to discuss abstractly\n\n**Common transference patterns:**\n- Treating therapist like a parent (seeking approval, fearing disappointment)\n- Treating therapist like an authority figure (compliance or rebellion)\n- Idealizing or devaluing the therapist",
+        "incorrect": {
+          "Free association": "Free association is a TECHNIQUE - the client speaking without censorship. It's something the client DOES, not a phenomenon that happens in the therapeutic relationship. Transference describes how the client RELATES to the therapist.",
+          "Dream interpretation": "Dream interpretation is a TECHNIQUE for analyzing dream content. It's something the therapist helps the client do. Transference is about the client-therapist relationship dynamics, not about analyzing dreams.",
+          "Disputing": "Disputing is from REBT (cognitive therapy) - the therapist challenging irrational beliefs. This is a cognitive therapy concept, not a psychodynamic one. Psychodynamic therapy uses interpretation, not disputation."
+        }
+      }
+    },
+    {
+      "question_number": 31,
+      "question": "CBT is effective because it recognizes that thoughts, feelings, and behaviors are:",
+      "answer": "Interconnected and influence each other",
+      "explanation": {
+        "correct": "The cognitive-behavioral model shows how thoughts, feelings, and behaviors form a connected system where each influences the others.\n\n**The interconnection:**\n\n**THOUGHTS → FEELINGS:**\nThe thought \"I'm going to fail this exam\" creates feelings of anxiety and dread.\n\n**FEELINGS → BEHAVIORS:**\nAnxiety makes you avoid studying (procrastination) or freeze up during the test.\n\n**BEHAVIORS → THOUGHTS:**\nAvoiding studying leads to the thought \"I'm so lazy\" and confirms \"I will fail.\"\n\n**The vicious cycle:**\nNegative thought → Negative feeling → Avoidant behavior → More negative thoughts → More negative feelings...\n\n**How CBT breaks the cycle:**\n- Change THOUGHTS: Challenge \"I'm going to fail\" with evidence\n- Change BEHAVIORS: Practice studying despite anxiety\n- Both interventions can interrupt the cycle and reduce negative emotions\n\n**This is why CBT combines cognitive AND behavioral techniques** - you can enter the cycle at any point to create change.",
+        "incorrect": {
+          "Completely independent of each other": "This directly contradicts CBT's core principle. The whole point of CBT is that these components are CONNECTED and influence each other. If they were independent, changing thoughts wouldn't affect feelings or behaviors.",
+          "Only affected by medication": "CBT is a PSYCHOLOGICAL treatment, not a biological one. It demonstrates that thoughts, feelings, and behaviors can be changed through talk therapy without medication. The interconnection is psychological, not chemical.",
+          "Determined solely by unconscious conflicts": "This is the PSYCHODYNAMIC view, not the CBT view. CBT focuses on conscious (though automatic) thoughts, not unconscious material. CBT works on thoughts that can be identified and examined, not hidden unconscious conflicts."
+        }
+      }
+    },
+    {
+      "question_number": 32,
+      "question": "Which criticism of ECT is most supported by research evidence?",
+      "answer": "High possibility of relapse when treatment stops",
+      "explanation": {
+        "correct": "This is a well-documented, research-supported limitation of ECT: benefits often don't last.\n\n**What the research shows:**\n- ECT can produce RAPID improvement in severe depression (faster than medication)\n- But when ECT treatments stop, many patients relapse within weeks to months\n- This is why 'maintenance ECT' exists - continued treatments (weekly or monthly) to prevent relapse\n- Or patients need ongoing medication/therapy after ECT to maintain gains\n\n**Why relapse happens:**\n- ECT affects brain chemistry temporarily\n- The underlying vulnerability to depression remains\n- Without continued treatment, symptoms return\n\n**This is similar to medication:**\nWhen antidepressants are stopped, depression often returns. ECT is faster but faces the same relapse problem.\n\n**Legitimate, evidence-based criticism:**\nUnlike some exaggerated claims about ECT, high relapse rates are documented in controlled studies.",
+        "incorrect": {
+          "It never works for any condition": "FALSE. ECT IS effective for severe depression - this is well-established. Response rates are 50-70% for treatment-resistant depression. The criticism is about relapse after treatment, not about lack of initial effectiveness.",
+          "It always causes permanent brain damage": "OVERSTATED. While memory effects are a real concern (especially for events around treatment time), 'always causes permanent brain damage' is too strong. Modern ECT techniques (brief pulse, unilateral placement) have reduced risks. Some patients have lasting memory gaps, but 'always' and 'permanent damage' aren't accurate.",
+          "It takes months to show any effect": "BACKWARDS. One ADVANTAGE of ECT is that effects can be IMMEDIATE - within days rather than the weeks medications require. Speed is a strength of ECT, not a criticism."
+        }
+      }
+    },
+    {
+      "question_number": 33,
+      "question": "Which type of therapy would MOST likely use a fear hierarchy?",
+      "answer": "Systematic desensitization",
+      "explanation": {
+        "correct": "A fear hierarchy is a specific component of systematic desensitization - a ranked list from least to most anxiety-provoking situations.\n\n**How the fear hierarchy is created:**\n\n**Example for spider phobia:**\n1. (Lowest anxiety) Looking at the word 'spider'\n2. Looking at a cartoon spider\n3. Looking at a photograph of a spider\n4. Watching a video of a spider\n5. Being in the same room as a spider in a jar\n6. Being close to a spider in a jar\n7. Touching a spider container\n8. Being in the same room as a spider not in container\n9. Having a spider near you\n10. (Highest anxiety) Holding a spider\n\n**How it's used:**\n- Start at Level 1 while practicing relaxation\n- Stay at each level until no anxiety is felt\n- Only then move to the next level\n- Gradually work up to the most feared situation\n\n**This gradual progression is what makes it 'systematic.'**",
+        "incorrect": {
+          "Psychodynamic therapy": "Psychodynamic therapy doesn't use fear hierarchies or structured exposure. It uses free association, dream interpretation, and transference analysis to explore unconscious conflicts. No graduated exposure to feared situations.",
+          "Person-centered therapy": "Person-centered therapy focuses on the therapeutic relationship (unconditional positive regard, empathy, genuineness) rather than structured techniques. No hierarchies or exposure - the therapist creates conditions for natural growth.",
+          "REBT": "REBT uses the ABCD model to dispute irrational beliefs. While anxiety might be addressed, REBT works through cognitive restructuring, not graduated behavioral exposure. No fear hierarchies are part of standard REBT."
+        }
+      }
+    },
+    {
+      "question_number": 34,
+      "question": "Why do antipsychotic drugs have little effect on negative symptoms of schizophrenia (flat affect, social withdrawal)?",
+      "answer": "Negative symptoms aren't caused by dopamine excess—they may involve dopamine deficiency in different brain areas",
+      "explanation": {
+        "correct": "Antipsychotics reduce dopamine activity, but the problem with negative symptoms may be TOO LITTLE dopamine in certain brain areas, not too much.\n\n**The dopamine pathways issue:**\n\n**Mesolimbic pathway (midbrain → limbic system):**\n- TOO MUCH dopamine here → Positive symptoms (hallucinations, delusions)\n- Blocking dopamine HERE helps\n\n**Mesocortical pathway (midbrain → prefrontal cortex):**\n- TOO LITTLE dopamine here → Negative symptoms (flat affect, lack of motivation, social withdrawal)\n- Blocking dopamine HERE makes things WORSE\n\n**The problem with current antipsychotics:**\nThey block dopamine EVERYWHERE, not just where there's too much. So while they help positive symptoms (by reducing excess dopamine in mesolimbic pathway), they may worsen negative symptoms (by further reducing already-low dopamine in prefrontal cortex).\n\n**This is why schizophrenia is hard to treat:**\nYou need to reduce dopamine in one area while possibly increasing it in another - current drugs can't do that.",
+        "incorrect": {
+          "Patients with negative symptoms don't take their medication consistently": "Medication adherence IS a real clinical issue, but it's not why antipsychotics don't work for negative symptoms. Even with perfect adherence, negative symptoms respond poorly because of the underlying neurobiology - the drug mechanism doesn't target the cause.",
+          "Negative symptoms are psychological, not biological": "Both positive AND negative symptoms have biological bases. The issue is that they involve different neurotransmitter problems in different brain regions. Negative symptoms aren't 'just psychological' - they likely reflect prefrontal cortex dysfunction.",
+          "Antipsychotics only work for new symptoms, not chronic ones": "This isn't accurate. Antipsychotics help positive symptoms whether they're new or long-standing. The distinction is between POSITIVE and NEGATIVE symptoms, not between new and chronic symptoms."
+        }
+      }
+    },
+    {
+      "question_number": 35,
+      "question": "A patient with depression has a history of tyramine-induced hypertensive crisis. Which antidepressant class should be AVOIDED?",
+      "answer": "MAO inhibitors",
+      "explanation": {
+        "correct": "A history of tyramine-induced hypertensive crisis means this patient has experienced the dangerous food-drug interaction unique to MAO inhibitors. They should NEVER take MAO inhibitors again.\n\n**What happened in the hypertensive crisis:**\n1. Patient was on MAO inhibitor (blocks MAO enzyme)\n2. Patient ate tyramine-containing food (aged cheese, wine, etc.)\n3. Normally, MAO enzyme breaks down tyramine\n4. With MAO blocked, tyramine accumulated\n5. Tyramine caused massive norepinephrine release\n6. Blood pressure spiked dangerously (hypertensive crisis)\n7. This can cause stroke, heart attack, or death\n\n**Why avoid MAOIs again:**\nIf this patient takes MAO inhibitors again and accidentally eats tyramine-containing food, the same life-threatening reaction could occur. With other antidepressant options available (SSRIs, SNRIs, tricyclics), there's no reason to risk this.\n\n**Safe alternatives:**\nSSRIs, SNRIs, tricyclics, bupropion - none of these cause tyramine interactions.",
+        "incorrect": {
+          "SSRIs": "SSRIs are SAFE for this patient. They don't inhibit MAO and have no dangerous food interactions. This would be a reasonable alternative medication choice.",
+          "SNRIs": "SNRIs are also SAFE. They block reuptake of serotonin and norepinephrine but don't inhibit MAO. No tyramine interaction. Could be prescribed to this patient.",
+          "Tricyclics": "Tricyclics, while having more side effects than SSRIs, do NOT cause tyramine-induced hypertensive crisis. They work through reuptake blocking, not MAO inhibition. Safe for this patient regarding tyramine."
+        }
+      }
+    },
+    {
+      "question_number": 36,
+      "question": "A severely depressed patient with immediate suicide risk needs the fastest-acting treatment. Their depression hasn't responded to multiple medications. What treatment is most appropriate?",
+      "answer": "Consider ECT, which can have immediate effects",
+      "explanation": {
+        "correct": "This scenario describes exactly when ECT is indicated: severe depression + high suicide risk + medication failure + need for speed.\n\n**Why ECT is most appropriate here:**\n\n**1. SPEED:** ECT can produce improvement within DAYS, not weeks\n- Medications take 2-4 weeks minimum\n- When someone is actively suicidal, waiting weeks is dangerous\n- ECT can work fast enough to prevent a suicide attempt\n\n**2. TREATMENT RESISTANCE:** Patient hasn't responded to multiple medications\n- ECT is specifically indicated for medication-resistant depression\n- Different mechanism of action may work when medications don't\n\n**3. SEVERITY:** Immediate suicide risk\n- This is a life-threatening emergency\n- More aggressive treatment is justified\n- ECT is the most potent, fastest-acting treatment available\n\n**The risk-benefit calculation:**\nECT has side effects (memory issues, anesthesia risks), but when someone may die from suicide without rapid improvement, these risks are outweighed by potential life-saving benefits.",
+        "incorrect": {
+          "Start a new SSRI and wait 4-6 weeks": "DANGEROUS in this scenario. With immediate suicide risk, waiting 4-6 weeks for medication effects could be fatal. Also, multiple medications have already failed - another SSRI may also fail.",
+          "Begin intensive psychodynamic therapy": "Psychodynamic therapy takes MONTHS to YEARS to achieve insight and create change. With immediate suicide risk, this timeframe is completely inappropriate. Need faster intervention.",
+          "Increase the dose of current medication": "The patient hasn't responded to multiple medications. Simply increasing dose of a failed medication is unlikely to produce the rapid response needed when suicide risk is immediate."
+        }
+      }
+    },
+    {
+      "question_number": 37,
+      "question": "The criticism that 'up to 90% of drug effects may be placebo' implies that:",
+      "answer": "Patient expectations and hope may contribute substantially to improvement, not just pharmacology",
+      "explanation": {
+        "correct": "The placebo effect is a REAL phenomenon where improvement occurs because of belief, expectation, and hope - not because of a drug's pharmacological action.\n\n**What this 90% figure means:**\nWhen patients take antidepressants and improve, a large portion of that improvement may come from:\n- Expecting to get better (\"I took a pill, so I should improve\")\n- Hope (\"There's something that might help\")\n- Being cared for (regular doctor appointments, someone monitoring progress)\n- The ritual of treatment (taking a pill feels like doing something)\n\n**What this does NOT mean:**\n- Medications are completely useless (they may still have some specific effect)\n- Doctors are lying (placebo effects are real, not fraud)\n- We should stop using medications (even placebo benefits are real benefits)\n\n**The implication:**\nPsychological factors in treatment are MORE POWERFUL than we often assume. The therapeutic relationship, hope, and expectation matter - maybe as much as the specific treatment.",
+        "incorrect": {
+          "Medications are fraudulent and should be banned": "OVERSTATES the criticism. The placebo effect is a legitimate psychological phenomenon, not evidence of fraud. Medications may still have some specific effects beyond placebo, and even if improvement is largely placebo-driven, improvement is still improvement.",
+          "Only 10% of patients respond to any medication": "MISINTERPRETS the statistic. The 90% placebo figure doesn't mean only 10% respond - it means that AMONG those who respond, 90% of their improvement might come from expectation rather than pharmacology. Many patients improve; the question is WHY.",
+          "Placebo pills work better than real medications": "The criticism doesn't say placebos work BETTER - it says that real medications may owe much of their effect to placebo components. The difference between drug and placebo groups in trials is sometimes smaller than expected."
+        }
+      }
+    },
+    {
+      "question_number": 38,
+      "question": "Why is the mechanism of ECT considered a mystery?",
+      "answer": "It works for depression but no one knows exactly why inducing seizures helps",
+      "explanation": {
+        "correct": "ECT's effectiveness is established; how it works is not.\n\n**What we KNOW:**\n- ECT produces a controlled seizure lasting about 30-60 seconds\n- It's effective for severe, treatment-resistant depression\n- Effects can be rapid (days rather than weeks)\n- It works when medications have failed\n\n**What we DON'T KNOW:**\n- WHY inducing a seizure helps depression\n- What specific brain changes produce the therapeutic effect\n\n**Current theories (none proven):**\n1. Changes in neurotransmitter levels or sensitivity\n2. Increased brain-derived neurotrophic factor (promotes new neural connections)\n3. Changes in blood flow patterns\n4. Altered gene expression\n5. 'Reset' of abnormal brain activity patterns\n\n**Why this matters:**\nWith medications, we know the mechanism (e.g., SSRIs block serotonin reuptake). With ECT, we know it works but not how. We induce seizures because experience shows it helps, not because we understand the mechanism.",
+        "incorrect": {
+          "It doesn't actually work—results are fabricated": "FALSE. ECT's effectiveness is well-documented in rigorous research. It's one of the most effective treatments for severe depression. The mystery is WHY it works, not WHETHER it works.",
+          "The seizure destroys all memories, making research impossible": "OVERSTATED. ECT can cause memory effects, especially for events around the time of treatment, but it doesn't destroy ALL memories. Research on ECT has been ongoing for decades. The mechanism mystery isn't because research is impossible.",
+          "Patients can't consent to research on ECT": "FALSE. Patients can and do consent to ECT and to research participation. ECT requires informed consent like other medical procedures. The mechanism mystery isn't a consent or research access problem."
+        }
+      }
+    },
+    {
+      "question_number": 39,
+      "question": "A patient wants to explore childhood trauma and understand how early experiences shaped their current problems. Which therapy approach is most appropriate?",
+      "answer": "Psychodynamic therapy exploring unconscious conflicts",
+      "explanation": {
+        "correct": "Psychodynamic therapy is specifically designed to explore the PAST and understand how early experiences shape current functioning.\n\n**What psychodynamic therapy offers this patient:**\n\n**1. Focus on the PAST:**\n- Childhood experiences and relationships\n- Early attachment patterns\n- How family dynamics shaped beliefs and behaviors\n\n**2. Connection to the PRESENT:**\n- \"How does your relationship with your critical father show up in how you relate to authority figures now?\"\n- \"The abandonment you felt when your mother left seems to show up in your fear that partners will leave you.\"\n\n**3. Exploration of UNCONSCIOUS influence:**\n- Patterns you repeat without realizing\n- Defense mechanisms developed to cope with early trauma\n- How past relationships shape current expectations\n\n**Techniques used:**\n- Free association to access buried memories\n- Dream interpretation for unconscious material\n- Transference analysis (how the patient relates to the therapist may mirror past relationships)",
+        "incorrect": {
+          "Person-centered therapy focusing on present growth": "Person-centered therapy specifically focuses on the PRESENT and FUTURE, not dwelling on the past. It emphasizes current growth and self-actualization. This patient wants to EXPLORE the past, which isn't the humanistic focus.",
+          "Behavior therapy using exposure techniques": "Behavior therapy focuses on CURRENT learned behaviors and how to change them. It doesn't explore childhood origins or ask 'why did this develop?' It asks 'how do we change this behavior now?' Different focus than the patient wants.",
+          "Cognitive therapy challenging automatic thoughts": "Cognitive therapy targets CURRENT thought patterns. While acknowledging thoughts developed over time, it doesn't deeply explore childhood origins. The focus is 'what are you thinking now?' not 'how did your childhood shape you?'"
+        }
+      }
+    },
+    {
+      "question_number": 40,
+      "question": "In psychodynamic therapy, the therapist interprets unconscious material. In person-centered therapy, the therapist:",
+      "answer": "Provides a growth-promoting climate without interpretation",
+      "explanation": {
+        "correct": "Person-centered therapy views the therapist as a FACILITATOR, not an expert interpreter.\n\n**The person-centered view:**\n- Clients have their OWN capacity for self-understanding\n- Clients can reach their own insights when given the right conditions\n- The therapist doesn't need to interpret - they need to CREATE SPACE for growth\n\n**What the therapist does:**\n- Provides unconditional positive regard (complete acceptance)\n- Shows empathy (deeply understanding the client's experience)\n- Is genuine (authentic, not hiding behind a professional mask)\n\n**What the therapist does NOT do:**\n- Interpret what the client 'really' means\n- Tell clients what's wrong with them\n- Direct the client toward particular insights\n- Analyze unconscious material\n\n**Rogers' philosophy:**\nIf you provide the right conditions (acceptance, understanding, authenticity), people naturally move toward growth. The therapist's JOB is to be those conditions, not to be an expert who knows better than the client.",
+        "incorrect": {
+          "Also interprets unconscious material but uses different techniques": "Person-centered therapy explicitly REJECTS interpretation. Rogers believed clients should reach their own understanding, not have it provided by an expert. This fundamentally distinguishes humanistic from psychodynamic approaches.",
+          "Directly tells clients what to do to solve problems": "Person-centered therapy is NON-DIRECTIVE. The therapist never tells clients what to do, gives advice, or directs them. The client leads; the therapist follows with acceptance and understanding.",
+          "Challenges irrational beliefs using disputation": "This describes REBT (Ellis), a cognitive therapy. REBT therapists actively argue against irrational beliefs. Person-centered therapy is accepting and non-confrontational - the opposite of challenging and disputing."
+        }
+      }
+    },
+    {
+      "question_number": 41,
+      "question": "Rogers's 'genuineness' (congruence) in therapy means the therapist:",
+      "answer": "Behaves consistently with how they actually feel—being authentic",
+      "explanation": {
+        "correct": "Genuineness (congruence) means there's no gap between the therapist's inner experience and outward behavior - what they feel matches what they show.\n\n**What genuineness looks like:**\n\n**GENUINE:**\nTherapist is confused → Says: \"I'm not sure I understand. Can you help me see what you mean?\"\n\n**NOT GENUINE:**\nTherapist is confused → Nods and pretends to understand while feeling lost\n\n**GENUINE:**\nTherapist feels warmth toward client → Expression and words show warmth\n\n**NOT GENUINE:**\nTherapist feels irritated → Puts on fake smile and pretends everything is fine\n\n**Why genuineness matters:**\n- Clients can usually sense when someone is being fake\n- Authenticity builds trust\n- It models healthy, honest relating\n- It allows real human connection rather than role-playing\n\n**Important distinction:**\nGenuineness doesn't mean saying everything you think. It means not being fake or hiding behind a professional persona. The therapist is a real person, not a blank screen.",
+        "incorrect": {
+          "Is consistently nice and agreeable to make the client feel good": "Genuineness is NOT about being nice - it's about being REAL. A genuine therapist might express confusion, concern, or even gentle disagreement when appropriate. Always being agreeable would actually be FAKE if the therapist sometimes feels otherwise.",
+          "Tells clients the absolute truth even if it hurts": "Genuineness doesn't mean brutal honesty or saying everything you think. It means not being FAKE. A therapist can be genuine while also being tactful and appropriate. Genuineness + wisdom, not just raw truth-telling.",
+          "Uses genuine medications rather than placebos": "This confuses psychological genuineness with pharmacological authenticity. Rogers' genuineness is about the therapist's authenticity as a person - their real presence in the relationship - not about medications."
+        }
+      }
+    },
+    {
+      "question_number": 42,
+      "question": "A client says 'I'm just here because my spouse made me come. I don't need therapy.' A person-centered therapist would:",
+      "answer": "Accept this feeling without judgment and explore their experience",
+      "explanation": {
+        "correct": "Unconditional positive regard means accepting whatever the client brings - including resistance to therapy itself.\n\n**How a person-centered therapist might respond:**\n\n\"It sounds frustrating to be here when you don't feel you need it.\"\n\n\"I hear that you feel pushed into this. I'm curious what that's like for you.\"\n\n\"You're here because of your spouse. What are YOUR thoughts about being here?\"\n\n**What the therapist is doing:**\n- Validating the feeling (not arguing that the client DOES need therapy)\n- Showing empathy (understanding the client's perspective)\n- Not judging the resistance as 'wrong' or something to overcome\n- Creating space for the client to explore their own experience\n\n**The person-centered trust:**\nIf provided with acceptance and understanding, even an ambivalent client may naturally move toward engaging. Pushing them would violate the non-directive, accepting stance.",
+        "incorrect": {
+          "Interpret the resistance as a defense mechanism": "Interpretation is a PSYCHODYNAMIC technique. Person-centered therapists don't interpret client material - they accept and reflect it. Analyzing resistance as a 'defense mechanism' imposes the therapist's framework on the client's experience.",
+          "Argue that they clearly do need therapy given their problems": "Arguing violates unconditional positive regard AND non-directiveness. Person-centered therapy never argues with clients or tries to convince them. The client is the expert on their own experience.",
+          "Immediately discharge them since therapy requires motivation": "This would be rejecting the client, the opposite of unconditional positive regard. Person-centered therapy trusts clients' capacity for growth. Even ambivalent clients may benefit from an accepting relationship."
+        }
+      }
+    },
+    {
+      "question_number": 43,
+      "question": "In Ellis's ABCD model, therapy primarily targets changing:",
+      "answer": "B (the irrational belief systems about events)",
+      "explanation": {
+        "correct": "Ellis's core insight: B causes C, not A. Therefore, change B to change C.\n\n**The logic:**\n- A (Activating event) = What happened (often can't be changed)\n- B (Beliefs) = What you think about what happened (CAN be changed)\n- C (Consequences) = Emotional and behavioral results\n\n**If A caused C directly:**\nEveryone who experiences event A would feel the same C. But they don't! Two people fail an exam (same A), one feels devastated, one feels motivated. The difference is B - their beliefs about it.\n\n**Therapy targets B because:**\n1. You can't always control external events (A)\n2. Trying to directly change emotions (C) doesn't work\n3. But changing BELIEFS about events can change emotions\n4. Beliefs are learned and can be unlearned\n\n**The disputation process:**\n- Irrational B: \"I MUST be perfect; failure is CATASTROPHIC\"\n- Therapist disputes: \"Why MUST you be perfect? Where is that law written?\"\n- Rational B: \"I'd PREFER success, but failure is disappointing, not catastrophic\"\n- New C: Disappointment instead of devastation",
+        "incorrect": {
+          "A (the activating events that trigger reactions)": "We often CAN'T control external events. Getting fired, someone dying, failing an exam - these happen. Ellis's point is that we can't always change A, but we CAN change how we interpret it (B). Targeting A would often be impossible.",
+          "C (the emotional and behavioral consequences)": "C is the RESULT, not the cause. If you try to change C directly (\"just stop feeling anxious!\"), it doesn't work because you haven't addressed the beliefs causing the anxiety. Change B, and C follows.",
+          "The unconscious conflicts underlying all three": "Ellis explicitly rejected psychodynamic concepts. REBT is purely COGNITIVE - it deals with beliefs that are accessible to consciousness, not hidden unconscious material. The beliefs may be automatic, but they're not unconscious in the Freudian sense."
+        }
+      }
+    }
+  ]
+}

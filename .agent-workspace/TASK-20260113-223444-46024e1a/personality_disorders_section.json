@@ -1,0 +1,412 @@
+{
+  "topicId": "personality-disorders",
+  "title": "Personality Disorders",
+  "description": "10 personality disorders across 3 clusters: Cluster A (odd/eccentric), Cluster B (dramatic/emotional), Cluster C (anxious/fearful)",
+  "content": {
+    "overview": "Personality disorders are pervasive, inflexible patterns of thinking, feeling, and behaving that cause significant problems in relationships and functioning. They usually begin in adolescence or early adulthood and persist throughout life. Most are ego-syntonic (the person doesn't see their pattern as a problem). There are 10 personality disorders organized into 3 clusters based on shared features.",
+    "clusterA": {
+      "name": "Cluster A: Odd or Eccentric",
+      "commonThread": "These individuals appear strange, withdrawn, or suspicious. They have difficulty connecting with others due to unusual thinking or social detachment.",
+      "disorders": [
+        {
+          "name": "Paranoid Personality Disorder",
+          "whatTheyDo": "Persistently suspects others of lying, cheating, or plotting against them. Interprets neutral comments as hidden attacks. Holds grudges for years. Refuses to confide in others because they expect the information to be used against them. Counterattacks quickly when they perceive any slight.",
+          "howTheyThink": "Constantly scanning for evidence that others are untrustworthy. When someone is late, they think 'They're avoiding me on purpose.' When someone makes a joke, they think 'They're mocking me.' They cannot accept innocent explanations.",
+          "whyThisHappens": "The mistrust is pervasive across ALL relationships - coworkers, friends, family, strangers. It's not based on one bad experience but is a consistent pattern that limits their ability to function normally. Historical example: Joseph Stalin, who executed loyal allies based on paranoid suspicions.",
+          "celebrityExample": "Joseph Stalin"
+        },
+        {
+          "name": "Schizoid Personality Disorder",
+          "whatTheyDo": "Lives alone and prefers it. Chooses solitary activities (jobs, hobbies). Has no close friends and doesn't want any. Shows flat emotional reactions - doesn't smile, laugh, or get angry in situations where others would. Appears indifferent to praise or criticism.",
+          "howTheyThink": "Doesn't desire emotional connection. When someone invites them to socialize, they genuinely don't see the appeal. They're not avoiding people out of fear - they simply don't want relationships.",
+          "whyThisHappens": "The key distinction is NO DESIRE for connection (unlike Avoidant PD which WANTS connection but fears rejection). They can function well in solitary work settings. They're not suffering from loneliness - they prefer solitude.",
+          "celebrityExample": "Bill Gates"
+        },
+        {
+          "name": "Schizotypal Personality Disorder",
+          "whatTheyDo": "Has odd beliefs like believing they can sense others' thoughts or that random events have special personal meaning. Dresses eccentrically. Speaks in vague, hard-to-follow ways. Reports unusual perceptual experiences like sensing a 'presence' in the room.",
+          "howTheyThink": "Engages in magical thinking - believes coincidences are meaningful signs, that they have special powers, or that their thoughts can influence events. Has 'ideas of reference' where they believe random things (TV shows, strangers' conversations) are specifically about them.",
+          "whyThisHappens": "This is on the schizophrenia spectrum but NOT psychotic. They have odd beliefs and perceptions but not the full delusions and hallucinations of schizophrenia. The oddness interferes with social and work functioning.",
+          "celebrityExample": "Van Gogh"
+        }
+      ]
+    },
+    "clusterB": {
+      "name": "Cluster B: Dramatic, Emotional, or Erratic",
+      "commonThread": "These individuals are emotionally intense, impulsive, and have unstable relationships. They often violate social norms or exploit others.",
+      "disorders": [
+        {
+          "name": "Antisocial Personality Disorder",
+          "whatTheyDo": "Repeatedly breaks laws. Lies and manipulates for personal gain (con artists). Acts impulsively without considering consequences. Gets into physical fights or assaults others. Shows reckless disregard for safety of self or others. Fails to maintain jobs or honor financial obligations.",
+          "howTheyThink": "Feels NO remorse or guilt for harming others. Rationalizes: 'They deserved it' or 'Everyone does it' or 'It's their own fault for being gullible.' Does not experience empathy - other people's pain doesn't register emotionally.",
+          "whyThisHappens": "This pattern must have started before age 15 (with evidence of conduct disorder as a child/teen). The defining feature is VIOLATION of others' rights combined with ZERO remorse. They can be charming and intelligent but use these traits to exploit.",
+          "celebrityExample": "Ted Bundy"
+        },
+        {
+          "name": "Borderline Personality Disorder",
+          "whatTheyDo": "Has intense, unstable relationships that swing between 'you're perfect' and 'I hate you.' Engages in self-harm (cutting, burning) during emotional crises. Makes impulsive decisions about spending, sex, substance use. Has chronic feelings of emptiness. Makes frantic efforts to avoid real or imagined abandonment.",
+          "howTheyThink": "Sees people in black-and-white terms (splitting) - someone is either all-good or all-bad with no middle ground. One perceived rejection triggers intense fear: 'They're going to leave me.' This fear drives desperate behaviors to prevent abandonment.",
+          "whyThisHappens": "Mood swings are REACTIVE to interpersonal events and last hours (not weeks like bipolar). The emotional pain is GENUINE and intense - sometimes described as feeling like 'emotional burn victims' where everything feels life-or-death. Self-harm often serves to regulate overwhelming emotions or communicate distress.",
+          "celebrityExample": "Amy Winehouse, Marilyn Monroe"
+        },
+        {
+          "name": "Histrionic Personality Disorder",
+          "whatTheyDo": "Constantly seeks to be the center of attention. Becomes uncomfortable or distressed when not noticed. Uses physical appearance (provocative dress, dramatic gestures) to draw attention. Speech is impressionistic and vague, lacking detail. Behavior is sexually seductive or provocative in inappropriate situations.",
+          "howTheyThink": "Perceives relationships as more intimate than they actually are - after meeting someone once, believes they're 'best friends.' Emotions change rapidly and are expressed dramatically but lack genuine depth. The goal is ANY attention, not specifically admiration.",
+          "whyThisHappens": "The emotions are like a performance - loud and dramatic but shallow. Unlike Borderline PD where emotional pain is deep and genuine, Histrionic emotions are theatrical and quickly shifting. They can turn on tears or anger as needed for effect.",
+          "celebrityExample": "Madonna, Johnny Depp"
+        },
+        {
+          "name": "Narcissistic Personality Disorder",
+          "whatTheyDo": "Exaggerates achievements and talents. Expects to be recognized as superior without matching accomplishments. Preoccupied with fantasies of unlimited success, power, or beauty. Requires excessive admiration. Has sense of entitlement. Exploits relationships. Reacts to criticism with rage or contempt.",
+          "howTheyThink": "Believes they are 'special' and can only be understood by other high-status people or institutions. Expects automatic compliance with their expectations. Envious of others or believes others envy them. Cannot acknowledge their own flaws or mistakes.",
+          "whyThisHappens": "The grandiosity MASKS fragile self-esteem. Criticism triggers 'narcissistic rage' because it threatens the inflated self-image. Unlike Antisocial PD (violates rights without caring), narcissists specifically need ADMIRATION. Unlike Histrionic (wants any attention), narcissists want to be seen as SUPERIOR.",
+          "celebrityExample": "Kanye West, Donald Trump, Steve Jobs"
+        }
+      ]
+    },
+    "clusterC": {
+      "name": "Cluster C: Anxious or Fearful",
+      "commonThread": "These individuals are dominated by fear and anxiety. Their behaviors are driven by attempts to avoid feared outcomes (rejection, abandonment, loss of control).",
+      "disorders": [
+        {
+          "name": "Avoidant Personality Disorder",
+          "whatTheyDo": "Avoids jobs or activities that involve significant contact with others. Doesn't make new friends unless certain of being liked. Is reluctant to try new things for fear of embarrassment. Views self as inferior, unappealing, or socially inept. Is unusually reluctant to take personal risks.",
+          "howTheyThink": "Hypersensitive to any hint of criticism or rejection. Constantly thinks 'They'll think I'm stupid' or 'I'll embarrass myself.' Perceives themselves as fundamentally inadequate and unlikeable.",
+          "whyThisHappens": "The key distinction from Schizoid PD is DESIRE. Avoidant individuals WANT connection and relationships but are PARALYZED by fear of rejection. They suffer from loneliness. Schizoid individuals don't want connection at all.",
+          "celebrityExample": "Michael Jackson"
+        },
+        {
+          "name": "Dependent Personality Disorder",
+          "whatTheyDo": "Has difficulty making everyday decisions without excessive advice and reassurance. Needs others to assume responsibility for major areas of their life. Has difficulty expressing disagreement for fear of losing support. Goes to excessive lengths to obtain care and support. Feels helpless when alone. Urgently seeks another relationship when one ends.",
+          "howTheyThink": "Believes they cannot function without someone taking care of them. When facing a decision, thinks 'I don't know what to do - I need someone to tell me.' Fears being alone more than being in an unhealthy relationship.",
+          "whyThisHappens": "Remains in harmful or abusive relationships because leaving means being alone, which feels unbearable. Unlike Borderline (alternates between clinging and pushing away), Dependent is consistently submissive and clinging. The terror is of SEPARATION, not abandonment specifically.",
+          "celebrityExample": "Scott Disick"
+        },
+        {
+          "name": "Obsessive-Compulsive Personality Disorder (OCPD)",
+          "whatTheyDo": "Preoccupied with rules, lists, organization to the point that the main activity is lost. Perfectionism interferes with completing tasks. Excessively devoted to work at expense of leisure and relationships. Unable to delegate tasks unless others do them exactly their way. Rigid and stubborn. Miserly (stingy with money). Hoards items.",
+          "howTheyThink": "Believes there is one 'right' way to do things and insists on that way. Thinks 'If I can't do it perfectly, I shouldn't do it at all.' Cannot relax because there's always something that needs to be organized or perfected.",
+          "whyThisHappens": "CRITICAL DISTINCTION from OCD (the anxiety disorder): OCPD is EGO-SYNTONIC - the person thinks their perfectionism is GOOD and necessary. They say 'Everyone should be this organized.' OCD is EGO-DYSTONIC - the person recognizes their compulsions are excessive and WANTS them to stop. Also: OCD has specific intrusive thoughts and rituals; OCPD is a pervasive personality pattern.",
+          "celebrityExample": "Elon Musk"
+        }
+      ]
+    },
+    "criticalDistinctions": [
+      {
+        "comparison": "OCPD vs OCD",
+        "difference": "OCPD is a personality pattern where the person thinks their perfectionism is correct and necessary (ego-syntonic). OCD is an anxiety disorder where the person has unwanted intrusive thoughts and recognizes their compulsions are excessive (ego-dystonic). Someone with OCD wants to stop; someone with OCPD thinks everyone else should be more like them."
+      },
+      {
+        "comparison": "Avoidant vs Schizoid",
+        "difference": "Avoidant WANTS relationships but is paralyzed by fear of rejection. Schizoid has NO DESIRE for relationships and prefers solitude. Avoidant suffers from loneliness; Schizoid does not."
+      },
+      {
+        "comparison": "Borderline vs Histrionic",
+        "difference": "Borderline has DEEP, genuine emotional pain and fear of abandonment. Histrionic has SHALLOW, theatrical emotions and wants any attention. Borderline's mood swings come from interpersonal fear; Histrionic's dramatics are performances."
+      },
+      {
+        "comparison": "Paranoid vs Schizotypal",
+        "difference": "Paranoid is characterized by MISTRUST - believes others are plotting against them. Schizotypal has MAGICAL THINKING - believes they have special powers, that random events have personal meaning. Paranoid focuses on persecution; Schizotypal on weird beliefs."
+      },
+      {
+        "comparison": "Narcissistic vs Antisocial",
+        "difference": "Narcissist wants ADMIRATION and has fragile self-esteem beneath grandiosity. Antisocial has NO REMORSE and violates others' rights without caring what anyone thinks. Narcissist exploits to feel superior; Antisocial exploits because they don't care about others at all."
+      },
+      {
+        "comparison": "Borderline vs Bipolar Disorder",
+        "difference": "Borderline mood swings are REACTIVE to interpersonal events and last HOURS. Bipolar episodes are NOT situational and last WEEKS. A perceived rejection can trigger a Borderline mood swing within minutes; Bipolar episodes develop regardless of what's happening interpersonally."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "pd-001",
+      "question": "A 40-year-old man lives alone in an apartment, works as a night security guard (minimal coworker interaction), and spends all his free time playing single-player video games. He has no friends, has never dated, and when his family invites him to gatherings, he declines and doesn't feel bad about missing them. When asked if he's lonely, he genuinely says 'No, I prefer it this way.' Which personality disorder does this describe?",
+      "options": [
+        "Avoidant Personality Disorder",
+        "Schizoid Personality Disorder",
+        "Schizotypal Personality Disorder",
+        "Social Anxiety Disorder"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is Schizoid Personality Disorder. The key feature is NO DESIRE for relationships - he genuinely prefers solitude and doesn't feel lonely. He's not avoiding people out of fear (which would be Avoidant PD) or because of odd beliefs (Schizotypal). He simply doesn't want social connection. He chooses solitary work and hobbies, has no close friends or romantic interests, appears emotionally flat about missing family events, and reports preferring this lifestyle. The fact that he says 'I prefer it this way' without distress is the hallmark of Schizoid - it's not fear-based avoidance, it's genuine disinterest."
+    },
+    {
+      "id": "pd-002",
+      "question": "Which of the following correctly distinguishes Avoidant Personality Disorder from Schizoid Personality Disorder?",
+      "options": [
+        "Avoidant has odd beliefs while Schizoid has normal perception",
+        "Avoidant wants relationships but fears rejection; Schizoid has no desire for relationships",
+        "Avoidant shows flat affect while Schizoid shows emotional reactivity",
+        "Avoidant is ego-dystonic while Schizoid is ego-syntonic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The core distinction is about DESIRE for connection. Someone with Avoidant Personality Disorder WANTS relationships and connection - they suffer from loneliness and wish they could have close friends and romantic partners. However, they are PARALYZED by intense fear of rejection and criticism. They think 'I want friends but they'll reject me once they see how inadequate I am.' Someone with Schizoid Personality Disorder has NO DESIRE for relationships. They don't feel lonely in their solitude - they genuinely prefer it. When offered social opportunities, they decline not from fear but from disinterest. Michael Jackson (avoidant traits - wanted connection but withdrew) vs Bill Gates (schizoid traits - preferred solitary work)."
+    },
+    {
+      "id": "pd-003",
+      "question": "A 35-year-old employee persistently suspects his coworkers are plotting to get him fired, despite no evidence. When a colleague makes a joke, he interprets it as a veiled insult. He refuses to share any personal information at work because 'they'll use it against me.' He holds grudges about minor incidents from years ago. What disorder is being described?",
+      "options": [
+        "Paranoid Personality Disorder",
+        "Schizotypal Personality Disorder",
+        "Delusional Disorder, Persecutory Type",
+        "Antisocial Personality Disorder"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is Paranoid Personality Disorder. The key features are: (1) persistent suspicion that others are exploiting or deceiving him WITHOUT EVIDENCE, (2) interpreting neutral/benign comments as hostile, (3) reluctance to confide in others due to fear information will be used against them, (4) bearing long-standing grudges. Historical example: Joseph Stalin exhibited paranoid PD traits, executing loyal allies based on unfounded suspicions. This differs from Delusional Disorder because the suspicions are not fixed, specific delusions - they're a pervasive pattern of mistrust across ALL relationships. It differs from Schizotypal because there's no magical thinking or odd perceptual experiences."
+    },
+    {
+      "id": "pd-004",
+      "question": "A 25-year-old believes they can sense when something bad is about to happen to people they know. They interpret coincidences as meaningful signs - when they think of someone and then see that person's name on TV, they believe it was a message meant for them. They dress in unusual combinations of colors and patterns, and speak in vague, hard-to-follow tangents. Which disorder?",
+      "options": [
+        "Paranoid Personality Disorder",
+        "Schizoid Personality Disorder",
+        "Schizotypal Personality Disorder",
+        "Schizophrenia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is Schizotypal Personality Disorder. The hallmarks shown here are: (1) MAGICAL THINKING - believing they can sense future events, that coincidences have personal meaning meant specifically for them (ideas of reference), (2) ODD/ECCENTRIC appearance - unusual dress combinations, (3) VAGUE speech that's hard to follow. This is on the schizophrenia spectrum but is NOT schizophrenia because there are no full hallucinations or fixed delusions - just 'unusual' beliefs and perceptions. Van Gogh is cited as a historical example. The distinction from Paranoid PD is that Paranoid focuses on MISTRUST ('they're against me') while Schizotypal focuses on MAGICAL/ODD thinking ('I have special perceptions')."
+    },
+    {
+      "id": "pd-005",
+      "question": "What is the key feature that distinguishes Paranoid Personality Disorder from Schizotypal Personality Disorder?",
+      "options": [
+        "Paranoid has delusions while Schizotypal does not",
+        "Paranoid involves mistrust of others; Schizotypal involves magical thinking and odd beliefs",
+        "Paranoid is in Cluster B; Schizotypal is in Cluster A",
+        "Paranoid has flat affect; Schizotypal shows emotional reactivity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both are in Cluster A (Odd/Eccentric), but they have different core features. PARANOID centers on MISTRUST - the person believes others are exploiting, deceiving, or plotting against them. Everything is filtered through suspicion. SCHIZOTYPAL centers on MAGICAL THINKING and ODD BELIEFS - the person believes they have special powers (sensing others' thoughts, predicting events), that random things have personal meaning (ideas of reference), and they appear eccentric in dress and speech. Paranoid PD says 'They're out to get me.' Schizotypal PD says 'I can sense things others can't and the universe sends me signs.' Both struggle socially, but for different reasons."
+    },
+    {
+      "id": "pd-006",
+      "question": "A patient in Cluster A shows social isolation but for which of these reasons would they be classified as Schizoid rather than Avoidant?",
+      "options": [
+        "They experience intense anxiety in social situations",
+        "They have magical beliefs about their relationships",
+        "They genuinely have no desire or interest in forming relationships",
+        "They fear being criticized or rejected by others"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The ONLY answer that describes Schizoid is having NO DESIRE for relationships. Schizoid Personality Disorder is characterized by genuine disinterest in social connection - not fear, not anxiety, just lack of interest. They don't feel lonely because they don't want company. Options A and D describe Avoidant PD - where the person WANTS connection but is too afraid of rejection. Option B describes Schizotypal - magical thinking. Schizoid is the 'loner who prefers it that way' - they choose solitary activities, show flat affect, and are genuinely indifferent to what others think of them. Bill Gates is cited as having schizoid traits."
+    },
+    {
+      "id": "pd-007",
+      "question": "Ted Bundy is cited as an example of which personality disorder due to his repeated criminal behavior, manipulation of victims, and complete lack of remorse for his murders?",
+      "options": [
+        "Narcissistic Personality Disorder",
+        "Antisocial Personality Disorder",
+        "Borderline Personality Disorder",
+        "Paranoid Personality Disorder"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ted Bundy exemplifies Antisocial Personality Disorder. The defining features are: (1) PERVASIVE DISREGARD for others' rights - he violated the most fundamental right (life) repeatedly, (2) DECEITFULNESS - he manipulated victims by appearing charming and trustworthy, (3) LACK OF REMORSE - he showed no guilt for his murders and even seemed to enjoy discussing them. Antisocial PD requires evidence of conduct disorder before age 15 and involves repeated violation of laws, lying, impulsivity, aggression, and failure to maintain jobs/relationships. The key distinguishing feature from Narcissistic PD is that Antisocial doesn't care about admiration - they simply violate others' rights because they don't experience empathy or guilt."
+    },
+    {
+      "id": "pd-008",
+      "question": "A 26-year-old woman has intense, unstable relationships where she idealizes new partners as 'perfect' then suddenly devalues them as 'horrible' when she perceives any slight. She has chronic feelings of emptiness, engages in cutting during arguments with her boyfriend, and makes frantic phone calls at 3am if he doesn't respond to texts, convinced he's leaving her. Which disorder?",
+      "options": [
+        "Histrionic Personality Disorder",
+        "Borderline Personality Disorder",
+        "Dependent Personality Disorder",
+        "Bipolar Disorder"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is Borderline Personality Disorder (BPD). Key features shown: (1) UNSTABLE RELATIONSHIPS with idealization/devaluation ('splitting' - seeing people as all-good or all-bad), (2) FEAR OF ABANDONMENT driving frantic behaviors (3am phone calls), (3) SELF-HARM during interpersonal stress (cutting during arguments), (4) CHRONIC EMPTINESS, (5) MOOD REACTIVITY - emotions triggered by interpersonal events. This differs from Histrionic (shallow emotions, attention-seeking) because the emotional pain is GENUINE and DEEP. It differs from Bipolar because the mood swings are REACTIVE to relationship events and last HOURS, not weeks. Amy Winehouse and Marilyn Monroe are cited as examples."
+    },
+    {
+      "id": "pd-009",
+      "question": "What is the key difference between Borderline Personality Disorder and Histrionic Personality Disorder?",
+      "options": [
+        "Borderline is in Cluster C while Histrionic is in Cluster B",
+        "Borderline involves deep, genuine emotional pain; Histrionic involves shallow, theatrical emotions",
+        "Borderline seeks attention; Histrionic fears abandonment",
+        "Borderline shows stable relationships; Histrionic shows unstable relationships"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both are Cluster B (Dramatic/Emotional), but the DEPTH of emotion is different. BORDERLINE involves GENUINE, DEEP emotional pain. These individuals are described as 'emotional burn victims' - everything feels life-or-death. Their fear of abandonment causes real suffering, and their mood swings reflect actual internal turmoil. HISTRIONIC involves SHALLOW, THEATRICAL emotions. The person puts on a dramatic performance but the emotions lack genuine depth. They can turn on tears or anger as needed for effect. Borderline self-harms from overwhelming pain; Histrionic dramatizes for attention. Borderline relationships are intense because of deep fear; Histrionic perceives relationships as more intimate than they are."
+    },
+    {
+      "id": "pd-010",
+      "question": "A 32-year-old becomes visibly distressed and uncomfortable at parties if she's not the center of attention. She dresses provocatively and flirts with multiple men at the same event. She describes people she met once as 'my best friend.' Her speech is impressionistic - she says things like 'it was just amazing, you know, so incredible' without specifics. Which disorder?",
+      "options": [
+        "Borderline Personality Disorder",
+        "Narcissistic Personality Disorder",
+        "Histrionic Personality Disorder",
+        "Dependent Personality Disorder"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is Histrionic Personality Disorder. The key features shown are: (1) DISCOMFORT when not the center of attention, (2) SEXUALLY PROVOCATIVE behavior to draw attention, (3) Perceiving relationships as MORE INTIMATE than they are (calling acquaintances 'best friends'), (4) IMPRESSIONISTIC SPEECH lacking detail (vague descriptors like 'amazing, incredible' without specifics). The emotions are THEATRICAL and the goal is ANY attention (not specifically admiration like Narcissistic PD). Madonna and Johnny Depp are cited as examples. This differs from Borderline because the emotional display is shallow performance, not genuine deep pain - she's not afraid of abandonment, she just wants to be noticed."
+    },
+    {
+      "id": "pd-011",
+      "question": "What distinguishes Narcissistic Personality Disorder from Histrionic Personality Disorder?",
+      "options": [
+        "Narcissistic is in Cluster A; Histrionic is in Cluster B",
+        "Narcissistic wants admiration specifically; Histrionic wants any attention",
+        "Narcissistic has unstable relationships; Histrionic has stable relationships",
+        "Narcissistic has deep emotions; Histrionic has shallow emotions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both want to be the focus of others, but the TYPE of attention differs. NARCISSISTIC specifically wants ADMIRATION - to be seen as superior, special, exceptional. They need people to recognize their greatness. HISTRIONIC wants ANY attention - positive, negative, sexual, dramatic - as long as they're the center of attention. A narcissist would be insulted by pity or being seen as 'entertaining'; a histrionic would accept any attention that keeps focus on them. Narcissist: 'You should admire my achievements.' Histrionic: 'Look at me!' Both are Cluster B, but narcissism is about superiority while histrionic is about visibility."
+    },
+    {
+      "id": "pd-012",
+      "question": "Kanye West, Donald Trump, and Steve Jobs are all cited as examples of which personality disorder characterized by grandiosity, need for admiration, and fragile self-esteem masked by arrogance?",
+      "options": [
+        "Antisocial Personality Disorder",
+        "Histrionic Personality Disorder",
+        "Narcissistic Personality Disorder",
+        "Paranoid Personality Disorder"
+      ],
+      "correctAnswer": 2,
+      "explanation": "These are all cited as examples of Narcissistic Personality Disorder. The key features are: (1) GRANDIOSITY - exaggerating achievements, believing they are special, (2) NEED FOR EXCESSIVE ADMIRATION - requiring constant validation of their superiority, (3) LACK OF EMPATHY - not recognizing others' feelings or needs, (4) ENTITLEMENT - expecting special treatment, (5) FRAGILE SELF-ESTEEM HIDDEN BEHIND ARROGANCE - criticism triggers 'narcissistic rage' because it threatens the inflated self-image. The grandiosity is a MASK for underlying insecurity. They exploit relationships to maintain their sense of superiority. Unlike Antisocial (no remorse, violates rights), narcissists specifically need to be seen as SUPERIOR."
+    },
+    {
+      "id": "pd-013",
+      "question": "What is the key difference between Narcissistic Personality Disorder and Antisocial Personality Disorder?",
+      "options": [
+        "Narcissistic lacks empathy; Antisocial has normal empathy",
+        "Narcissistic wants admiration and has fragile ego; Antisocial violates rights without caring what others think",
+        "Narcissistic is impulsive; Antisocial is calculating",
+        "Narcissistic shows remorse; Antisocial does not"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both can exploit others, but their MOTIVATIONS differ. NARCISSISTIC exploits others to maintain their sense of SUPERIORITY - they need admiration, and beneath the grandiosity is fragile self-esteem. They CARE what others think (specifically, they need others to think they're great). ANTISOCIAL exploits others because they DON'T CARE about others at all - they have no empathy, no remorse, and no need for anyone's approval. A narcissist manipulates to be admired; an antisocial manipulates because others are just tools to be used. Ted Bundy (antisocial) didn't care about admiration - he used charm as a hunting technique. Kanye West (narcissistic) needs constant validation."
+    },
+    {
+      "id": "pd-014",
+      "question": "A 30-year-old woman has a pattern of staying in abusive relationships because 'at least I'm not alone.' She cannot make simple decisions like what to eat for dinner without asking her partner. When her last relationship ended, she immediately sought a new partner within days. She agrees with everything her partner says, even when she privately disagrees. Which disorder?",
+      "options": [
+        "Borderline Personality Disorder",
+        "Avoidant Personality Disorder",
+        "Dependent Personality Disorder",
+        "Histrionic Personality Disorder"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is Dependent Personality Disorder. Key features shown: (1) STAYING IN UNHEALTHY RELATIONSHIPS to avoid being alone, (2) DIFFICULTY MAKING DECISIONS without excessive reassurance - even simple daily decisions, (3) URGENTLY SEEKING NEW RELATIONSHIP when one ends, (4) DIFFICULTY EXPRESSING DISAGREEMENT for fear of losing support. The core fear is being ALONE and having to function independently. Unlike Borderline (which alternates between clinging and pushing away), Dependent is consistently submissive. Unlike Avoidant (which avoids relationships from fear of rejection), Dependent actively seeks relationships - just in a submissive, clinging way. Scott Disick is cited as an example."
+    },
+    {
+      "id": "pd-015",
+      "question": "What distinguishes Dependent Personality Disorder from Borderline Personality Disorder?",
+      "options": [
+        "Dependent has stable relationships; Borderline has unstable relationships",
+        "Dependent is consistently submissive and clinging; Borderline alternates between clinging and pushing away",
+        "Dependent fears abandonment; Borderline does not",
+        "Dependent has shallow emotions; Borderline has deep emotions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both fear being alone, but their PATTERNS differ. DEPENDENT is CONSISTENTLY submissive - they cling, agree with everything their partner says, cannot make decisions alone, and remain passive in relationships. They don't push people away. BORDERLINE ALTERNATES between intense clinging (idealization - 'you're perfect, don't leave me') and pushing away (devaluation - 'I hate you, you're terrible'). This 'splitting' creates unstable relationships. Dependent relationships may be unhealthy (one-sided, enabling abuse), but they're STABLE in their pattern of submission. Borderline relationships are CHAOTIC with dramatic ups and downs."
+    },
+    {
+      "id": "pd-016",
+      "question": "A 29-year-old desperately wants a romantic relationship and feels painfully lonely. However, she avoids dating apps, turns down invitations to social events, and quit her job because it required too much interaction with customers. When asked why, she says 'They'll see how awkward and boring I am and reject me.' Which disorder?",
+      "options": [
+        "Schizoid Personality Disorder",
+        "Avoidant Personality Disorder",
+        "Social Anxiety Disorder",
+        "Dependent Personality Disorder"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is Avoidant Personality Disorder. The KEY features are: (1) WANTS relationships but is paralyzed by fear - she feels painfully lonely and wants a romantic partner, (2) HYPERSENSITIVE to rejection and criticism - expects to be seen as 'awkward and boring,' (3) AVOIDS social and occupational situations involving contact, (4) VIEWS SELF AS INADEQUATE - 'they'll see how boring I am.' This differs from Schizoid (which has NO DESIRE for connection - no loneliness). It's more pervasive than Social Anxiety Disorder, affecting self-identity and all areas of life, not just performance situations. Michael Jackson is cited as an example - famous but reclusive because of this pattern."
+    },
+    {
+      "id": "pd-017",
+      "question": "A 42-year-old manager spends so much time perfecting his project plans that he frequently misses deadlines. He refuses to delegate tasks to his team because 'they won't do it right.' He works 70+ hours per week, has no hobbies, and his marriage is failing because he prioritizes work over time with his wife. He saves money excessively and refuses to throw away old items 'just in case.' When confronted, he says everyone should be this dedicated. Which disorder?",
+      "options": [
+        "Obsessive-Compulsive Disorder (OCD)",
+        "Narcissistic Personality Disorder",
+        "Obsessive-Compulsive Personality Disorder (OCPD)",
+        "Antisocial Personality Disorder"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is Obsessive-Compulsive Personality Disorder (OCPD). Key features shown: (1) PERFECTIONISM INTERFERING with completion - misses deadlines because of over-perfecting, (2) INABILITY TO DELEGATE unless done exactly his way, (3) EXCESSIVE DEVOTION TO WORK at expense of relationships, (4) MISERLY spending behavior, (5) HOARDING ('just in case'), (6) EGO-SYNTONIC - 'everyone should be this dedicated' shows he thinks his pattern is CORRECT. This differs from OCD because there are no intrusive unwanted thoughts or ritualistic compulsions - this is a personality PATTERN. He doesn't WANT to stop; he thinks he's RIGHT. Elon Musk is cited as an example."
+    },
+    {
+      "id": "pd-018",
+      "question": "What is the CRITICAL distinction between Obsessive-Compulsive Personality Disorder (OCPD) and Obsessive-Compulsive Disorder (OCD)?",
+      "options": [
+        "OCPD involves intrusive thoughts; OCD involves perfectionism",
+        "OCPD is ego-syntonic (person thinks perfectionism is good); OCD is ego-dystonic (person recognizes compulsions are excessive)",
+        "OCPD is an anxiety disorder; OCD is a personality disorder",
+        "OCPD responds to medication; OCD does not"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The CRITICAL distinction is ego-syntonic vs ego-dystonic. OCPD is EGO-SYNTONIC: the person thinks their perfectionism, rigidity, and need for control are CORRECT and NECESSARY. They say 'I'm just thorough' or 'Everyone should be this organized.' They DON'T WANT to change. OCD is EGO-DYSTONIC: the person has UNWANTED intrusive thoughts that cause distress and recognizes their compulsions are EXCESSIVE. They WANT the thoughts and rituals to STOP. Someone with OCD says 'I know washing my hands 50 times is irrational but I can't stop.' Someone with OCPD says 'My way is the right way, why can't others see that?' OCPD is a personality pattern; OCD is an anxiety disorder."
+    },
+    {
+      "id": "pd-019",
+      "question": "Which cluster of personality disorders is characterized by anxiety and fear as the primary drivers of behavior?",
+      "options": [
+        "Cluster A - Odd/Eccentric",
+        "Cluster B - Dramatic/Emotional",
+        "Cluster C - Anxious/Fearful",
+        "Cluster D - Impulsive/Aggressive"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cluster C is the Anxious/Fearful cluster, containing Avoidant, Dependent, and OCPD. The common thread is that ANXIETY and FEAR drive the behaviors: Avoidant fears REJECTION so intensely they avoid relationships despite wanting them. Dependent fears being ALONE so desperately they remain submissive in unhealthy relationships. OCPD fears loss of CONTROL so much they become rigid and perfectionist. In contrast, Cluster A (Paranoid, Schizoid, Schizotypal) is characterized by odd thinking and social isolation. Cluster B (Antisocial, Borderline, Histrionic, Narcissistic) is characterized by emotional dysregulation and impulsivity. There is no Cluster D."
+    },
+    {
+      "id": "pd-020",
+      "question": "A person with Borderline Personality Disorder experiences rapid mood swings that last hours. How does this differ from Bipolar Disorder?",
+      "options": [
+        "Borderline mood swings are more severe; Bipolar mood swings are milder",
+        "Borderline mood swings are reactive to interpersonal events and last hours; Bipolar episodes are not situational and last weeks",
+        "Borderline involves mania; Bipolar involves depression only",
+        "Borderline is treated with mood stabilizers; Bipolar is treated with therapy only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The distinctions are REACTIVITY and DURATION. BORDERLINE mood swings are: (1) REACTIVE to interpersonal events - a perceived rejection, a fight with a partner, feeling abandoned can trigger an immediate mood shift, (2) LAST HOURS - the intense emotion may shift multiple times in one day. BIPOLAR episodes are: (1) NOT SITUATIONAL - manic or depressive episodes develop regardless of what's happening in relationships, (2) LAST WEEKS - a true manic or depressive episode continues for at least a week (mania) or two weeks (depression). If someone's mood crashes within minutes of a fight and recovers by the next morning, that's Borderline reactivity, not Bipolar cycling."
+    },
+    {
+      "id": "pd-021",
+      "question": "A patient presents with social isolation and lack of close relationships. Which TWO questions would help distinguish between the three Cluster A disorders?",
+      "options": [
+        "Do you feel lonely? Do you have unusual beliefs or perceptual experiences?",
+        "Do you fear being abandoned? Do you have trouble controlling your anger?",
+        "Do you feel superior to others? Do you lack empathy?",
+        "Do you have trouble making decisions? Do you need others to take care of you?"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The two questions that distinguish Cluster A disorders are: (1) 'Do you feel lonely?' - This separates SCHIZOID (no, prefers solitude) from AVOIDANT (yes, painfully lonely but afraid). Paranoid and Schizotypal may have some desire for connection but have different reasons for isolation. (2) 'Do you have unusual beliefs or perceptual experiences?' - This identifies SCHIZOTYPAL (yes - magical thinking, ideas of reference, sensing presences) vs PARANOID (no unusual beliefs, just MISTRUST) vs SCHIZOID (no unusual beliefs, just DISINTEREST). The other options describe Cluster B (fear of abandonment, anger, superiority, lack of empathy) or Cluster C (decision trouble, need for care)."
+    },
+    {
+      "id": "pd-022",
+      "question": "Which of the following is TRUE about personality disorders as a category?",
+      "options": [
+        "They typically begin suddenly in middle age",
+        "They are usually ego-dystonic, meaning the person wants to change",
+        "They are pervasive patterns affecting multiple areas of life, usually beginning in adolescence/early adulthood",
+        "They are easily treated with a short course of medication"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Personality disorders are PERVASIVE, INFLEXIBLE patterns of thinking, feeling, and behaving that: (1) Affect MULTIPLE AREAS of life - relationships, work, self-perception, (2) Usually become evident by ADOLESCENCE or EARLY ADULTHOOD, (3) PERSIST throughout life, (4) Are mostly EGO-SYNTONIC - the person doesn't see their pattern as problematic (making treatment challenging), (5) Must cause significant distress or impairment. They're not sudden-onset conditions, not usually ego-dystonic (that's why they're hard to treat), and not easily fixed with short medication courses. The patterns are deeply ingrained and long-standing."
+    },
+    {
+      "id": "pd-023",
+      "question": "A 38-year-old CEO exaggerates his company's success in meetings, becomes enraged when board members question his decisions, surrounds himself with 'yes-men' who praise him, and dismisses employees who offer constructive criticism. Privately, he obsesses over negative reviews and fears being exposed as a fraud. This pattern illustrates which key feature of Narcissistic Personality Disorder?",
+      "options": [
+        "Lack of empathy",
+        "Fragile self-esteem hidden behind grandiosity",
+        "Pervasive mistrust of others",
+        "Magical thinking and ideas of reference"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This illustrates the core mechanism of Narcissistic PD: FRAGILE SELF-ESTEEM HIDDEN BEHIND GRANDIOSITY. The behaviors show: (1) GRANDIOSITY - exaggerating success, (2) RAGE when questioned (narcissistic injury), (3) Need for excessive ADMIRATION (surrounding self with yes-men), (4) Cannot tolerate criticism (dismisses critics), (5) PRIVATE INSECURITY - obsessing over negative reviews, fear of being 'exposed.' The grandiose presentation is a MASK for underlying fragility. Criticism threatens the inflated self-image, triggering rage. The 'fraud' fear reveals the fragile ego beneath. This mechanism - grandiosity as defense against fragility - is key to understanding narcissistic behavior."
+    },
+    {
+      "id": "pd-024",
+      "question": "A person is described as 'ego-syntonic' regarding their perfectionism. This means:",
+      "options": [
+        "They recognize their perfectionism is excessive and want help to reduce it",
+        "They experience distress about their perfectionism but cannot stop",
+        "They believe their perfectionism is correct and necessary, not problematic",
+        "Their perfectionism only appears during manic episodes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "EGO-SYNTONIC means the trait is consistent with the person's self-image and values - they see it as part of who they are and don't perceive it as problematic. Someone ego-syntonic about perfectionism thinks 'Being thorough is a virtue. Everyone should have my standards. I'm not being excessive - everyone else is too sloppy.' They DON'T WANT to change. This is typical of OCPD. EGO-DYSTONIC is the opposite - the person recognizes the trait is excessive and WANTS it to stop, but feels unable to control it. This is typical of OCD, where intrusive thoughts are experienced as unwanted and distressing. This distinction is CRITICAL for differentiating OCPD from OCD."
+    }
+  ]
+}

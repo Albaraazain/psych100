@@ -1,0 +1,382 @@
+[
+  {
+    "question": "Sarah fails her PSYC100 exam. According to Kelley's Covariation Theory, which combination of information would lead you to make an internal (dispositional) attribution about Sarah?",
+    "difficulty": "application",
+    "options": [
+      "High consensus (many students failed), high distinctiveness (Sarah only failed this exam), high consistency (Sarah often fails exams)",
+      "Low consensus (few students failed), low distinctiveness (Sarah failed other exams too), high consistency (Sarah often fails exams)",
+      "High consensus (many students failed), low distinctiveness (Sarah failed other exams too), low consistency (Sarah rarely fails exams)",
+      "Low consensus (few students failed), high distinctiveness (Sarah only failed this exam), low consistency (Sarah rarely fails exams)"
+    ],
+    "answer": "Low consensus (few students failed), low distinctiveness (Sarah failed other exams too), high consistency (Sarah often fails exams)",
+    "explanation": {
+      "correct": "This combination points to internal attribution. Low consensus suggests Sarah's behavior is unusual compared to others. Low distinctiveness indicates the behavior generalizes across situations (she fails multiple exams, not just this one). High consistency shows the pattern repeats over time. Together, these suggest the cause is something about Sarah herself (e.g., study habits, ability) rather than external factors.",
+      "incorrect": {
+        "High consensus (many students failed), high distinctiveness (Sarah only failed this exam), high consistency (Sarah often fails exams)": "High consensus and high distinctiveness would lead to external attribution (blaming the exam itself), not internal attribution about Sarah.",
+        "High consensus (many students failed), low distinctiveness (Sarah failed other exams too), low consistency (Sarah rarely fails exams)": "High consensus suggests an external cause (the exam was difficult for everyone), which contradicts internal attribution.",
+        "Low consensus (few students failed), high distinctiveness (Sarah only failed this exam), low consistency (Sarah rarely fails exams)": "High distinctiveness and low consistency would lead to external attribution (something unique about this particular exam situation), not internal."
+      }
+    }
+  },
+  {
+    "question": "In Ross et al.'s (1977) Quiz Game Study, contestants and observers rated questioners as significantly more knowledgeable than contestants, even though questioners had the unfair advantage of creating their own questions. This demonstrates which attribution error?",
+    "difficulty": "learning",
+    "options": [
+      "False Consensus Effect",
+      "Self-Serving Bias",
+      "Fundamental Attribution Error",
+      "Actor-Observer Effect"
+    ],
+    "answer": "Fundamental Attribution Error",
+    "explanation": {
+      "correct": "This is the Fundamental Attribution Error - the tendency to overemphasize dispositional (personality-based) explanations while underestimating situational influences. Participants attributed the questioner's advantage to superior general knowledge (dispositional) rather than to their role advantage of creating questions (situational).",
+      "incorrect": {
+        "False Consensus Effect": "False Consensus Effect involves overestimating how many others share your views/behaviors, not about attribution of others' abilities.",
+        "Self-Serving Bias": "Self-Serving Bias is about how we explain our own successes (internal) vs failures (external), not about judging others.",
+        "Actor-Observer Effect": "Actor-Observer Effect involves differences in how we explain our own behavior (situational) vs others' behavior (dispositional), but this study specifically demonstrates the general tendency to ignore situational factors when judging others."
+      }
+    }
+  },
+  {
+    "question": "According to Jones & Davis's Correspondence Inference Theory, when are we MOST likely to make a dispositional attribution about someone's personality?",
+    "difficulty": "learning",
+    "options": [
+      "When their behavior appears unintentional and is socially desirable",
+      "When their behavior appears intentional and is socially desirable",
+      "When their behavior appears unintentional and is socially undesirable",
+      "When their behavior appears intentional and is socially undesirable"
+    ],
+    "answer": "When their behavior appears intentional and is socially undesirable",
+    "explanation": {
+      "correct": "We make the strongest correspondent inference (dispositional attribution) when behavior appears intentional AND socially undesirable. If someone is very rude intentionally, we conclude they are an unpleasant person because there's no social pressure to behave that way - it must reflect their true disposition.",
+      "incorrect": {
+        "When their behavior appears unintentional and is socially desirable": "Unintentional behavior doesn't reveal personality. Socially desirable behavior could be due to social pressure, not true disposition.",
+        "When their behavior appears intentional and is socially desirable": "Socially desirable behavior might just reflect social pressure/norms rather than true personality, making it weak evidence for dispositional attribution.",
+        "When their behavior appears unintentional and is socially undesirable": "Unintentional behavior doesn't tell us much about personality since the person didn't choose to act that way."
+      }
+    }
+  },
+  {
+    "question": "In the Jones & Harris (1967) Castro Study, participants were told that speech makers were assigned their pro-Castro or anti-Castro position by a coin flip. Despite knowing this, participants still rated pro-Castro speakers as having more positive attitudes toward Castro. This demonstrates:",
+    "difficulty": "application",
+    "options": [
+      "Self-Serving Bias - participants were protecting their own political views",
+      "Fundamental Attribution Error - participants ignored the situational constraint of the coin flip",
+      "False Consensus Effect - participants assumed others shared their views about Castro",
+      "Actor-Observer Effect - participants viewed themselves differently than the speakers"
+    ],
+    "answer": "Fundamental Attribution Error - participants ignored the situational constraint of the coin flip",
+    "explanation": {
+      "correct": "This is a classic demonstration of the Fundamental Attribution Error. Even when explicitly told that the speech position was determined by a coin flip (a clear situational factor), participants still made dispositional attributions about the speakers' actual attitudes toward Castro. They underestimated the situational constraint and overemphasized dispositional factors.",
+      "incorrect": {
+        "Self-Serving Bias - participants were protecting their own political views": "Self-Serving Bias is about explaining one's own successes/failures, not about judging others' attitudes.",
+        "False Consensus Effect - participants assumed others shared their views about Castro": "False Consensus Effect is about overestimating agreement with your own views, not about attributing attitudes based on assigned speeches.",
+        "Actor-Observer Effect - participants viewed themselves differently than the speakers": "Actor-Observer Effect is about explaining your own behavior (situational) vs others' (dispositional), but this study focuses on the general tendency to ignore situational constraints."
+      }
+    }
+  },
+  {
+    "question": "A student says 'I got 90 for my essay!' but later says 'The lecturer gave me 40!' This exemplifies which attribution bias?",
+    "difficulty": "learning",
+    "options": [
+      "Fundamental Attribution Error",
+      "False Consensus Effect",
+      "Self-Serving Bias",
+      "Actor-Observer Effect"
+    ],
+    "answer": "Self-Serving Bias",
+    "explanation": {
+      "correct": "This is Self-Serving Bias - taking credit for success (internal attribution: 'I got 90') while denying responsibility for failure (external attribution: 'The lecturer gave me 40'). We do this to protect and enhance self-esteem.",
+      "incorrect": {
+        "Fundamental Attribution Error": "FAE is about judging others' behavior (overemphasizing dispositional factors), not about explaining our own outcomes.",
+        "False Consensus Effect": "False Consensus Effect involves overestimating how many others share your views/behaviors, not about explaining successes and failures.",
+        "Actor-Observer Effect": "While related, Actor-Observer Effect is specifically about the difference between explaining your own actions (situational) vs others' actions (dispositional), not specifically about success/failure attributions."
+      }
+    }
+  },
+  {
+    "question": "In Ross et al.'s (1977) False Consensus Effect study, participants were asked if they would wear a sign around campus. What did researchers find?",
+    "difficulty": "learning",
+    "options": [
+      "Participants who agreed to wear the sign estimated 23% of others would, while those who refused estimated 77% would refuse",
+      "Participants who agreed to wear the sign estimated 63% of others would, while those who refused estimated 77% would refuse",
+      "All participants accurately estimated that 50% would agree and 50% would refuse",
+      "Participants who refused to wear the sign were more accurate in their estimates than those who agreed"
+    ],
+    "answer": "Participants who agreed to wear the sign estimated 63% of others would, while those who refused estimated 77% would refuse",
+    "explanation": {
+      "correct": "This demonstrates the False Consensus Effect - participants overestimated how many others would behave as they did. Those who said 'yes' thought 63% would agree (actual was 50%), and those who said 'no' thought 77% would refuse (actual was 50%). Each group saw their own choice as more typical than it actually was.",
+      "incorrect": {
+        "Participants who agreed to wear the sign estimated 23% of others would, while those who refused estimated 77% would refuse": "These percentages are reversed. The 23% estimate came from the refuse group estimating how many would agree.",
+        "All participants accurately estimated that 50% would agree and 50% would refuse": "This contradicts the False Consensus Effect - participants were not accurate, they overestimated consensus with their own choice.",
+        "Participants who refused to wear the sign were more accurate in their estimates than those who agreed": "Both groups showed the bias equally - both overestimated consensus with their own position."
+      }
+    }
+  },
+  {
+    "question": "According to the Actor-Observer Effect described by Jones & Nisbett (1972), how would you likely explain why YOU gave a bad presentation versus why YOUR CLASSMATE gave a bad presentation?",
+    "difficulty": "application",
+    "options": [
+      "Your presentation: lack of preparation (internal); Classmate's presentation: too many competing deadlines (external)",
+      "Your presentation: too many competing deadlines (external); Classmate's presentation: poor public speaking skills (internal)",
+      "Both: dispositional factors like intelligence and preparation",
+      "Both: situational factors like time pressure and technical difficulties"
+    ],
+    "answer": "Your presentation: too many competing deadlines (external); Classmate's presentation: poor public speaking skills (internal)",
+    "explanation": {
+      "correct": "This demonstrates the Actor-Observer Effect. As the actor, you attribute your own bad presentation to situational factors (external): 'I had three other projects due, my computer crashed.' As an observer, you attribute your classmate's bad presentation to dispositional factors (internal): 'they don't know the subject well, lack intelligence, or are terrible at public speaking.'",
+      "incorrect": {
+        "Your presentation: lack of preparation (internal); Classmate's presentation: too many competing deadlines (external)": "This is the opposite of the Actor-Observer Effect. We tend to be more lenient with ourselves (situational) and harsher on others (dispositional).",
+        "Both: dispositional factors like intelligence and preparation": "This ignores the actor-observer distinction - we don't typically attribute our own failures to dispositional factors.",
+        "Both: situational factors like time pressure and technical difficulties": "While we might use situational explanations for our own behavior, we typically don't extend the same consideration to others' behavior."
+      }
+    }
+  },
+  {
+    "question": "Sherif's (1935) Autokinetic Effect study and Asch's (1950s) Line study both demonstrate conformity, but through different mechanisms. What is the key difference?",
+    "difficulty": "tricky",
+    "options": [
+      "Sherif's study shows normative influence leading to compliance; Asch's shows informational influence leading to internalization",
+      "Sherif's study shows informational influence leading to internalization; Asch's shows normative influence leading to compliance",
+      "Both studies demonstrate normative influence, but Sherif's task was harder",
+      "Both studies demonstrate informational influence, but Asch's involved more peer pressure"
+    ],
+    "answer": "Sherif's study shows informational influence leading to internalization; Asch's shows normative influence leading to compliance",
+    "explanation": {
+      "correct": "Sherif used an ambiguous task (autokinetic effect - light appears to move in darkness). Participants relied on others for information about the 'correct' answer (informational influence) and genuinely changed their beliefs (internalization). Asch used an unambiguous task (clearly different line lengths). Participants knew the correct answer but conformed due to fear of social disapproval (normative influence) without truly believing the wrong answer (compliance).",
+      "incorrect": {
+        "Sherif's study shows normative influence leading to compliance; Asch's shows informational influence leading to internalization": "This is backwards. The ambiguous task (Sherif) produces informational influence, while the clear task with social pressure (Asch) produces normative influence.",
+        "Both studies demonstrate normative influence, but Sherif's task was harder": "Sherif's study demonstrates informational influence (not normative) because the task was ambiguous and participants genuinely didn't know the answer.",
+        "Both studies demonstrate informational influence, but Asch's involved more peer pressure": "Asch's study demonstrates normative influence (social pressure), not informational influence, because the task was unambiguous - participants knew the right answer."
+      }
+    }
+  },
+  {
+    "question": "In Milgram's (1974) obedience experiment, what percentage of participants administered the maximum 450-volt shock, and what percentage stopped before the 300-volt level?",
+    "difficulty": "learning",
+    "options": [
+      "45% went to 450V; 15% stopped before 300V",
+      "65% went to 450V; 0% stopped before 300V",
+      "25% went to 450V; 30% stopped before 300V",
+      "85% went to 450V; 5% stopped before 300V"
+    ],
+    "answer": "65% went to 450V; 0% stopped before 300V",
+    "explanation": {
+      "correct": "Milgram's shocking finding was that 65% (26 out of 40) of participants administered the full 450-volt shock, and NO participant stopped before the 300-volt level (though many were uncomfortable). This was far higher than the predictions from psychologists, who thought only sadists would go to maximum voltage. The average was 360 volts.",
+      "incorrect": {
+        "45% went to 450V; 15% stopped before 300V": "These percentages are too low. Milgram found much higher obedience rates than anyone expected.",
+        "25% went to 450V; 30% stopped before 300V": "These percentages dramatically underestimate the obedience found. The actual results were much more disturbing.",
+        "85% went to 450V; 5% stopped before 300V": "While obedience was high, 65% (not 85%) went to maximum, and absolutely no one stopped before 300V (not 5%)."
+      }
+    }
+  },
+  {
+    "question": "Heider & Simmel (1944) showed college students abstract geometric figures moving in and out of a rectangle. Participants systematically interpreted the shapes as having personalities and intentions (e.g., aggression, escape). This supports which aspect of attribution theory?",
+    "difficulty": "application",
+    "options": [
+      "People only make attributions about human behavior, not inanimate objects",
+      "People give causal attributions even to inanimate objects and perceive behavior as being caused",
+      "External attributions are more common than internal attributions",
+      "People use the covariation principle to analyze geometric shapes"
+    ],
+    "answer": "People give causal attributions even to inanimate objects and perceive behavior as being caused",
+    "explanation": {
+      "correct": "This study demonstrated Heider's idea that people are 'naive scientists' who perceive behavior as being caused and make causal attributions even to inanimate objects. Participants attributed personalities, intentions, and dispositions to simple geometric shapes, showing our fundamental tendency to seek causal explanations for all observed movement/behavior.",
+      "incorrect": {
+        "People only make attributions about human behavior, not inanimate objects": "This directly contradicts the study's findings - participants readily attributed intentions to geometric shapes.",
+        "External attributions are more common than internal attributions": "The study wasn't about the relative frequency of internal vs external attributions, but about our tendency to attribute causality at all, even to non-humans.",
+        "People use the covariation principle to analyze geometric shapes": "The study demonstrates basic causal attribution tendencies (Heider's theory), not Kelley's specific covariation model which involves consensus, distinctiveness, and consistency."
+      }
+    }
+  },
+  {
+    "question": "What is the primary distinction between internalization and compliance in conformity?",
+    "difficulty": "learning",
+    "options": [
+      "Internalization occurs in ambiguous situations; compliance occurs in clear situations",
+      "Internalization involves public agreement but private disagreement; compliance involves both public and private acceptance",
+      "Internalization involves changing real thoughts and feelings; compliance involves public agreement without internal acceptance",
+      "Internalization results from authority pressure; compliance results from peer pressure"
+    ],
+    "answer": "Internalization involves changing real thoughts and feelings; compliance involves both public and private acceptance",
+    "explanation": {
+      "correct": "Internalization means you actually change your real beliefs and feelings (public response = private acceptance), often due to informational influence. Compliance means you publicly agree but privately maintain your original beliefs (public response ≠ private acceptance), often due to normative influence and desire for social approval.",
+      "incorrect": {
+        "Internalization occurs in ambiguous situations; compliance occurs in clear situations": "While this describes typical contexts (Sherif vs Asch), it's not the defining distinction. The key difference is whether private beliefs change.",
+        "Internalization involves public agreement but private disagreement; compliance involves both public and private acceptance": "This is backwards. Internalization means private acceptance (you really believe it), while compliance means public agreement without private acceptance.",
+        "Internalization results from authority pressure; compliance results from peer pressure": "Both can result from peer pressure. The distinction is about whether internal beliefs change, not the source of pressure."
+      }
+    }
+  },
+  {
+    "question": "In Asch's line study, 37% of participants gave incorrect responses when confederates unanimously gave wrong answers. Participants showed extreme discomfort. What does this demonstrate?",
+    "difficulty": "application",
+    "options": [
+      "Informational influence in an ambiguous task",
+      "Normative influence and fear of social disapproval in an unambiguous task",
+      "The Actor-Observer Effect in group settings",
+      "False Consensus Effect when making perceptual judgments"
+    ],
+    "answer": "Normative influence and fear of social disapproval in an unambiguous task",
+    "explanation": {
+      "correct": "Asch's study used an unambiguous task (the correct line was obvious - 35/37 control participants got it right). The conformity and extreme discomfort demonstrate normative influence: participants conformed due to fear of social disapproval, not because they thought the group was correct. This produces compliance (public conformity) without internalization (private belief).",
+      "incorrect": {
+        "Informational influence in an ambiguous task": "Asch's task was unambiguous (obvious correct answer), not ambiguous. Informational influence occurs when the task is unclear and you rely on others for information.",
+        "The Actor-Observer Effect in group settings": "The Actor-Observer Effect is about attribution (explaining behavior as actor vs observer), not about conformity to group pressure.",
+        "False Consensus Effect when making perceptual judgments": "False Consensus Effect involves overestimating agreement with your position, not conforming to an obviously incorrect group judgment."
+      }
+    }
+  },
+  {
+    "question": "Which factor has been shown to REDUCE conformity in group settings?",
+    "difficulty": "learning",
+    "options": [
+      "Increasing the group size from 3 to 15 people",
+      "Having the group consist of people from collectivistic cultures",
+      "Having just one person in the group disagree with the others",
+      "Making the task more ambiguous"
+    ],
+    "answer": "Having just one person in the group disagree with the others",
+    "explanation": {
+      "correct": "The presence of a dissenter (even one person disagreeing with the group) greatly reduces conformity. This breaks the unanimity of the group and gives the participant social support for non-conformity, making it easier to resist group pressure.",
+      "incorrect": {
+        "Increasing the group size from 3 to 15 people": "Increasing group size actually increases conformity (though the effect plateaus after about 4-5 people).",
+        "Having the group consist of people from collectivistic cultures": "Collectivistic cultures show greater conformity than individualistic cultures, so this would increase, not reduce, conformity.",
+        "Making the task more ambiguous": "Ambiguous tasks increase conformity through informational influence (people rely more on others when uncertain)."
+      }
+    }
+  },
+  {
+    "question": "A student explains 'I chose engineering because it's a high-paying field' (situational), but explains 'My friend chose engineering because he wants to make lots of money' (dispositional). This pattern from Nisbett et al. (1973) demonstrates:",
+    "difficulty": "application",
+    "options": [
+      "Fundamental Attribution Error",
+      "Self-Serving Bias",
+      "Actor-Observer Effect",
+      "False Consensus Effect"
+    ],
+    "answer": "Actor-Observer Effect",
+    "explanation": {
+      "correct": "This perfectly demonstrates the Actor-Observer Effect. When explaining your own behavior (actor role), you emphasize situational factors ('the field is high-paying'). When explaining your friend's same behavior (observer role), you attribute it to their disposition ('he wants to make money'). Same behavior, different explanations based on perspective.",
+      "incorrect": {
+        "Fundamental Attribution Error": "While related, FAE is the general tendency to overemphasize dispositional factors when explaining others' behavior. Actor-Observer Effect is more specific: the contrast between how we explain our own (situational) vs others' (dispositional) behavior.",
+        "Self-Serving Bias": "Self-Serving Bias is specifically about taking credit for success (internal) and denying responsibility for failure (external), not about explaining behavioral choices.",
+        "False Consensus Effect": "False Consensus Effect is about overestimating how many others share your views/behaviors, not about the attribution differences between actor and observer perspectives."
+      }
+    }
+  },
+  {
+    "question": "Hofling et al.'s (1966) nurse study and Sheridan & King's (1972) puppy study serve what purpose in relation to Milgram's obedience research?",
+    "difficulty": "tricky",
+    "options": [
+      "They show that obedience only occurs in artificial laboratory settings",
+      "They demonstrate obedience in more ecologically valid, real-world settings with actual consequences",
+      "They prove that people are more obedient to authority in medical settings than in other contexts",
+      "They show that Milgram's results were inflated due to participants knowing the shocks weren't real"
+    ],
+    "answer": "They demonstrate obedience in more ecologically valid, real-world settings with actual consequences",
+    "explanation": {
+      "correct": "These were 'less artificial studies' that addressed criticisms of Milgram's lab-based research. Hofling's nurse study involved real nurses in real hospitals being asked to give potentially lethal injections (21/22 complied), showing high ecological validity. Sheridan & King had participants give REAL electric shocks to a puppy (not simulated). Both demonstrated that high obedience rates aren't just laboratory artifacts.",
+      "incorrect": {
+        "They show that obedience only occurs in artificial laboratory settings": "These studies show the opposite - obedience occurs in real-world settings too, not just artificial labs.",
+        "They prove that people are more obedient to authority in medical settings than in other contexts": "While Hofling used a medical setting, the purpose wasn't to compare settings but to establish ecological validity. Sheridan used a non-medical learning task setting.",
+        "They show that Milgram's results were inflated due to participants knowing the shocks weren't real": "These studies actually support Milgram's findings. Sheridan & King used real shocks and still found high obedience, validating rather than contradicting Milgram."
+      }
+    }
+  },
+  {
+    "question": "Zimbardo's Stanford Prison Experiment (1973) was planned to last 2 weeks but ended after only 6 days. What did this study demonstrate?",
+    "difficulty": "learning",
+    "options": [
+      "That individual personality traits are the primary determinant of behavior in group settings",
+      "The power of social situations and assigned roles on people's behavior, showing aspects of conformity and obedience",
+      "That people with aggressive personalities should not be given authority positions",
+      "That prison environments have no effect on normal individuals' behavior"
+    ],
+    "answer": "The power of social situations and assigned roles on people's behavior, showing aspects of conformity and obedience",
+    "explanation": {
+      "correct": "The SPE demonstrated the power of social situations on behavior. Normal college students assigned to 'guard' roles quickly became authoritarian and harsh, while those assigned as 'prisoners' showed passive submission and anxiety. The study was stopped early due to ethical concerns over escalating abuse. This shows how situational forces and role expectations can dramatically alter behavior, demonstrating conformity, obedience, and situational influence.",
+      "incorrect": {
+        "That individual personality traits are the primary determinant of behavior in group settings": "The study showed the opposite - situational factors (assigned roles) were more powerful than individual personality differences in determining behavior.",
+        "That people with aggressive personalities should not be given authority positions": "Participants were normal college students randomly assigned to roles. The study showed situational power, not pre-existing personality differences.",
+        "That prison environments have no effect on normal individuals' behavior": "The study showed dramatic effects - guards became abusive, prisoners showed distress, leading to early termination due to ethical concerns."
+      }
+    }
+  },
+  {
+    "question": "Tom laughs hysterically at a comedy show. High consensus: everyone is laughing. High distinctiveness: Tom doesn't usually laugh at shows. High consistency: Tom laughed at this comedian before. According to Kelley's Covariation Theory, you would attribute Tom's laughter to:",
+    "difficulty": "application",
+    "options": [
+      "Something about Tom (internal attribution) - he's an especially cheerful person",
+      "Something about the comedian (external attribution) - the comedian is particularly funny",
+      "Something about the audience (external attribution) - the crowd is influencing him",
+      "A combination of Tom's personality and the situation"
+    ],
+    "answer": "Something about the comedian (external attribution) - the comedian is particularly funny",
+    "explanation": {
+      "correct": "This combination (high consensus + high distinctiveness + high consistency) leads to external attribution about the stimulus (comedian). Everyone laughs (high consensus), Tom doesn't usually laugh at shows (high distinctiveness - this comedian is special), and Tom consistently responds this way to this comedian (high consistency). The behavior covaries with this specific comedian, suggesting the comedian is the cause.",
+      "incorrect": {
+        "Something about Tom (internal attribution) - he's an especially cheerful person": "High distinctiveness contradicts this - if it were about Tom's personality, he would laugh at all comedy shows (low distinctiveness), not just this one.",
+        "Something about the audience (external attribution) - the crowd is influencing him": "While consensus is high, the high distinctiveness and consistency point specifically to the comedian as the cause, not general crowd influence.",
+        "A combination of Tom's personality and the situation": "Kelley's model uses this pattern to make a clear external attribution to the stimulus. High consensus + high distinctiveness + high consistency specifically indicates the entity (comedian) is the cause."
+      }
+    }
+  },
+  {
+    "question": "In Kelley's Covariation Theory, 'consistency' refers to:",
+    "difficulty": "learning",
+    "options": [
+      "Whether other people behave the same way in response to the stimulus",
+      "Whether the behavior generalizes to other similar situations",
+      "Whether the person's response remains the same across time in this situation",
+      "Whether the behavior is socially appropriate given the context"
+    ],
+    "answer": "Whether the person's response remains the same across time in this situation",
+    "explanation": {
+      "correct": "Consistency is the generality of behavior across time. High consistency means the individual always behaves this way in this situation (the behavior has been seen before). Low consistency means this is a new, unusual behavior for this person in this situation. It answers: 'How has the person responded previously to this situation?'",
+      "incorrect": {
+        "Whether other people behave the same way in response to the stimulus": "This describes consensus, not consistency. Consensus is about whether others behave similarly.",
+        "Whether the behavior generalizes to other similar situations": "This describes distinctiveness, not consistency. Distinctiveness is about whether the behavior occurs in other situations or is unique to this one.",
+        "Whether the behavior is socially appropriate given the context": "This relates to Jones & Davis's Correspondence Inference Theory (social desirability), not Kelley's consistency dimension."
+      }
+    }
+  },
+  {
+    "question": "Which of the following scenarios would most likely result in EXTERNAL attribution according to Kelley's Covariation Theory?",
+    "difficulty": "tricky",
+    "options": [
+      "Low consensus, low distinctiveness, high consistency",
+      "High consensus, high distinctiveness, high consistency",
+      "Low consensus, high distinctiveness, low consistency",
+      "High consensus, low distinctiveness, low consistency"
+    ],
+    "answer": "High consensus, high distinctiveness, high consistency",
+    "explanation": {
+      "correct": "High consensus (everyone acts this way), high distinctiveness (the behavior is unique to this situation), and high consistency (it happens repeatedly) all point to something about the external stimulus/situation causing the behavior. For example, if Sarah fails an exam (high consensus: everyone failed, high distinctiveness: she passes other exams, high consistency: this exam is consistently difficult), we attribute it to the exam being hard (external), not Sarah's ability.",
+      "incorrect": {
+        "Low consensus, low distinctiveness, high consistency": "This pattern leads to internal attribution. The person behaves differently from others (low consensus), the behavior generalizes across situations (low distinctiveness), and it's consistent over time - suggesting something about the person.",
+        "Low consensus, high distinctiveness, low consistency": "This combination is ambiguous but might suggest an unusual circumstance. It doesn't show the clear external attribution pattern.",
+        "High consensus, low distinctiveness, low consistency": "Low consistency undermines attribution. If the behavior is inconsistent, it's hard to identify a stable cause, whether internal or external."
+      }
+    }
+  },
+  {
+    "question": "A key difference between informational and normative social influence is:",
+    "difficulty": "learning",
+    "options": [
+      "Informational influence occurs in collectivistic cultures; normative influence occurs in individualistic cultures",
+      "Informational influence involves desire to be correct in ambiguous situations; normative influence involves desire to be liked and accepted",
+      "Informational influence affects men more than women; normative influence affects women more than men",
+      "Informational influence requires a large group; normative influence can occur with just one other person"
+    ],
+    "answer": "Informational influence involves desire to be correct in ambiguous situations; normative influence involves desire to be liked and accepted",
+    "explanation": {
+      "correct": "Informational influence occurs when the situation is ambiguous and you rely on others for information to be correct (Sherif's autokinetic study). Normative influence occurs when you conform to be liked and avoid social disapproval, even when the situation is clear (Asch's line study). The key distinction is motivation: accuracy vs social acceptance.",
+      "incorrect": {
+        "Informational influence occurs in collectivistic cultures; normative influence occurs in individualistic cultures": "Both types of influence occur in all cultures, though collectivistic cultures may show more conformity overall.",
+        "Informational influence affects men more than women; normative influence affects women more than men": "Gender differences in conformity are not the defining distinction between these two types of social influence.",
+        "Informational influence requires a large group; normative influence can occur with just one other person": "Both types can occur with varying group sizes. The distinction is about motivation and task ambiguity, not group size."
+      }
+    }
+  }
+]

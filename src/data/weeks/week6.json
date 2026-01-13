@@ -243,6 +243,348 @@
               "Passive recording of sensory data": "Organization into meaning is active interpretation, not passive recording."
             }
           }
+        },
+        {
+          "question": "According to Gestalt psychology, what does Ehrenfels' (1890) claim that 'groups of stimuli acquire a pattern quality greater than the sum of their parts' refer to?",
+          "difficulty": "learning",
+          "options": [
+            "The brain interprets individual sensory elements as isolated units",
+            "Perception emerges from organizing sensory information into meaningful wholes",
+            "Sensory stimuli must be processed separately before being combined",
+            "Pattern recognition requires analyzing each component individually"
+          ],
+          "answer": "Perception emerges from organizing sensory information into meaningful wholes",
+          "explanation": {
+            "correct": "This is the core principle of Gestalt psychology - that the brain organizes sensory information into meaningful wholes, creating a unified perception that is greater than simply the sum of individual parts. The example given in the lecture is a melody: individual notes are just separate sounds, but together they form a recognizable melody with a unique quality.",
+            "incorrect": {
+              "The brain interprets individual sensory elements as isolated units": "This contradicts Gestalt theory, which emphasizes that perception is holistic rather than piecemeal.",
+              "Sensory stimuli must be processed separately before being combined": "Gestalt theory suggests organization happens naturally and immediately, not through sequential processing.",
+              "Pattern recognition requires analyzing each component individually": "This is the opposite of Gestalt principles, which emphasize perceiving patterns as unified wholes."
+            }
+          }
+        },
+        {
+          "question": "A designer arranges buttons on a website so that related functions are placed close together. Which Gestalt principle is being applied?",
+          "difficulty": "application",
+          "options": [
+            "Similarity",
+            "Proximity",
+            "Closure",
+            "Continuity"
+          ],
+          "answer": "Proximity",
+          "explanation": {
+            "correct": "The principle of proximity states that elements placed close together tend to be perceived as a group. By placing related buttons near each other, the designer leverages this principle to help users understand which functions belong together.",
+            "incorrect": {
+              "Similarity": "This principle involves grouping elements that look similar (same color, shape, etc.), not about physical closeness.",
+              "Closure": "Closure involves completing incomplete forms or filling in gaps, not about spatial arrangement.",
+              "Continuity": "Continuity relates to perceiving continuous lines or patterns, not about grouping by physical proximity."
+            }
+          }
+        },
+        {
+          "question": "When looking at a reversible figure like the classic vase/faces image, which Gestalt principle is primarily at work?",
+          "difficulty": "application",
+          "options": [
+            "Proximity",
+            "Similarity",
+            "Figure-ground separation",
+            "Continuity"
+          ],
+          "answer": "Figure-ground separation",
+          "explanation": {
+            "correct": "Figure-ground separation is the perceptual task of recognizing an object (figure) as distinct from its surroundings (ground). In reversible figures, the same visual elements can be perceived as either figure or ground, demonstrating this fundamental principle of perceptual organization.",
+            "incorrect": {
+              "Proximity": "This involves grouping elements based on physical closeness, not distinguishing objects from backgrounds.",
+              "Similarity": "This relates to grouping similar elements together, not separating figure from ground.",
+              "Continuity": "This involves perceiving continuous lines or patterns, not the figure-ground relationship."
+            }
+          }
+        },
+        {
+          "question": "You see a series of dashed lines forming a circle. Even though the circle is incomplete, you perceive it as a complete circle. Which Gestalt principle explains this?",
+          "difficulty": "application",
+          "options": [
+            "Proximity",
+            "Closure",
+            "Symmetry",
+            "Similarity"
+          ],
+          "answer": "Closure",
+          "explanation": {
+            "correct": "Closure is the tendency to complete incomplete forms and fill in gaps. When we see dashed lines forming a circular pattern, our brain automatically completes the gaps to perceive a whole circle rather than separate line segments.",
+            "incorrect": {
+              "Proximity": "This involves grouping elements that are close together, not completing incomplete shapes.",
+              "Symmetry": "Symmetry relates to perceiving symmetrical elements as unified groups, not filling in missing information.",
+              "Similarity": "Similarity groups elements that look alike, not about completing incomplete forms."
+            }
+          }
+        },
+        {
+          "question": "Which of the following depth cues is classified as BOTH binocular AND non-pictorial?",
+          "difficulty": "tricky",
+          "options": [
+            "Linear perspective",
+            "Convergence",
+            "Relative size",
+            "Texture gradient"
+          ],
+          "answer": "Convergence",
+          "explanation": {
+            "correct": "Convergence is a binocular cue (requires both eyes) and non-pictorial cue (involves physical functioning of eyes/brain). It refers to the inward rotation of eyes to focus on nearby objects, with the degree of convergence providing depth information.",
+            "incorrect": {
+              "Linear perspective": "This is a monocular pictorial cue - it's a feature of the visual field itself (parallel lines converging), not eye movement.",
+              "Relative size": "This is a monocular pictorial cue based on visual patterns, not binocular eye function.",
+              "Texture gradient": "This is a monocular pictorial cue involving how textures appear denser with distance, not binocular."
+            }
+          }
+        },
+        {
+          "question": "Retinal disparity provides depth information by:",
+          "difficulty": "learning",
+          "options": [
+            "Measuring the angle of inward eye rotation when focusing on objects",
+            "Comparing the slightly different images projected on each retina",
+            "Detecting how textures appear less detailed at greater distances",
+            "Analyzing how parallel lines converge in the distance"
+          ],
+          "answer": "Comparing the slightly different images projected on each retina",
+          "explanation": {
+            "correct": "Retinal disparity (also called binocular disparity) is the slight difference in images projected on each retina due to the eyes' horizontal separation. The brain uses this disparity to estimate depth, especially for objects within a few meters.",
+            "incorrect": {
+              "Measuring the angle of inward eye rotation when focusing on objects": "This describes convergence, not retinal disparity.",
+              "Detecting how textures appear less detailed at greater distances": "This describes texture gradient, a monocular pictorial cue.",
+              "Analyzing how parallel lines converge in the distance": "This describes linear perspective, a monocular pictorial cue."
+            }
+          }
+        },
+        {
+          "question": "Which of the following is a monocular pictorial cue for depth perception?",
+          "difficulty": "learning",
+          "options": [
+            "Convergence",
+            "Retinal disparity",
+            "Interposition",
+            "Binocular vision"
+          ],
+          "answer": "Interposition",
+          "explanation": {
+            "correct": "Interposition (occlusion) is a monocular pictorial cue where one object partially blocks another, indicating the blocked object is farther away. It's pictorial because it's a feature of the visual field itself, and monocular because it works with one eye.",
+            "incorrect": {
+              "Convergence": "This is a binocular non-pictorial cue involving eye rotation.",
+              "Retinal disparity": "This is a binocular non-pictorial cue based on different images in each eye.",
+              "Binocular vision": "This is not a specific depth cue but rather the general ability to use both eyes together."
+            }
+          }
+        },
+        {
+          "question": "A photographer notices that distant mountains appear bluish and less detailed compared to nearby trees. Which depth cue explains this phenomenon?",
+          "difficulty": "application",
+          "options": [
+            "Linear perspective",
+            "Relative height",
+            "Aerial perspective",
+            "Texture gradient"
+          ],
+          "answer": "Aerial perspective",
+          "explanation": {
+            "correct": "Aerial perspective (atmospheric perspective) occurs when distant objects appear hazier or less vivid due to atmospheric scattering of light. This causes distant mountains to look bluish and less detailed, suggesting greater distance.",
+            "incorrect": {
+              "Linear perspective": "This involves parallel lines converging in the distance, not the hazy appearance of distant objects.",
+              "Relative height": "This refers to objects higher in the visual field being perceived as farther away, not their haziness.",
+              "Texture gradient": "While this also involves detail loss with distance, it specifically refers to surface textures appearing denser, not the atmospheric haze effect."
+            }
+          }
+        },
+        {
+          "question": "What is the key difference between the distal stimulus and the proximal stimulus?",
+          "difficulty": "learning",
+          "options": [
+            "Distal is the actual object; proximal is the pattern on the retina",
+            "Distal is what we perceive; proximal is what actually exists",
+            "Distal is monocular; proximal is binocular",
+            "Distal varies constantly; proximal remains constant"
+          ],
+          "answer": "Distal is the actual object; proximal is the pattern on the retina",
+          "explanation": {
+            "correct": "The distal stimulus is the actual object you're looking at (external), while the proximal stimulus is the pattern of stimulation that hits your retina (internal). A major issue for perception is how perception remains constant when the proximal stimulus varies so much (e.g., as objects move closer or farther).",
+            "incorrect": {
+              "Distal is what we perceive; proximal is what actually exists": "This is backwards - distal is what actually exists, and perception is constructed from the proximal stimulus.",
+              "Distal is monocular; proximal is binocular": "These terms don't relate to monocular vs binocular vision.",
+              "Distal varies constantly; proximal remains constant": "Actually, the distal stimulus (object) is constant, while the proximal stimulus (retinal image) varies with viewing angle and distance."
+            }
+          }
+        },
+        {
+          "question": "Size constancy allows us to:",
+          "difficulty": "learning",
+          "options": [
+            "Perceive an object's size as unchanging despite changes in retinal image size",
+            "Accurately measure the absolute size of all objects",
+            "See objects as larger when they are farther away",
+            "Determine size only through direct comparison with other objects"
+          ],
+          "answer": "Perceive an object's size as unchanging despite changes in retinal image size",
+          "explanation": {
+            "correct": "Size constancy is the brain's ability to perceive an object's size as constant even though its retinal image changes with distance. For example, a person appears the same size whether 5 or 50 feet away, despite the retinal image being much smaller at greater distance.",
+            "incorrect": {
+              "Accurately measure the absolute size of all objects": "Size constancy is about perceptual stability, not accurate measurement of absolute dimensions.",
+              "See objects as larger when they are farther away": "This is the opposite - retinal images get smaller with distance, but size constancy compensates to maintain perceived size.",
+              "Determine size only through direct comparison with other objects": "Size constancy works even without reference objects, based on distance cues."
+            }
+          }
+        },
+        {
+          "question": "The Ames room illusion demonstrates a failure of:",
+          "difficulty": "application",
+          "options": [
+            "Colour constancy",
+            "Shape constancy",
+            "Size constancy",
+            "Location constancy"
+          ],
+          "answer": "Size constancy",
+          "explanation": {
+            "correct": "In the Ames room, the walls, floor, and ceiling are trapezoidal, not rectangular. Your brain incorrectly interprets both corners as being at the same distance when they're not, causing a failure of size constancy - people in different corners appear drastically different in size even though they're similar heights.",
+            "incorrect": {
+              "Colour constancy": "The Ames room doesn't manipulate colour perception under different lighting.",
+              "Shape constancy": "While the room's actual shape is trapezoidal, the illusion primarily affects perceived size of people in the room.",
+              "Location constancy": "The illusion doesn't involve movement or perceived changes in position."
+            }
+          }
+        },
+        {
+          "question": "A door appears rectangular whether viewed head-on or at an angle (where it projects a trapezoid on the retina). This illustrates:",
+          "difficulty": "application",
+          "options": [
+            "Size constancy",
+            "Shape constancy",
+            "Brightness constancy",
+            "Location constancy"
+          ],
+          "answer": "Shape constancy",
+          "explanation": {
+            "correct": "Shape constancy is the perception of an object's shape as consistent even when viewed from different angles that alter its retinal projection. A door is a perfect example - it projects different shapes on the retina depending on viewing angle, but we always perceive it as rectangular.",
+            "incorrect": {
+              "Size constancy": "This involves perceiving consistent size at different distances, not shape from different angles.",
+              "Brightness constancy": "This relates to consistent brightness perception under different lighting, not shape.",
+              "Location constancy": "This involves maintaining perceived position despite head movement, not shape perception."
+            }
+          }
+        },
+        {
+          "question": "In the Müller-Lyer illusion, why does the line with outgoing fins appear longer than the line with ingoing fins?",
+          "difficulty": "tricky",
+          "options": [
+            "The lines are actually different lengths",
+            "Depth cues trigger perceptual interpretation based on experience with corners",
+            "The horizontal line is physically longer than the vertical line",
+            "Closure principle makes us complete the arrows differently"
+          ],
+          "answer": "Depth cues trigger perceptual interpretation based on experience with corners",
+          "explanation": {
+            "correct": "The Müller-Lyer illusion is explained by Gregory's constructivist theory - the fins act as depth cues. Outgoing fins resemble the far corner of a room (appearing farther away, so brain compensates by perceiving it as larger), while ingoing fins resemble a near corner. Our brain uses past experience with 3D environments to interpret these 2D patterns.",
+            "incorrect": {
+              "The lines are actually different lengths": "The lines are identical in length - that's why it's an illusion.",
+              "The horizontal line is physically longer than the vertical line": "This describes a different illusion (horizontal-vertical) and both Müller-Lyer lines are equal.",
+              "Closure principle makes us complete the arrows differently": "Closure is about filling in gaps, not about misperceiving length based on contextual cues."
+            }
+          }
+        },
+        {
+          "question": "According to Gregory's constructivist theory, perception is best described as:",
+          "difficulty": "learning",
+          "options": [
+            "A direct process requiring no cognitive interpretation",
+            "Bottom-up processing based solely on environmental information",
+            "Top-down processing that constructs interpretations using prior knowledge",
+            "A passive recording of sensory information"
+          ],
+          "answer": "Top-down processing that constructs interpretations using prior knowledge",
+          "explanation": {
+            "correct": "Gregory's constructivist (indirect) theory posits that perception is an active, top-down process where the brain constructs perceptions by testing hypotheses based on sensory data AND prior knowledge. It's indirect because the brain interprets incomplete sensory input using memory, experience, and context.",
+            "incorrect": {
+              "A direct process requiring no cognitive interpretation": "This describes Gibson's ecological theory, not Gregory's constructivist approach.",
+              "Bottom-up processing based solely on environmental information": "Gregory's theory is top-down (cognition-driven), not bottom-up. Gibson's theory is bottom-up.",
+              "A passive recording of sensory information": "Constructivist theory emphasizes active interpretation, not passive recording."
+            }
+          }
+        },
+        {
+          "question": "Gibson's ecological theory explains visual illusions as:",
+          "difficulty": "learning",
+          "options": [
+            "Results of misapplied hypotheses based on prior knowledge",
+            "Cognitive errors in interpreting ambiguous sensory input",
+            "Occurring due to insufficient or artificial environmental information",
+            "Products of top-down processing gone wrong"
+          ],
+          "answer": "Occurring due to insufficient or artificial environmental information",
+          "explanation": {
+            "correct": "Gibson's ecological (direct) theory argues that illusions occur because of insufficient or artificial environmental information, typically in lab settings. In natural environments with rich optic arrays, Gibson believes perception would be accurate and direct without requiring cognitive interpretation.",
+            "incorrect": {
+              "Results of misapplied hypotheses based on prior knowledge": "This is Gregory's constructivist explanation of illusions, not Gibson's.",
+              "Cognitive errors in interpreting ambiguous sensory input": "This reflects Gregory's view; Gibson argues perception is direct and doesn't involve cognitive interpretation.",
+              "Products of top-down processing gone wrong": "Gibson's theory is bottom-up, not top-down; he doesn't emphasize cognitive processing."
+            }
+          }
+        },
+        {
+          "question": "What does Gibson mean by 'affordances' in his ecological theory?",
+          "difficulty": "learning",
+          "options": [
+            "Internal mental representations of objects",
+            "Environmental cues about how objects can be used or interacted with",
+            "Top-down inferences based on past experience",
+            "Ambiguous stimuli requiring cognitive interpretation"
+          ],
+          "answer": "Environmental cues about how objects can be used or interacted with",
+          "explanation": {
+            "correct": "In Gibson's ecological theory, affordances are cues in the environment that directly specify what actions are possible with objects. For example, a flat surface affords walking, a handle affords grasping. These are picked up directly from the environment without needing cognitive inference.",
+            "incorrect": {
+              "Internal mental representations of objects": "Gibson's theory emphasizes direct perception from the environment, not internal representations.",
+              "Top-down inferences based on past experience": "This describes Gregory's constructivist approach, not Gibson's direct perception.",
+              "Ambiguous stimuli requiring cognitive interpretation": "Gibson argues environmental information is rich and unambiguous, not requiring interpretation."
+            }
+          }
+        },
+        {
+          "question": "Which scenario best exemplifies Gregory's constructivist theory rather than Gibson's ecological theory?",
+          "difficulty": "application",
+          "options": [
+            "A person walking on a forest path, directly perceiving the terrain's slopes",
+            "A child learning that a chair affords sitting by observing its flat surface",
+            "Someone deciphering messy handwriting using context and word knowledge",
+            "An animal navigating through grass using texture gradients"
+          ],
+          "answer": "Someone deciphering messy handwriting using context and word knowledge",
+          "explanation": {
+            "correct": "This is a perfect example from the lecture of Gregory's constructivist theory in action. When reading messy handwriting, the sensory input is ambiguous and incomplete. Your brain actively constructs meaning using top-down processing - applying context, prior knowledge of words, and expectations to interpret unclear letters.",
+            "incorrect": {
+              "A person walking on a forest path, directly perceiving the terrain's slopes": "This is actually Gibson's example from the lecture - direct perception of environmental information without cognitive processing.",
+              "A child learning that a chair affords sitting by observing its flat surface": "This exemplifies Gibson's affordances concept - direct perception of action possibilities.",
+              "An animal navigating through grass using texture gradients": "This describes direct perception using environmental cues, consistent with Gibson's theory."
+            }
+          }
+        },
+        {
+          "question": "According to the complementary view suggested by Harris (1998), which statement is most accurate?",
+          "difficulty": "tricky",
+          "options": [
+            "Gibson's theory is correct for all perceptual tasks",
+            "Gregory's theory is correct for all perceptual tasks",
+            "Some perceptual tasks can be accomplished directly (Gibson), while others require sophisticated knowledge (Gregory)",
+            "Both theories are completely incompatible and cannot coexist"
+          ],
+          "answer": "Some perceptual tasks can be accomplished directly (Gibson), while others require sophisticated knowledge (Gregory)",
+          "explanation": {
+            "correct": "Harris (1998) suggests that perception isn't a single task but contributes in many different ways to everyday life. Some tasks can be accomplished directly as Gibson maintained (e.g., navigating terrain), while others require sophisticated internal knowledge and are better described by Gregory's indirect approach (e.g., reading ambiguous text). The theories are complementary, not contradictory.",
+            "incorrect": {
+              "Gibson's theory is correct for all perceptual tasks": "This ignores situations where top-down processing clearly plays a role, like interpreting ambiguous stimuli.",
+              "Gregory's theory is correct for all perceptual tasks": "This dismisses evidence of direct perception in everyday navigation and interaction with the environment.",
+              "Both theories are completely incompatible and cannot coexist": "Harris argues they're complementary, each explaining different aspects of perception."
+            }
+          }
         }
       ]
     },

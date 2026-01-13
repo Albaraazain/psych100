@@ -1,0 +1,111 @@
+{
+  "task_id": "TASK-20260113-223444-46024e1a",
+  "task_description": "Add missing schizophrenia spectrum and personality disorders content to week 10, and rewrite ALL explanations in weeks 10 & 11 to be ADHD-friendly: concrete, detailed mechanisms, step-by-step, no metaphors, clear structure",
+  "created_at": "2026-01-13T22:34:44.060079",
+  "workspace": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace/TASK-20260113-223444-46024e1a",
+  "workspace_base": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace",
+  "client_cwd": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050",
+  "status": "INITIALIZED",
+  "priority": "P1",
+  "phases": [
+    {
+      "id": "phase-1b6e00d5",
+      "order": 1,
+      "name": "Content Research",
+      "description": "Extract all details from PDFs for missing content and analyze explanation quality requirements",
+      "deliverables": [
+        "Complete schizophrenia spectrum details from PDF (symptoms, types, examples, criteria)",
+        "Complete personality disorders details from PDF (all 10 disorders, cluster organization, characteristics)",
+        "Analysis of what makes explanations ADHD-friendly vs current problems"
+      ],
+      "success_criteria": [
+        "All schizophrenia spectrum disorders covered with precise criteria",
+        "All 10 personality disorders covered with cluster groupings",
+        "Clear guidelines for concrete, mechanism-focused explanations"
+      ],
+      "status": "ACTIVE",
+      "created_at": "2026-01-13T22:34:44.060031",
+      "started_at": "2026-01-13T22:34:44.060034"
+    },
+    {
+      "id": "phase-6af86e99",
+      "order": 2,
+      "name": "Content Writing",
+      "description": "Write new sections for missing content and rewrite all existing explanations to be detailed, concrete, and ADHD-friendly",
+      "deliverables": [
+        "New schizophrenia spectrum section with 15+ questions (detailed explanations)",
+        "New personality disorders section with 20+ questions (detailed explanations)",
+        "Rewritten explanations for all week 10 existing topics (abnormality, anxiety, OCD, mood)",
+        "Rewritten explanations for all week 11 topics (all therapy types)"
+      ],
+      "success_criteria": [
+        "All explanations are concrete (no vague 'involves' language)",
+        "All explanations include HOW mechanisms work (step-by-step processes)",
+        "No metaphors or abstract analogies used",
+        "Clear structure: mechanism \u2192 consequence \u2192 clinical example",
+        "Each 'correct' explanation has 3-5 sentences with specific details",
+        "Each 'incorrect' explanation explains WHY wrong with specific contrast"
+      ],
+      "status": "PENDING",
+      "created_at": "2026-01-13T22:34:44.060047",
+      "started_at": null
+    },
+    {
+      "id": "phase-cb7af3da",
+      "order": 3,
+      "name": "Integration & Quality Check",
+      "description": "Integrate new content into week10.json, ensure consistency, verify ADHD-friendliness",
+      "deliverables": [
+        "Updated week10.json with new sections integrated",
+        "Updated week11.json with rewritten explanations",
+        "Verification that all explanations meet ADHD-friendly criteria"
+      ],
+      "success_criteria": [
+        "Week 10 includes all 7 topics (abnormality, anxiety, OCD, mood, schizophrenia, personality, classification)",
+        "All questions have detailed, mechanism-focused explanations",
+        "No metaphors, no vague language",
+        "JSON structure is valid and consistent"
+      ],
+      "status": "PENDING",
+      "created_at": "2026-01-13T22:34:44.060051",
+      "started_at": null
+    }
+  ],
+  "current_phase_index": 0,
+  "agents": [],
+  "agent_hierarchy": {
+    "orchestrator": []
+  },
+  "max_agents": 45,
+  "max_depth": 5,
+  "max_concurrent": 20,
+  "total_spawned": 0,
+  "active_count": 0,
+  "completed_count": 0,
+  "reviews": [],
+  "orchestration_guidance": {
+    "min_specialization_depth": 2,
+    "recommended_child_agents_per_parent": 3,
+    "specialization_domains": [],
+    "complexity_score": 3
+  },
+  "spiral_checks": {
+    "enabled": true,
+    "last_check": "2026-01-13T22:34:44.060145",
+    "violations": 0
+  },
+  "task_context": {
+    "expected_deliverables": [
+      "Complete week10.json with schizophrenia spectrum section (15+ questions)",
+      "Complete week10.json with personality disorders section (20+ questions)",
+      "All explanations in weeks 10 & 11 rewritten to be concrete, detailed, mechanism-focused, ADHD-friendly"
+    ],
+    "success_criteria": [
+      "Week 10 covers ALL content from slides (no missing disorders)",
+      "All explanations explain HOW things work, not just WHAT they are",
+      "Zero metaphors or abstract analogies in explanations",
+      "Each explanation includes specific mechanisms and step-by-step processes",
+      "ADHD-friendly structure: clear, organized, no fluff, concrete language"
+    ]
+  }
+}

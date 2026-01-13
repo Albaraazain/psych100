@@ -1,0 +1,344 @@
+[
+  {
+    "question": "In Harlow's monkey experiments, what did the baby monkeys do when given a choice between a wire mother providing milk and a cloth mother providing no milk?",
+    "difficulty": "learning",
+    "options": [
+      "They spent equal time with both mothers",
+      "They stayed with the wire mother since she provided food",
+      "They preferred the cloth mother and only went to the wire mother briefly to feed",
+      "They rejected both mothers and became aggressive"
+    ],
+    "answer": "They preferred the cloth mother and only went to the wire mother briefly to feed",
+    "explanation": {
+      "correct": "Harlow's experiments demonstrated that attachment is based on contact comfort rather than feeding. Monkeys overwhelmingly preferred the cloth mother, only visiting the wire mother briefly for feeding before returning to the soft, comforting cloth mother.",
+      "incorrect": {
+        "They spent equal time with both mothers": "This is incorrect because the monkeys showed a clear preference, spending most of their time clinging to the cloth mother despite her not providing food.",
+        "They stayed with the wire mother since she provided food": "This contradicts Harlow's key finding. If attachment were based solely on feeding (biological needs), this would be true, but the monkeys chose comfort over food.",
+        "They rejected both mothers and became aggressive": "This describes the outcome of total isolation studies, not the wire vs. cloth mother experiment where monkeys had access to surrogate mothers."
+      }
+    }
+  },
+  {
+    "question": "According to John Bowlby's attachment theory, what is the critical period for forming primary attachment?",
+    "difficulty": "learning",
+    "options": [
+      "Birth to 6 months",
+      "Birth to 3 years",
+      "3 to 7 years",
+      "Birth to 12 months"
+    ],
+    "answer": "Birth to 3 years",
+    "explanation": {
+      "correct": "Bowlby identified the critical period for forming primary attachment as roughly from birth to about 3 years of age. During this time, infants have an innate biological drive to form attachment bonds with caregivers.",
+      "incorrect": {
+        "Birth to 6 months": "This timeframe is too short. While attachment begins forming early, Bowlby's critical period extends much longer to allow for the full development of secure attachment bonds.",
+        "3 to 7 years": "This is incorrect as the critical period begins at birth, not at 3 years. By age 3, the primary attachment should already be established.",
+        "Birth to 12 months": "While the first year is crucial, Bowlby extended the critical period to approximately 3 years, recognizing that attachment continues to develop throughout early childhood."
+      }
+    }
+  },
+  {
+    "question": "In Ainsworth's Strange Situation experiment, a 15-month-old child explores the room freely when the mother is present, shows moderate distress when she leaves, and is easily comforted upon her return. Which attachment style does this child likely have?",
+    "difficulty": "application",
+    "options": [
+      "Insecure-Avoidant",
+      "Secure",
+      "Insecure-Resistant (Ambivalent)",
+      "Disorganized"
+    ],
+    "answer": "Secure",
+    "explanation": {
+      "correct": "This behavior pattern is characteristic of secure attachment (~65% of infants). Securely attached children use their caregiver as a secure base for exploration, show appropriate distress during separation, and are easily comforted upon reunion.",
+      "incorrect": {
+        "Insecure-Avoidant": "Avoidant children show little distress when the caregiver leaves and tend to avoid or ignore them upon return, unlike the child in this scenario who shows distress and seeks comfort.",
+        "Insecure-Resistant (Ambivalent)": "Resistant children cling to the caregiver with little exploration, show high distress during separation, and importantly, both seek AND resist comfort upon return—showing ambivalence. This child was easily comforted, not resistant.",
+        "Disorganized": "Disorganized attachment involves contradictory or confused behaviors (e.g., approaching while looking away). This child shows consistent, organized behavior patterns typical of secure attachment."
+      }
+    }
+  },
+  {
+    "question": "A toddler in the Strange Situation barely explores the room, clings to their mother constantly, becomes extremely distressed when she leaves, and when she returns, the child runs to her but then pushes her away. What attachment style is this?",
+    "difficulty": "application",
+    "options": [
+      "Secure",
+      "Insecure-Avoidant",
+      "Insecure-Resistant (Ambivalent)",
+      "Disorganized"
+    ],
+    "answer": "Insecure-Resistant (Ambivalent)",
+    "explanation": {
+      "correct": "This is classic insecure-resistant/ambivalent attachment (~10-15% of infants). Key indicators are: minimal exploration, clinging behavior, high distress during separation, and the hallmark behavior of both seeking comfort AND resisting it upon reunion—the 'ambivalence'.",
+      "incorrect": {
+        "Secure": "Secure children explore freely, show moderate distress, and are easily comforted upon return. They don't show the resistant/pushing away behavior described here.",
+        "Insecure-Avoidant": "Avoidant children explore freely without using the parent as a secure base, show minimal distress when left, and avoid/ignore the parent upon return rather than seeking then resisting contact.",
+        "Disorganized": "While disorganized attachment also involves contradictory behaviors, it's characterized by confusion and freezing (e.g., approaching while looking away), often linked to trauma. The pattern here shows consistent ambivalence, not disorganization."
+      }
+    }
+  },
+  {
+    "question": "What was the main conclusion from Harlow's isolation studies with monkeys who were raised with no mother and no peers?",
+    "difficulty": "learning",
+    "options": [
+      "The monkeys developed normally as long as they had adequate food",
+      "The monkeys became emotionally disturbed, socially withdrawn, and often self-harming",
+      "The monkeys showed enhanced independence and self-sufficiency",
+      "The monkeys only showed problems if isolated beyond 6 months"
+    ],
+    "answer": "The monkeys became emotionally disturbed, socially withdrawn, and often self-harming",
+    "explanation": {
+      "correct": "Harlow's isolation studies demonstrated severe consequences of complete deprivation. Monkeys raised in total isolation became emotionally disturbed, socially withdrawn, self-harming, and when reintroduced to others were fearful or aggressive. This showed that attachment and social contact are essential for psychological development.",
+      "incorrect": {
+        "The monkeys developed normally as long as they had adequate food": "This directly contradicts Harlow's key finding—that attachment is NOT just about feeding. Physical needs alone are insufficient for healthy development.",
+        "The monkeys showed enhanced independence and self-sufficiency": "This is completely opposite to the actual findings. Isolated monkeys developed severe psychological problems, not enhanced capabilities.",
+        "The monkeys only showed problems if isolated beyond 6 months": "While timing matters (as seen in Romanian orphanage studies), Harlow's total isolation studies showed that any significant period of complete isolation caused severe problems regardless of specific duration."
+      }
+    }
+  },
+  {
+    "question": "The Czech twins (Andreas and Petr) were locked in a cellar with almost no human contact until age 7 and had IQs around 40 at discovery. What does their case tell us about privation?",
+    "difficulty": "application",
+    "options": [
+      "Privation effects are permanent and cannot be reversed",
+      "Privation effects can be reversed with intensive rehabilitation, as their IQs rose to 90-100 and they lived normal adult lives",
+      "Only physical development can recover from privation, not cognitive abilities",
+      "Recovery from privation is only possible if it occurs before age 2"
+    ],
+    "answer": "Privation effects can be reversed with intensive rehabilitation, as their IQs rose to 90-100 and they lived normal adult lives",
+    "explanation": {
+      "correct": "The Czech twins case demonstrates that privation effects CAN be reversible with intensive intervention. After rescue, their IQs rose from ~40 to 90-100, they developed normal language and social relationships, finished school, and lived relatively normal adult lives—showing remarkable recovery despite extreme early deprivation.",
+      "incorrect": {
+        "Privation effects are permanent and cannot be reversed": "The Czech twins case directly contradicts this—they showed dramatic recovery, proving that with proper intervention, severe early privation can be overcome to a significant degree.",
+        "Only physical development can recover from privation, not cognitive abilities": "This is false. The twins' cognitive development (IQ increase from 40 to 90-100) and social development both showed substantial recovery, not just physical aspects.",
+        "Recovery from privation is only possible if it occurs before age 2": "The twins were rescued at age 7, well beyond age 2, yet still showed remarkable recovery. However, the Romanian orphanage studies do suggest earlier intervention (before 6-24 months) leads to better outcomes."
+      }
+    }
+  },
+  {
+    "question": "According to Bowlby's attachment theory, what two key functions does a caregiver provide for a child?",
+    "difficulty": "learning",
+    "options": [
+      "Food provision and shelter",
+      "Education and discipline",
+      "A secure base for exploration and a safe haven for comfort",
+      "Entertainment and stimulation"
+    ],
+    "answer": "A secure base for exploration and a safe haven for comfort",
+    "explanation": {
+      "correct": "Bowlby identified two critical functions: the caregiver provides a secure base from which the child can confidently explore the world, and a safe haven to return to for comfort when threatened or distressed. This dual function supports both independence and security.",
+      "incorrect": {
+        "Food provision and shelter": "While these are important physical needs, Bowlby's attachment theory emphasizes emotional and psychological functions. Harlow's experiments specifically showed attachment is about more than meeting biological needs.",
+        "Education and discipline": "These are parenting functions but not the core attachment functions Bowlby identified. Attachment theory focuses on the emotional security relationship, not teaching or behavior management.",
+        "Entertainment and stimulation": "While stimulation is important for development, Bowlby's attachment theory specifically emphasizes the security-exploration dynamic (secure base/safe haven), not entertainment."
+      }
+    }
+  },
+  {
+    "question": "In the Strange Situation, what percentage of infants typically show secure attachment?",
+    "difficulty": "learning",
+    "options": [
+      "Approximately 25%",
+      "Approximately 45%",
+      "Approximately 65%",
+      "Approximately 85%"
+    ],
+    "answer": "Approximately 65%",
+    "explanation": {
+      "correct": "Ainsworth's research found that approximately 65% of infants demonstrate secure attachment, making it the most common attachment style. The remaining infants show insecure patterns: ~20% avoidant, ~10-15% resistant, and ~5-10% disorganized.",
+      "incorrect": {
+        "Approximately 25%": "This is too low. Secure attachment is the most common type, representing the majority of infants.",
+        "Approximately 45%": "This underestimates the prevalence of secure attachment. About two-thirds of infants show secure attachment patterns.",
+        "Approximately 85%": "This is too high. While secure attachment is most common, significant minorities show insecure patterns (avoidant ~20%, resistant ~10-15%, disorganized ~5-10%)."
+      }
+    }
+  },
+  {
+    "question": "At what age do most children first demonstrate self-recognition in the mirror rouge test by touching their own nose rather than the mirror?",
+    "difficulty": "learning",
+    "options": [
+      "6-12 months",
+      "9-15 months",
+      "15-24 months",
+      "24-36 months"
+    ],
+    "answer": "15-24 months",
+    "explanation": {
+      "correct": "Lewis and Brooks-Gunn's research found that touching the rouge dot was never seen before 15 months. Between 15-18 months, 5-25% of infants touched it, and 75% of 18-24 month-old infants demonstrated self-recognition by touching their own nose, indicating developing self-awareness.",
+      "incorrect": {
+        "6-12 months": "This is too early. Infants at this age have not yet developed the cognitive capacity for self-recognition. The rouge test showed no nose-touching before 15 months.",
+        "9-15 months": "While this range approaches the emergence of self-recognition, the research specifically found that touching the rouge dot was never observed before 15 months.",
+        "24-36 months": "By this age, self-recognition is already well-established (75% show it by 18-24 months). The question asks when it first emerges, which is the 15-24 month window."
+      }
+    }
+  },
+  {
+    "question": "A child sees a cow for the first time and calls it a 'big doggie' because it has four legs and fur like the dogs she knows. According to Piaget, what cognitive process is occurring?",
+    "difficulty": "application",
+    "options": [
+      "Accommodation",
+      "Assimilation",
+      "Conservation",
+      "Egocentrism"
+    ],
+    "answer": "Assimilation",
+    "explanation": {
+      "correct": "This is assimilation—the process of taking in new information (the cow) and fitting it into an existing schema (the 'dog' schema) without changing that schema. The child uses her existing knowledge structure to interpret the new animal.",
+      "incorrect": {
+        "Accommodation": "Accommodation would occur if the child modified her schema after learning the cow is different from dogs. For example, creating a new 'cow' category or adjusting her understanding of what makes an animal a dog versus other farm animals.",
+        "Conservation": "Conservation is the understanding that basic properties stay the same despite changes in appearance (e.g., liquid in different shaped containers). This concept is unrelated to categorizing animals.",
+        "Egocentrism": "Egocentrism is difficulty viewing the world from another's perspective, characteristic of the preoperational stage. It doesn't relate to how children categorize new objects."
+      }
+    }
+  },
+  {
+    "question": "A 5-year-old child watches water poured from a short, wide glass into a tall, thin glass and says the tall glass now has more water. Which Piagetian concept does this child fail to understand?",
+    "difficulty": "application",
+    "options": [
+      "Object permanence",
+      "Conservation",
+      "Transitivity",
+      "Abstract reasoning"
+    ],
+    "answer": "Conservation",
+    "explanation": {
+      "correct": "This is a classic conservation task. The child in the preoperational stage (2-7 years) fails to understand the principle of conservation—that basic properties like quantity stay the same even when appearance changes. They focus on the height and conclude there's more water.",
+      "incorrect": {
+        "Object permanence": "Object permanence is understanding that objects continue to exist when out of sight, developed during the sensorimotor stage (0-2 years). A 5-year-old has already mastered this.",
+        "Transitivity": "Transitivity involves logical reasoning about relationships (e.g., if A > B and B > C, then A > C). This is typically mastered in the concrete operational stage and relates to comparative relationships, not conservation of quantity.",
+        "Abstract reasoning": "Abstract reasoning emerges in the formal operational stage (11+ years) and involves thinking about hypothetical situations and abstract concepts. Conservation involves concrete physical quantities, not abstract reasoning."
+      }
+    }
+  },
+  {
+    "question": "Which cognitive ability would a child in Piaget's concrete operational stage (7-11 years) be UNABLE to do?",
+    "difficulty": "tricky",
+    "options": [
+      "Understand that pouring water back into the original glass would make it look the same (reversibility)",
+      "Solve 'If Alan is taller than Nigel, and Nigel is taller than Charlie, who is taller: Alan or Charlie?' entirely in their head",
+      "Understand that the amount of clay stays the same when rolled into a ball or a snake (conservation)",
+      "Take another person's perspective in the three mountains task"
+    ],
+    "answer": "Solve 'If Alan is taller than Nigel, and Nigel is taller than Charlie, who is taller: Alan or Charlie?' entirely in their head",
+    "explanation": {
+      "correct": "Transitivity problems (logical relationships like A > B > C, therefore A > C) cannot be solved entirely mentally by concrete operational children. They need concrete objects like dolls to solve it. This ability emerges in the formal operational stage (11+).",
+      "incorrect": {
+        "Understand that pouring water back into the original glass would make it look the same (reversibility)": "Concrete operational children CAN do this. Reversibility is one of the key abilities gained in this stage, allowing them to mentally reverse actions.",
+        "Understand that the amount of clay stays the same when rolled into a ball or a snake (conservation)": "Concrete operational children CAN conserve. Understanding conservation is a hallmark achievement of this stage, distinguishing it from the preoperational stage.",
+        "Take another person's perspective in the three mountains task": "Concrete operational children CAN do this. They are less egocentric than preoperational children and can take others' perspectives—this is why they succeed on tasks preoperational children fail."
+      }
+    }
+  },
+  {
+    "question": "A 4-year-old says the sun follows her when she walks and that the sidewalk 'was mad' at her when she tripped. Which preoperational characteristic is she demonstrating?",
+    "difficulty": "application",
+    "options": [
+      "Conservation",
+      "Egocentrism",
+      "Animism",
+      "Reversibility"
+    ],
+    "answer": "Animism",
+    "explanation": {
+      "correct": "This is animism—the belief that inanimate objects (like the sun and sidewalk) have feelings, intentions, and lifelike qualities. This is characteristic of preoperational thinking (ages 2-7) where children attribute human characteristics to non-living things.",
+      "incorrect": {
+        "Conservation": "Conservation relates to understanding that properties like quantity stay constant despite appearance changes. The child's attribution of feelings to objects is unrelated to conservation.",
+        "Egocentrism": "While the sun 'following her' shows some egocentrism (seeing herself as the center), the key feature here is attributing intentions and emotions to non-living things (animism). Egocentrism is more about perspective-taking difficulties.",
+        "Reversibility": "Reversibility is the ability to mentally reverse actions (like pouring water back). Children in the preoperational stage lack reversibility, but that's not what's demonstrated in attributing emotions to sidewalks."
+      }
+    }
+  },
+  {
+    "question": "A parent is teaching a child to ride a bike by holding the back of the seat initially, then gradually letting go as the child gains confidence. According to Vygotsky, what is this process called?",
+    "difficulty": "application",
+    "options": [
+      "Assimilation",
+      "Accommodation",
+      "Scaffolding",
+      "Conservation"
+    ],
+    "answer": "Scaffolding",
+    "explanation": {
+      "correct": "This is scaffolding—the temporary support provided by a more knowledgeable other (the parent) within the Zone of Proximal Development. The support is gradually removed as the child develops competence, like removing scaffolding from a building under construction.",
+      "incorrect": {
+        "Assimilation": "Assimilation is a Piagetian concept about fitting new information into existing schemas. It doesn't describe the teaching/support process shown here.",
+        "Accommodation": "Accommodation is also Piagetian—modifying schemas when new information doesn't fit. While learning may involve accommodation, the question asks about the teaching process, which is scaffolding.",
+        "Conservation": "Conservation is understanding that properties remain constant despite appearance changes. This is unrelated to the teaching support process described."
+      }
+    }
+  },
+  {
+    "question": "What is the key difference between Piaget's and Vygotsky's views on cognitive development?",
+    "difficulty": "learning",
+    "options": [
+      "Piaget emphasized social interaction while Vygotsky emphasized independent discovery",
+      "Piaget saw the child as an independent learner constructing knowledge, while Vygotsky emphasized social and cultural influences with guidance from others",
+      "Piaget focused on language development while Vygotsky focused on motor development",
+      "Piaget believed development occurs in stages while Vygotsky believed it's completely random"
+    ],
+    "answer": "Piaget saw the child as an independent learner constructing knowledge, while Vygotsky emphasized social and cultural influences with guidance from others",
+    "explanation": {
+      "correct": "This captures the fundamental difference. Piaget viewed cognitive development as largely individual—children as 'lone scientists' constructing understanding through exploration. Vygotsky saw development as inherently social, with knowledge being co-constructed through culturally-mediated interactions with more knowledgeable others.",
+      "incorrect": {
+        "Piaget emphasized social interaction while Vygotsky emphasized independent discovery": "This reverses their actual positions. Vygotsky is known for emphasizing social/cultural factors, while Piaget focused more on individual cognitive construction.",
+        "Piaget focused on language development while Vygotsky focused on motor development": "Both theorists addressed multiple aspects of development. While Vygotsky did emphasize language as a cultural tool, Piaget wasn't solely focused on language, and Vygotsky wasn't primarily about motor development.",
+        "Piaget believed development occurs in stages while Vygotsky believed it's completely random": "While Piaget did propose stages, Vygotsky didn't view development as random. He saw it as guided by social interaction within the Zone of Proximal Development—a structured, not random, process."
+      }
+    }
+  },
+  {
+    "question": "An infant searches for a toy after it's hidden under a blanket. According to Piaget, which cognitive milestone has this child achieved?",
+    "difficulty": "learning",
+    "options": [
+      "Conservation",
+      "Object permanence",
+      "Reversibility",
+      "Abstract reasoning"
+    ],
+    "answer": "Object permanence",
+    "explanation": {
+      "correct": "Object permanence is the understanding that objects continue to exist even when they cannot be seen. This develops during the sensorimotor stage (0-2 years), typically around 9 months. Searching for a hidden toy demonstrates the infant has a mental representation of the object.",
+      "incorrect": {
+        "Conservation": "Conservation is understanding that properties stay the same despite appearance changes, developing in the concrete operational stage (7-11 years). This is much more advanced than object permanence.",
+        "Reversibility": "Reversibility is the ability to mentally reverse actions, also emerging in the concrete operational stage. It's unrelated to understanding that hidden objects still exist.",
+        "Abstract reasoning": "Abstract reasoning emerges in the formal operational stage (11+ years) and involves hypothetical thinking. Searching for a hidden toy is concrete, sensorimotor behavior, not abstract reasoning."
+      }
+    }
+  },
+  {
+    "question": "A child in the Strange Situation shows no distress when the mother leaves, actively avoids her when she returns, and seems indifferent to her presence. What attachment style is this, and what percentage of infants typically show this pattern?",
+    "difficulty": "learning",
+    "options": [
+      "Secure attachment, ~65%",
+      "Insecure-Avoidant, ~20%",
+      "Insecure-Resistant, ~10-15%",
+      "Disorganized, ~5-10%"
+    ],
+    "answer": "Insecure-Avoidant, ~20%",
+    "explanation": {
+      "correct": "This describes insecure-avoidant attachment (~20% of infants). Key features are: little distress during separation, avoidance or ignoring of the caregiver upon return, and apparent emotional distance or indifference to the caregiver's presence.",
+      "incorrect": {
+        "Secure attachment, ~65%": "Secure children show moderate distress when the caregiver leaves and actively seek comfort upon return. They don't avoid the caregiver or show indifference.",
+        "Insecure-Resistant, ~10-15%": "Resistant children show high distress during separation and both seek AND resist comfort upon return (ambivalence). They don't avoid the caregiver—they cling to them.",
+        "Disorganized, ~5-10%": "Disorganized children show confused, contradictory behaviors like approaching while looking away or freezing. The avoidant pattern described is consistent and organized, not contradictory or confused."
+      }
+    }
+  },
+  {
+    "question": "According to the Romanian orphanage studies, what is the critical finding about the timing of deprivation and recovery?",
+    "difficulty": "learning",
+    "options": [
+      "Recovery is impossible regardless of when adoption occurs",
+      "There is a sensitive period where deprivation beyond roughly 6 months increases risk, and beyond 24 months the risk is very high",
+      "Only children adopted before 3 months show any recovery",
+      "The timing of deprivation doesn't matter—only the severity matters"
+    ],
+    "answer": "There is a sensitive period where deprivation beyond roughly 6 months increases risk, and beyond 24 months the risk is very high",
+    "explanation": {
+      "correct": "The Romanian orphanage studies (led by Rutter and colleagues) identified clear sensitive periods. Deprivation lasting beyond approximately 6 months markedly increases developmental risks, and beyond 24 months the risk becomes very high. Earlier intervention leads to better outcomes.",
+      "incorrect": {
+        "Recovery is impossible regardless of when adoption occurs": "This is too pessimistic. Many Romanian orphans showed significant recovery, especially those adopted earlier. The studies show recovery is possible but timing affects outcomes.",
+        "Only children adopted before 3 months show any recovery": "This is too restrictive. While earlier adoption is better, children adopted after 3 months can still show recovery. The critical thresholds identified were 6 and 24 months, not 3 months.",
+        "The timing of deprivation doesn't matter—only the severity matters": "This contradicts the key finding. The studies specifically demonstrated that timing DOES matter—there are sensitive periods where the developing brain is particularly vulnerable, making early intervention crucial."
+      }
+    }
+  }
+]

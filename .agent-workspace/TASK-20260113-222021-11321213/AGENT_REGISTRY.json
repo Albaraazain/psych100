@@ -1,0 +1,94 @@
+{
+  "task_id": "TASK-20260113-222021-11321213",
+  "task_description": "Generate additional PSYC100 quiz questions for weeks 6, 7, 8, and 9",
+  "created_at": "2026-01-13T22:20:21.059054",
+  "workspace": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace/TASK-20260113-222021-11321213",
+  "workspace_base": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace",
+  "client_cwd": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050",
+  "status": "INITIALIZED",
+  "priority": "P1",
+  "phases": [
+    {
+      "id": "phase-786fab88",
+      "order": 1,
+      "name": "Question Generation",
+      "description": "Generate psychology quiz questions for all 4 weeks in parallel",
+      "deliverables": [
+        "15-20 new questions for Week 6 (Perception)",
+        "15-20 new questions for Week 7 (Social Psychology/Attribution)",
+        "15-20 new questions for Week 8 (Developmental/Attachment)",
+        "15-20 new questions for Week 9 (Intelligence)"
+      ],
+      "success_criteria": [
+        "Questions cover all major topics from slides",
+        "Mix of learning, application, and tricky difficulty levels",
+        "Each question has 4 options with comprehensive explanations",
+        "Questions test conceptual understanding not just memorization"
+      ],
+      "status": "ACTIVE",
+      "created_at": "2026-01-13T22:20:21.059003",
+      "started_at": "2026-01-13T22:20:21.059004"
+    },
+    {
+      "id": "phase-e7ea2ab0",
+      "order": 2,
+      "name": "Final Testing",
+      "description": "Comprehensive testing of all implemented features. This phase uses chrome-devtools MCP for browser testing, curl for API tests, and runs any existing test suites.",
+      "deliverables": [
+        "All UI features tested via browser automation",
+        "All API endpoints tested via curl/integration tests",
+        "Existing test suites pass (if applicable)",
+        "No critical bugs or regressions found"
+      ],
+      "success_criteria": [
+        "Core user flows work end-to-end",
+        "No console errors during testing",
+        "API responses are correct and performant",
+        "Visual appearance matches expectations"
+      ],
+      "status": "PENDING",
+      "created_at": "2026-01-13T22:20:21.059026",
+      "started_at": null,
+      "auto_appended": true,
+      "tests_deliverables_from": [
+        "Question Generation"
+      ]
+    }
+  ],
+  "current_phase_index": 0,
+  "agents": [],
+  "agent_hierarchy": {
+    "orchestrator": []
+  },
+  "max_agents": 45,
+  "max_depth": 5,
+  "max_concurrent": 20,
+  "total_spawned": 0,
+  "active_count": 0,
+  "completed_count": 0,
+  "reviews": [],
+  "orchestration_guidance": {
+    "min_specialization_depth": 2,
+    "recommended_child_agents_per_parent": 3,
+    "specialization_domains": [],
+    "complexity_score": 1
+  },
+  "spiral_checks": {
+    "enabled": true,
+    "last_check": "2026-01-13T22:20:21.059080",
+    "violations": 0
+  },
+  "task_context": {
+    "background_context": "Creating quiz questions for PSYC100 General Psychology course. Questions must follow this JSON format:\n{\n  \"question\": \"Question text?\",\n  \"difficulty\": \"learning|application|tricky\",\n  \"options\": [\"A\", \"B\", \"C\", \"D\"],\n  \"answer\": \"Exact correct option text\",\n  \"explanation\": {\n    \"correct\": \"Why this is right\",\n    \"incorrect\": {\n      \"Option A\": \"Why wrong\",\n      \"Option B\": \"Why wrong\",\n      \"Option C\": \"Why wrong\"\n    }\n  }\n}\n\nWeek 6 (Perception) covers: Gestalt principles (figure-ground, proximity, closure, similarity, continuity, symmetry), depth perception (monocular/binocular cues, pictorial cues), perceptual constancy, visual illusions, Gregory's constructivist vs Gibson's ecological theory.\n\nWeek 7 (Social Psychology) covers: Attribution (internal/external), Heider's naive scientist, Jones & Davis correspondence inference, Kelley's covariation theory (consensus, distinctiveness, consistency), attribution biases (FAE, false consensus, self-serving, actor-observer), conformity (Sherif, Asch), obedience (Milgram, Zimbardo).\n\nWeek 8 (Developmental) covers: Attachment (Harlow, Bowlby, Ainsworth Strange Situation, 4 attachment styles), self-concept development, Piaget's cognitive stages (sensorimotor, preoperational, concrete operational, formal operational), assimilation/accommodation, Vygotsky's ZPD.\n\nWeek 9 (Intelligence) covers: Spearman's g factor, Cattell's fluid/crystallized intelligence, Sternberg's triarchic theory, Gardner's multiple intelligences, IQ tests (Stanford-Binet, Wechsler, Raven's), gender/racial IQ differences, Flynn effect, heredity vs environment.",
+    "expected_deliverables": [
+      "60-80 new quiz questions across 4 weeks",
+      "JSON-formatted questions ready for insertion",
+      "Balanced difficulty distribution"
+    ],
+    "success_criteria": [
+      "All major slide topics covered",
+      "Application and tricky questions that test understanding",
+      "Accurate psychology content"
+    ]
+  }
+}
