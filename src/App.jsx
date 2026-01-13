@@ -42,11 +42,13 @@ function App() {
   const [sidebarOpen, setSidebarOpen] = useState(window.innerWidth >= 1024);
   const scrollContainerRef = useRef(null);
 
-  // Ensure sidebar is open on desktop when resizing
+  // Handle responsive sidebar: open on desktop, close on mobile
   useEffect(() => {
     const handleResize = () => {
       if (window.innerWidth >= 1024) {
         setSidebarOpen(true);
+      } else {
+        setSidebarOpen(false);
       }
     };
 

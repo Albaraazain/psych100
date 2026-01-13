@@ -1,29 +1,47 @@
-import React, { useRef, useEffect } from 'react';
+import React, { useRef, useEffect, useState } from 'react';
 import { ChevronRight } from 'lucide-react';
 import gsap from 'gsap';
 
 const Sidebar = ({ courseData, activeWeekIndex, activeTopicIndex, onSelect, isOpen, onClose }) => {
   const sidebarRef = useRef(null);
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 1024);
 
+  // Track mobile/desktop state
   useEffect(() => {
-    if (isOpen) {
-      gsap.to(sidebarRef.current, { x: 0, duration: 0.6, ease: 'expo.out' });
+    const handleResize = () => {
+      setIsMobile(window.innerWidth < 1024);
+    };
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
+  // Only animate on mobile
+  useEffect(() => {
+    if (!sidebarRef.current) return;
+
+    if (isMobile) {
+      if (isOpen) {
+        gsap.to(sidebarRef.current, { x: 0, duration: 0.6, ease: 'expo.out' });
+      } else {
+        gsap.to(sidebarRef.current, { x: '-100%', duration: 0.6, ease: 'expo.in' });
+      }
     } else {
-      gsap.to(sidebarRef.current, { x: '-100%', duration: 0.6, ease: 'expo.in' });
+      // On desktop, ensure sidebar is always visible (reset any mobile animation)
+      gsap.set(sidebarRef.current, { x: 0 });
     }
-  }, [isOpen]);
+  }, [isOpen, isMobile]);
 
   return (
     <>
       {/* Backdrop for mobile */}
-      <div 
+      <div
         className={`fixed inset-0 bg-ink/10 backdrop-blur-sm z-40 lg:hidden transition-opacity duration-300 ${isOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}
         onClick={onClose}
       />
 
-      <aside 
+      <aside
         ref={sidebarRef}
-        className="fixed lg:static inset-y-0 left-0 z-50 w-80 bg-canvas border-r border-black/5 transform -translate-x-full lg:translate-x-0 overflow-hidden flex flex-col font-sans"
+        className={`fixed lg:static inset-y-0 left-0 z-50 w-80 bg-canvas border-r border-black/5 overflow-hidden flex flex-col font-sans ${isMobile ? 'transform -translate-x-full' : ''}`}
         style={{ willChange: 'transform' }}
       >
         <div className="p-8 pb-8">
