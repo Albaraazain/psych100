@@ -15,15 +15,27 @@ const Sidebar = ({ courseData, activeWeekIndex, activeTopicIndex, onSelect, isOp
     return () => window.removeEventListener('resize', handleResize);
   }, []);
 
-  // Only animate on mobile
+  // Set initial position on mount
+  useEffect(() => {
+    if (!sidebarRef.current) return;
+
+    // Set initial state without animation
+    if (isMobile && !isOpen) {
+      gsap.set(sidebarRef.current, { x: '-100%' });
+    } else {
+      gsap.set(sidebarRef.current, { x: 0 });
+    }
+  }, []); // Only run on mount
+
+  // Animate on mobile when isOpen changes
   useEffect(() => {
     if (!sidebarRef.current) return;
 
     if (isMobile) {
       if (isOpen) {
-        gsap.to(sidebarRef.current, { x: 0, duration: 0.6, ease: 'expo.out' });
+        gsap.to(sidebarRef.current, { x: 0, duration: 0.5, ease: 'power3.out' });
       } else {
-        gsap.to(sidebarRef.current, { x: '-100%', duration: 0.6, ease: 'expo.in' });
+        gsap.to(sidebarRef.current, { x: '-100%', duration: 0.4, ease: 'power3.in' });
       }
     } else {
       // On desktop, ensure sidebar is always visible (reset any mobile animation)
@@ -41,7 +53,7 @@ const Sidebar = ({ courseData, activeWeekIndex, activeTopicIndex, onSelect, isOp
 
       <aside
         ref={sidebarRef}
-        className={`fixed lg:static inset-y-0 left-0 z-50 w-80 bg-canvas border-r border-black/5 overflow-hidden flex flex-col font-sans ${isMobile ? 'transform -translate-x-full' : ''}`}
+        className="fixed lg:static inset-y-0 left-0 z-50 w-80 bg-canvas border-r border-black/5 overflow-hidden flex flex-col font-sans"
         style={{ willChange: 'transform' }}
       >
         <div className="p-8 pb-8">
