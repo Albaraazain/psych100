@@ -1,0 +1,866 @@
+{
+  "week": "Week 09",
+  "dateRange": "1 December - 7 December",
+  "topics": [
+    {
+      "id": "intelligence-theories",
+      "title": "Intelligence: Definition and Theories",
+      "subtitle": "Understanding the Nature of Intelligence",
+      "summary": "Intelligence is defined as a general mental capability involving reasoning, planning, problem-solving, abstract thinking, comprehending complex ideas, learning quickly, and learning from experience. This topic explores various theoretical approaches to understanding intelligence.",
+      "keyTakeaways": [
+        "Intelligence involves multiple cognitive abilities including reasoning, problem-solving, and learning from experience.",
+        "Spearman proposed general intelligence (g-factor) plus specific abilities (s-factors).",
+        "Cattell distinguished between fluid intelligence (novel problem-solving) and crystallized intelligence (learned knowledge).",
+        "Sternberg's triarchic theory identifies analytical, creative, and practical intelligence.",
+        "Gardner proposed eight types of multiple intelligences reflecting diverse human abilities."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Defining Intelligence"
+        },
+        {
+          "type": "paragraph",
+          "text": "Intelligence is \"a very general mental capability that involves the ability to reason, plan, solve problems, think abstractly, comprehend complex ideas, learn quickly, and learn from experience.\" This definition emphasizes that intelligence is not just about academic knowledge, but encompasses practical problem-solving abilities and adaptability to new situations."
+        },
+        {
+          "type": "heading",
+          "text": "Spearman's Two-Factor Theory (1904)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Charles Spearman proposed that there is a single general intelligence (g) that influences performance on every cognitive task. In addition to this general factor, there are many specific abilities (s) unique to each particular task. According to this theory, performance on any mental task depends on both how intelligent you are overall (g-factor) and how skilled you are in that specific area (s-factor)."
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "G-Factor Evidence",
+          "text": "People who score high on one type of cognitive test (like verbal reasoning) tend to score high on other types as well (like spatial reasoning), suggesting an underlying general intelligence factor."
+        },
+        {
+          "type": "heading",
+          "text": "Cattell's Fluid and Crystallized Intelligence (gf-gc Theory)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Raymond Cattell (1963) argued that Spearman's g-factor can be subdivided into two major dimensions: fluid and crystallized intelligence."
+        },
+        {
+          "type": "list",
+          "title": "Two Types of Intelligence",
+          "items": [
+            "Fluid Intelligence (gf): The ability to reason, think abstractly, and solve novel problems independent of prior knowledge or experience. This peaks in young adulthood and declines with age.",
+            "Crystallized Intelligence (gc): The ability to use learned knowledge, skills, and experience. It grows through education and cultural exposure and typically increases or remains stable throughout adulthood."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Sternberg's Triarchic Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Robert Sternberg proposed that intelligence consists of three distinct types, each representing different ways of being intelligent in the world."
+        },
+        {
+          "type": "list",
+          "title": "Three Types of Intelligence",
+          "items": [
+            "Analytical Intelligence: The ability to analyze, evaluate, judge, and compare. This is what traditional IQ tests measure—problem-solving and logical reasoning.",
+            "Creative Intelligence: The ability to create, design, invent, and imagine. This involves generating novel solutions and thinking outside the box.",
+            "Practical Intelligence: The ability to use, apply, implement, and put ideas into practice. Often called 'street smarts,' this involves adapting to real-world environments."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Gardner's Multiple Intelligences"
+        },
+        {
+          "type": "paragraph",
+          "text": "Howard Gardner challenged the notion of a single intelligence, proposing instead that humans possess eight relatively independent types of intelligence, each representing different ways of processing information."
+        },
+        {
+          "type": "list",
+          "title": "Eight Types of Intelligence",
+          "items": [
+            "Linguistic Intelligence: Skill with words and language (writers, poets, lawyers)",
+            "Logical-Mathematical Intelligence: Skill with numbers, logic, and abstract reasoning (mathematicians, scientists)",
+            "Spatial Intelligence: Skill with visualizing and manipulating spatial information (architects, pilots, chess players)",
+            "Musical Intelligence: Skill with rhythm, pitch, and musical patterns (musicians, composers)",
+            "Bodily-Kinesthetic Intelligence: Skill with body movement and physical coordination (athletes, dancers, surgeons)",
+            "Interpersonal Intelligence: Skill with understanding and interacting with others (therapists, salespeople, teachers)",
+            "Intrapersonal Intelligence: Skill with self-awareness and understanding one's own emotions (philosophers, spiritual leaders)",
+            "Naturalistic Intelligence: Skill with recognizing patterns in nature (biologists, farmers, environmentalists)"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Controversy",
+          "text": "Gardner's theory remains controversial because these 'intelligences' may be better described as talents or abilities, and they lack strong empirical support as truly independent forms of intelligence."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What is the key feature of fluid intelligence (gf) according to Cattell?",
+          "difficulty": "learning",
+          "options": [
+            "It increases throughout life with education",
+            "It involves solving novel problems independent of prior knowledge",
+            "It relies heavily on cultural knowledge",
+            "It measures vocabulary and general information"
+          ],
+          "answer": "It involves solving novel problems independent of prior knowledge",
+          "explanation": {
+            "correct": "Fluid intelligence is specifically defined as the ability to reason abstractly and solve novel problems without relying on prior knowledge or experience. It represents 'on-the-spot' reasoning ability.",
+            "incorrect": {
+              "It increases throughout life with education": "This describes crystallized intelligence (gc), not fluid. Fluid intelligence actually peaks in young adulthood and declines with age.",
+              "It relies heavily on cultural knowledge": "This is a characteristic of crystallized intelligence. Fluid intelligence is culture-reduced and doesn't depend on learned information.",
+              "It measures vocabulary and general information": "Vocabulary and general information are measures of crystallized intelligence, which reflects accumulated knowledge."
+            }
+          }
+        },
+        {
+          "question": "According to Spearman's two-factor theory, what determines your performance on a math test?",
+          "difficulty": "application",
+          "options": [
+            "Only your general intelligence (g-factor)",
+            "Only your specific math ability (s-factor)",
+            "Both your general intelligence (g) and specific math ability (s)",
+            "Your spatial intelligence according to Gardner"
+          ],
+          "answer": "Both your general intelligence (g) and specific math ability (s)",
+          "explanation": {
+            "correct": "Spearman's theory states that performance on any cognitive task depends on BOTH the general intelligence factor (g) that influences all tasks AND a specific ability factor (s) unique to that particular task. Math performance = g + s(math).",
+            "incorrect": {
+              "Only your general intelligence (g-factor)": "While g-factor contributes, Spearman explicitly included specific abilities (s) for each task. Performance depends on both factors.",
+              "Only your specific math ability (s-factor)": "The s-factor alone doesn't explain performance. The g-factor provides the underlying general cognitive capability that contributes across all tasks.",
+              "Your spatial intelligence according to Gardner": "This confuses Gardner's theory with Spearman's. Gardner proposed multiple independent intelligences, while Spearman focused on g + s factors."
+            }
+          }
+        },
+        {
+          "question": "A 70-year-old professor has extensive vocabulary and can solve familiar physics problems easily, but struggles with new types of puzzles she's never seen before. This pattern best illustrates:",
+          "difficulty": "application",
+          "options": [
+            "High crystallized intelligence, declining fluid intelligence",
+            "High fluid intelligence, declining crystallized intelligence",
+            "Low general intelligence (g-factor)",
+            "Deficit in Gardner's logical-mathematical intelligence"
+          ],
+          "answer": "High crystallized intelligence, declining fluid intelligence",
+          "explanation": {
+            "correct": "This is a classic age-related pattern: crystallized intelligence (learned knowledge like vocabulary and familiar problem-solving) remains stable or increases with age, while fluid intelligence (novel problem-solving) declines. The professor's extensive knowledge is intact but novel reasoning has declined.",
+            "incorrect": {
+              "High fluid intelligence, declining crystallized intelligence": "This is backwards. Vocabulary and familiar problem-solving reflect crystallized intelligence, which is intact. Her struggle with novel puzzles shows declining fluid intelligence.",
+              "Low general intelligence (g-factor)": "Her success with vocabulary and familiar problems indicates high intelligence overall. This is about differential aging of intelligence components, not low g.",
+              "Deficit in Gardner's logical-mathematical intelligence": "She solves familiar physics problems easily, showing intact logical-mathematical ability. The issue is specifically with novel (fluid) vs. learned (crystallized) tasks."
+            }
+          }
+        },
+        {
+          "question": "Which type of intelligence in Sternberg's triarchic theory is most similar to what traditional IQ tests measure?",
+          "difficulty": "learning",
+          "options": [
+            "Practical intelligence",
+            "Creative intelligence",
+            "Analytical intelligence",
+            "All three types equally"
+          ],
+          "answer": "Analytical intelligence",
+          "explanation": {
+            "correct": "Traditional IQ tests primarily measure analytical intelligence—the ability to analyze, evaluate, judge, compare, and solve well-defined problems. This is what standardized tests assess.",
+            "incorrect": {
+              "Practical intelligence": "Practical intelligence ('street smarts') involves adapting to real-world situations. Traditional IQ tests don't assess this—they use abstract, decontextualized problems.",
+              "Creative intelligence": "Creative intelligence involves generating novel ideas and solutions. Most IQ tests have right/wrong answers and don't measure creativity or originality.",
+              "All three types equally": "Traditional IQ tests are heavily weighted toward analytical abilities. They largely ignore practical adaptation and creative thinking."
+            }
+          }
+        },
+        {
+          "question": "A person who can read others' emotions accurately, knows how to persuade people, and excels at resolving conflicts would score high in which of Gardner's intelligences?",
+          "difficulty": "application",
+          "options": [
+            "Intrapersonal intelligence",
+            "Interpersonal intelligence",
+            "Linguistic intelligence",
+            "Logical-mathematical intelligence"
+          ],
+          "answer": "Interpersonal intelligence",
+          "explanation": {
+            "correct": "Interpersonal intelligence is the ability to understand and interact effectively with others. Reading emotions, persuading, and resolving conflicts are all interpersonal skills involving understanding other people.",
+            "incorrect": {
+              "Intrapersonal intelligence": "This is about understanding YOURSELF—self-awareness and insight into your own emotions and motivations, not understanding others.",
+              "Linguistic intelligence": "While communication involves language, the key abilities described (reading emotions, persuading, resolving conflicts) are about understanding people, not language facility per se.",
+              "Logical-mathematical intelligence": "These social skills don't involve mathematical or logical reasoning. They require understanding human behavior and emotions."
+            }
+          }
+        },
+        {
+          "question": "What is the primary criticism of Gardner's multiple intelligences theory?",
+          "difficulty": "tricky",
+          "options": [
+            "It only identifies two types of intelligence",
+            "It lacks strong empirical support and may describe talents rather than independent intelligences",
+            "It contradicts the existence of a g-factor completely",
+            "It focuses too heavily on academic abilities"
+          ],
+          "answer": "It lacks strong empirical support and may describe talents rather than independent intelligences",
+          "explanation": {
+            "correct": "The main criticism is that Gardner's 'intelligences' may be better described as talents or abilities rather than truly independent forms of intelligence. There's limited empirical evidence that these are separate intelligences rather than specialized skills. Additionally, many show correlations suggesting an underlying g-factor.",
+            "incorrect": {
+              "It only identifies two types of intelligence": "Gardner proposed EIGHT types of intelligence, not two. Cattell's theory has two types (fluid and crystallized).",
+              "It contradicts the existence of a g-factor completely": "While Gardner downplays g, this isn't the primary criticism. The main issue is whether his 'intelligences' are truly independent forms of intelligence or just talents.",
+              "It focuses too heavily on academic abilities": "Actually, the opposite is true. Gardner's theory EXPANDED beyond academic abilities to include musical, bodily-kinesthetic, and interpersonal skills—that's one of its appeals."
+            }
+          }
+        },
+        {
+          "question": "A software engineer who writes elegant code and solves complex algorithms might have high _____, while a CEO who successfully navigates corporate politics and motivates teams might have high _____.",
+          "difficulty": "application",
+          "options": [
+            "analytical intelligence; practical intelligence",
+            "practical intelligence; analytical intelligence",
+            "creative intelligence; analytical intelligence",
+            "crystallized intelligence; fluid intelligence"
+          ],
+          "answer": "analytical intelligence; practical intelligence",
+          "explanation": {
+            "correct": "The engineer uses analytical intelligence (problem-solving, logical reasoning, analyzing complex systems). The CEO uses practical intelligence (applying knowledge in real-world contexts, adapting to social situations, implementing ideas—'street smarts').",
+            "incorrect": {
+              "practical intelligence; analytical intelligence": "This reverses the match. Writing algorithms is analytical work (abstract problem-solving), while navigating politics is practical application in real contexts.",
+              "creative intelligence; analytical intelligence": "While coding can involve creativity, solving complex algorithms is primarily analytical. And the CEO's skills are practical adaptation, not analytical reasoning.",
+              "crystallized intelligence; fluid intelligence": "These are Cattell's concepts, not Sternberg's triarchic theory. The question asks about Sternberg's framework, and the skills described map to analytical and practical, not crystallized and fluid."
+            }
+          }
+        },
+        {
+          "question": "According to the material, what happens to crystallized intelligence as people age?",
+          "difficulty": "learning",
+          "options": [
+            "It declines steadily from age 30",
+            "It peaks in young adulthood then declines",
+            "It typically increases or remains stable throughout adulthood",
+            "It is unaffected by age"
+          ],
+          "answer": "It typically increases or remains stable throughout adulthood",
+          "explanation": {
+            "correct": "Crystallized intelligence (learned knowledge, vocabulary, skills from experience) grows through education and cultural exposure and typically increases or remains stable throughout adulthood. Older adults often have richer vocabularies and more world knowledge than younger adults.",
+            "incorrect": {
+              "It declines steadily from age 30": "This describes fluid intelligence, not crystallized. Crystallized intelligence is maintained or improves with age.",
+              "It peaks in young adulthood then declines": "Again, this pattern describes fluid intelligence. Crystallized intelligence continues to accumulate with experience.",
+              "It is unaffected by age": "While more stable than fluid intelligence, crystallized intelligence isn't completely unaffected—it generally INCREASES with age as knowledge accumulates."
+            }
+          }
+        },
+        {
+          "question": "In Spearman's theory, the 'g-factor' refers to:",
+          "difficulty": "learning",
+          "options": [
+            "Genetic factors in intelligence",
+            "General intelligence that influences all cognitive tasks",
+            "Gardner's theory of multiple intelligences",
+            "Group differences in IQ scores"
+          ],
+          "answer": "General intelligence that influences all cognitive tasks",
+          "explanation": {
+            "correct": "The 'g-factor' or general intelligence is a single underlying factor that Spearman proposed influences performance on every cognitive task. People with high g tend to perform well across diverse mental tests.",
+            "incorrect": {
+              "Genetic factors in intelligence": "While g has a genetic component, 'g' doesn't stand for 'genetic.' It stands for 'general'—a general cognitive ability.",
+              "Gardner's theory of multiple intelligences": "Gardner's theory actually challenges the idea of a single g-factor by proposing multiple independent intelligences. These are opposing theories.",
+              "Group differences in IQ scores": "The g-factor is about individual intelligence structure, not group differences. It describes how cognitive abilities relate within individuals."
+            }
+          }
+        },
+        {
+          "question": "Which intelligence theorist argued that intelligence cannot be captured by a single factor and proposed eight distinct types?",
+          "difficulty": "learning",
+          "options": [
+            "Charles Spearman",
+            "Raymond Cattell",
+            "Robert Sternberg",
+            "Howard Gardner"
+          ],
+          "answer": "Howard Gardner",
+          "explanation": {
+            "correct": "Howard Gardner proposed the theory of Multiple Intelligences, arguing that there are eight relatively independent types of intelligence rather than a single general intelligence.",
+            "incorrect": {
+              "Charles Spearman": "Spearman proposed the opposite—that there IS a single general intelligence (g-factor) underlying all cognitive abilities.",
+              "Raymond Cattell": "Cattell divided intelligence into TWO types (fluid and crystallized), not eight. He worked within the g-factor framework.",
+              "Robert Sternberg": "Sternberg proposed THREE types of intelligence (analytical, creative, practical) in his triarchic theory, not eight."
+            }
+          }
+        },
+        {
+          "question": "A musician who can perfectly recreate complex melodies by ear but struggles with written music theory would likely have:",
+          "difficulty": "tricky",
+          "options": [
+            "High fluid intelligence, low crystallized intelligence",
+            "High musical intelligence (Gardner), low logical-mathematical intelligence",
+            "High practical intelligence (Sternberg), low analytical intelligence",
+            "High s-factor for music, low g-factor overall"
+          ],
+          "answer": "High musical intelligence (Gardner), low logical-mathematical intelligence",
+          "explanation": {
+            "correct": "This person has strong musical ability (recognizing and reproducing melodies) but struggles with the theoretical/mathematical aspects of music. In Gardner's framework, they have high musical intelligence but lower logical-mathematical intelligence (which underlies understanding formal theory).",
+            "incorrect": {
+              "High fluid intelligence, low crystallized intelligence": "The ability to recreate melodies could involve both fluid (novel pattern recognition) and crystallized (learned musical knowledge). The issue is specifically musical vs. theoretical/mathematical ability, not fluid vs. crystallized.",
+              "High practical intelligence (Sternberg), low analytical intelligence": "Playing music by ear could be seen as practical, but Sternberg's categories don't map well to this specific musical vs. theory distinction. Gardner's framework is more appropriate here.",
+              "High s-factor for music, low g-factor overall": "Having one specific weakness (music theory) doesn't indicate low g-factor. Spearman's g is supposed to influence ALL tasks, so high performance in music reproduction suggests adequate g. This is more about specific abilities."
+            }
+          }
+        },
+        {
+          "question": "The definition of intelligence provided emphasizes all of the following EXCEPT:",
+          "difficulty": "learning",
+          "options": [
+            "Ability to reason and plan",
+            "Learning from experience",
+            "Thinking abstractly",
+            "Memorizing facts quickly"
+          ],
+          "answer": "Memorizing facts quickly",
+          "explanation": {
+            "correct": "The definition mentions 'learn quickly' but emphasizes reasoning, planning, problem-solving, thinking abstractly, and learning from experience. Simple memorization without understanding is not emphasized in modern definitions of intelligence.",
+            "incorrect": {
+              "Ability to reason and plan": "This is explicitly mentioned in the definition: 'involves the ability to reason, plan...'",
+              "Learning from experience": "This is explicitly stated in the definition: 'learn from experience.'",
+              "Thinking abstractly": "This is explicitly mentioned: 'think abstractly, comprehend complex ideas.'"
+            }
+          }
+        },
+        {
+          "question": "Which pairing correctly matches the theorist with their key concept?",
+          "difficulty": "learning",
+          "options": [
+            "Spearman - fluid and crystallized intelligence",
+            "Cattell - triarchic theory",
+            "Sternberg - analytical, creative, and practical intelligence",
+            "Gardner - g-factor and s-factors"
+          ],
+          "answer": "Sternberg - analytical, creative, and practical intelligence",
+          "explanation": {
+            "correct": "Sternberg proposed the triarchic theory with three types of intelligence: analytical, creative, and practical.",
+            "incorrect": {
+              "Spearman - fluid and crystallized intelligence": "Cattell, not Spearman, proposed fluid and crystallized intelligence. Spearman proposed g and s factors.",
+              "Cattell - triarchic theory": "Sternberg, not Cattell, proposed the triarchic theory. Cattell proposed fluid and crystallized intelligence.",
+              "Gardner - g-factor and s-factors": "Spearman, not Gardner, proposed g and s factors. Gardner proposed multiple intelligences."
+            }
+          }
+        },
+        {
+          "question": "A person who is excellent at learning new languages, solving novel logic puzzles, and adapting to unfamiliar situations likely has high:",
+          "difficulty": "application",
+          "options": [
+            "Crystallized intelligence only",
+            "Fluid intelligence primarily",
+            "Practical intelligence in Sternberg's theory",
+            "Intrapersonal intelligence in Gardner's theory"
+          ],
+          "answer": "Fluid intelligence primarily",
+          "explanation": {
+            "correct": "All three abilities described—learning new languages quickly, solving novel puzzles, adapting to unfamiliar situations—require fluid intelligence: reasoning abstractly and solving new problems independent of prior specific knowledge.",
+            "incorrect": {
+              "Crystallized intelligence only": "Crystallized intelligence is about using existing knowledge. These tasks all emphasize NOVEL situations and NEW learning, which are hallmarks of fluid intelligence.",
+              "Practical intelligence in Sternberg's theory": "While adapting to situations involves practical intelligence, solving novel logic puzzles is more analytical. The emphasis on NOVEL problems across domains points to fluid intelligence (Cattell's framework).",
+              "Intrapersonal intelligence in Gardner's theory": "Intrapersonal intelligence is about self-awareness and understanding one's own emotions, not learning languages or solving puzzles."
+            }
+          }
+        },
+        {
+          "question": "Why might Spearman's g-factor theory and Gardner's multiple intelligences theory be considered contradictory?",
+          "difficulty": "tricky",
+          "options": [
+            "Spearman focused on children while Gardner focused on adults",
+            "Spearman proposed one underlying intelligence while Gardner proposed eight independent intelligences",
+            "Spearman used only verbal tests while Gardner used only performance tests",
+            "Spearman ignored creativity while Gardner emphasized it"
+          ],
+          "answer": "Spearman proposed one underlying intelligence while Gardner proposed eight independent intelligences",
+          "explanation": {
+            "correct": "These theories make fundamentally different claims about intelligence structure. Spearman argued for a single underlying general intelligence (g) that influences all cognitive abilities. Gardner argued there is NO single general intelligence, but rather eight relatively independent intelligences. These are opposing views on whether intelligence is unitary or multiple.",
+            "incorrect": {
+              "Spearman focused on children while Gardner focused on adults": "Neither theory is age-specific. Both apply across the lifespan. This isn't the source of their contradiction.",
+              "Spearman used only verbal tests while Gardner used only performance tests": "This misstates their methods. Spearman analyzed correlations across diverse tests. Gardner's theory isn't primarily about test types but about the conceptual structure of intelligence.",
+              "Spearman ignored creativity while Gardner emphasized it": "While Gardner did include different types of abilities, the core contradiction is about whether intelligence is unitary (Spearman) or multiple (Gardner), not specifically about creativity."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "intelligence-testing",
+      "title": "Intelligence Testing and IQ",
+      "subtitle": "Measuring Intelligence and Individual Differences",
+      "summary": "Intelligence testing has a long history beginning with Binet's work in France. This topic covers major IQ tests, their structure and interpretation, as well as research on gender differences, racial differences, and the Flynn Effect.",
+      "keyTakeaways": [
+        "The Stanford-Binet test (1905/1986/2003) was the first individual intelligence test, based on Binet and Simon's work.",
+        "Army Alpha and Army Beta tests (1917-1919) were the first group intelligence tests, developed for WWI military screening.",
+        "Wechsler tests (WPPSI, WISC, WAIS) are the most commonly used IQ tests globally, with balanced verbal and nonverbal scales.",
+        "Raven's Progressive Matrices are non-verbal, culture-reduced tests of fluid intelligence.",
+        "Gender differences in IQ are minimal overall; males show advantages in spatial/mechanical tasks, females in verbal fluency.",
+        "Racial IQ differences are better explained by environmental factors (education, socioeconomic status, systemic inequities) than by genetics or test bias.",
+        "The Flynn Effect shows IQ scores have increased ~3 points per decade, primarily in fluid intelligence, likely due to improved nutrition, education, and cognitive stimulation."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "The Stanford-Binet Test"
+        },
+        {
+          "type": "paragraph",
+          "text": "In 1904, Alfred Binet and Theodore Simon were commissioned by the French government to devise a test to identify children who wouldn't benefit from ordinary schooling due to lower intelligence. The result was the Simon-Binet test (1905), generally accepted as the first individual intelligence test."
+        },
+        {
+          "type": "list",
+          "title": "Development and Features",
+          "items": [
+            "Multiple revisions led to the Stanford-Binet test (Stanford University adaptation)",
+            "4th revision in 1986, 5th edition in 2003",
+            "Verbal and nonverbal scales are balanced (based on Cattell's gf-gc theory)",
+            "Scores: Mean = 100, Standard Deviation = 15",
+            "Provides Verbal IQ, Nonverbal IQ, and Full-Scale IQ scores"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Army Alpha and Army Beta Tests"
+        },
+        {
+          "type": "paragraph",
+          "text": "These were the very first group intelligence tests in history, developed in 1917-1919 by the U.S. Army to screen and classify over 1.7 million recruits during World War I."
+        },
+        {
+          "type": "list",
+          "title": "Two Versions",
+          "items": [
+            "Army Alpha: Designed for literate recruits who could read and write English well",
+            "Army Beta: Designed for illiterate recruits or non-English speakers (mostly recent immigrants from Southern/Eastern Europe and some African Americans)"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Historical Significance",
+          "text": "The Army tests marked a shift from individual to group testing, making mass intelligence assessment possible for the first time. However, they were also criticized for cultural bias."
+        },
+        {
+          "type": "heading",
+          "text": "Wechsler Tests"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Wechsler scales are the most commonly used IQ tests globally. They feature balanced verbal and nonverbal scales, making them less dependent on language ability than earlier tests."
+        },
+        {
+          "type": "list",
+          "title": "Current Versions",
+          "items": [
+            "WPPSI-IV (2012): Wechsler Preschool and Primary Scale of Intelligence for ages 2.5-6 years",
+            "WISC-V (2014): Wechsler Intelligence Scale for Children for ages 6-16 years",
+            "WAIS-V (2024): Wechsler Adult Intelligence Scale for ages 16-90 years"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Raven's Progressive Matrices"
+        },
+        {
+          "type": "paragraph",
+          "text": "Developed by John Raven (1938, revised 1998), these tests include the Standard Progressive Matrices (SPM), Advanced Progressive Matrices (APM), and Colored Progressive Matrices (CPM for children). They are non-verbal and culture-reduced, making them useful for cross-cultural assessment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Test-takers must identify the missing pattern in a series of abstract designs. This measures fluid intelligence (gf) with minimal influence from language or cultural knowledge."
+        },
+        {
+          "type": "heading",
+          "text": "Gender Differences in IQ"
+        },
+        {
+          "type": "paragraph",
+          "text": "Most IQ tests have been constructed to minimize overall gender differences. Research findings include:"
+        },
+        {
+          "type": "list",
+          "title": "Key Findings",
+          "items": [
+            "Overall IQ: Any differences are negligible (Terman, 1916). Meta-analyses reporting males average 5 points higher (Irwing & Lynn, 2005) have small effect sizes.",
+            "Male Advantages: Better on visuospatial tasks (mental rotation—males average ~1 SD above females), mechanical reasoning, and quantitative tasks (mathematics)",
+            "Female Advantages: Better on verbal tasks (synonym generation, verbal fluency—females average 0.5-1.2 SD above males) and some memory tasks"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Explaining Gender Differences",
+          "text": "Biological factors (brain size, hormones, evolution) and environmental factors (socialization, education, gender-differentiated toys) both contribute. Gaps narrow in gender-equal societies, but some high-end math differences persist."
+        },
+        {
+          "type": "heading",
+          "text": "Racial Differences in IQ"
+        },
+        {
+          "type": "paragraph",
+          "text": "Studies in the USA have reported racial group differences in average IQ scores. Jensen (1969) and Herrnstein & Murray's The Bell Curve (1994) suggested differences between Black (mean ~85) and White (mean ~100) Americans, claiming genetic origins."
+        },
+        {
+          "type": "paragraph",
+          "text": "The American Psychological Association task force (Neisser et al., 1996) confirmed the statistical differences but attributed them to cultural and environmental factors rather than genetics."
+        },
+        {
+          "type": "list",
+          "title": "Three Proposed Explanations",
+          "items": [
+            "Test Bias: IQ tests reflect the cultural knowledge, language, and experiences of the dominant group (typically White, middle-class Americans), disadvantaging minorities. Differences measure familiarity with test content, not true intelligence.",
+            "Genetics: Racial groups evolved different cognitive abilities due to historical selection pressures. This explanation is rejected by modern science: race is a social construct, not biological; no 'intelligence genes' differ systematically by race (Nisbett et al., 2012).",
+            "Environment (Consensus View): Gaps result from unequal access to resources, education, health, and opportunity. Racial categories proxy for systemic inequities (racism, poverty) that shape cognitive development from prenatal stages onward."
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Scientific Consensus",
+          "text": "The overwhelming scientific consensus is that environmental factors, compounded by historical and ongoing inequities, account for nearly all racial IQ differences. Genetic and test bias explanations lack empirical support."
+        },
+        {
+          "type": "heading",
+          "text": "The Flynn Effect"
+        },
+        {
+          "type": "paragraph",
+          "text": "Named after researcher James Flynn, this phenomenon describes the substantial increase in IQ scores over time—on average around 3 IQ points per decade."
+        },
+        {
+          "type": "list",
+          "title": "Key Characteristics",
+          "items": [
+            "Largest gains in fluid intelligence (reasoning, pattern recognition—e.g., Raven's Matrices), not crystallized (vocabulary, facts)",
+            "Observed in over 30 countries, including developing nations",
+            "Slowing or reversing in some developed nations (Norway, Denmark, UK) since the late 1990s"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Proposed Explanations",
+          "items": [
+            "Nutrition: Better prenatal and childhood nutrition supports brain development",
+            "Education: Longer schooling and training in abstract thinking",
+            "Cognitive Stimulation: TV, puzzles, video games, virtual reality increase exposure to abstract problem-solving",
+            "Smaller Families: More parental attention per child",
+            "Test Familiarity: Increased practice with multiple-choice formats and abstract problems"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Heredity vs. Environment in Intelligence"
+        },
+        {
+          "type": "paragraph",
+          "text": "Both heredity and environment contribute to intelligence, and they interact in various ways. Key evidence:"
+        },
+        {
+          "type": "list",
+          "title": "Research Findings",
+          "items": [
+            "Twin Studies: Monozygotic twins reared apart (MZsRA) are more similar in IQ than dizygotic twins reared together, suggesting genetic influence. However, these studies have methodological limitations.",
+            "Adoption Studies: When children from disadvantaged backgrounds are adopted into high-SES families, substantial IQ gains occur, demonstrating environmental impact.",
+            "Gene-Environment Correlation: As genetic similarity increases, environmental similarity often increases too, making it difficult to separate effects."
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Modern View",
+          "text": "Intelligence is neither purely genetic nor purely environmental. Heritability estimates (50-80%) describe variance in a population, not fixed individual potential. Environment matters greatly, especially early in life and in disadvantaged contexts."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What was the original purpose of the Binet-Simon test (1905)?",
+          "difficulty": "learning",
+          "options": [
+            "To identify gifted children for advanced programs",
+            "To identify children who wouldn't benefit from ordinary schooling",
+            "To screen military recruits for World War I",
+            "To measure personality traits in adults"
+          ],
+          "answer": "To identify children who wouldn't benefit from ordinary schooling",
+          "explanation": {
+            "correct": "The French government commissioned Binet and Simon to create a test to identify children with lower intelligence who would need special education rather than ordinary schooling. This was the first practical application of intelligence testing.",
+            "incorrect": {
+              "To identify gifted children for advanced programs": "The test was designed to identify children who WOULDN'T benefit from regular school (those with intellectual disabilities), not gifted children. Gifted identification came later.",
+              "To screen military recruits for World War I": "This describes the Army Alpha and Army Beta tests (1917-1919), not the Binet-Simon test (1905).",
+              "To measure personality traits in adults": "The Binet-Simon test measured cognitive ability in children, not personality traits. Personality testing developed separately."
+            }
+          }
+        },
+        {
+          "question": "Which intelligence test is described as non-verbal and culture-reduced?",
+          "difficulty": "learning",
+          "options": [
+            "Stanford-Binet",
+            "Wechsler tests (WAIS, WISC)",
+            "Raven's Progressive Matrices",
+            "Army Alpha test"
+          ],
+          "answer": "Raven's Progressive Matrices",
+          "explanation": {
+            "correct": "Raven's Progressive Matrices use only abstract visual patterns with no language requirement, making them non-verbal and relatively culture-reduced. Test-takers identify missing patterns in abstract designs.",
+            "incorrect": {
+              "Stanford-Binet": "The Stanford-Binet includes both verbal and nonverbal sections, so it's not non-verbal. It also contains culture-loaded content.",
+              "Wechsler tests (WAIS, WISC)": "While Wechsler tests have nonverbal sections, they also include substantial verbal components. They're not purely non-verbal.",
+              "Army Alpha test": "Army Alpha was specifically designed for LITERATE recruits and required reading English. It was heavily verbal, not non-verbal."
+            }
+          }
+        },
+        {
+          "question": "The Army Alpha and Army Beta tests are historically significant because they were:",
+          "difficulty": "learning",
+          "options": [
+            "The first individual intelligence tests",
+            "The first group intelligence tests",
+            "The first tests to measure crystallized intelligence",
+            "The first non-verbal intelligence tests"
+          ],
+          "answer": "The first group intelligence tests",
+          "explanation": {
+            "correct": "The Army Alpha and Beta tests (1917-1919) were the first GROUP intelligence tests in history, allowing mass testing of over 1.7 million WWI recruits. Before this, tests like Binet's were administered individually.",
+            "incorrect": {
+              "The first individual intelligence tests": "The Binet-Simon test (1905) was the first individual intelligence test, predating the Army tests by over a decade.",
+              "The first tests to measure crystallized intelligence": "The concept of crystallized vs. fluid intelligence wasn't developed until Cattell's work in the 1960s, long after the Army tests.",
+              "The first non-verbal intelligence tests": "While Army Beta had non-verbal components for illiterate recruits, Raven's Progressive Matrices (1938) are more purely non-verbal. Army Alpha was heavily verbal."
+            }
+          }
+        },
+        {
+          "question": "What does the Flynn Effect describe?",
+          "difficulty": "learning",
+          "options": [
+            "IQ scores have increased about 3 points per decade over time",
+            "Males score higher than females on IQ tests",
+            "Fluid intelligence declines with age",
+            "Monozygotic twins have similar IQ scores"
+          ],
+          "answer": "IQ scores have increased about 3 points per decade over time",
+          "explanation": {
+            "correct": "The Flynn Effect, named after researcher James Flynn, is the substantial increase in IQ test scores over time across populations—averaging about 3 points per decade. This has been observed in over 30 countries.",
+            "incorrect": {
+              "Males score higher than females on IQ tests": "This is about gender differences in IQ, not the Flynn Effect. Moreover, overall gender differences in IQ are negligible (see material on gender differences).",
+              "Fluid intelligence declines with age": "This is about aging and intelligence components, not the Flynn Effect. The Flynn Effect is about generational increases across time, not individual decline with age.",
+              "Monozygotic twins have similar IQ scores": "This is evidence for genetic influences on intelligence from twin studies, not the Flynn Effect. The Flynn Effect is about population-level increases over time."
+            }
+          }
+        },
+        {
+          "question": "On which type of tasks do males show the largest performance advantage over females?",
+          "difficulty": "learning",
+          "options": [
+            "Verbal fluency",
+            "Memory tasks",
+            "Mental rotation (visuospatial)",
+            "Synonym generation"
+          ],
+          "answer": "Mental rotation (visuospatial)",
+          "explanation": {
+            "correct": "Males show their largest advantage on visuospatial tasks, particularly mental rotation. The mean of the male distribution on mental rotation is almost one standard deviation above females—the largest gender difference in cognitive abilities.",
+            "incorrect": {
+              "Verbal fluency": "Females perform BETTER than males on verbal fluency tasks. The mean for females is 0.5-1.2 standard deviations above males on verbal tasks.",
+              "Memory tasks": "Females may perform BETTER than males on some memory tasks, according to the material. This is a female advantage, not a male advantage.",
+              "Synonym generation": "Females perform BETTER on synonym generation and other verbal tasks. This is a female advantage."
+            }
+          }
+        },
+        {
+          "question": "According to the American Psychological Association task force (Neisser et al., 1996), what best explains racial differences in average IQ scores?",
+          "difficulty": "learning",
+          "options": [
+            "Genetic differences between racial groups",
+            "Test bias favoring the dominant cultural group",
+            "Cultural and environmental factors",
+            "Differences in brain size"
+          ],
+          "answer": "Cultural and environmental factors",
+          "explanation": {
+            "correct": "The APA task force agreed that differences exist but attributed them to cultural and environmental factors—unequal access to resources, education, health, and opportunities. The overwhelming scientific consensus supports environmental explanations.",
+            "incorrect": {
+              "Genetic differences between racial groups": "The material explicitly states that genetic explanations are rejected by modern science. Race is primarily a social construct, and no 'intelligence genes' differ systematically by race.",
+              "Test bias favoring the dominant cultural group": "While test bias is one of three proposed explanations discussed, the task force and scientific consensus emphasize environmental factors as the primary explanation, not test bias alone.",
+              "Differences in brain size": "Brain size is mentioned in the gender differences section as correlating weakly with IQ, but this is NOT cited as the explanation for racial differences. Environmental factors are emphasized."
+            }
+          }
+        },
+        {
+          "question": "A researcher finds that IQ scores in a developing country have risen dramatically over 40 years, with the largest gains on tests like Raven's Matrices. This pattern is most consistent with:",
+          "difficulty": "application",
+          "options": [
+            "Genetic evolution of the population",
+            "The Flynn Effect driven by environmental improvements",
+            "Test bias being reduced over time",
+            "Increased crystallized intelligence from education"
+          ],
+          "answer": "The Flynn Effect driven by environmental improvements",
+          "explanation": {
+            "correct": "This is a classic Flynn Effect pattern: population-level IQ increases over time, largest on fluid intelligence tests (like Raven's Matrices), observed in developing nations. Environmental improvements (nutrition, education, cognitive stimulation) are the proposed mechanism.",
+            "incorrect": {
+              "Genetic evolution of the population": "Genetic evolution takes thousands of years, not 40 years. The Flynn Effect is far too rapid to be genetic evolution—it must be environmental.",
+              "Test bias being reduced over time": "If test bias were being reduced, we'd expect gains primarily on culturally-loaded tests. Instead, gains are LARGEST on culture-reduced tests like Raven's, suggesting real cognitive improvements, not reduced bias.",
+              "Increased crystallized intelligence from education": "The Flynn Effect shows LARGEST gains in FLUID intelligence (Raven's Matrices measures fluid), not crystallized. Crystallized (vocabulary, facts) shows smaller gains."
+            }
+          }
+        },
+        {
+          "question": "Why might adoption studies provide stronger evidence for environmental effects on IQ than simple correlations between parent and child IQ?",
+          "difficulty": "tricky",
+          "options": [
+            "Adopted children share no genes with adoptive parents, isolating environmental effects",
+            "Adoption agencies select only high-IQ children",
+            "Adoptive parents are always wealthier than biological parents",
+            "Adopted children take IQ tests more frequently"
+          ],
+          "answer": "Adopted children share no genes with adoptive parents, isolating environmental effects",
+          "explanation": {
+            "correct": "In adoption studies, children share genes with biological parents but environment with adoptive parents. This naturally separates genetic from environmental influences. When children from disadvantaged backgrounds are adopted into high-SES families and show substantial IQ gains, this demonstrates environmental impact—the genetic contribution from biological parents remains constant, so gains must be environmental.",
+            "incorrect": {
+              "Adoption agencies select only high-IQ children": "This is false and would actually weaken the evidence if true. Adoption studies often include children from disadvantaged or at-risk backgrounds.",
+              "Adoptive parents are always wealthier than biological parents": "While adoptive parents are often higher-SES, this alone doesn't explain why adoption studies are better evidence. The key is the genetic-environment separation, not just SES differences.",
+              "Adopted children take IQ tests more frequently": "Test frequency isn't the issue, and this isn't necessarily true. The value of adoption studies is in separating genetic from environmental contributions."
+            }
+          }
+        },
+        {
+          "question": "Which IQ test would be MOST appropriate for assessing a child who recently immigrated and speaks little English?",
+          "difficulty": "application",
+          "options": [
+            "Stanford-Binet Verbal IQ subscale",
+            "Army Alpha test",
+            "Raven's Progressive Matrices",
+            "WISC Verbal Comprehension Index"
+          ],
+          "answer": "Raven's Progressive Matrices",
+          "explanation": {
+            "correct": "Raven's Progressive Matrices is non-verbal and culture-reduced, requiring no language skills. The child only needs to identify missing patterns in abstract designs. This minimizes bias against non-English speakers.",
+            "incorrect": {
+              "Stanford-Binet Verbal IQ subscale": "This specifically tests VERBAL abilities and would be entirely inappropriate for someone with limited English. It would severely underestimate their intelligence.",
+              "Army Alpha test": "Army Alpha was designed for LITERATE English speakers. Army Beta was created for illiterate/non-English speakers. Alpha would be completely inappropriate here.",
+              "WISC Verbal Comprehension Index": "Like Stanford-Binet Verbal, this measures verbal/language abilities and would be unfair to a non-English speaker. The nonverbal sections would be better, but Raven's is more purely non-verbal."
+            }
+          }
+        },
+        {
+          "question": "The WAIS-V is designed for which age range?",
+          "difficulty": "learning",
+          "options": [
+            "2.5-6 years old",
+            "6-16 years old",
+            "16-90 years old",
+            "18-65 years old"
+          ],
+          "answer": "16-90 years old",
+          "explanation": {
+            "correct": "The WAIS (Wechsler Adult Intelligence Scale) is designed for adults and older adolescents, covering ages 16-90. The most recent version is WAIS-V (2024).",
+            "incorrect": {
+              "2.5-6 years old": "This is the age range for WPPSI-IV (Wechsler Preschool and Primary Scale of Intelligence), not WAIS.",
+              "6-16 years old": "This is the age range for WISC-V (Wechsler Intelligence Scale for Children), not WAIS.",
+              "18-65 years old": "While WAIS does cover these ages, its range is broader: 16-90. This answer is too restrictive."
+            }
+          }
+        },
+        {
+          "question": "In the Stanford-Binet test, what do the scores mean if someone has an IQ of 115?",
+          "difficulty": "application",
+          "options": [
+            "They answered 115 questions correctly",
+            "They score 115% of what average people score",
+            "They score 1 standard deviation above the mean",
+            "They are 15 points above average intelligence"
+          ],
+          "answer": "They score 1 standard deviation above the mean",
+          "explanation": {
+            "correct": "The Stanford-Binet has a mean of 100 and standard deviation of 15. An IQ of 115 is exactly 1 SD above the mean (100 + 15 = 115), placing them in approximately the 84th percentile.",
+            "incorrect": {
+              "They answered 115 questions correctly": "IQ scores are standardized scores, not raw scores. They don't represent the number of correct answers but position relative to the population.",
+              "They score 115% of what average people score": "IQ isn't a percentage. It's a standardized score where 100 is average by definition, not '100% of correct answers.' 115 means 1 SD above average.",
+              "They are 15 points above average intelligence": "While 115 is indeed 15 points above 100, the most precise interpretation is that they're 1 standard deviation above the mean. The significance is in the SD distance, not just the raw point difference."
+            }
+          }
+        },
+        {
+          "question": "Which statement about gender and IQ is best supported by the research presented?",
+          "difficulty": "tricky",
+          "options": [
+            "Males have significantly higher overall IQ than females",
+            "Gender differences in overall IQ are negligible, but specific ability patterns differ",
+            "Females outperform males on all cognitive tasks",
+            "Gender differences in IQ are entirely due to test bias"
+          ],
+          "answer": "Gender differences in overall IQ are negligible, but specific ability patterns differ",
+          "explanation": {
+            "correct": "The material states that overall IQ differences between genders are negligible (most tests are constructed to minimize differences). However, there ARE specific patterns: males better on visuospatial and mechanical tasks, females better on verbal tasks. Overall intelligence is similar; specific patterns differ.",
+            "incorrect": {
+              "Males have significantly higher overall IQ than females": "Meta-analyses showing males 5 points higher have 'small effect sizes,' and the material emphasizes that 'any difference may only have been negligible.' This overstates the difference.",
+              "Females outperform males on all cognitive tasks": "This is clearly false. While females excel at verbal tasks, males outperform on visuospatial and mechanical reasoning.",
+              "Gender differences in IQ are entirely due to test bias": "The material discusses both biological (brain size, hormones, evolution) and environmental (socialization, education) factors. It's not entirely test bias."
+            }
+          }
+        },
+        {
+          "question": "What type of intelligence does Raven's Progressive Matrices primarily measure?",
+          "difficulty": "learning",
+          "options": [
+            "Crystallized intelligence",
+            "Fluid intelligence",
+            "Verbal intelligence",
+            "Practical intelligence"
+          ],
+          "answer": "Fluid intelligence",
+          "explanation": {
+            "correct": "Raven's Progressive Matrices measures fluid intelligence (gf)—the ability to reason abstractly and solve novel problems independent of prior knowledge. The abstract pattern recognition required is a pure measure of fluid reasoning.",
+            "incorrect": {
+              "Crystallized intelligence": "Crystallized intelligence involves learned knowledge, vocabulary, and facts. Raven's Matrices uses abstract patterns with no learned content, so it doesn't measure crystallized intelligence.",
+              "Verbal intelligence": "Raven's is explicitly non-verbal. It uses only visual patterns, requiring no language ability.",
+              "Practical intelligence": "This is from Sternberg's theory and refers to 'street smarts'—adapting to real-world contexts. Raven's uses abstract puzzles, not practical situations."
+            }
+          }
+        },
+        {
+          "question": "Research shows that when children from disadvantaged backgrounds are adopted into high-SES families, substantial IQ gains often occur. This finding most directly supports which explanation of intelligence?",
+          "difficulty": "application",
+          "options": [
+            "Intelligence is primarily determined by genetics",
+            "Environment significantly influences intelligence",
+            "IQ tests are culturally biased",
+            "Intelligence cannot be changed after age 5"
+          ],
+          "answer": "Environment significantly influences intelligence",
+          "explanation": {
+            "correct": "If IQ were purely genetic, adoption wouldn't cause gains—the child's genes remain constant. The fact that changing environment (adoption into high-SES family with better resources) produces substantial IQ gains demonstrates powerful environmental effects.",
+            "incorrect": {
+              "Intelligence is primarily determined by genetics": "This finding contradicts pure genetic determination. If intelligence were primarily genetic, changing environment wouldn't produce substantial IQ gains.",
+              "IQ tests are culturally biased": "Adoption studies don't directly test cultural bias. Both groups take the same test; what changes is the environment, not the test.",
+              "Intelligence cannot be changed after age 5": "The existence of substantial IQ gains through adoption directly contradicts this. Environment can shape intelligence, even in childhood."
+            }
+          }
+        },
+        {
+          "question": "Why is the recent slowing or reversal of the Flynn Effect in some developed nations (Norway, Denmark, UK) significant?",
+          "difficulty": "tricky",
+          "options": [
+            "It suggests humans have reached maximum cognitive capacity",
+            "It indicates genetic changes are occurring in these populations",
+            "It suggests environmental factors (nutrition, education) may have ceiling effects in developed nations",
+            "It proves IQ tests have become easier over time"
+          ],
+          "answer": "It suggests environmental factors (nutrition, education) may have ceiling effects in developed nations",
+          "explanation": {
+            "correct": "The Flynn Effect is attributed to environmental improvements (nutrition, education, cognitive stimulation). If these factors have diminishing returns after reaching high levels, IQ gains would plateau or reverse in developed nations that have already optimized these factors. The slowing supports environmental explanations.",
+            "incorrect": {
+              "It suggests humans have reached maximum cognitive capacity": "There's no evidence of a biological maximum. The slowing is specific to certain developed nations, not universal, suggesting it's about environmental saturation, not human capacity limits.",
+              "It indicates genetic changes are occurring in these populations": "Genetic changes take thousands of years. The reversal happened in just 20-30 years (since 1990s), far too fast for genetic evolution.",
+              "It proves IQ tests have become easier over time": "This is backwards. If tests became easier, scores would INCREASE, not slow/reverse. The reversal suggests real cognitive changes, not test difficulty changes."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

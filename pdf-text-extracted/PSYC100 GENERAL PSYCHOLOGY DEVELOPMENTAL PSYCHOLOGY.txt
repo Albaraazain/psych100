@@ -1,0 +1,431 @@
+PSYC100
+GENERAL
+PSYCHOLOGY
+DEVELOPMENTAL PSYCHOLOGY
+
+LEARNING OUTCOMES
+◦ Early experiences and attachment
+◦ Development of self concept
+◦ Cognitive development and Piaget’s Theory
+◦ Zone of Proximal Development - Vygotsky
+
+I - What is attachment?
+◦ According to Kagan et al. (1978), an attachment is: ... an intense emotional
+relationship that is specific to two people, that endures over time, and in which
+prolonged separation from the partner is accompanied by stress and sorrow.
+◦ Our first attachment acts as a prototype (or model) for all later relationships.
+◦ Harlow’s experiments with monkeys
+◦ John Bowlby
+◦ Mary Ainsworth
+
+Harlow’s monkey experiments
+◦ To study whether attachment in infants is based on biological needs (feeding) or emotional comfort (contact
+and security).
+◦ https://www.youtube.com/watch?v=-Qi7txH1KzY
+◦ https://www.youtube.com/watch?v=OrNBEhzjg8I
+◦ Monkeys overwhelmingly preferred the cloth mother, even though she provided no food.
+◦ They only went to the wire mother briefly to feed, then immediately returned to the cloth mother.
+
+Surrogate
+Mother
+
+Description
+
+Provided
+Milk?
+
+Wire Mother
+
+Bare wire
+frame
+
+Cloth Mother
+
+Covered in
+No (no
+soft terry cloth milk)
+
+✅ Yes (bottle
+attached)
+
+❌
+
+Harlow’s follow-up studies
+1. Isolation studies: Monkeys raised in total isolation (no mother, no peers) became emotionally disturbed,
+socially withdrawn, and often self-harming; When reintroduced to others, they were fearful or aggressive and
+struggled to mate or care for offspring.
+2. Partial isolation studies: Monkeys could see and hear others but not touch them; Still developed abnormal
+behaviors, showing that physical affection and social contact are crucial.
+
+CONCLUSIONS:
+- Attachment is not just about feeding — it’s about security, comfort, and love.
+- Touch and emotional warmth are essential for healthy psychological development.
+- Lack of attachment can lead to severe long-term emotional damage.
+
+John Bowlby (1950s-60s)
+•Bowlby, a British psychologist, was the first to propose that
+attachment is an innate biological system that evolved to ensure
+survival (evolutionary).
+•He argued that children are born with an instinct to seek closeness
+to a caregiver when they feel threatened, frightened, or ill.
+•The caregiver provides a secure base from which the child can
+explore the world and a safe haven for comfort.
+•The critical period for forming primary attachment according to
+Bowlby is roughly from birth to about 3 years of age
+•https://www.youtube.com/watch?v=f1Jw0-LExyc
+
+John Bowlby (1950s-60s)
+◦ Bowlby believed that infants display a strong innate tendency to become attached to
+one particular adult female (not necessarily the natural mother).
+◦ For Bowlby (1951): Mother love in infancy is as important for mental health as are
+vitamins and proteins for physical health.
+◦ Although Bowlby didn’t deny that children form multiple attachments, he saw
+attachment to the mother as being unique: it’s the first to develop and is the strongest
+of all.
+◦ However, Schaffer and Emerson showed that multiple attachments seem to be the
+rule rather than the exception. FATHERS!
+
+Mary Ainsworth (1970s)
+◦ Ainsworth expanded Bowlby’s theory with her “Strange Situation”
+experiment (1970s), which observed how infants reacted to separations
+and reunions with their mothers.
+◦ Studied how infants (12-18 months old) form attachments and react to
+separation and reunion with their caregiver.
+◦ Identified 4 main attachment styles.
+
+Step
+
+Who’s in the room
+
+What happens
+
+What psychologists observe
+
+1
+
+Parent + baby
+
+Parent and baby enter room.
+
+Infant’s willingness to explore.
+
+2
+
+Parent + baby
+
+Baby explores with parent nearby.
+
+Use of parent as a secure base.
+
+3
+
+Parent + baby + stranger
+
+Stranger enters, talks to parent, then
+approaches baby.
+
+Reaction to stranger.
+
+4
+
+Baby + stranger
+
+Parent quietly leaves.
+
+Separation anxiety.
+
+5
+
+Parent + baby
+
+Parent returns, comforts baby;
+stranger leaves.
+
+Reaction to reunion.
+
+6
+
+Baby alone
+
+Parent leaves baby completely alone. Separation distress.
+
+7
+
+Baby + stranger
+
+Stranger re-enters, offers comfort.
+
+Ability to be soothed by stranger.
+
+8
+
+Parent + baby
+
+Parent returns again.
+
+Second reunion response.
+
+Findings of SSE
+Attachment Type
+
+% of Infants
+
+Key Behaviors
+
+Secure
+
+~65%
+
+Explores freely with caregiver as
+secure base; distressed when
+caregiver leaves; easily comforted
+upon return.
+
+Insecure-Avoidant
+
+~20%
+
+Explores freely; shows little distress
+when caregiver leaves; avoids or
+ignores caregiver upon return.
+
+~10–15%
+
+Clings to caregiver, little exploration;
+highly distressed when caregiver
+leaves; seeks comfort but also resists it
+upon return.
+
+~5–10%
+
+Contradictory or confused behavior
+(e.g., approaching but looking away);
+often linked to trauma or neglect.
+
+Insecure-Resistant (Ambivalent)
+
+Disorganized (added later)
+
+https://www.youtube.com/watch?v=QTsewNrHUHU
+
+Four attachment styles
+Attachment Style
+
+Child Behavior
+
+Later Adult Traits
+
+Secure
+
+Distressed when caregiver
+leaves, comforted when they
+return
+
+Trusting, emotionally stable,
+comfortable with intimacy
+
+Indifferent to caregiver’s
+Avoidant (Insecure-avoidant)
+departure/return
+
+Emotionally distant, values
+independence, avoids
+closeness
+
+Ambivalent / Resistant
+(Insecure-ambivalent)
+
+Very distressed when
+separated, not easily
+comforted
+
+Clingy, overly dependent, fears
+abandonment
+
+Disorganized
+
+Confused or contradictory
+behaviors
+
+Fearful of intimacy, traumarelated patterns
+
+Deprivation and Privation
+
+Are the effects of privation reversible?
+◦ Yes!
+1. Case studies of children who’ve endured extreme early privation, often in near
+complete isolation.
+e.g. Czech twins
+2. Studies of late adoption
+e.g. Romanian orphanages
+
+Czech Twins (Andreas and Petr, discovered 1972,
+age ~7)
+After their mother died, their stepmother locked them
+in a cellar or unheated room with almost no human
+contact, light, or stimulation until age 7 (along with an
+older brother who was less affected).
+At discovery: almost no speech, severe intellectual
+disability (IQ ~40), autistic-like behaviors, no social
+attachment.
+Outcome after intensive rehabilitation: dramatic
+recovery. By adolescence their IQs rose to lownormal range (~90–100), they developed normal
+language and social relationships, finished school,
+and lived relatively normal adult lives.
+
+Romanian Orphanages
+Led by Michael Rutter, Jana Kreppner, and others
+since the early 1990s.
+Background: After the 1989 fall of Ceaușescu in
+Romania, the world discovered thousands of children
+in state orphanages with extreme deprivation:
+Almost no caregiver interaction (ratios sometimes
+1:30–1:60 for infants); Minimal language exposure,
+little play, severe malnutrition in early years; Many
+children spent months/years lying in cots with almost
+no stimulation.
+There is a clear sensitive period: deprivation lasting
+beyond roughly 6 months markedly increases risk;
+beyond 24 months the risk is very high.
+
+ACE and attachment
+Attachment theory and
+Adverse Childhood
+Experiences (ACEs) are two
+deeply interconnected
+concepts in psychology and
+health research, both
+highlighting the profound,
+long-term impact of early life
+experiences on an individual's
+physical and mental wellbeing, as well as their
+relationships throughout life.
+
+II – The Self Concept
+◦ ‘Self ’ and ‘self-concept’ are used interchangeably to refer to an
+individual’s overall self-awareness.
+◦ According to Murphy (1947), ‘the self is the individual as known to the
+individual’.
+◦ Components of the self-concept are self-image (WHO AM I?), selfesteem (HOW I FEEL ABOUT MYSELF?), ideal-self (WHO I WANT TO
+BE?).
+
+Developmental changes in the selfconcept
+◦ During the first few months, the baby gradually distinguishes itself from its
+environment and from other people.
+◦ According to Maccoby (1980), babies are able to distinguish between themselves and
+others on two counts:
+1. their own fingers hurt when bitten (but they don’t have any such sensations when
+they’re biting their rattle or their mother’s fingers)
+2. probably quite early in life, they begin to associate feelings from their own body
+movements with the sight of their own limbs and the sounds of their own cries.
+• Gallup (1977) studies on chimps
+
+◦ Lewis and Brooks-Gunn (979) have used
+modified forms of Gallup’s technique with 6to 24-month-old children. The mother
+applies a dot of rouge to the child’s nose
+(while pretending to wipe its face), and the
+child is observed to see how often it touches
+its nose. It is then placed in front of a mirror,
+and again the number of times it touches its
+nose is recorded. While touching the dot
+was never seen before 15 months, between
+15 and 18 months, 5–25 per cent of infants
+touched it, and 75 per cent of the 18- to 24month-old infants did.
+
+III – Cognitive development
+◦ According to Piaget, cognitive development occurs through the interaction of innate capacities with environmental
+events, and progresses through a series of hierarchical, qualitatively different, stages.
+1) All children pass through the stages in the same sequence without skipping any or regressing to earlier ones
+2) The stages are also the same for everyone irrespective of culture (they’re universal).
+3) Underlying the changes are certain functional invariants, fundamental aspects of the developmental process
+which remain the same and work in the same way through the various stages. The most important of these are
+assimilation and accommodation.
+4) The principal cognitive structure that changes is the schema (plural schemas or schemata).
+
+Assimilation and accommodation
+◦ Assimilation is the process of taking in new information and fitting it into existing
+schemas (mental categories) without changing those schemas.
+◦ E.g. A child knows about dogs: they’re furry, have four legs, and bark. When the child sees a cat for the
+first time, they might call it a “dog” because it also has four legs and fur. The child is assimilating the new
+animal into their existing “dog” schema.
+
+◦ Accommodation is the process of modifying existing schemas or creating new ones
+when new information doesn’t fit the old schema.
+◦ E.g. After being corrected that the cat is not a dog, the child learns that cats meow and have different
+behaviors. The child then creates a new “cat” schema separate from “dog.” This is accommodation —
+adjusting the schema to include new distinctions.
+
+Stages of cognitive development
+(Piaget, 1952)
+
+Sensorimotor Stage
+◦ 0-2 yrs
+◦ Infants understand their world primarily through sensory experiences
+and physical (motor) interactions with objects
+◦ Object Permanence: the understanding that an object continues to
+exist even when it cannot be seen
+◦ Piaget claimed that infants younger than 9 months do not have a
+mental representation of objects
+
+Object permanence
+
+Pre-operational stage
+◦ 2-7 yrs
+◦ The world is represented symbolically through words and mental images; no understanding of basic mental
+operations or rules
+• No understanding of Principle of Conservation: basic properties of objects stay the same even though their
+outward appearance may change e.g. water in differently shaped glasses
+• Egocentrism: difficulty in viewing the world from someone else’s perspective e.g. three mountains task
+• Irreversibility: cannot mentally reverse actions e.g. pouring back the water into glass A
+• Animism: the belief that inanimate objects are capable of actions and have lifelike qualities e.g. the sidewalk
+was mad and made them fall down
+
+Example: Principle of Conservation
+
+Example: Egocentrism
+
+Example: Irreversibility
+
+The child cannot mentally reverse the action and understand that the water
+could be poured back to look the same..
+
+Example: Animism
+
+Concrete operational stage
+◦ 7-11 yrs
+◦ The child is now capable of performing logical operations, but only in the presence of
+actual objects. They can conserve, and show reversibility and more logical
+classification. They are less ego-centric.
+◦ One remaining problem for the concrete operational child is transitivity tasks. For
+example, if told that ‘Alan is taller than Nigel, and Nigel is taller than Charlie’ and
+asked whether Alan or Charlie is taller, children under 11 cannot solve this problem
+entirely in their heads. They can usually only solve it using real (or concrete) objects
+(such as dolls).
+
+Formal operational stage
+◦ 11 + yrs
+◦ Children are able to think logically and systematically about both
+concrete and abstract problems, form hypotheses, and test them in a
+thoughtful way
+
+An alternative model?
+◦ Vygotsky, in contrast to Piaget (and the
+information-processing approach), sees
+the child as a participant in an
+interactive process, by which socially –
+and culturally – determined knowledge
+and understanding gradually become
+individualised.
+◦ Zone of Proximal Development
+◦ Scaffolding - The help provided by a more knowledgeable
+other within the ZPD
+
+Lecture summary
+◦ Attachment and key figures (Harlow, Bowlby, Ainsworth); attachment
+styles
+◦ Self-concept (Gallup’s study)
+◦ Cognitive development and Piaget’s Theory (Four stages, assimilation
+and accommodation)
+◦ Vygotsky - ZPD
+
+

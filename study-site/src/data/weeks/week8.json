@@ -1,0 +1,1220 @@
+{
+  "week": "Week 08",
+  "dateRange": "24 November - 30 November",
+  "topics": [
+    {
+      "id": "attachment-theory",
+      "title": "Attachment Theory",
+      "subtitle": "Early Emotional Bonds and Their Lasting Impact",
+      "summary": "Attachment theory, developed through the work of Harlow, Bowlby, and Ainsworth, explains how early emotional relationships shape lifelong patterns of relating to others. Research demonstrates that attachment is based on emotional comfort and security, not just biological needs like feeding.",
+      "keyTakeaways": [
+        "Harlow's monkey experiments showed attachment is based on contact comfort, not feeding.",
+        "Bowlby proposed attachment is an innate biological system that evolved to ensure survival.",
+        "Ainsworth's Strange Situation identified four attachment styles: secure, insecure-avoidant, insecure-resistant, and disorganized.",
+        "Early attachment patterns can have lasting effects, but extreme privation effects can be reversed with proper intervention."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "What is Attachment?"
+        },
+        {
+          "type": "paragraph",
+          "text": "According to Kagan et al. (1978), an attachment is 'an intense emotional relationship that is specific to two people, that endures over time, and in which prolonged separation from the partner is accompanied by stress and sorrow.' Our first attachment acts as a prototype or model for all later relationships."
+        },
+        {
+          "type": "heading",
+          "text": "Harlow's Monkey Experiments (1950s-60s)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Harry Harlow studied whether attachment in infants is based on biological needs (feeding) or emotional comfort (contact and security) using rhesus monkeys."
+        },
+        {
+          "type": "list",
+          "title": "Harlow's Surrogate Mother Study",
+          "items": [
+            "Wire Mother: Bare wire frame, provided milk via attached bottle.",
+            "Cloth Mother: Covered in soft terry cloth, provided no milk.",
+            "Results: Monkeys overwhelmingly preferred the cloth mother, even though she provided no food. They only went to the wire mother briefly to feed, then immediately returned to the cloth mother for comfort."
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Key Finding",
+          "text": "Harlow's experiments demonstrated that attachment is not just about feeding—it's about security, comfort, and love. Touch and emotional warmth are essential for healthy psychological development."
+        },
+        {
+          "type": "paragraph",
+          "text": "Harlow's follow-up isolation studies showed that monkeys raised in total isolation (no mother, no peers) became emotionally disturbed, socially withdrawn, and often self-harming. When reintroduced to others, they were fearful or aggressive and struggled to mate or care for offspring. Even partial isolation (could see/hear but not touch others) led to abnormal behaviors, showing that physical affection and social contact are crucial."
+        },
+        {
+          "type": "heading",
+          "text": "John Bowlby's Attachment Theory (1950s-60s)"
+        },
+        {
+          "type": "paragraph",
+          "text": "John Bowlby, a British psychologist, was the first to propose that attachment is an innate biological system that evolved to ensure survival (evolutionary perspective)."
+        },
+        {
+          "type": "list",
+          "title": "Bowlby's Key Concepts",
+          "items": [
+            "Children are born with an instinct to seek closeness to a caregiver when threatened, frightened, or ill.",
+            "The caregiver provides a secure base from which the child can explore the world and a safe haven for comfort.",
+            "The critical period for forming primary attachment is roughly from birth to about 3 years of age.",
+            "Bowlby believed infants display a strong innate tendency to become attached to one particular adult (initially emphasized the mother, though later research showed fathers and others also form important attachments)."
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Bowlby's Famous Quote",
+          "text": "For Bowlby (1951): 'Mother love in infancy is as important for mental health as are vitamins and proteins for physical health.'"
+        },
+        {
+          "type": "paragraph",
+          "text": "Although Bowlby emphasized attachment to the mother as unique and strongest, later research by Schaffer and Emerson showed that multiple attachments are the rule rather than the exception. Fathers and other caregivers form important attachment bonds."
+        },
+        {
+          "type": "heading",
+          "text": "Mary Ainsworth's Strange Situation (1970s)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mary Ainsworth expanded Bowlby's theory with her 'Strange Situation' experiment, which observed how infants (12-18 months) reacted to separations and reunions with their mothers in a laboratory setting."
+        },
+        {
+          "type": "list",
+          "title": "Strange Situation Procedure (8 Steps)",
+          "items": [
+            "Step 1: Parent and baby enter room—observe infant's willingness to explore.",
+            "Step 2: Baby explores with parent nearby—observe use of parent as secure base.",
+            "Step 3: Stranger enters and approaches baby—observe reaction to stranger.",
+            "Step 4: Parent leaves (baby + stranger)—observe separation anxiety.",
+            "Step 5: Parent returns, stranger leaves—observe reaction to reunion.",
+            "Step 6: Baby left completely alone—observe separation distress.",
+            "Step 7: Stranger re-enters and offers comfort—observe ability to be soothed by stranger.",
+            "Step 8: Parent returns again—observe second reunion response."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Four Attachment Styles"
+        },
+        {
+          "type": "list",
+          "title": "Ainsworth's Attachment Classifications",
+          "items": [
+            "Secure (~65%): Explores freely with caregiver as secure base; distressed when caregiver leaves; easily comforted upon return. Later adult traits: trusting, emotionally stable, comfortable with intimacy.",
+            "Insecure-Avoidant (~20%): Explores freely; shows little distress when caregiver leaves; avoids or ignores caregiver upon return. Later adult traits: emotionally distant, values independence, avoids closeness.",
+            "Insecure-Resistant/Ambivalent (~10-15%): Clings to caregiver, little exploration; highly distressed when caregiver leaves; seeks comfort but also resists it upon return. Later adult traits: clingy, overly dependent, fears abandonment.",
+            "Disorganized (~5-10%, added later): Contradictory or confused behavior (e.g., approaching but looking away); often linked to trauma or neglect. Later adult traits: fearful of intimacy, trauma-related patterns."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Can Privation Effects Be Reversed?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes! Case studies and adoption research show that even severe early privation can be reversed with proper intervention, though there are sensitive periods."
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Czech Twins (Discovered 1972, Age ~7)",
+          "text": "Andreas and Petr were locked in a cellar by their stepmother with almost no human contact until age 7. At discovery, they had almost no speech, severe intellectual disability (IQ ~40), and autistic-like behaviors. After intensive rehabilitation, they showed dramatic recovery: by adolescence, IQs rose to low-normal range (~90-100), they developed normal language and relationships, finished school, and lived relatively normal adult lives."
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Romanian Orphanages Study (1990s-present)",
+          "text": "After the fall of Ceaușescu in 1989, thousands of children were discovered in Romanian orphanages with extreme deprivation: minimal caregiver interaction (ratios 1:30-1:60), almost no language exposure, severe malnutrition. Research by Michael Rutter showed a clear sensitive period: deprivation lasting beyond ~6 months markedly increases risk; beyond 24 months the risk of lasting effects is very high. Early adoption led to remarkable recovery, but later adoption showed more persistent difficulties."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attachment theory and Adverse Childhood Experiences (ACEs) are deeply interconnected, both highlighting the profound, long-term impact of early life experiences on physical and mental well-being and relationships throughout life."
+        }
+      ],
+      "questions": [
+        {
+          "question": "According to Kagan et al. (1978), what is an attachment?",
+          "difficulty": "learning",
+          "options": [
+            "A temporary emotional connection",
+            "An intense emotional relationship specific to two people that endures over time",
+            "A biological need for feeding",
+            "A learned behavior from observation"
+          ],
+          "answer": "An intense emotional relationship specific to two people that endures over time",
+          "explanation": {
+            "correct": "Kagan et al. defined attachment as 'an intense emotional relationship that is specific to two people, that endures over time, and in which prolonged separation from the partner is accompanied by stress and sorrow.'",
+            "incorrect": {
+              "A temporary emotional connection": "Attachment is enduring over time, not temporary. The definition specifically emphasizes duration.",
+              "A biological need for feeding": "Harlow's experiments demonstrated attachment is about emotional comfort, not just feeding. This is a pre-Harlow misconception.",
+              "A learned behavior from observation": "While learning plays a role, attachment theory emphasizes innate, biological foundations, not purely observational learning."
+            }
+          }
+        },
+        {
+          "question": "In Harlow's monkey experiments, which surrogate mother did infant monkeys prefer?",
+          "difficulty": "learning",
+          "options": [
+            "The wire mother that provided milk",
+            "The cloth mother that provided no milk",
+            "They showed no preference",
+            "They preferred whichever was closer"
+          ],
+          "answer": "The cloth mother that provided no milk",
+          "explanation": {
+            "correct": "Monkeys overwhelmingly preferred the cloth mother for comfort and security, only briefly going to the wire mother to feed before returning to the cloth mother. This proved attachment is based on contact comfort, not feeding.",
+            "incorrect": {
+              "The wire mother that provided milk": "Despite providing milk, the wire mother was only visited briefly for feeding. Monkeys did not prefer her for comfort.",
+              "They showed no preference": "Monkeys showed a strong, consistent preference for the cloth mother, spending most of their time with her.",
+              "They preferred whichever was closer": "Proximity wasn't the factor—even when both were equally accessible, monkeys consistently chose the cloth mother."
+            }
+          }
+        },
+        {
+          "question": "What did Harlow's isolation studies reveal about monkeys raised in total isolation?",
+          "difficulty": "application",
+          "options": [
+            "They developed normally when given food",
+            "They became emotionally disturbed, withdrawn, and self-harming",
+            "They quickly adapted when reintroduced to others",
+            "They showed no long-term effects"
+          ],
+          "answer": "They became emotionally disturbed, withdrawn, and self-harming",
+          "explanation": {
+            "correct": "Monkeys raised in total isolation became emotionally disturbed, socially withdrawn, and often self-harming. They were fearful or aggressive when reintroduced to others and struggled with mating and parenting.",
+            "incorrect": {
+              "They developed normally when given food": "This contradicts Harlow's findings—food alone was insufficient. Emotional contact and social interaction were crucial.",
+              "They quickly adapted when reintroduced to others": "They did NOT adapt quickly; they showed lasting difficulties with social relationships and parenting.",
+              "They showed no long-term effects": "The effects were severe and long-lasting, demonstrating the critical importance of early social contact."
+            }
+          }
+        },
+        {
+          "question": "According to Bowlby, what is the critical period for forming primary attachment?",
+          "difficulty": "learning",
+          "options": [
+            "Birth to 6 months",
+            "Birth to 3 years",
+            "3 to 7 years",
+            "Birth to 10 years"
+          ],
+          "answer": "Birth to 3 years",
+          "explanation": {
+            "correct": "Bowlby proposed that the critical period for forming primary attachment is roughly from birth to about 3 years of age, when the attachment system is most sensitive.",
+            "incorrect": {
+              "Birth to 6 months": "While the first 6 months are important, Bowlby's critical period extended to about 3 years.",
+              "3 to 7 years": "This is after the critical period; Bowlby emphasized birth to 3 years as most crucial.",
+              "Birth to 10 years": "This extends too far beyond Bowlby's proposed critical period, which focused on the first 3 years."
+            }
+          }
+        },
+        {
+          "question": "What are the two key functions Bowlby attributed to the caregiver?",
+          "difficulty": "application",
+          "options": [
+            "Provider of food and shelter",
+            "Teacher and disciplinarian",
+            "Secure base for exploration and safe haven for comfort",
+            "Role model and educator"
+          ],
+          "answer": "Secure base for exploration and safe haven for comfort",
+          "explanation": {
+            "correct": "Bowlby proposed that the caregiver provides a secure base from which the child can explore the world and a safe haven to return to for comfort when threatened or distressed.",
+            "incorrect": {
+              "Provider of food and shelter": "While practical, this focuses on physical needs rather than the emotional functions Bowlby emphasized in attachment theory.",
+              "Teacher and disciplinarian": "These are parenting functions but not the core attachment functions Bowlby identified.",
+              "Role model and educator": "While important for development, these are not the specific attachment functions Bowlby described."
+            }
+          }
+        },
+        {
+          "question": "How many steps are in Ainsworth's Strange Situation procedure?",
+          "difficulty": "learning",
+          "options": [
+            "4 steps",
+            "6 steps",
+            "8 steps",
+            "10 steps"
+          ],
+          "answer": "8 steps",
+          "explanation": {
+            "correct": "The Strange Situation consists of 8 standardized steps designed to observe infant responses to separation from and reunion with the caregiver, as well as reactions to a stranger.",
+            "incorrect": {
+              "4 steps": "This underestimates the complexity of the procedure, which involves multiple separations and reunions.",
+              "6 steps": "While closer, the actual procedure has 8 steps to fully assess attachment behaviors.",
+              "10 steps": "This overestimates; the procedure has 8 specific steps."
+            }
+          }
+        },
+        {
+          "question": "What percentage of infants typically show secure attachment in Ainsworth's research?",
+          "difficulty": "learning",
+          "options": [
+            "20%",
+            "40%",
+            "65%",
+            "80%"
+          ],
+          "answer": "65%",
+          "explanation": {
+            "correct": "Approximately 65% of infants in Ainsworth's research showed secure attachment, making it the most common attachment style.",
+            "incorrect": {
+              "20%": "This is closer to the percentage showing insecure-avoidant attachment, not secure.",
+              "40%": "This underestimates the proportion of securely attached infants.",
+              "80%": "This overestimates; while secure attachment is most common, it's not this prevalent."
+            }
+          }
+        },
+        {
+          "question": "How do securely attached infants behave when their caregiver returns in the Strange Situation?",
+          "difficulty": "application",
+          "options": [
+            "They ignore or avoid the caregiver",
+            "They are easily comforted upon return",
+            "They seek comfort but also resist it",
+            "They show contradictory or confused behavior"
+          ],
+          "answer": "They are easily comforted upon return",
+          "explanation": {
+            "correct": "Securely attached infants are distressed when the caregiver leaves but are easily comforted upon return. They use the caregiver as a secure base for exploration.",
+            "incorrect": {
+              "They ignore or avoid the caregiver": "This describes insecure-avoidant attachment, not secure attachment.",
+              "They seek comfort but also resist it": "This describes insecure-resistant/ambivalent attachment, showing conflicted responses.",
+              "They show contradictory or confused behavior": "This describes disorganized attachment, often linked to trauma or neglect."
+            }
+          }
+        },
+        {
+          "question": "What characterizes insecure-avoidant attachment?",
+          "difficulty": "learning",
+          "options": [
+            "High distress at separation, difficult to comfort",
+            "Little distress at separation, avoids caregiver upon return",
+            "Contradictory behaviors like approaching then looking away",
+            "Clings to caregiver, minimal exploration"
+          ],
+          "answer": "Little distress at separation, avoids caregiver upon return",
+          "explanation": {
+            "correct": "Insecure-avoidant infants (~20%) explore freely, show little distress when the caregiver leaves, and avoid or ignore the caregiver upon return. They appear independent but this masks underlying insecurity.",
+            "incorrect": {
+              "High distress at separation, difficult to comfort": "This describes insecure-resistant/ambivalent attachment, not avoidant.",
+              "Contradictory behaviors like approaching then looking away": "This describes disorganized attachment, not avoidant.",
+              "Clings to caregiver, minimal exploration": "This also describes insecure-resistant/ambivalent attachment, the opposite pattern from avoidant."
+            }
+          }
+        },
+        {
+          "question": "Which attachment style is most commonly linked to trauma or neglect?",
+          "difficulty": "application",
+          "options": [
+            "Secure",
+            "Insecure-avoidant",
+            "Insecure-resistant",
+            "Disorganized"
+          ],
+          "answer": "Disorganized",
+          "explanation": {
+            "correct": "Disorganized attachment (~5-10%) is characterized by contradictory or confused behaviors and is most commonly linked to trauma, abuse, or neglect. Children show no consistent strategy for dealing with stress.",
+            "incorrect": {
+              "Secure": "Secure attachment is associated with sensitive, responsive caregiving, not trauma or neglect.",
+              "Insecure-avoidant": "While insecure, avoidant attachment is typically associated with emotionally unavailable (but not abusive) caregiving.",
+              "Insecure-resistant": "While insecure, resistant attachment is typically associated with inconsistent (but not abusive) caregiving."
+            }
+          }
+        },
+        {
+          "question": "What was the IQ of the Czech twins at discovery (age 7)?",
+          "difficulty": "learning",
+          "options": [
+            "~40",
+            "~70",
+            "~90",
+            "~110"
+          ],
+          "answer": "~40",
+          "explanation": {
+            "correct": "At discovery, the Czech twins had IQs around 40 (severe intellectual disability), almost no speech, and autistic-like behaviors after being locked in a cellar with minimal contact until age 7.",
+            "incorrect": {
+              "~70": "This was higher than their initial IQ at discovery.",
+              "~90": "This was their IQ AFTER rehabilitation by adolescence, not at discovery.",
+              "~110": "This overestimates both their initial and recovered IQ levels."
+            }
+          }
+        },
+        {
+          "question": "What did the Czech twins case study demonstrate about privation?",
+          "difficulty": "application",
+          "options": [
+            "Effects of severe privation are always permanent",
+            "Children cannot recover from isolation",
+            "Effects of extreme privation can be reversed with proper intervention",
+            "Only physical development can recover, not cognitive"
+          ],
+          "answer": "Effects of extreme privation can be reversed with proper intervention",
+          "explanation": {
+            "correct": "The Czech twins showed dramatic recovery after intensive rehabilitation: IQs rose from ~40 to ~90-100, they developed normal language and social relationships, and lived relatively normal adult lives, demonstrating reversibility with intervention.",
+            "incorrect": {
+              "Effects of severe privation are always permanent": "This is contradicted by the Czech twins' remarkable recovery.",
+              "Children cannot recover from isolation": "The Czech twins' recovery proves this false, though early intervention is crucial.",
+              "Only physical development can recover, not cognitive": "The twins showed cognitive recovery too, with IQ rising from 40 to 90-100."
+            }
+          }
+        },
+        {
+          "question": "According to research on Romanian orphanages, deprivation lasting beyond approximately how many months markedly increases risk of lasting effects?",
+          "difficulty": "tricky",
+          "options": [
+            "3 months",
+            "6 months",
+            "12 months",
+            "24 months"
+          ],
+          "answer": "6 months",
+          "explanation": {
+            "correct": "Research by Michael Rutter and colleagues showed a clear sensitive period: deprivation lasting beyond roughly 6 months markedly increases risk of lasting effects, and beyond 24 months the risk is very high.",
+            "incorrect": {
+              "3 months": "While early intervention is ideal, the critical threshold identified was around 6 months, not 3.",
+              "12 months": "By 12 months, risks are already elevated; the marked increase begins around 6 months.",
+              "24 months": "This is when risk becomes very high, but the marked increase in risk begins earlier at 6 months."
+            }
+          }
+        },
+        {
+          "question": "What did the Romanian orphanage studies reveal about the importance of caregiver ratios?",
+          "difficulty": "application",
+          "options": [
+            "Ratios don't matter if basic needs are met",
+            "Even ratios of 1:10 cause severe problems",
+            "Ratios of 1:30-1:60 led to extreme deprivation and developmental problems",
+            "Only physical ratios matter, not emotional availability"
+          ],
+          "answer": "Ratios of 1:30-1:60 led to extreme deprivation and developmental problems",
+          "explanation": {
+            "correct": "Romanian orphanages had caregiver-to-infant ratios of 1:30-1:60, resulting in minimal interaction, almost no language exposure, and severe developmental problems. This demonstrated the critical importance of adequate caregiver availability.",
+            "incorrect": {
+              "Ratios don't matter if basic needs are met": "The studies showed ratios matter enormously—physical care alone without adequate social interaction is insufficient.",
+              "Even ratios of 1:10 cause severe problems": "The severe problems were associated with much worse ratios (1:30-1:60), not 1:10.",
+              "Only physical ratios matter, not emotional availability": "Both matter, but the studies emphasized that the extremely high ratios prevented emotional availability and interaction, causing the developmental problems."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "self-concept",
+      "title": "Development of Self-Concept",
+      "subtitle": "Becoming Aware of Ourselves",
+      "summary": "The self-concept—an individual's overall self-awareness—develops gradually during the first years of life. Research using mirror recognition tasks reveals when children develop the ability to recognize themselves as distinct individuals.",
+      "keyTakeaways": [
+        "Self-concept refers to an individual's overall self-awareness, including self-image, self-esteem, and ideal self.",
+        "Babies gradually distinguish themselves from their environment through sensory feedback from their own bodies.",
+        "The mirror self-recognition test (rouge test) shows most children develop self-recognition between 15-24 months.",
+        "Self-concept includes three components: self-image (WHO AM I?), self-esteem (HOW I FEEL ABOUT MYSELF?), and ideal self (WHO I WANT TO BE?)."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "What is Self-Concept?"
+        },
+        {
+          "type": "paragraph",
+          "text": "'Self' and 'self-concept' are used interchangeably to refer to an individual's overall self-awareness. According to Murphy (1947), 'the self is the individual as known to the individual.'"
+        },
+        {
+          "type": "list",
+          "title": "Three Components of Self-Concept",
+          "items": [
+            "Self-Image: WHO AM I? How we describe ourselves (e.g., student, friend, athlete).",
+            "Self-Esteem: HOW I FEEL ABOUT MYSELF? The evaluative component—whether we view ourselves positively or negatively.",
+            "Ideal Self: WHO I WANT TO BE? The person we aspire to become."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Early Development of Self-Awareness"
+        },
+        {
+          "type": "paragraph",
+          "text": "During the first few months of life, babies gradually distinguish themselves from their environment and from other people. According to Maccoby (1980), babies distinguish themselves on two counts:"
+        },
+        {
+          "type": "list",
+          "title": "Early Self-Other Differentiation",
+          "items": [
+            "Their own fingers hurt when bitten, but they don't have sensations when biting their rattle or mother's fingers—learning through bodily feedback.",
+            "Probably quite early in life, they associate feelings from their own body movements with the sight of their own limbs and the sounds of their own cries."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Mirror Self-Recognition: The Rouge Test"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lewis and Brooks-Gunn (1979) used modified forms of Gallup's (1977) chimpanzee technique with 6- to 24-month-old children to test self-recognition."
+        },
+        {
+          "type": "list",
+          "title": "Rouge Test Procedure",
+          "items": [
+            "The mother applies a dot of rouge to the child's nose while pretending to wipe the child's face.",
+            "The child is observed to see how often it touches its nose without a mirror.",
+            "The child is then placed in front of a mirror, and nose-touching is recorded again.",
+            "If the child touches the nose more frequently when seeing the rouge in the mirror, this indicates self-recognition."
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Rouge Test Results",
+          "text": "Touching the rouge-marked nose was never seen before 15 months. Between 15-18 months, 5-25% of infants touched it. By 18-24 months, 75% of infants touched their nose when seeing the rouge in the mirror, indicating self-recognition."
+        },
+        {
+          "type": "paragraph",
+          "text": "This developmental pattern shows that most children develop mirror self-recognition—the ability to recognize that the image in the mirror is themselves—between 15 and 24 months of age. This represents a significant milestone in the development of self-awareness."
+        }
+      ],
+      "questions": [
+        {
+          "question": "According to Murphy (1947), what is the self?",
+          "difficulty": "learning",
+          "options": [
+            "The individual as perceived by others",
+            "The individual as known to the individual",
+            "The biological body and brain",
+            "The collection of social roles"
+          ],
+          "answer": "The individual as known to the individual",
+          "explanation": {
+            "correct": "Murphy defined the self as 'the individual as known to the individual,' emphasizing self-awareness and self-knowledge as the core of self-concept.",
+            "incorrect": {
+              "The individual as perceived by others": "This would be others' perception of us, not our self-concept. Murphy's definition focuses on self-knowledge.",
+              "The biological body and brain": "While the physical body is involved, self-concept is psychological awareness, not just biology.",
+              "The collection of social roles": "Social roles contribute to self-image but don't fully capture Murphy's definition of self-awareness."
+            }
+          }
+        },
+        {
+          "question": "Which of the following is NOT one of the three components of self-concept?",
+          "difficulty": "learning",
+          "options": [
+            "Self-image",
+            "Self-esteem",
+            "Self-efficacy",
+            "Ideal self"
+          ],
+          "answer": "Self-efficacy",
+          "explanation": {
+            "correct": "The three components of self-concept are self-image (WHO AM I?), self-esteem (HOW I FEEL ABOUT MYSELF?), and ideal self (WHO I WANT TO BE?). Self-efficacy is a related but distinct concept about belief in one's abilities.",
+            "incorrect": {
+              "Self-image": "This is one of the three components—how we describe ourselves.",
+              "Self-esteem": "This is one of the three components—the evaluative aspect of how we feel about ourselves.",
+              "Ideal self": "This is one of the three components—who we aspire to become."
+            }
+          }
+        },
+        {
+          "question": "According to Maccoby (1980), how do babies distinguish themselves from others?",
+          "difficulty": "application",
+          "options": [
+            "Through visual recognition in mirrors",
+            "Through hearing their name",
+            "Through bodily sensations like pain when biting their own fingers",
+            "Through parental labeling"
+          ],
+          "answer": "Through bodily sensations like pain when biting their own fingers",
+          "explanation": {
+            "correct": "Maccoby noted that babies learn their own fingers hurt when bitten (but not when biting other objects), and they associate feelings from body movements with seeing their own limbs—using sensory feedback for self-other differentiation.",
+            "incorrect": {
+              "Through visual recognition in mirrors": "Mirror recognition comes later (15-24 months). Early self-other differentiation happens through bodily sensations.",
+              "Through hearing their name": "While name recognition is important, Maccoby emphasized bodily sensations as the primary early mechanism.",
+              "Through parental labeling": "Social labeling contributes but isn't the primary mechanism Maccoby described for early self-other differentiation."
+            }
+          }
+        },
+        {
+          "question": "What is the rouge test designed to measure?",
+          "difficulty": "learning",
+          "options": [
+            "Color discrimination",
+            "Mirror self-recognition",
+            "Attachment security",
+            "Object permanence"
+          ],
+          "answer": "Mirror self-recognition",
+          "explanation": {
+            "correct": "The rouge test measures whether a child recognizes that the image in the mirror is themselves (self-recognition), indicated by touching their own nose when seeing the rouge mark rather than the mirror.",
+            "incorrect": {
+              "Color discrimination": "The test isn't about perceiving rouge color but about recognizing oneself in the mirror.",
+              "Attachment security": "This is measured by Ainsworth's Strange Situation, not the rouge test.",
+              "Object permanence": "This is tested by hiding objects to see if infants search for them, not by mirror recognition."
+            }
+          }
+        },
+        {
+          "question": "In the rouge test procedure, what does the mother do?",
+          "difficulty": "learning",
+          "options": [
+            "Points to the child's reflection",
+            "Applies a dot of rouge to the child's nose while pretending to wipe the face",
+            "Hides behind a mirror",
+            "Shows the child different colors"
+          ],
+          "answer": "Applies a dot of rouge to the child's nose while pretending to wipe the face",
+          "explanation": {
+            "correct": "The mother surreptitiously applies rouge to the child's nose while pretending to wipe the face, so the child doesn't know about the mark. The test then observes whether the child touches their own nose when seeing it in the mirror.",
+            "incorrect": {
+              "Points to the child's reflection": "The mother doesn't direct attention; the test observes spontaneous behavior when the child sees the rouge in the mirror.",
+              "Hides behind a mirror": "This isn't part of the rouge test procedure; it might be part of peek-a-boo games but not this test.",
+              "Shows the child different colors": "The test isn't about color perception; it's about self-recognition using the rouge as a marker."
+            }
+          }
+        },
+        {
+          "question": "At what age did Lewis and Brooks-Gunn (1979) find that infants NEVER touched the rouge mark?",
+          "difficulty": "learning",
+          "options": [
+            "Before 6 months",
+            "Before 12 months",
+            "Before 15 months",
+            "Before 24 months"
+          ],
+          "answer": "Before 15 months",
+          "explanation": {
+            "correct": "Touching the rouge-marked nose in response to seeing it in the mirror was never observed before 15 months, indicating that self-recognition doesn't emerge until mid-way through the second year.",
+            "incorrect": {
+              "Before 6 months": "While 6-month-olds also didn't touch it, the critical threshold identified was 15 months—when it first began to appear.",
+              "Before 12 months": "Close, but the data specifically showed zero instances before 15 months, not 12 months.",
+              "Before 24 months": "By 18-24 months, 75% were touching it, so this is too late. The emergence begins at 15 months."
+            }
+          }
+        },
+        {
+          "question": "What percentage of 18-24 month-old infants touched the rouge mark in the mirror test?",
+          "difficulty": "learning",
+          "options": [
+            "5-25%",
+            "50%",
+            "75%",
+            "95%"
+          ],
+          "answer": "75%",
+          "explanation": {
+            "correct": "75% of 18-24 month-old infants touched their nose when seeing the rouge in the mirror, indicating well-developed self-recognition by this age.",
+            "incorrect": {
+              "5-25%": "This was the percentage for 15-18 month-olds, when self-recognition is just emerging.",
+              "50%": "This underestimates the proportion showing self-recognition by 18-24 months.",
+              "95%": "This overestimates; while most show self-recognition by this age, it's 75%, not 95%."
+            }
+          }
+        },
+        {
+          "question": "What does it mean when a child touches their own nose (not the mirror) after seeing the rouge in the mirror?",
+          "difficulty": "application",
+          "options": [
+            "The child is confused",
+            "The child recognizes the reflection is themselves",
+            "The child thinks the rouge is dirty",
+            "The child is imitating the mother"
+          ],
+          "answer": "The child recognizes the reflection is themselves",
+          "explanation": {
+            "correct": "Touching their own nose (not the mirror) when seeing the rouge indicates the child understands the mirror image is themselves—they're responding to a mark on their own body, demonstrating self-recognition.",
+            "incorrect": {
+              "The child is confused": "Actually, this behavior shows the opposite—the child has figured out that the mirror shows themselves, not confusion.",
+              "The child thinks the rouge is dirty": "While they might want to remove it, the key insight is that they know it's on THEIR nose, not someone else's or the mirror's.",
+              "The child is imitating the mother": "The mother doesn't touch her nose during the test; the child's behavior is spontaneous recognition, not imitation."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cognitive-development-piaget",
+      "title": "Piaget's Theory of Cognitive Development",
+      "subtitle": "Stages of Thinking from Infancy to Adolescence",
+      "summary": "Jean Piaget proposed that cognitive development occurs through interaction with the environment, progressing through four universal, hierarchical stages. Children use assimilation and accommodation to adapt their schemas (mental frameworks) as they develop increasingly sophisticated reasoning abilities.",
+      "keyTakeaways": [
+        "Piaget proposed four universal stages: sensorimotor (0-2 years), preoperational (2-7 years), concrete operational (7-11 years), and formal operational (11+ years).",
+        "Assimilation fits new information into existing schemas; accommodation modifies schemas when new information doesn't fit.",
+        "Key achievements include object permanence (sensorimotor), symbolic thought (preoperational), conservation (concrete operational), and abstract reasoning (formal operational).",
+        "Preoperational children show egocentrism, irreversibility, and lack of conservation understanding."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Piaget's Theory Overview"
+        },
+        {
+          "type": "paragraph",
+          "text": "According to Jean Piaget, cognitive development occurs through the interaction of innate capacities with environmental events, and progresses through a series of hierarchical, qualitatively different stages."
+        },
+        {
+          "type": "list",
+          "title": "Key Principles",
+          "items": [
+            "All children pass through the stages in the same sequence without skipping or regressing.",
+            "The stages are universal—the same for everyone irrespective of culture.",
+            "Functional invariants (assimilation and accommodation) remain constant across stages.",
+            "The principal structure that changes is the schema (mental framework or category)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Assimilation and Accommodation"
+        },
+        {
+          "type": "paragraph",
+          "text": "These are the two processes by which children adapt their schemas to make sense of new experiences:"
+        },
+        {
+          "type": "list",
+          "title": "Functional Invariants",
+          "items": [
+            "Assimilation: Taking in new information and fitting it into existing schemas without changing those schemas. Example: A child who knows 'dog' (furry, four legs, barks) sees a cat and calls it a 'dog' because it fits the existing schema.",
+            "Accommodation: Modifying existing schemas or creating new ones when new information doesn't fit. Example: After being corrected that the cat is not a dog, the child learns cats meow and behave differently, creating a new 'cat' schema separate from 'dog.'"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Stage 1: Sensorimotor (0-2 years)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Infants understand their world primarily through sensory experiences and physical (motor) interactions with objects."
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Key Achievement: Object Permanence",
+          "text": "Object permanence is the understanding that an object continues to exist even when it cannot be seen. Piaget claimed that infants younger than 9 months do not have a mental representation of objects—out of sight is literally out of mind. By 18-24 months, children fully understand objects have permanent existence."
+        },
+        {
+          "type": "heading",
+          "text": "Stage 2: Preoperational (2-7 years)"
+        },
+        {
+          "type": "paragraph",
+          "text": "The world is represented symbolically through words and mental images, but children lack understanding of basic mental operations or rules."
+        },
+        {
+          "type": "list",
+          "title": "Limitations of Preoperational Thought",
+          "items": [
+            "No Conservation: Don't understand that basic properties stay the same despite changes in appearance. Example: Pouring water from a short wide glass to tall thin glass—child thinks quantity changed.",
+            "Egocentrism: Difficulty viewing the world from someone else's perspective. Example: Three mountains task—child can't describe what someone on the other side sees.",
+            "Irreversibility: Cannot mentally reverse actions. Example: Can't understand that pouring water back into the original glass would show the same amount.",
+            "Animism: Belief that inanimate objects have lifelike qualities. Example: 'The sidewalk was mad and made me fall down.'"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Stage 3: Concrete Operational (7-11 years)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Children are now capable of performing logical operations, but only with concrete (actual, present) objects. They can conserve, show reversibility, and demonstrate more logical classification. They are less egocentric."
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Limitation: Transitivity",
+          "text": "One remaining problem is transitivity tasks. Example: 'Alan is taller than Nigel, and Nigel is taller than Charlie. Who is taller, Alan or Charlie?' Children under 11 cannot solve this entirely in their heads—they need concrete objects like dolls to figure it out."
+        },
+        {
+          "type": "heading",
+          "text": "Stage 4: Formal Operational (11+ years)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Children and adolescents are able to think logically and systematically about both concrete AND abstract problems. They can form hypotheses and test them in a thoughtful, systematic way. This includes hypothetical-deductive reasoning, considering possibilities, and abstract moral reasoning."
+        }
+      ],
+      "questions": [
+        {
+          "question": "According to Piaget, do children ever skip stages of cognitive development?",
+          "difficulty": "learning",
+          "options": [
+            "Yes, gifted children can skip stages",
+            "Yes, with proper education stages can be skipped",
+            "No, all children pass through stages in sequence without skipping",
+            "Only the preoperational stage can be skipped"
+          ],
+          "answer": "No, all children pass through stages in sequence without skipping",
+          "explanation": {
+            "correct": "Piaget proposed that all children pass through the stages in the same sequence without skipping any or regressing to earlier ones. The stages are invariant and hierarchical.",
+            "incorrect": {
+              "Yes, gifted children can skip stages": "Piaget argued stages cannot be skipped regardless of intelligence; development follows a fixed sequence.",
+              "Yes, with proper education stages can be skipped": "While education can optimize development within a stage, Piaget believed you cannot skip the fundamental sequence.",
+              "Only the preoperational stage can be skipped": "No stage can be skipped according to Piaget's theory; each builds on the previous one."
+            }
+          }
+        },
+        {
+          "question": "What is assimilation?",
+          "difficulty": "learning",
+          "options": [
+            "Modifying existing schemas to fit new information",
+            "Fitting new information into existing schemas",
+            "Creating entirely new schemas",
+            "Forgetting old schemas"
+          ],
+          "answer": "Fitting new information into existing schemas",
+          "explanation": {
+            "correct": "Assimilation is taking in new information and fitting it into existing schemas without changing those schemas. Example: calling a cat a 'dog' because it fits the existing 'dog' schema (furry, four legs).",
+            "incorrect": {
+              "Modifying existing schemas to fit new information": "This describes accommodation, not assimilation. Assimilation doesn't change the schema.",
+              "Creating entirely new schemas": "This is part of accommodation when existing schemas can't be modified enough.",
+              "Forgetting old schemas": "Neither assimilation nor accommodation involves forgetting; they're about adapting schemas."
+            }
+          }
+        },
+        {
+          "question": "A child knows about dogs and calls a cat a 'dog' because it's furry with four legs. What process is this?",
+          "difficulty": "application",
+          "options": [
+            "Accommodation",
+            "Assimilation",
+            "Object permanence",
+            "Egocentrism"
+          ],
+          "answer": "Assimilation",
+          "explanation": {
+            "correct": "This is assimilation—the child is fitting new information (cat) into an existing schema (dog) without changing the schema. The cat's features match the 'dog' schema, so the child assimilates it into that category.",
+            "incorrect": {
+              "Accommodation": "Accommodation would occur when the child learns cats are different and creates a new 'cat' schema.",
+              "Object permanence": "This is about understanding objects exist when not visible, unrelated to categorizing animals.",
+              "Egocentrism": "This is difficulty taking others' perspectives, not related to categorizing objects."
+            }
+          }
+        },
+        {
+          "question": "What is the key cognitive achievement of the sensorimotor stage?",
+          "difficulty": "learning",
+          "options": [
+            "Conservation",
+            "Abstract reasoning",
+            "Object permanence",
+            "Symbolic thought"
+          ],
+          "answer": "Object permanence",
+          "explanation": {
+            "correct": "Object permanence—understanding that objects continue to exist when not visible—is the key achievement of the sensorimotor stage (0-2 years). It develops around 9 months and is complete by 18-24 months.",
+            "incorrect": {
+              "Conservation": "This is achieved in the concrete operational stage (7-11 years), not sensorimotor.",
+              "Abstract reasoning": "This characterizes the formal operational stage (11+ years), not sensorimotor.",
+              "Symbolic thought": "This emerges in the preoperational stage (2-7 years) when children use words and mental images."
+            }
+          }
+        },
+        {
+          "question": "According to Piaget, at what age does object permanence begin to emerge?",
+          "difficulty": "learning",
+          "options": [
+            "3 months",
+            "6 months",
+            "9 months",
+            "18 months"
+          ],
+          "answer": "9 months",
+          "explanation": {
+            "correct": "Piaget claimed that infants younger than 9 months do not have object permanence—they lack mental representation of hidden objects. Object permanence begins emerging around 9 months and is fully developed by 18-24 months.",
+            "incorrect": {
+              "3 months": "Too early—infants at 3 months are still in early sensorimotor period without object permanence.",
+              "6 months": "Still too early according to Piaget's original timeline, though later research suggested earlier emergence.",
+              "18 months": "By 18 months object permanence is well-established, not just beginning to emerge."
+            }
+          }
+        },
+        {
+          "question": "Which of the following is a limitation of preoperational thought?",
+          "difficulty": "learning",
+          "options": [
+            "Inability to form mental representations",
+            "Egocentrism and lack of conservation",
+            "Inability to solve transitivity problems with concrete objects",
+            "Lack of hypothetical-deductive reasoning"
+          ],
+          "answer": "Egocentrism and lack of conservation",
+          "explanation": {
+            "correct": "Preoperational children (2-7 years) show egocentrism (difficulty taking others' perspectives) and lack conservation (don't understand that properties stay constant despite appearance changes). They also show irreversibility and animism.",
+            "incorrect": {
+              "Inability to form mental representations": "Preoperational children CAN form mental representations through symbolic thought—this is what distinguishes them from sensorimotor stage.",
+              "Inability to solve transitivity problems with concrete objects": "This describes concrete operational limitations—they need concrete objects. Preoperational children can't solve these at all.",
+              "Lack of hypothetical-deductive reasoning": "This describes formal operational abilities. Preoperational limitations are more fundamental (conservation, reversibility)."
+            }
+          }
+        },
+        {
+          "question": "A preoperational child believes 'the sidewalk was mad and made me fall down.' This demonstrates:",
+          "difficulty": "application",
+          "options": [
+            "Egocentrism",
+            "Animism",
+            "Conservation",
+            "Accommodation"
+          ],
+          "answer": "Animism",
+          "explanation": {
+            "correct": "Animism is the belief that inanimate objects have lifelike qualities such as intentions, feelings, and the ability to cause events. Believing the sidewalk was 'mad' shows animistic thinking typical of preoperational children.",
+            "incorrect": {
+              "Egocentrism": "Egocentrism is difficulty taking others' perspectives, not attributing life to objects.",
+              "Conservation": "Conservation is understanding that properties stay constant despite appearance changes, unrelated to this example.",
+              "Accommodation": "This is changing schemas to fit new information, not attributing life to inanimate objects."
+            }
+          }
+        },
+        {
+          "question": "Water is poured from a short, wide glass into a tall, thin glass. A preoperational child thinks the amount of water changed. What does the child lack understanding of?",
+          "difficulty": "application",
+          "options": [
+            "Object permanence",
+            "Conservation",
+            "Transitivity",
+            "Accommodation"
+          ],
+          "answer": "Conservation",
+          "explanation": {
+            "correct": "The child lacks conservation—the understanding that basic properties (like quantity) stay the same even though outward appearance changes. Preoperational children focus on perceptual features (height) and lack reversibility.",
+            "incorrect": {
+              "Object permanence": "This is about knowing objects exist when hidden, not about understanding quantity remains constant.",
+              "Transitivity": "This is about inferring relationships (if A>B and B>C, then A>C), not about conservation of quantity.",
+              "Accommodation": "This is the process of changing schemas, not the specific concept being tested in conservation tasks."
+            }
+          }
+        },
+        {
+          "question": "What is the key limitation that remains in the concrete operational stage?",
+          "difficulty": "learning",
+          "options": [
+            "Lack of object permanence",
+            "Egocentrism",
+            "Inability to solve abstract problems without concrete objects",
+            "Animistic thinking"
+          ],
+          "answer": "Inability to solve abstract problems without concrete objects",
+          "explanation": {
+            "correct": "Concrete operational children (7-11) can perform logical operations but only with concrete, present objects. They struggle with purely abstract or hypothetical problems. Example: transitivity problems ('Alan is taller than Nigel...') require concrete objects like dolls.",
+            "incorrect": {
+              "Lack of object permanence": "This is overcome in the sensorimotor stage; concrete operational children have object permanence.",
+              "Egocentrism": "Concrete operational children are less egocentric than preoperational children; this is no longer a major limitation.",
+              "Animistic thinking": "This is characteristic of preoperational thinking; concrete operational children understand inanimate objects aren't alive."
+            }
+          }
+        },
+        {
+          "question": "'Alan is taller than Nigel, and Nigel is taller than Charlie. Who is taller, Alan or Charlie?' A concrete operational child would:",
+          "difficulty": "application",
+          "options": [
+            "Easily solve this in their head",
+            "Need concrete objects like dolls to solve it",
+            "Be unable to solve it even with objects",
+            "Refuse to answer due to egocentrism"
+          ],
+          "answer": "Need concrete objects like dolls to solve it",
+          "explanation": {
+            "correct": "Concrete operational children can solve transitivity problems but only with concrete objects present (like dolls). They cannot solve it entirely in their heads—that requires formal operational thinking.",
+            "incorrect": {
+              "Easily solve this in their head": "This describes formal operational abilities (11+ years), not concrete operational.",
+              "Be unable to solve it even with objects": "Concrete operational children CAN solve it with concrete objects; total inability characterizes earlier stages.",
+              "Refuse to answer due to egocentrism": "Egocentrism is reduced by concrete operational stage, and it wouldn't cause refusal of this type of problem."
+            }
+          }
+        },
+        {
+          "question": "What is the key achievement of the formal operational stage?",
+          "difficulty": "learning",
+          "options": [
+            "Object permanence",
+            "Conservation",
+            "Abstract and hypothetical reasoning",
+            "Symbolic thought"
+          ],
+          "answer": "Abstract and hypothetical reasoning",
+          "explanation": {
+            "correct": "The formal operational stage (11+ years) is characterized by the ability to think logically about abstract concepts and hypothetical situations. They can form hypotheses, test them systematically, and engage in hypothetical-deductive reasoning.",
+            "incorrect": {
+              "Object permanence": "This is achieved in the sensorimotor stage (by 18-24 months).",
+              "Conservation": "This is achieved in the concrete operational stage (7-11 years).",
+              "Symbolic thought": "This emerges in the preoperational stage (2-7 years) when children begin using words and mental images."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "vygotsky-zpd",
+      "title": "Vygotsky's Sociocultural Theory",
+      "subtitle": "The Social Context of Learning",
+      "summary": "Lev Vygotsky proposed an alternative to Piaget's individual-focused theory, emphasizing that cognitive development is fundamentally social and cultural. His key concepts—Zone of Proximal Development and scaffolding—highlight how learning occurs through interaction with more knowledgeable others.",
+      "keyTakeaways": [
+        "Vygotsky saw development as socially and culturally determined, not just individual discovery.",
+        "The Zone of Proximal Development (ZPD) is the gap between what a child can do alone and with help.",
+        "Scaffolding is the support provided by a more knowledgeable other within the ZPD.",
+        "Vygotsky emphasized the role of language, culture, and social interaction in cognitive development."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Vygotsky vs. Piaget: A Different Perspective"
+        },
+        {
+          "type": "paragraph",
+          "text": "While Piaget viewed children as individual scientists actively constructing knowledge through interaction with objects, Vygotsky saw development differently. He emphasized that children are participants in an interactive, social process by which socially and culturally determined knowledge and understanding gradually become individualized."
+        },
+        {
+          "type": "list",
+          "title": "Key Differences",
+          "items": [
+            "Piaget: Child as lone scientist, learning through individual discovery and interaction with the physical world.",
+            "Vygotsky: Child as social learner, developing through guided interaction with more knowledgeable others in a cultural context.",
+            "Piaget: Universal stages, minimizing cultural differences.",
+            "Vygotsky: Cultural tools (especially language) shape cognitive development, creating cultural variation."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Zone of Proximal Development (ZPD)"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Zone of Proximal Development is perhaps Vygotsky's most influential concept. It refers to the gap between:"
+        },
+        {
+          "type": "list",
+          "title": "Defining the ZPD",
+          "items": [
+            "What a child can do independently (actual developmental level)",
+            "What a child can do with guidance and support from a more knowledgeable other (potential developmental level)"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "The ZPD in Action",
+          "text": "Imagine a child who cannot solve a puzzle alone but can solve it with hints from a parent or teacher. The puzzle falls within the child's ZPD—too difficult for independent success but achievable with support. Learning is most effective when instruction targets the ZPD."
+        },
+        {
+          "type": "paragraph",
+          "text": "The ZPD is dynamic and constantly changing. As the child masters skills with support, what was once in the ZPD becomes part of independent capability, and the ZPD shifts to more advanced skills. This emphasizes that development and learning are interconnected—learning drives development forward."
+        },
+        {
+          "type": "heading",
+          "text": "Scaffolding"
+        },
+        {
+          "type": "paragraph",
+          "text": "Scaffolding is the help provided by a more knowledgeable other (parent, teacher, more capable peer) within the child's Zone of Proximal Development. Like construction scaffolding that supports a building until it can stand alone, instructional scaffolding provides temporary support that is gradually removed as the child becomes capable."
+        },
+        {
+          "type": "list",
+          "title": "Effective Scaffolding",
+          "items": [
+            "Provide support tailored to the child's current level (not too much, not too little)",
+            "Gradually reduce support as competence increases (fading)",
+            "Transfer responsibility from expert to learner over time",
+            "Provide support in the ZPD—tasks neither too easy (boring) nor too hard (frustrating)"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Example of Scaffolding",
+          "text": "Teaching a child to ride a bike: Start with training wheels (full support), then hold the bike while the child pedals (moderate support), then run alongside offering encouragement (minimal support), finally let the child ride independently (no support). The scaffolding is gradually removed as competence develops."
+        },
+        {
+          "type": "heading",
+          "text": "The Role of Language and Culture"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vygotsky emphasized that language is the most important cultural tool for cognitive development. Through language, children internalize cultural knowledge, communicate with others, and eventually develop inner speech (thinking in words) that guides their own behavior and thinking."
+        },
+        {
+          "type": "paragraph",
+          "text": "Culture shapes what children learn (content) and how they learn it (process). Different cultures provide different tools, practices, and knowledge systems, leading to variation in cognitive development—contrasting with Piaget's emphasis on universal stages."
+        }
+      ],
+      "questions": [
+        {
+          "question": "How did Vygotsky's view of cognitive development differ from Piaget's?",
+          "difficulty": "learning",
+          "options": [
+            "Vygotsky emphasized social and cultural influences, while Piaget focused on individual discovery",
+            "Vygotsky focused on stages, while Piaget emphasized continuous development",
+            "Vygotsky ignored language, while Piaget emphasized it",
+            "There were no significant differences between them"
+          ],
+          "answer": "Vygotsky emphasized social and cultural influences, while Piaget focused on individual discovery",
+          "explanation": {
+            "correct": "Vygotsky saw the child as a participant in social processes where culturally determined knowledge gradually becomes individualized. Piaget viewed the child as a lone scientist constructing knowledge through individual interaction with the world.",
+            "incorrect": {
+              "Vygotsky focused on stages, while Piaget emphasized continuous development": "This is backward—Piaget proposed stages, while Vygotsky emphasized continuous, socially-guided development without fixed stages.",
+              "Vygotsky ignored language, while Piaget emphasized it": "Actually the opposite—Vygotsky emphasized language as the most important cultural tool, while Piaget gave it less central importance.",
+              "There were no significant differences between them": "They had fundamentally different perspectives on whether development is primarily individual-cognitive or social-cultural."
+            }
+          }
+        },
+        {
+          "question": "What is the Zone of Proximal Development (ZPD)?",
+          "difficulty": "learning",
+          "options": [
+            "What a child can do completely independently",
+            "The gap between what a child can do alone and what they can do with help",
+            "The age range when learning is possible",
+            "The physical space where learning occurs"
+          ],
+          "answer": "The gap between what a child can do alone and what they can do with help",
+          "explanation": {
+            "correct": "The ZPD is the gap between the child's actual developmental level (independent capability) and their potential developmental level (what they can do with guidance from a more knowledgeable other).",
+            "incorrect": {
+              "What a child can do completely independently": "This describes the actual developmental level, not the ZPD. The ZPD is what lies BEYOND independent capability.",
+              "The age range when learning is possible": "The ZPD isn't about age ranges; it's about the gap between current and potential capability at any given point.",
+              "The physical space where learning occurs": "Despite the spatial metaphor, the ZPD is a psychological concept about capability gaps, not physical space."
+            }
+          }
+        },
+        {
+          "question": "A child cannot solve a puzzle alone but can solve it with hints from a teacher. Where does this puzzle fall?",
+          "difficulty": "application",
+          "options": [
+            "Below the child's capabilities (too easy)",
+            "Within the child's Zone of Proximal Development",
+            "Above the child's Zone of Proximal Development (too hard)",
+            "At the child's actual developmental level"
+          ],
+          "answer": "Within the child's Zone of Proximal Development",
+          "explanation": {
+            "correct": "The puzzle falls within the ZPD because it's too difficult for independent success but achievable with support. This is the ideal zone for learning—challenging but not impossible.",
+            "incorrect": {
+              "Below the child's capabilities (too easy)": "If it were too easy, the child could solve it independently without hints.",
+              "Above the child's Zone of Proximal Development (too hard)": "If it were above the ZPD, even with support the child couldn't solve it.",
+              "At the child's actual developmental level": "The actual developmental level is what the child can do independently. Since support is needed, it's beyond actual level, in the ZPD."
+            }
+          }
+        },
+        {
+          "question": "What is scaffolding in Vygotsky's theory?",
+          "difficulty": "learning",
+          "options": [
+            "The physical structure of a classroom",
+            "Temporary support provided by a more knowledgeable other within the ZPD",
+            "The stages of cognitive development",
+            "Punishment for incorrect answers"
+          ],
+          "answer": "Temporary support provided by a more knowledgeable other within the ZPD",
+          "explanation": {
+            "correct": "Scaffolding is help provided by someone more knowledgeable (parent, teacher, peer) within the child's ZPD. Like construction scaffolding, it's temporary and gradually removed as the child becomes capable.",
+            "incorrect": {
+              "The physical structure of a classroom": "Despite the construction metaphor, scaffolding refers to instructional support, not physical structures.",
+              "The stages of cognitive development": "Stages are part of Piaget's theory, not Vygotsky's. Vygotsky focused on social guidance, not stages.",
+              "Punishment for incorrect answers": "Scaffolding is supportive assistance, not punishment. It involves positive guidance and gradually reducing support."
+            }
+          }
+        },
+        {
+          "question": "Teaching a child to ride a bike with training wheels, then holding the bike, then running alongside, then letting go—this illustrates:",
+          "difficulty": "application",
+          "options": [
+            "Assimilation",
+            "Conservation",
+            "Scaffolding",
+            "Object permanence"
+          ],
+          "answer": "Scaffolding",
+          "explanation": {
+            "correct": "This perfectly illustrates scaffolding—providing maximum support initially (training wheels), gradually reducing it (holding, then running alongside), and finally removing it completely as the child becomes competent. The support is temporary and systematically withdrawn.",
+            "incorrect": {
+              "Assimilation": "This is fitting new information into existing schemas (Piaget), not the gradual removal of instructional support.",
+              "Conservation": "This is understanding that properties stay constant despite appearance changes (Piaget), unrelated to learning support.",
+              "Object permanence": "This is knowing objects exist when hidden (Piaget), not related to gradually removing instructional support."
+            }
+          }
+        },
+        {
+          "question": "As a child masters skills within their ZPD, what happens?",
+          "difficulty": "application",
+          "options": [
+            "The ZPD disappears completely",
+            "The ZPD shifts to more advanced skills",
+            "The ZPD becomes smaller and narrower",
+            "The ZPD remains exactly the same"
+          ],
+          "answer": "The ZPD shifts to more advanced skills",
+          "explanation": {
+            "correct": "The ZPD is dynamic and constantly changing. As children master skills with support, what was in the ZPD becomes part of independent capability, and the ZPD shifts upward to more advanced skills. Development is an ongoing process.",
+            "incorrect": {
+              "The ZPD disappears completely": "The ZPD doesn't disappear; it shifts to new, more advanced skills. There are always new challenges to learn.",
+              "The ZPD becomes smaller and narrower": "The size may vary, but the key is that it shifts to new content, not that it shrinks permanently.",
+              "The ZPD remains exactly the same": "If it remained the same, no development would occur. The ZPD shifts as learning progresses."
+            }
+          }
+        },
+        {
+          "question": "What did Vygotsky consider the most important cultural tool for cognitive development?",
+          "difficulty": "learning",
+          "options": [
+            "Mathematics",
+            "Language",
+            "Art",
+            "Physical tools"
+          ],
+          "answer": "Language",
+          "explanation": {
+            "correct": "Vygotsky emphasized language as the most important cultural tool. Through language, children internalize cultural knowledge, communicate, and develop inner speech (thinking in words) that guides their behavior and thinking.",
+            "incorrect": {
+              "Mathematics": "While important, Vygotsky didn't single out mathematics as THE most important cultural tool.",
+              "Art": "Art is a cultural tool but not the one Vygotsky emphasized as most central to cognitive development.",
+              "Physical tools": "While Vygotsky discussed tools broadly, he specifically emphasized language as the most important psychological/cultural tool."
+            }
+          }
+        },
+        {
+          "question": "According to Vygotsky, how does culture affect cognitive development?",
+          "difficulty": "application",
+          "options": [
+            "Culture has no effect; development is universal",
+            "Culture shapes what children learn and how they learn it",
+            "Culture only affects language, not thinking",
+            "Culture delays cognitive development"
+          ],
+          "answer": "Culture shapes what children learn and how they learn it",
+          "explanation": {
+            "correct": "Vygotsky emphasized that culture shapes both the content (what is learned) and process (how it's learned) of cognitive development. Different cultures provide different tools, practices, and knowledge systems, creating variation—contrasting with Piaget's universal stages.",
+            "incorrect": {
+              "Culture has no effect; development is universal": "This is closer to Piaget's position. Vygotsky strongly emphasized cultural influences and variation.",
+              "Culture only affects language, not thinking": "Vygotsky argued language and thinking are interconnected, and culture shapes both through its tools and practices.",
+              "Culture delays cognitive development": "Vygotsky didn't see culture as delaying development; rather, it shapes and enables development in culturally specific ways."
+            }
+          }
+        },
+        {
+          "question": "Effective scaffolding within the ZPD should be:",
+          "difficulty": "tricky",
+          "options": [
+            "Provided constantly without change",
+            "Gradually reduced as the child's competence increases",
+            "Maximum support at all times",
+            "Eliminated immediately once the child shows any success"
+          ],
+          "answer": "Gradually reduced as the child's competence increases",
+          "explanation": {
+            "correct": "Effective scaffolding involves gradually reducing support (fading) as the child becomes more competent, transferring responsibility from expert to learner over time. This allows the child to develop independence while preventing frustration.",
+            "incorrect": {
+              "Provided constantly without change": "Unchanging support prevents development of independence. Scaffolding must be gradually withdrawn.",
+              "Maximum support at all times": "Too much support prevents the child from developing independent capability. Support should match current needs.",
+              "Eliminated immediately once the child shows any success": "Removing support too quickly leads to failure and frustration. Withdrawal should be gradual and responsive to competence."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

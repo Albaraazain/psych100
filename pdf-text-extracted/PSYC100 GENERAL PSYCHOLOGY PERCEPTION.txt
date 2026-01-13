@@ -1,0 +1,470 @@
+PSYC100
+GENERAL
+PSYCHOLOGY
+PERCEPTION
+
+Lecture
+Outline
+
+•
+•
+•
+•
+•
+•
+
+What is perception?
+Gestalt Psychology
+Depth perception
+Perceptual consistency
+Illusions
+Theories of visual
+perception
+
+2
+
+What is perception?
+• Perception is the organisation and interpretation of incoming sensory
+information to form inner representations of the external world.
+• We don’t perceive ‘reality’ at all but only how our brain interprets it
+(Macknik & Martinez-Conde, 2014).
+• Ehrenfels (1890) claimed that many groups of stimuli acquire a
+pattern quality that is greater than the sum of their parts.
+• E.g. Melody. If you hear the notes of a song played individually, they’re just
+separate sounds. But when played together in sequence, they form a
+recognizable melody with a unique quality
+
+• Gestalt Psychology argues that our brain organizes sensory
+information—like shapes, sounds, or images—into meaningful
+wholes.
+• E.g. face
+
+3
+
+What is perception?
+• Distal stimulus – the object you are looking at
+• Proximal stimulus – the pattern of stimulation that hits
+the retina
+• While the distal stimulus is constant, the proximal stimulus
+varies.
+• A major issue for perception is how your perception
+remains constant when the proximal stimulation is so
+variable.
+
+4
+
+Gestalt principles of perceptual
+organization
+1. Figure-ground separation
+2. Proximity
+3. Closure
+4. Similarity
+5. Continuity
+6. Symmetry
+
+* 2-6 are called Laws of perception
+
+5
+
+Figure-ground separation
+The first perceptual task when
+confronted with an object (or figure)
+is to recognise it. To do this, we must
+perceive the figure as being distinct
+from its surroundings (or ground).
+
+6
+
+7
+
+Proximity
+Occurs when elements are placed close together. They tend
+to be perceived as a group.
+The Gestalt principle of
+proximity suggests that you
+see (a) one block of dots on
+the left side and (b) three
+columns on the right side.
+
+Closure
+We tend to complete incomplete forms and generally fill in
+the gaps
+Closure suggests that
+we will perceive a
+complete circle and
+rectangle rather than a
+series of segments.
+
+Similarity
+Similar parts of a form are more likely to be perceived as
+belonging together than parts that are dissimilar.
+When looking at this array of
+dots, we likely perceive
+alternating rows of colours. We
+are grouping these dots
+according to the principle of
+similarity.
+
+Continuity
+We group stimuli into forms that follow continuous lines or
+patterns.
+Good continuation would
+suggest that we are more
+likely to perceive this as two
+overlapping lines, rather
+than four lines meeting in
+the center.
+
+Symmetry
+• Elements that are symmetrical to each other tend to be
+perceived as a unified group.
+• Similar to the law of similarity, this rule suggests that
+objects that are symmetrical with each other will be more
+likely to be grouped together than objects not symmetrical
+with each other.
+
+We see these shapes as two overlapping diamonds instead of as two touching
+corner bricks or an octahedron with a square in the middle.
+
+Depth perception
+• Depth perception is the ability to see things in a 3dimensional way and to judge distance.
+• We use depth cues to gather information on the images we
+see. These cues are monocular and binocular cues.
+• Binocular cues involve both eyes and rely on their working
+together, while monocular cues are available to each eye
+separately.
+
+19
+
+Predator vs Pray
+20
+
+Non-pictorial cues
+Nonpictorial cues involve the physical functioning of the eyes and brain
+rather than interpreting visual patterns in a scene. They include:
+Retinal Disparity (Binocular Cue): The slight difference in the images
+projected on each retina due to the eyes' horizontal separation. The brain
+uses this disparity to estimate depth, especially for objects within a few
+meters.
+Convergence (Binocular Cue): The inward rotation of the eyes to
+focus on a nearby object. The degree of convergence (angle of eye
+movement) provides the brain with information about an object’s distance.
+
+21
+
+Retinal disparity
+
+22
+
+Convergence
+
+23
+
+Pictorial cues
+• These refer to features of the
+visual field itself (rather than to
+the eyes), and are all also
+monocular.
+1. Relative Size: Objects that
+are farther away appear smaller
+than similar objects that are
+closer.
+
+24
+
+Pictorial cues
+2. Interposition
+(Occlusion): When one
+object partially blocks another,
+the blocked object is perceived
+as farther away.
+
+25
+
+Pictorial cues
+3. Linear Perspective:
+Parallel lines (e.g., railroad
+tracks) appear to converge as
+they recede into the distance,
+signaling depth.
+
+26
+
+Pictorial cues
+4. Texture Gradient:
+Textures appear denser and
+less detailed as they get farther
+away.
+
+27
+
+Pictorial cues
+5. Light and Shadow: The
+way light falls on objects
+creates shadows that indicate
+their shape and position in 3D
+space.
+
+28
+
+Pictorial cues
+6. Aerial Perspective:
+Distant objects appear hazier
+or less vivid due to atmospheric
+scattering of light, suggesting
+greater distance.
+
+29
+
+Pictorial cues
+7. Relative Height: Objects
+higher in the visual field (closer
+to the horizon) are perceived as
+farther away, especially in
+landscapes.
+
+30
+
+Perceptual consistency
+• The ability to perceive an object as unchanging, despite
+changes in the sensory information that reaches our eyes,
+is called perceptual constancy.
+• Size constancy
+• Shape constancy
+• Brightness constancy
+• Colour constancy
+• Location constancy
+
+31
+
+Size constancy
+The brain perceives an object’s
+size as constant, even though
+its retinal image changes with
+distance. For example, a
+person appears the same size
+whether they are 5 or 50 feet
+away, despite the retinal image
+being smaller at a distance
+(Ramachandran and RogersRamachandran, 2004).
+32
+
+Ames Room (Ames, 1946)
+In the Ames room, the
+walls, floor, and ceiling are
+trapezoidal, not
+rectangular. Your brain
+interprets both corners as
+being at the same
+distance, even though one
+is farther away.
+
+33
+
+Shape constancy
+An object’s shape is perceived
+as consistent, even when
+viewed from different angles,
+which alters its retinal
+projection. For example, a door
+appears rectangular whether
+viewed head-on or at an angle,
+where it projects a trapezoid on
+the retina.
+
+34
+
+Brightness constancy
+Objects are perceived as
+having consistent brightness,
+even when illumination
+changes. For example, a white
+shirt appears equally white in
+bright sunlight or dim shade,
+despite differences in light
+intensity reaching the retina.
+
+35
+
+Colour constancy
+The brain perceives an
+object’s colour as stable
+under different lighting
+conditions. For example, a
+red apple looks red in
+sunlight or under fluorescent
+light, even though the
+wavelengths reflected
+change.
+
+36
+
+Location constancy
+• Moving our heads around produces a constantly changing
+pattern of retinal images, yet we don’t perceive the world as
+spinning around. This is because kinaesthetic
+
+37
+
+Illusions
+• These offer examples of how perception can be wrong and how what we
+see is not the truthful reflection of what's out there
+• Perception is based not only on the stimulus but also knowledge and
+experience
+• The Ponzo illusion
+• The Horizontal-Vertical illusion
+• The Muller-Lyer illusion
+• The Poggendorf illusion
+• Titchener’s circles
+
+38
+
+The Ponzo Illusion
+The horizontal bar at the top is
+seen as being longer than the
+horizontal line at the bottom,
+even though they’re both the
+same length.
+
+39
+
+The Horizontal-Vertical Illusion
+The vertical line appears longer
+than the horizontal line – even
+though they’re of equal length.
+
+40
+
+The Muller-Lyer Illusion
+The line with the outgoing fins
+appears to be longer than the
+line with the ingoing fins, but in
+fact they’re the same length.
+
+41
+
+The Poggendorf Illusion
+Seems like the segments of the
+diagonal line are offset, even
+though they’re not.
+
+42
+
+Titchener’s circles
+The central circle in the lefthand group is seen as being
+larger than the central circle of
+the right-hand group, but
+they’re both the same size.
+
+43
+
+Theories of Visual Perception
+1. Gestalt Theory (as discussed - "the whole is greater than the
+sum of its parts.“
+
+2. Constructivist Theory (Gregory, 1966) - perception is an
+active, constructive process. The brain uses sensory input, prior
+knowledge, and expectations to build an interpretation of the visual
+world. Perception is driven by higher-level cognitive processes, such as
+memory, experience, and context. For instance, we recognize a blurry
+image as a face because we’ve seen faces before.
+e.g. When reading messy handwriting, your brain uses context and
+prior knowledge of words to decipher the text, even if some letters are
+unclear.
+
+44
+
+Theories of Visual Perception
+3. Ecological Theory (Gibson, 1966) - perception is direct and
+does not require complex cognitive processing. The environment
+provides all the information needed for perception through
+"affordances" (cues about how objects can be used). Gibson’s theory
+emphasizes the interaction between organisms and their environment,
+focusing on real-world, ecological contexts rather than lab-based
+stimuli.
+e.g. When walking through a forest, you perceive the ground’s texture
+and slopes directly, allowing you to navigate without consciously
+analyzing every step.
+
+45
+
+Aspect
+
+Gibson's Direct (Ecological)
+Theory
+
+Gregory's Constructivist (Indirect)
+Theory
+
+Key
+assumptions
+
+Perception is direct and bottom-up;
+we "pick up" invariant information
+from the environment without
+needing inferences.
+
+Perception is indirect and top-down; the
+brain constructs perceptions by testing
+hypothesis based on sensory data and prior
+knowledge.
+
+Role of
+environment
+
+Central; the optic array provides rich, Provides incomplete or ambiguous sensory
+unambiguous information (e.g.,
+input, which must be supplemented by
+affordances) that specifies what
+cognitive processes.
+actions are possible.
+
+Role of
+cognition
+
+Minimal; perception happens as a
+result of direct resonance with the
+environment.
+
+Essential; involves active interpretation
+using past experiences, expectations, and
+inferences.
+
+Explanation
+of illusions
+
+Occur due to insufficient or artificial
+environmental information (e.g., in
+lab settings), not cognitive errors.
+
+Result from misapplied hypotheses or
+perceptual errors based on prior knowledge
+(e.g., size illusions from depth cues).
+
+46
+
+Theories of Visual Perception
+While Gregory’s constructivist (‘top-down’) and Gibson’s
+direct (‘bottom-up’) approaches may appear to contradict
+each other, it’s possible to see them as complementary.
+According to Harris (1998): “Perception is not just a single
+task but …contributes in many different ways to everyday life
+… Some of these … are obviously more difficult than others
+and it seems likely that some can be accomplished directly,
+as Gibson maintained, whilst others may require
+sophisticated internal knowledge and are thus better
+described by the indirect approach.”
+
+47
+
+Lecture summary
+• What is perception?
+• Laws of perception
+• Depth perception: pictorial and non-pictorial cues
+• Principles of constancy
+• Illusions
+• Ecological and Constructivist theories of visual perception
+
+48
+
+

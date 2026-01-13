@@ -1,0 +1,548 @@
+{
+  "week": "Week 03",
+  "dateRange": "13 October - 19 October",
+  "topics": [
+    {
+      "id": "learning-psychology",
+      "title": "Learning",
+      "subtitle": "Classical, Operant, and Cognitive Approaches",
+      "summary": "Exploration of how learning occurs through different psychological mechanisms, including Pavlov's classical conditioning, Skinner's operant conditioning, and cognitive approaches that emphasize mental processes in learning.",
+      "keyTakeaways": [
+        "Learning is a relatively permanent change in behavior resulting from experience, excluding maturation, fatigue, or temporary states.",
+        "Classical conditioning involves associating a neutral stimulus with an unconditioned stimulus to produce a conditioned response.",
+        "Operant conditioning shapes behavior through reinforcement (increasing behavior) and punishment (decreasing behavior).",
+        "Cognitive approaches emphasize mental processes, including latent learning and insight, challenging pure behaviorist views."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "What is Learning?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Learning, in the context of psychology, is defined as a relatively permanent change in behaviour, knowledge, capability, or attitude that occurs as a result of experience. This process involves the acquisition, modification, or strengthening of behaviours and cognitive structures through interaction with the environment."
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "What Learning Is NOT",
+          "text": "Learning excludes changes due to maturation (e.g., a child walking due to physical development), fatigue (e.g., slower reactions when tired), or temporary states (e.g., altered behavior due to a mood swing)."
+        },
+        {
+          "type": "heading",
+          "text": "Classical Conditioning - Pavlov"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ivan Pavlov's groundbreaking experiments with dogs established the principles of classical conditioning. Before conditioning, the taste of food will naturally and automatically make a dog salivate, but the sound of a bell won't. The food is an unconditioned stimulus (UCS), and the salivation is an unconditioned response (UCR) – an automatic, reflex, biologically built-in response."
+        },
+        {
+          "type": "list",
+          "title": "Classical Conditioning Process",
+          "items": [
+            "Before Conditioning: Food (UCS) → Salivation (UCR); Bell (neutral) → No salivation",
+            "During Conditioning: Bell (CS) is paired with Food (UCS) repeatedly",
+            "After Conditioning: Bell (CS) → Salivation (CR) - conditioning has occurred"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Key Phenomena in Classical Conditioning",
+          "items": [
+            "Generalisation – responding to all similar sounds to the conditioned stimulus",
+            "Discrimination – responding only to the specific conditioned sound",
+            "Extinction – the response is inhibited if the bell is not paired with food (not totally eliminated)",
+            "Spontaneous Recovery – salivation reappears after a rest period following extinction"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Classical Conditioning and Phobias"
+        },
+        {
+          "type": "paragraph",
+          "text": "John Watson and Rosalie Rayner's famous 'Little Albert' experiment (1920) demonstrated that phobias could be acquired through classical conditioning. Watson conditioned a baby to fear a white rat by pairing it with a loud, frightening noise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mary Cover Jones later demonstrated the opposite process with 'Little Peter' (1924), showing that phobias could be reversed through gradual exposure and positive associations - a process called unconditioning or systematic desensitization."
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "The Little Peter Case Study",
+          "text": "Peter was a 2 year 10 month old boy with a strong phobia of furry animals. Jones used counterconditioning: Peter was seated with his favorite foods while the feared rabbit was introduced at a safe distance. Over sessions, the distance was gradually reduced. Peter's terror subsided progressively until he could pet and hold the rabbit without distress."
+        },
+        {
+          "type": "list",
+          "title": "Treatment of Phobias",
+          "items": [
+            "Exposure therapy uses systematic desensitization based on classical conditioning principles",
+            "Gradual exposure to feared stimuli while in a relaxed state creates new associations",
+            "The fear response can be replaced with relaxation or neutral responses over time"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Operant Conditioning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Edward Thorndike's experiments with cats in puzzle boxes were foundational to the development of operant conditioning, later expanded by B.F. Skinner. Operant conditioning focuses on how consequences shape voluntary behavior."
+        },
+        {
+          "type": "list",
+          "title": "Thorndike's Law of Effect",
+          "items": [
+            "Cats initially engaged in random behaviours (scratching, clawing, biting) trying to escape",
+            "Over time, cats associated specific actions (pressing the lever) with escape and food",
+            "With repeated trials, escape time decreased significantly",
+            "Key Finding: Behaviours followed by satisfying consequences are more likely to be repeated, while behaviours followed by unsatisfying consequences are less likely to occur again"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "B.F. Skinner expanded on Thorndike's work using the 'Skinner Box' with rats and pigeons. He discovered that the rate and pattern of behavior depended on the type and timing of consequences."
+        },
+        {
+          "type": "list",
+          "title": "Types of Consequences in Operant Conditioning",
+          "items": [
+            "Positive Reinforcement: Adding something pleasant to increase behavior (e.g., bonus for meeting sales target)",
+            "Negative Reinforcement: Removing something unpleasant to increase behavior (e.g., buckling seatbelt stops annoying beep)",
+            "Positive Punishment: Adding something unpleasant to decrease behavior (e.g., extra chores for breaking curfew)",
+            "Negative Punishment: Removing something pleasant to decrease behavior (e.g., speeding ticket results in loss of money)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Schedules of Reinforcement",
+          "items": [
+            "Continuous Reinforcement: Reward every time behavior occurs - leads to rapid learning but quick extinction",
+            "Intermittent Reinforcement: Reward delivered occasionally (e.g., every third response or at random intervals) - makes behavior more resistant to extinction",
+            "Fixed schedules deliver reinforcement at predictable intervals or ratios",
+            "Variable schedules deliver reinforcement unpredictably, creating strongest resistance to extinction"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Comparison of Classical and Operant Conditioning"
+        },
+        {
+          "type": "list",
+          "title": "Key Differences",
+          "items": [
+            "Classical: Learning happens involuntarily; Operant: Learning is voluntary",
+            "Classical: Stimulus guaranteed to produce response; Operant: Response likelihood depends on past consequences",
+            "Classical: Reinforcer presented regardless of behavior, before response; Operant: Reinforcer only presented after specific behavior",
+            "Classical: Works similarly with pleasurable or aversive UCS; Operant: Pleasurable outcomes repeated, aversive outcomes avoided",
+            "Both are types of associative learning, but differ in timing and control"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Biological Preparedness in Learning"
+        },
+        {
+          "type": "paragraph",
+          "text": "According to the concept of preparedness (Seligman, 1970), animals are biologically prepared to learn actions closely related to species survival. These prepared behaviours are learned with very little training, while contraprepared behaviours are contrary to natural tendencies and learned with great difficulty, if at all."
+        },
+        {
+          "type": "list",
+          "title": "Examples of Preparedness",
+          "items": [
+            "Rhesus monkeys (Mineka, 1980s): Quickly learned to fear snakes after observing other monkeys' fearful reactions - fear acquired after just one or two exposures",
+            "Humans (Ohman et al., 1975): Easily conditioned to fear spiders and snakes, but not flowers, houses, or berries",
+            "Fear of heights: Conditioning studies show fear of heights is easily strengthened (Gibson & Walk, 1960)",
+            "Fear responses to evolutionarily relevant stimuli (snakes) are stronger and more resistant to extinction than modern threats (electrical outlets)"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Cognitive Approaches to Learning"
+        },
+        {
+          "type": "paragraph",
+          "text": "While not denying classical and operant conditioning, cognitive theorists emphasize the role of mental processes in learning. These approaches challenged strict behaviorist views by demonstrating that learning can occur without immediate reinforcement."
+        },
+        {
+          "type": "list",
+          "title": "Bandura's Social Learning Theory",
+          "items": [
+            "Focuses on observational learning (modeling) where cognitive factors are crucial",
+            "Famous Bobo doll experiment demonstrated that children learn aggressive behaviors through observation",
+            "Learning can occur without direct reinforcement - vicarious reinforcement through watching others"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Tolman's Cognitive Behaviorism"
+        },
+        {
+          "type": "paragraph",
+          "text": "Edward Tolman's maze experiments with rats in the 1930s introduced the concept of latent learning. In his experiments, rats in Group 3 received no food reward while learning the maze, yet still learned the layout."
+        },
+        {
+          "type": "paragraph",
+          "text": "When rewards were later introduced, these rats immediately performed as well as rats that had been rewarded all along. Tolman concluded that Group 3 had been learning the maze's layout during the non-rewarded trials through cognitive maps, even though they didn't demonstrate this learning until a reward was introduced."
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Latent Learning vs Operant Conditioning",
+          "text": "Operant conditioning (Skinner) emphasizes that behaviours are shaped by immediate consequences. Tolman's findings showed that learning can occur without immediate reinforcement and be expressed later when a reinforcer is introduced."
+        },
+        {
+          "type": "heading",
+          "text": "Köhler's Insight Learning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wolfgang Köhler (1925) demonstrated that chimpanzees learn by insight - the sudden perception of a useful relationship that helps solve a problem. His chimps would suddenly understand how to stack boxes or use sticks to reach bananas, showing a cognitive 'aha!' moment rather than gradual trial-and-error learning."
+        },
+        {
+          "type": "heading",
+          "text": "Learned Helplessness"
+        },
+        {
+          "type": "paragraph",
+          "text": "Learned helplessness is a condition where an individual, after repeated exposure to uncontrollable negative events, develops a belief that they cannot influence outcomes, leading to passivity and reduced motivation to act, even when control becomes possible (Seligman, 1960s)."
+        },
+        {
+          "type": "list",
+          "title": "Learned Helplessness and Learning Theories",
+          "items": [
+            "Classical Conditioning: Involves associating an aversive stimulus with lack of control, leading to conditioned helplessness",
+            "Operant Conditioning: When actions consistently fail to produce desired outcomes, individuals learn that behavior has no effect, reducing future attempts",
+            "Cognitive Learning: Emphasizes perception and belief - individuals internalize the idea that they are powerless, shaping expectations and behavior in new situations"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question": "According to psychology, which of the following is NOT considered learning?",
+          "difficulty": "learning",
+          "options": [
+            "A child acquiring language through interaction",
+            "An infant learning to walk due to physical maturation",
+            "A student improving test scores through study",
+            "A dog learning to sit on command"
+          ],
+          "answer": "An infant learning to walk due to physical maturation",
+          "explanation": {
+            "correct": "Physical maturation is explicitly excluded from the definition of learning. Learning requires experience-based changes, while walking develops primarily through biological maturation of the nervous and muscular systems.",
+            "incorrect": {
+              "A child acquiring language through interaction": "Language acquisition is a prime example of learning through environmental experience and interaction.",
+              "A student improving test scores through study": "This is clearly learning - a relatively permanent change in knowledge and capability resulting from the experience of studying.",
+              "A dog learning to sit on command": "This represents operant conditioning - learning through reinforcement that produces a behavior change."
+            }
+          }
+        },
+        {
+          "question": "In Pavlov's classical conditioning experiments, what is the unconditioned stimulus (UCS)?",
+          "difficulty": "learning",
+          "options": [
+            "The bell",
+            "The food",
+            "The salivation before conditioning",
+            "The salivation after conditioning"
+          ],
+          "answer": "The food",
+          "explanation": {
+            "correct": "The food is the unconditioned stimulus because it naturally and automatically produces salivation without any prior learning. It's 'unconditioned' because no conditioning is required for it to elicit the response.",
+            "incorrect": {
+              "The bell": "The bell is the conditioned stimulus (CS) - it's neutral before conditioning and only produces salivation after being paired with the UCS.",
+              "The salivation before conditioning": "This is the unconditioned response (UCR) - the automatic response to the UCS (food).",
+              "The salivation after conditioning": "This is the conditioned response (CR) - the learned response to the conditioned stimulus (bell)."
+            }
+          }
+        },
+        {
+          "question": "What phenomenon occurs when a dog conditioned to salivate to a bell also begins salivating to similar sounds like a chime or buzzer?",
+          "difficulty": "learning",
+          "options": [
+            "Discrimination",
+            "Extinction",
+            "Generalisation",
+            "Spontaneous recovery"
+          ],
+          "answer": "Generalisation",
+          "explanation": {
+            "correct": "Generalisation occurs when an organism responds to stimuli that are similar to the original conditioned stimulus. The dog generalizes its learned response from the specific bell to similar sounds.",
+            "incorrect": {
+              "Discrimination": "Discrimination is the opposite - responding only to the specific conditioned stimulus and not to similar stimuli. This requires additional training.",
+              "Extinction": "Extinction occurs when the conditioned response weakens because the CS is repeatedly presented without the UCS.",
+              "Spontaneous recovery": "This is when a previously extinguished conditioned response reappears after a rest period, without additional conditioning."
+            }
+          }
+        },
+        {
+          "question": "In the Little Albert experiment, Watson demonstrated that:",
+          "difficulty": "application",
+          "options": [
+            "Phobias can be inherited genetically",
+            "Phobias can be acquired through classical conditioning",
+            "Children naturally fear furry objects",
+            "Phobias cannot be conditioned in infants"
+          ],
+          "answer": "Phobias can be acquired through classical conditioning",
+          "explanation": {
+            "correct": "Watson paired a white rat (neutral stimulus) with a loud frightening noise (UCS) to condition Little Albert to fear the rat. This demonstrated that phobias are learned through association, not innate. The experiment showed that emotional responses like fear can be conditioned.",
+            "incorrect": {
+              "Phobias can be inherited genetically": "The experiment demonstrated the opposite - that phobias are learned through experience, not inherited. Albert had no fear of the rat initially.",
+              "Children naturally fear furry objects": "Albert showed no natural fear of furry objects before conditioning. The fear was created through the pairing of the rat with the loud noise.",
+              "Phobias cannot be conditioned in infants": "This is the opposite of what Watson demonstrated. The experiment proved that even young infants can acquire conditioned fear responses."
+            }
+          }
+        },
+        {
+          "question": "Mary Cover Jones' work with Little Peter demonstrated which therapeutic principle?",
+          "difficulty": "application",
+          "options": [
+            "Phobias worsen with exposure",
+            "Phobias can be reversed through counterconditioning",
+            "Children outgrow phobias naturally",
+            "Phobias require medication to treat"
+          ],
+          "answer": "Phobias can be reversed through counterconditioning",
+          "explanation": {
+            "correct": "Jones used systematic desensitization/counterconditioning by pairing the feared rabbit with positive experiences (favorite foods) at gradually decreasing distances. This created new positive associations that replaced the fear response, demonstrating that conditioned fears can be unconditioned.",
+            "incorrect": {
+              "Phobias worsen with exposure": "Jones' work showed the opposite - gradual, controlled exposure in positive contexts reduced phobias. This principle underlies modern exposure therapy.",
+              "Children outgrow phobias naturally": "Jones used systematic intervention, not passive waiting. Peter's fear was actively treated through deliberate counterconditioning procedures.",
+              "Phobias require medication to treat": "Jones demonstrated a behavioral/psychological treatment approach without medication, showing that learning-based interventions can effectively treat phobias."
+            }
+          }
+        },
+        {
+          "question": "Thorndike's Law of Effect states that:",
+          "difficulty": "learning",
+          "options": [
+            "All behaviors are equally likely to be learned",
+            "Behaviors followed by satisfying consequences are more likely to be repeated",
+            "Learning requires conscious awareness",
+            "Punishment is more effective than reward"
+          ],
+          "answer": "Behaviors followed by satisfying consequences are more likely to be repeated",
+          "explanation": {
+            "correct": "The Law of Effect is the foundational principle of operant conditioning: behaviors followed by satisfying consequences (rewards) become more frequent, while behaviors followed by unsatisfying consequences become less frequent. This was demonstrated by cats learning to escape puzzle boxes more quickly over time.",
+            "incorrect": {
+              "All behaviors are equally likely to be learned": "The Law of Effect specifically states that consequences determine learning likelihood. Behaviors with positive consequences are more likely to be learned than those with negative consequences.",
+              "Learning requires conscious awareness": "Thorndike's work showed learning can occur through trial-and-error without necessarily understanding why certain actions work, challenging the need for conscious awareness.",
+              "Punishment is more effective than reward": "The Law of Effect treats both equally in principle - consequences (satisfying or unsatisfying) shape behavior. Research actually suggests reward is often more effective than punishment."
+            }
+          }
+        },
+        {
+          "question": "Which of the following is an example of negative reinforcement?",
+          "difficulty": "application",
+          "options": [
+            "Receiving a bonus for meeting sales targets",
+            "Buckling seatbelt to stop the car's warning beep",
+            "Receiving a speeding ticket for driving too fast",
+            "Being assigned extra chores for breaking curfew"
+          ],
+          "answer": "Buckling seatbelt to stop the car's warning beep",
+          "explanation": {
+            "correct": "Negative reinforcement involves removing an unpleasant stimulus (the annoying beep) to increase a behavior (buckling seatbelt). The behavior is reinforced (strengthened) by the removal of something aversive. 'Negative' refers to subtraction, not to something bad.",
+            "incorrect": {
+              "Receiving a bonus for meeting sales targets": "This is positive reinforcement - adding something pleasant (money) to increase behavior (hard work). 'Positive' means addition.",
+              "Receiving a speeding ticket for driving too fast": "This is positive punishment (or negative punishment if you focus on losing money) - adding an unpleasant consequence to decrease behavior.",
+              "Being assigned extra chores for breaking curfew": "This is positive punishment - adding something unpleasant (chores) to decrease a behavior (breaking curfew)."
+            }
+          }
+        },
+        {
+          "question": "In Skinner's experiments, intermittent reinforcement compared to continuous reinforcement resulted in:",
+          "difficulty": "application",
+          "options": [
+            "Faster initial learning but quicker extinction",
+            "Slower initial learning but more resistance to extinction",
+            "Faster learning and faster extinction",
+            "No significant difference in learning or extinction"
+          ],
+          "answer": "Slower initial learning but more resistance to extinction",
+          "explanation": {
+            "correct": "Intermittent (partial) reinforcement schedules produce slower initial learning because the reward isn't always present. However, they create much stronger resistance to extinction because the organism has learned to persist even when rewards are absent. This is why gambling is so addictive - intermittent wins create persistent behavior.",
+            "incorrect": {
+              "Faster initial learning but quicker extinction": "This describes continuous reinforcement, not intermittent. Continuous reinforcement (every response rewarded) produces rapid learning but the behavior extinguishes quickly when rewards stop.",
+              "Faster learning and faster extinction": "Intermittent reinforcement doesn't produce faster learning - initial learning is actually slower than with continuous reinforcement.",
+              "No significant difference in learning or extinction": "There are substantial differences. Skinner demonstrated that reinforcement schedules dramatically affect both acquisition rate and resistance to extinction."
+            }
+          }
+        },
+        {
+          "question": "A key difference between classical and operant conditioning is:",
+          "difficulty": "learning",
+          "options": [
+            "Classical involves voluntary behavior; operant involves involuntary responses",
+            "Classical involves involuntary responses; operant involves voluntary behavior",
+            "Both involve only voluntary behaviors",
+            "Both involve only involuntary responses"
+          ],
+          "answer": "Classical involves involuntary responses; operant involves voluntary behavior",
+          "explanation": {
+            "correct": "Classical conditioning produces involuntary, automatic responses (like salivation, fear, or other reflexes). The organism doesn't choose to respond. Operant conditioning shapes voluntary, emitted behaviors that the organism controls (like pressing a lever or studying).",
+            "incorrect": {
+              "Classical involves voluntary behavior; operant involves involuntary responses": "This is backwards. Classical conditioning works with reflexes and involuntary responses, while operant conditioning works with voluntary actions.",
+              "Both involve only voluntary behaviors": "Classical conditioning specifically deals with involuntary responses like salivation, fear responses, or other reflexes that organisms cannot consciously control.",
+              "Both involve only involuntary responses": "Operant conditioning specifically shapes voluntary behaviors - actions the organism chooses to perform or not perform based on their consequences."
+            }
+          }
+        },
+        {
+          "question": "According to Seligman's concept of preparedness, which fear would humans be MOST easily conditioned to acquire?",
+          "difficulty": "tricky",
+          "options": [
+            "Fear of electrical outlets",
+            "Fear of snakes",
+            "Fear of cars",
+            "Fear of guns"
+          ],
+          "answer": "Fear of snakes",
+          "explanation": {
+            "correct": "Biological preparedness suggests organisms are predisposed to fear stimuli that posed evolutionary threats to our ancestors. Snakes were dangerous throughout human evolutionary history, so fear of snakes is easily acquired, strongly maintained, and resistant to extinction. Öhman et al. (1975) showed humans easily conditioned to fear snakes but not flowers or houses.",
+            "incorrect": {
+              "Fear of electrical outlets": "Outlets are modern threats with no evolutionary history. Öhman and Mineka's work showed that while outlets can induce fear when paired with shocks, it requires more trials, is weaker, and extinguishes faster than evolutionarily relevant fears.",
+              "Fear of cars": "Cars are modern dangers that didn't exist in our evolutionary past. While dangerous, they don't trigger the prepared fear response that evolutionarily ancient threats do.",
+              "Fear of guns": "Like cars and outlets, guns are modern threats. Prepared learning applies to ancient evolutionary pressures (snakes, heights, darkness), not recent technological dangers."
+            }
+          }
+        },
+        {
+          "question": "Tolman's concept of latent learning challenged which aspect of operant conditioning?",
+          "difficulty": "tricky",
+          "options": [
+            "That learning requires observable behavior changes",
+            "That learning requires immediate reinforcement",
+            "That animals can learn",
+            "That consequences affect behavior"
+          ],
+          "answer": "That learning requires immediate reinforcement",
+          "explanation": {
+            "correct": "Tolman's rats learned the maze layout without reinforcement, demonstrating latent learning - learning that occurs without immediate reinforcement and isn't demonstrated until a reinforcer is introduced. This challenged Skinner's emphasis on immediate consequences driving all learning. The rats formed cognitive maps despite no reward, proving learning and performance are separate.",
+            "incorrect": {
+              "That learning requires observable behavior changes": "While Tolman showed learning can exist without immediate performance, this wasn't the primary challenge. The key insight was about reinforcement timing, not observability.",
+              "That animals can learn": "Neither Tolman nor Skinner disputed that animals can learn. Both used animal subjects. This wasn't a point of contention.",
+              "That consequences affect behavior": "Tolman didn't challenge that consequences matter - the rats performed better once rewards were introduced. He challenged when consequences must occur for learning to happen."
+            }
+          }
+        },
+        {
+          "question": "Köhler's insight learning experiments with chimpanzees demonstrated that:",
+          "difficulty": "application",
+          "options": [
+            "All learning occurs through gradual trial-and-error",
+            "Learning can involve sudden cognitive understanding",
+            "Animals cannot solve complex problems",
+            "Reinforcement is unnecessary for learning"
+          ],
+          "answer": "Learning can involve sudden cognitive understanding",
+          "explanation": {
+            "correct": "Köhler's chimps showed sudden 'aha!' moments when solving problems (stacking boxes, using sticks to reach bananas), demonstrating insight learning. This cognitive process differed from gradual trial-and-error, suggesting learning can involve mental restructuring and understanding of relationships, not just behavioral shaping.",
+            "incorrect": {
+              "All learning occurs through gradual trial-and-error": "Köhler's work demonstrated the opposite - that some learning involves sudden insight rather than gradual improvement. The chimps suddenly understood the solution.",
+              "Animals cannot solve complex problems": "The experiments proved the opposite. Chimps solved complex spatial problems requiring understanding of relationships and tool use.",
+              "Reinforcement is unnecessary for learning": "While insight learning emphasizes cognitive processes, the chimps were still motivated by food rewards. Köhler didn't claim reinforcement was unnecessary, just that learning involved more than simple associations."
+            }
+          }
+        },
+        {
+          "question": "Learned helplessness occurs when:",
+          "difficulty": "learning",
+          "options": [
+            "An individual is never exposed to negative events",
+            "An individual experiences repeated uncontrollable negative events",
+            "An individual is reinforced for passive behavior",
+            "An individual lacks the ability to learn"
+          ],
+          "answer": "An individual experiences repeated uncontrollable negative events",
+          "explanation": {
+            "correct": "Learned helplessness develops after repeated exposure to uncontrollable negative events, leading to the belief that one cannot influence outcomes. This creates passivity and reduced motivation even when control becomes possible. The key is uncontrollability - the individual learns that their actions don't matter.",
+            "incorrect": {
+              "An individual is never exposed to negative events": "Learned helplessness requires exposure to negative events, not absence of them. It's the pattern of uncontrollable aversive experiences that creates the condition.",
+              "An individual is reinforced for passive behavior": "Learned helplessness isn't about being rewarded for passivity. It's about learning that active attempts to control outcomes fail, leading to passive resignation.",
+              "An individual lacks the ability to learn": "Learned helplessness is actually a form of learning - learning that one's actions are ineffective. The individual has learned something maladaptive, not failed to learn."
+            }
+          }
+        },
+        {
+          "question": "Which schedule of reinforcement would make a behavior MOST resistant to extinction?",
+          "difficulty": "tricky",
+          "options": [
+            "Continuous reinforcement",
+            "Fixed-ratio reinforcement",
+            "Fixed-interval reinforcement",
+            "Variable-ratio reinforcement"
+          ],
+          "answer": "Variable-ratio reinforcement",
+          "explanation": {
+            "correct": "Variable-ratio schedules (reinforcement after unpredictable number of responses) produce the strongest resistance to extinction. The organism never knows when the next reward will come, so they persist longer when rewards stop. This explains why slot machines are so addictive - players can't predict when they'll win.",
+            "incorrect": {
+              "Continuous reinforcement": "Continuous reinforcement (every response rewarded) produces the quickest extinction. The organism immediately notices when rewards stop because they're used to consistent reinforcement.",
+              "Fixed-ratio reinforcement": "Fixed-ratio (reward after specific number of responses) creates resistance to extinction, but less than variable-ratio. The predictability makes it easier to detect when rewards have stopped completely.",
+              "Fixed-interval reinforcement": "Fixed-interval (reward after specific time period) is the weakest intermittent schedule for maintaining behavior. The predictability of timing makes extinction relatively quick."
+            }
+          }
+        },
+        {
+          "question": "A teacher praises a student for correct answers. Later, the praise is stopped, but the student continues raising their hand frequently. This demonstrates:",
+          "difficulty": "application",
+          "options": [
+            "That the behavior was never actually learned",
+            "That the behavior is resistant to extinction",
+            "Spontaneous recovery",
+            "That praise was not a reinforcer"
+          ],
+          "answer": "That the behavior is resistant to extinction",
+          "explanation": {
+            "correct": "When a previously reinforced behavior continues despite reinforcement being withdrawn, this shows resistance to extinction. The behavior was well-established through prior reinforcement, and takes time to extinguish. This is especially true if the student was on an intermittent reinforcement schedule.",
+            "incorrect": {
+              "That the behavior was never actually learned": "The persistence of the behavior proves it was learned. If it hadn't been learned, it wouldn't occur at all, especially without current reinforcement.",
+              "Spontaneous recovery": "Spontaneous recovery refers to a previously extinguished behavior reappearing after a rest period. This describes ongoing behavior that hasn't extinguished yet, not a recovered behavior.",
+              "That praise was not a reinforcer": "If praise wasn't a reinforcer, the behavior wouldn't have increased initially. The continued behavior after praise stops shows the behavior was well-learned through reinforcement, which takes time to extinguish."
+            }
+          }
+        },
+        {
+          "question": "In classical conditioning, if a bell is repeatedly presented without food after conditioning has occurred, what will eventually happen?",
+          "difficulty": "learning",
+          "options": [
+            "The dog will salivate more to the bell",
+            "The salivation response to the bell will be inhibited (extinction)",
+            "The dog will generalize to other sounds",
+            "Nothing - the conditioning is permanent"
+          ],
+          "answer": "The salivation response to the bell will be inhibited (extinction)",
+          "explanation": {
+            "correct": "Extinction occurs when the conditioned stimulus (bell) is repeatedly presented without the unconditioned stimulus (food). The conditioned response (salivation) gradually weakens and is inhibited. Importantly, extinction doesn't completely eliminate the association - spontaneous recovery can occur.",
+            "incorrect": {
+              "The dog will salivate more to the bell": "Salivation would increase if the bell-food pairing continued or was strengthened. Without food, the response weakens, not strengthens.",
+              "The dog will generalize to other sounds": "Generalization occurs during or immediately after conditioning, not during extinction. Extinction specifically weakens the response to the conditioned stimulus.",
+              "Nothing - the conditioning is permanent": "Classical conditioning responses can be extinguished through repeated presentation of the CS without the UCS. While not completely erased (spontaneous recovery is possible), the response does diminish."
+            }
+          }
+        },
+        {
+          "question": "Which scenario best illustrates the difference between positive punishment and negative punishment?",
+          "difficulty": "tricky",
+          "options": [
+            "Spanking a child vs. praising good behavior",
+            "Adding chores vs. removing privileges",
+            "Giving rewards vs. removing rewards",
+            "Positive reinforcement vs. negative reinforcement"
+          ],
+          "answer": "Adding chores vs. removing privileges",
+          "explanation": {
+            "correct": "Positive punishment adds something unpleasant (chores) to decrease behavior. Negative punishment removes something pleasant (privileges) to decrease behavior. Both aim to decrease behavior, but differ in whether something is added or removed. This pair clearly illustrates the distinction within punishment.",
+            "incorrect": {
+              "Spanking a child vs. praising good behavior": "These compare punishment to reinforcement, not two types of punishment. Praising is positive reinforcement (increases behavior), not any form of punishment.",
+              "Giving rewards vs. removing rewards": "Giving rewards is positive reinforcement (increases behavior). Removing rewards could be negative punishment (decreases behavior), but this compares reinforcement to punishment, not two types of punishment.",
+              "Positive reinforcement vs. negative reinforcement": "Both are types of reinforcement that increase behavior, not punishment that decreases behavior. This doesn't illustrate punishment types at all."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

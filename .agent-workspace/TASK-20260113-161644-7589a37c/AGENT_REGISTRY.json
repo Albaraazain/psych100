@@ -1,0 +1,149 @@
+{
+  "task_id": "TASK-20260113-161644-7589a37c",
+  "task_description": "Generate PSYC100 study site content: Create structured JSON notes and MCQ questions for 11 weeks using pre-extracted content analysis from Phase 1. Input: workspace documents with key concepts, theories, learning objectives for all topics.",
+  "created_at": "2026-01-13T16:16:44.373842",
+  "workspace": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace/TASK-20260113-161644-7589a37c",
+  "workspace_base": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace",
+  "client_cwd": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050",
+  "status": "INITIALIZED",
+  "priority": "P1",
+  "phases": [
+    {
+      "id": "phase-4e3ab8ce",
+      "order": 1,
+      "name": "Structured Notes Generation",
+      "description": "Create comprehensive JSON notes for each of 11 weeks matching study-site format",
+      "deliverables": [
+        "11 weekly JSON files (week1.json to week11.json)",
+        "Each contains: week, dateRange, topics array with title, summary, keyTakeaways, content sections",
+        "Content formatted with headings, paragraphs, lists, callouts",
+        "Use extracted content from .agent-workspace/TASK-20260113-132732-7d7996c7/ as source"
+      ],
+      "success_criteria": [
+        "Valid JSON syntax for all files",
+        "Each topic has 3-5 keyTakeaways",
+        "Minimum 10 content sections per topic",
+        "All psychology terms properly explained"
+      ],
+      "status": "ACTIVE",
+      "created_at": "2026-01-13T16:16:44.373780",
+      "started_at": "2026-01-13T16:16:44.373782"
+    },
+    {
+      "id": "phase-8c2389f7",
+      "order": 2,
+      "name": "Question Bank Generation",
+      "description": "Generate 15+ MCQs per week testing key concepts",
+      "deliverables": [
+        "Minimum 15 MCQs added to each weekly JSON",
+        "Questions array with question, options (4 choices), answer fields",
+        "Mix of recall, application, analysis questions",
+        "Questions cover theories, definitions, researchers, applications"
+      ],
+      "success_criteria": [
+        "165+ total questions across 11 weeks",
+        "All questions have exactly 4 options",
+        "Single correct answer per question",
+        "No duplicate questions"
+      ],
+      "status": "PENDING",
+      "created_at": "2026-01-13T16:16:44.373790",
+      "started_at": null
+    },
+    {
+      "id": "phase-c315fe92",
+      "order": 3,
+      "name": "Integration & Deployment",
+      "description": "Integrate JSON files into study-site, update courseData.json, validate and test",
+      "deliverables": [
+        "All 11 JSON files in study-site/src/data/weeks/",
+        "Updated courseData.json with PSYC100 metadata",
+        "Removed old GPC 415 content",
+        "Site builds without errors"
+      ],
+      "success_criteria": [
+        "npm run build succeeds",
+        "All JSON valid (no parse errors)",
+        "No GPC 415 references remain",
+        "Site displays all 11 weeks correctly"
+      ],
+      "status": "PENDING",
+      "created_at": "2026-01-13T16:16:44.373794",
+      "started_at": null
+    },
+    {
+      "id": "phase-e122d682",
+      "order": 4,
+      "name": "Final Testing",
+      "description": "Comprehensive testing of all implemented features. This phase uses chrome-devtools MCP for browser testing, curl for API tests, and runs any existing test suites.",
+      "deliverables": [
+        "All UI features tested via browser automation",
+        "All API endpoints tested via curl/integration tests",
+        "Existing test suites pass (if applicable)",
+        "No critical bugs or regressions found"
+      ],
+      "success_criteria": [
+        "Core user flows work end-to-end",
+        "No console errors during testing",
+        "API responses are correct and performant",
+        "Visual appearance matches expectations"
+      ],
+      "status": "PENDING",
+      "created_at": "2026-01-13T16:16:44.373808",
+      "started_at": null,
+      "auto_appended": true,
+      "tests_deliverables_from": [
+        "Structured Notes Generation",
+        "Question Bank Generation",
+        "Integration & Deployment"
+      ]
+    }
+  ],
+  "current_phase_index": 0,
+  "agents": [],
+  "agent_hierarchy": {
+    "orchestrator": []
+  },
+  "max_agents": 45,
+  "max_depth": 5,
+  "max_concurrent": 20,
+  "total_spawned": 0,
+  "active_count": 0,
+  "completed_count": 0,
+  "reviews": [],
+  "orchestration_guidance": {
+    "min_specialization_depth": 2,
+    "recommended_child_agents_per_parent": 3,
+    "specialization_domains": [],
+    "complexity_score": 3
+  },
+  "spiral_checks": {
+    "enabled": true,
+    "last_check": "2026-01-13T16:16:44.373872",
+    "violations": 0
+  },
+  "task_context": {
+    "background_context": "Phase 1 COMPLETED in previous task (TASK-20260113-132732-7d7996c7). Deliverables in workspace: PHASE1_COURSE_STRUCTURE_COMPREHENSIVE_MAPPING.md (957 lines), individual week analyses (4249 lines total), JSON structure samples. Source: pdf-text-extracted/*.txt (11 files). Target format: study-site/src/data/weeks/week1.json structure.",
+    "constraints": [
+      "Use ONLY sonnet agents",
+      "Match existing week1.json structure exactly",
+      "All JSON must be valid syntax",
+      "Content must be academically accurate"
+    ],
+    "relevant_files": [
+      "study-site/src/data/weeks/week1.json",
+      ".agent-workspace/TASK-20260113-132732-7d7996c7/PHASE1_COURSE_STRUCTURE_COMPREHENSIVE_MAPPING.md",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY INTRODUCTION.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY THEORETICAL APPROACHES.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY LEARNING.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY MOTIVATION.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY MEMORY.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY PERCEPTION.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY SOCIAL PSYCHOLOGY.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY DEVELOPMENTAL PSYCHOLOGY.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY INTELLIGENCE.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY PSYCHOPATHOLOGY.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY TREATMENTS AND THERAPIES.txt"
+    ]
+  }
+}

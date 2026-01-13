@@ -1,0 +1,307 @@
+PSYC100 GENERAL
+PSYCHOLOGY
+WHAT IS PSYCHOLOGY? PSYCHOLOGY AS A
+SCIENCE
+Dr. Asli Niyazi
+nasli@metu.edu.tr
+
+PSYC100 Course Outline
+ATTENDANCE
+
+MID-TERMS
+
+FINAL EXAM
+
+Attendance will be taken in all sessions. **Students who do not attend
+70% of classes will not qualify for taking the final exam and be given an
+NA grade. Therefore, will not be able to benefit from the make-up
+exams**
+Date: Week 7 and Week 12
+Weighing: 30% each
+Format: MCQs
+Coverage: Weeks 1-6 & Weeks 8-11, respectively.
+Date: TBA
+Weighing: 40%
+Format: MCQs
+Coverage: All
+
+PSYC100 Course Outline
+
+SECTION D: T EACHING SCHEDULE
+
+Week
+
+Lecture Topic
+
+Chapter
+1-3
+
+Week 1
+
+What is Psychology? & Psychology as a Science
+
+Week 2
+
+Theoretical Approaches to Psychology
+
+Week 3
+
+Learning
+
+Week 4
+
+Motivation
+
+9
+
+Week 5
+
+Perception
+
+15
+
+Week 6
+
+Memory
+
+Week 7
+
+Midterm I
+
+Week 8
+
+Social Psychology Topics
+
+Week 9
+
+Developmental Psychology Topics
+
+Week 10
+
+Intelligence
+
+Week 11
+
+Personality
+
+Week 12
+
+Midterm II
+
+Week 13
+
+Psychopathology
+
+Week 14
+
+Treatments and Therapies
+
+2
+11
+
+17
+23-26-27
+32-34
+41
+42
+43-44
+45
+
+Learning Outcomes
+•
+•
+•
+•
+•
+
+What is psychology?
+A brief history
+The relationship between psychology and other disciplines
+Main areas of psychology
+The scientific study of human behaviour
+
+What is psychology?
+The word ‘psychology’ is derived from the Greek psyche (mind, soul or spirit)
+and logos (knowledge, discourse or study). Literally, then, Psychology is the
+‘study of the mind’.
+Psychology is the scientific study of the mind, brain, and behaviour, exploring
+thoughts, emotions, and actions to understand individuals and groups. It's a
+diverse, interdisciplinary field that uses research and experimentation to gain
+insights into human development, mental processes, and the factors—
+biological, social, and environmental—that influence how we think, feel, and
+behave.
+
+A brief history
+1879 Wilhelm Wundt opens first experimental psychology lab in Leipzig - Psychology separates from
+philosophy, becoming an independent science focused on introspection and experimentation.
+1883 Stanley Hall opens first U.S. psychology lab at Johns Hopkins - Expanded scientific
+psychology globally, emphasizing research.
+1885 Hermann Ebbinghaus publishes on memory experiments - Demonstrated systematic selfexperimentation, solidifying cognitive psychology's scientific basis.
+1886 Sigmund Freud begins psychoanalysis - Introduced talk therapy and unconscious mind
+theories, adding depth to scientific inquiry into mental processes.
+1888 Cattell publishes on mental tests - Advanced psychological assessment with standardized
+measurements, enhancing scientific rigor.
+
+A brief history
+1892 formation of American Psychological Association - Professionalized the field, fostering
+scientific collaboration and standards.
+1904 Ivan Pavlov’s work on classical conditioning - Introduced behavioral experiments,
+shifting focus to observable responses and scientific objectivity.
+1905 Binet first IQ test - Developed empirical tools for measuring cognition, advancing
+psychometrics as a science.
+1912 Gestalt Psychology - studies of perception, enriching scientific approaches.
+1913 - 1920 Watson’s Behaviourism and Little Albert Experiment - emphasized
+experimentation over introspection
+1932 Jean Piaget - Used empirical observation to map child cognition, establishing
+developmental psychology as a science.
+
+A brief history
+1935
+
+1960s–1970s
+
+Skinner’s Operant Conditioning experiments Built on behaviorism with rigorous experiments on
+reinforcement, solidifying scientific behavior
+analysis.
+
+Rise of neuroscience and psychopharmacology Linked psychology to brain science via tools like
+EEG and MRI, enhancing biological validity.
+
+1960s Cognitive revolution (e.g., Noam Chomsky,
+George Miller) - Shifted to scientific study of mental
+processes using computer models, integrating with
+information science
+
+1950s
+
+A brief history
+1980s–1990s Positive psychology emerges (Martin Seligman) - Focused on empirical study of well-being and
+strengths, expanding beyond pathology
+2000s Integration of genetics and psychology (e.g., behavioral genetics) - Used scientific methods like twin studies
+to explore heritability of traits.
+2010s Digital psychology and big data - Leveraged technology for large-scale behavioral analysis, making
+psychology more data-driven.
+2021–2023 Studies on social media, loneliness, and AI-inspired models - Empirical research on modern issues like
+TikTok's impact on adolescents and machine learning in cognitive modeling.
+2024–2025 Advancements in AI therapy, telehealth, digital therapeutics etc. - Psychology integrates with tech
+(e.g., AI chatbots for mental health, brain-computer interfaces) and neuroscience (e.g., immune system's role in
+anxiety), expanding access and precision in evidence-based interventions.
+
+Main areas of psychology
+
+The relationship between psychology and
+other disciplines
+
+Does psychology have deep connections
+with other fields?
+Computer engineering
+Software engineering
+Industrial engineering
+Mechanical engineering
+Civil engineering
+Electrical & Electronic engineering
+Chemical engineering
+Aerospace engineering
+Also Business Administration, Economics, Political Science, EFL
+
+Some examples
+Mechanical engineering: understanding human error and stress when designing systems.
+Civil engineering: how buildings, cities affect mental health and behaviour.
+Electrical & Electronic engineering: designing devices that monitor stress, mood or
+cognitive performance.
+Chemical engineering: working with neuropsychologists to develop drugs that affect the
+brain.
+Aerospace engineering: aviation psychology, studying pilot cognition, fatigue and decisionmaking.
+Computer engineering: HCI, user experience, cybersecurity, AI.
+EFL: effective language teaching and learning involve understanding cognitive, emotional,
+social, and motivational processes.
+PSIR: human behavior, cognition, and emotions underpin political and international
+dynamics
+
+The scientific study of human behaviour
+Wilhelm Wundt - the founder of the new science of Experimental Psychology; used
+
+introspection ( looking inside); structuralism (structure of the mind)
+William James – functionalism (function of the mind); individual differences
+John Watson – critical of introspection; behaviourism, influenced by Pavlov; Little
+Albert experiment
+McCarthy, Chompsky and Miller – cognitive revolution; various academics met to
+discuss the possibility of producing computer programs that could ‘behave’ or ‘think’
+intelligently. These academics included McCarthy (generally attributed with having
+coined the term ‘artificial intelligence’), Chomsky and Miller.
+
+Major features of a science
+
+What makes psychology a science?
+1. Empirical evidence (observable, measurable data collection).
+2. Scientific method (hypothesis testing, analysing results, drawing
+conclusions).
+3. Theories and models (psychology develops testable theories i.e.
+cognitive dissonance, attachment theory).
+4. Experimentation (studies cause-effect relationships).
+5. Quantitative and qualitative methods
+6. Falsifiability (theories can be tested and disproven)
+
+The scientific study of human behaviour
+•
+
+The social nature of science: the problem of objectivity - Psychologists are part of their own
+
+•
+
+The Psychology experiment as a social situation
+
+•
+
+The problem of representativeness
+
+•
+
+The problem of artificiality
+
+•
+
+The problem of internal vs external validity
+
+subject matter, which makes it even more difficult for them to be objective than other scientists.
+•
+•
+
+Experimenter bias - expectations
+Demand characteristics – interpretation of experiment’s purpose
+
+•
+
+Culture?
+
+•
+
+Generalizability?
+
+•
+•
+
+High internal validity means that the observed effects are due to the manipulation of the IV.
+High external validity means results can be generalised to other settings, populations, or times.
+
+“
+
+Psychology, as a science, seeks to
+explain the complexities of the human
+mind through rigorous observation and
+experimentation.
+Carl Gustav Jung
+
+”
+
+19
+
+Summary
+• While Psychology sometimes faces challenges, like the
+complexity of human behaviour or ethical limits on
+experimentation, its commitment to evidence-based methods
+aligns it with other sciences like biology or physics.
+• Recognizing and actively addressing the limitations are crucial
+for maintaining the scientific rigor and validity of psychological
+
+

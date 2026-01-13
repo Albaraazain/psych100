@@ -1,0 +1,188 @@
+{
+  "week": "Week 11",
+  "dateRange": "29 December - 4 January",
+  "topic_id": "treatments-and-therapies",
+  "title": "Treatments and Therapies",
+  "subtitle": "General Psychology - PSYC100",
+
+  "summary": "Week 11 examines the major therapeutic approaches in psychology, including biological treatments (medications, ECT, psychosurgery), psychodynamic therapies focused on unconscious conflicts and insight, humanistic approaches emphasizing client growth and self-healing, cognitive therapies targeting irrational thought patterns, and behavioral therapies addressing learned maladaptive behaviors through conditioning principles.",
+
+  "keyTakeaways": [
+    "Five major treatment approaches exist: Biological, Psychodynamic, Humanistic, Cognitive, and Behavioral, each with distinct theoretical foundations and techniques.",
+    "Biological treatments include three drug categories (antipsychotics, antianxiety, antidepressants with 4 classes), ECT for severe depression, and psychosurgery as last resort, though criticized for high relapse rates and not teaching coping skills.",
+    "Cognitive therapies (REBT, Beck's CT, CBT) focus on identifying and changing irrational thought patterns that cause emotional distress, using models like ABCD and addressing automatic negative thoughts.",
+    "Behavioral therapies view maladaptive behaviors as the problem itself (not symptoms), using exposure therapy, aversion therapy, and token economy systems based on classical and operant conditioning principles."
+  ],
+
+  "learning_outcomes": [
+    "Understand biological treatments including psychopharmacology (antipsychotic, antianxiety, and antidepressant drugs), electroconvulsive therapy (ECT), and psychosurgery",
+    "Explain psychodynamic therapies focusing on unconscious conflicts, insight, free association, and dream interpretation",
+    "Describe humanistic psychotherapies, particularly Carl Rogers' person-centered therapy with unconditional positive regard, empathy, and genuineness",
+    "Analyze cognitive therapies including Rational-Emotive Behavioral Therapy (REBT), Beck's Cognitive Therapy, and Cognitive Behavioral Therapy (CBT)",
+    "Examine behavioral therapies including exposure therapy, aversion therapy, and token economy systems"
+  ],
+
+  "key_concepts": [
+    {
+      "term": "Psychopharmacology",
+      "definition": "The study of how drugs affect cognitions, emotions, and behavior",
+      "category": "Biological Approaches"
+    },
+    {
+      "term": "Antipsychotic Drugs",
+      "definition": "Medications that decrease dopamine action to reduce positive symptoms of schizophrenia (delusions, hallucinations) but have little effect on negative symptoms",
+      "category": "Biological Approaches"
+    },
+    {
+      "term": "Antianxiety Drugs",
+      "definition": "Medications designed to reduce anxiety without affecting alertness or concentration, though side effects include drowsiness, lethargy, and dependence",
+      "category": "Biological Approaches"
+    },
+    {
+      "term": "SSRIs",
+      "definition": "Selective Serotonin Reuptake Inhibitors that increase serotonin activity, have milder side effects than other antidepressants, and reduce depressive symptoms more rapidly",
+      "category": "Biological Approaches"
+    },
+    {
+      "term": "Electroconvulsive Therapy (ECT)",
+      "definition": "Treatment involving brief electrical shock to the brain causing a seizure, used for severe depression with high suicide risk, though mechanism is unknown",
+      "category": "Biological Approaches"
+    },
+    {
+      "term": "Psychosurgery",
+      "definition": "Surgical procedures that remove or destroy brain tissue to change disordered behavior, used rarely as last resort",
+      "category": "Biological Approaches"
+    },
+    {
+      "term": "Insight",
+      "definition": "The conscious awareness of the psychodynamics that underlie one's problems, which is the goal of psychodynamic therapy",
+      "category": "Psychodynamic Approaches"
+    },
+    {
+      "term": "Free Association",
+      "definition": "Psychodynamic technique where clients verbally report without censorship any thoughts, feelings, or images, providing clues about important themes",
+      "category": "Psychodynamic Approaches"
+    },
+    {
+      "term": "Dream Interpretation",
+      "definition": "Psychodynamic technique where analyst helps client interpret symbolism in dreams that express unconscious wishes and fantasies",
+      "category": "Psychodynamic Approaches"
+    },
+    {
+      "term": "Unconditional Positive Regard",
+      "definition": "Therapist attribute in person-centered therapy showing genuine care and acceptance of client without judgment or evaluation",
+      "category": "Humanistic Approaches"
+    },
+    {
+      "term": "Empathy",
+      "definition": "Therapist's willingness and ability to view the world through the client's eyes in person-centered therapy",
+      "category": "Humanistic Approaches"
+    },
+    {
+      "term": "Genuineness",
+      "definition": "Consistency between the way the therapist feels and the way they behave in person-centered therapy",
+      "category": "Humanistic Approaches"
+    },
+    {
+      "term": "ABCD Model",
+      "definition": "Albert Ellis's Rational-Emotive Behavioral Therapy framework: A=Activating event, B=Belief system, C=Consequences, D=Disputing erroneous beliefs",
+      "category": "Cognitive Approaches"
+    },
+    {
+      "term": "Negative Triad",
+      "definition": "Aaron Beck's concept of three-part negative thinking pattern in depression involving automatic negative thoughts",
+      "category": "Cognitive Approaches"
+    },
+    {
+      "term": "Cognitive Behavioral Therapy (CBT)",
+      "definition": "Evidence-based therapy managing problems by changing thinking and behavior, based on interconnection of thoughts, feelings, and behaviors",
+      "category": "Cognitive Approaches"
+    },
+    {
+      "term": "Exposure Therapy",
+      "definition": "Behavioral treatment for phobias through exposure to feared stimulus using systematic desensitization or flooding, highly effective for anxiety",
+      "category": "Behavioral Approaches"
+    },
+    {
+      "term": "Aversion Therapy",
+      "definition": "Behavioral technique pairing attractive stimulus with noxious stimulus to condition aversion (e.g., alcohol treatment)",
+      "category": "Behavioral Approaches"
+    },
+    {
+      "term": "Token Economy",
+      "definition": "Behavioral system strengthening desired behaviors through positive reinforcement where tokens are given for desirable behaviors and exchanged for rewards",
+      "category": "Behavioral Approaches"
+    }
+  ],
+
+  "quiz_question_topics": [
+    "Definition of psychopharmacology and three major drug categories",
+    "Mechanism of action for antipsychotic drugs (dopamine)",
+    "Four classes of antidepressant drugs (Tricyclics, MAO inhibitors, SSRIs, SNRIs)",
+    "Differences between SSRIs and other antidepressants (milder side effects, faster action)",
+    "Criticisms of drug treatments (placebo effects, high relapse, no coping skills)",
+    "ECT procedure, uses (severe depression/suicide risk), and criticisms",
+    "Definition and usage of psychosurgery (last resort)",
+    "Goal of psychodynamic therapy (insight)",
+    "Free association technique and purpose",
+    "Dream interpretation in psychodynamic therapy",
+    "Carl Rogers' three essential therapist attributes",
+    "Components of REBT's ABCD model",
+    "Beck's Negative Triad concept",
+    "CBT's core concept of interconnected thoughts/feelings/behaviors",
+    "Behavioral therapy's core belief (behaviors ARE the problem)",
+    "Purpose and effectiveness of exposure therapy",
+    "Mechanism and examples of aversion therapy",
+    "Definition and mechanism of token economy",
+    "Difference between unconditional positive regard and empathy",
+    "Humanistic therapy's focus on present/future vs psychodynamic's past focus"
+  ],
+
+  "important_examples": [
+    {
+      "title": "Clockwork Orange Aversion Therapy",
+      "description": "Film example showing aversion therapy where character's eyes are clamped open to watch violence while given emetic drug, associating nausea with violence"
+    },
+    {
+      "title": "CBT Social Anxiety Example",
+      "description": "Party scenario demonstrating ABC model: Activating event (no one approaches at party), Belief ('I'm boring and unlikeable'), Consequence (anxiety and avoidance behavior)"
+    }
+  ],
+
+  "other_therapies_mentioned": [
+    "EMDR (Eye Movement Desensitization and Reprocessing)",
+    "ACT (Acceptance and Commitment Therapy)",
+    "Schema Therapy",
+    "DBT (Dialectical Behavior Therapy)",
+    "Gestalt Therapy",
+    "Existential Therapy",
+    "Attachment-based Therapy",
+    "Couples Therapy",
+    "Sex Therapy",
+    "Family Therapy"
+  ],
+
+  "comparison_points": [
+    {
+      "aspect": "Time Focus",
+      "psychodynamic": "Past experiences and unconscious",
+      "humanistic": "Present and future",
+      "cognitive": "Current thought patterns",
+      "behavioral": "Current behaviors"
+    },
+    {
+      "aspect": "Primary Goal",
+      "psychodynamic": "Achieve insight into unconscious",
+      "humanistic": "Self-actualization and growth",
+      "cognitive": "Change irrational thoughts",
+      "behavioral": "Unlearn maladaptive behaviors"
+    },
+    {
+      "aspect": "Key Mechanism",
+      "psychodynamic": "Unconscious conflicts",
+      "humanistic": "Inner resources for healing",
+      "cognitive": "Thought patterns cause emotions",
+      "behavioral": "Learning through conditioning"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+PSYC100 GENERAL PSYCHOLOGY
+
+MEMORY
+
+Learning Outcomes
+ What is memory?
+ Encoding, Storage and Retrieval
+ The Multi-Store Model (MSM)
+ Episodic, Semantic and Procedural memory
+ The Working Memory Model (WMM)
+ The Levels of Processing Model (LOP)
+ Theories of Forgetting
+
+What is memory?
+Memory, like learning, is a hypothetical construct denoting three distinguishable
+but interrelated processes:
+● registration (or encoding) – the transformation of sensory input (such as a
+sound or visual image) into a form which allows it to be entered into (or
+registered in) memory.
+● storage – the operation of holding or retaining information in memory.
+● retrieval – the process by which stored information is extracted from memory.
+
+These three processes work to manage how we
+encode, retain, and recall information in our
+memory.
+
+
+Registration (Encoding): This is the initial step where sensory information is
+transformed into a format that can be stored in memory. It involves selective
+attention and relates to questions like "How is sensory information processed in a
+way that allows it to be stored?" or "How are things remembered?"
+
+
+
+Storage: This process involves retaining information in memory over time. It relates
+to questions such as "Where are our memories kept?" and "Is there more than one
+kind of memory?"
+
+
+
+Retrieval: This is the process of recovering stored information when needed. It
+connects to questions like "Are there different kinds of remembering?" "What do we
+remember?" and "Why do we forget?"
+
+I - ENCODING (REGISTRATION)
+Some information is encoded automatically without us being aware of it. Most
+people probably can recall what they had for breakfast yesterday, even though
+they haven’t tried to remember it. Other information will only become encoded if
+you pay attention to it.
+There are three ways of encoding information to be used by our memory system:
+➢ acoustic encoding – encoding of sound
+➢ visual encoding – encoding of picture images
+➢ semantic encoding – encoding of meaning
+
+Examples
+Acoustic Encoding: If you are repeating someone’s phone number aloud.
+Visual Encoding: Picturing the face of someone you met or imagining the
+layout of a room you visited.
+Semantic Encoding: Understanding and recalling that "justice" means fairness
+or remembering the concept of "photosynthesis" as how plants make food.
+
+II - STORAGE
+
+
+There are 3 forms of storage:
+
+1. Sensory memory - This is the initial stage where sensory information (sight, sound,
+etc.) is briefly held for a very short period, typically less than a second to a few seconds. It
+acts as a buffer, allowing us to process and decide what to pay attention to.
+2. Short-term memory - This holds information for a limited time, usually 20-30 seconds,
+and has a small capacity (about 5-9 items). It’s where we actively think about or manipulate
+information, like remembering a phone number long enough to dial it.
+3. Long-term memory - This stores information for an extended period, potentially a
+lifetime, with a vast capacity. It includes knowledge, skills, and experiences, and is
+accessed when we recall past events or learned facts.
+
+STM vs LTM
+●
+
+capacity – how much information can be stored
+
+●
+
+duration – how long the information can be held in storage
+
+●
+
+coding – how sensory input is represented by the memory system.
+
+Short-term memory CAPACITY
+ George Miller (1956) emphasized that the capacity of the STM is
+
+approximately “seven plus or minus two” pieces of information – digits,
+words etc. (the magic number 7+/-2).
+
+Short-term memory CAPACITY
+Chunking of information can lead to an increase in the STM capacity. This
+is the reason why a hyphenated phone number is EASIER to remember
+than a single long number.
+
+Short-term memory DURATION
+The duration of STM is thought to be 15-30 seconds. If information is not
+rehearsed within 18 to 30 seconds whilst in STM, it is lost due to its limited
+duration. Short-term memory encodes information acoustically through
+repetition of information. If we rehearse (repeat) this information (say it over
+and over to ourselves), we can store it in our short-term memory for many
+minutes and it can then be transferred to the long-term memory store (almost
+indefinitely) (Peterson & Peterson, 1959).
+
+Short-term memory CODING
+ Mainly acoustic (e.g. When you try to remember a phone
+
+number by repeating it in your head); Some semantic
+(encoding by meaning); Visual is also possible (e.g. briefly
+remembering an image or shape.)
+
+Long-term memory CAPACITY &
+DURATION
+The capacity of LTM could be unlimited as it can hold a potentially
+unlimited amount of information.
+Duration: Long-term memory can store memories for minutes or up to an
+entire lifetime.
+
+Long-term memory CODING
+Encoding in long-term memory is largely semantic (e.g. You remember that “a
+whale is a mammal” because of what it means, not how it sounds), but can be
+visual (e.g. remembering what your childhood home looks like) or acoustic
+(e.g. remembering the tune of a favorite song).
+
+RETRIEVAL
+Retrieval refers to getting information out of storage. If we
+cannot remember something, it may be because we are unable
+to retrieve it.
+e.g. Ebbinghaus study (1885)
+e.g. Standing study (1973)
+
+The Multi-Store Model (MSM)
+Richard Atkinson and Richard Shiffrin developed the Multi-store Model of Memory
+(1968) by drawing conclusions from memory experiments conducted by other
+researchers. This model is a structural model and Atkinson and Shiffrin described
+memory as having separate stores.
+By pulling together this research, they were able to identify three distinctly different
+stores in our memory system:
+• the sensory register (or sensory memory)
+• short-term memory
+• long-term memory
+
+The Multi-Store Model (MSM)
+Atkinson and Shiffrin proposed
+that memory stores differ from
+each other in the way
+information is encoded, their
+capacity and duration, and how
+information is retrieved.
+
+Experimental studies of STM and LTM
+1. Experimental studies of STM and LTM
+2. Studies of coding
+3. Studies of brain-damaged patients.
+
+1. Experimental studies of STM and
+LTM
+The Serial Position Effect (Murdock, 1962): Participants typically recalled
+those items from the end of the list first, and got more of these correct than
+earlier items (the recency effect). Items from the beginning of the list were
+recalled quite well relative to those in the middle (the primacy effect), but not as
+well as those at the end. Poorest recall is for items in the middle.
+Primacy effect due to LTM, recency effect due to STM.
+
+2. Studies of coding
+Remember acoustic coding in STM, semantic coding in LTM!
+However, Miller and Selfridge (1950) has demonstrated that knowledge of
+semantic and grammatical structure (presumably stored in LTM) is used to aid
+recall from STM. Therefore, an acoustic code isn’t the only one used in STM.
+
+3. Studies of brain-damaged patients.
+If STM and LTM really are distinct, then there should be certain kinds of brain damage which
+impair one without affecting the other. One such form of brain damage is anterograde amnesia.
+HM case where after the brain operation, he was unable to form new explicit long-term
+memories, however his immediate or working memory remained functional (STM intact, old LTM
+intact, new LTM severely impaired).
+HM's deficits strongly support the MSM by demonstrating a clear dissociation between STM and
+LTM, suggesting they are separate systems
+
+Episodic, Semantic & Procedural
+Memory
+ The multi-store model of memory, as supported by cases like HM,
+
+distinguishes between short-term and long-term memory, with
+long-term memory (LTM) further divided into subtypes based on
+the type of information stored and how it is retrieved. The three
+main types of long-term memory are episodic, semantic, and
+procedural.
+
+Episodic Memory
+ The storage and recall of personally experienced events tied to specific times and
+
+places. These are autobiographical memories that include contextual details (e.g.,
+"what," "when," "where," and associated emotions). It is a type of explicit (declarative)
+memory, meaning it can be consciously recalled and described.
+ Autobiographical episodic memory - Personal, specific events from one’s life with
+rich contextual details (e.g., Recalling your first day of university, what your lecturer
+looked like, and how you felt.)
+ Flashbulb Memories: Highly vivid, detailed memories of emotionally significant
+events (e.g., Recalling how you felt when you found out about the death of a celebrity
+or leader (e.g., Michael Jackson, Princess Diana).
+
+Semantic Memory
+ Involves the storage of general knowledge, facts, and concepts not
+
+tied to personal experiences or specific contexts. It is also an
+explicit (declarative) memory type, consciously recalled, but lacks
+the temporal and spatial specificity of episodic memory.
+ e.g. knowing that 2+2=4 or that "cat" refers to a furry animal
+
+Procedural Memory
+ Involves the unconscious recall of skills, habits, and motor routines
+
+learned through practice. It is a type of implicit (non-declarative)
+memory, meaning it is expressed through performance rather than
+conscious recollection.
+ e.g. riding a bicycle, chess player recognizing patterns, brushing
+
+teeth in the morning,
+
+The Working Memory Model (WMM)
+
+
+
+
+
+
+
+Baddeley & Hitch (1974; 2000) - this model focuses on how
+short-term memory (STM) actually works in practice. Instead
+of being just a “storage box,” it’s seen as an active system
+that manipulates and processes information.
+Central executive: Acts like a manager; Directs attention
+and coordinates the other subsystems; Has limited capacity.
+Phonological Loop: stores spoken words for a short time;
+allows rehearsal
+Visuo-Spatial Sketchpad: Holds and manipulates images
+Episodic Buffer: Integrates information from different
+sources (sound, vision, long-term memory) into a single
+“episode.”
+
+MSM vs WMM
+ Multi-Store Model - STM is a single, passive store; focus on the structure of
+
+memory (where info goes); Simple, linear, “box-like” model.
+
+ e.g. remembering a shopping list - You hear the list of items → it enters sensory memory →
+
+you rehearse it in STM (silently repeat “milk, eggs, bread”) → with enough rehearsal, it
+transfers to LTM.
+
+ Working-Memory Model - STM is an active system with multiple components;
+
+focus on the process of memory (how info is handled); More detailed and dynamic
+model.
+ e.g. remembering a shopping list - Phonological Loop: you repeat “milk, eggs, bread” in your
+
+head; Central Executive: focuses your attention and tells you not to get distracted; Episodic
+Buffer: links “milk” with the image of the fridge at home being empty.
+
+The Levels of Processing Model (LOP)
+ Remember MSM argues we need to reherse the information in order to
+
+transfer it from STM to LTM. However, Jenkins (1974) Incidental learning
+- remembering without rehersing. Craik and Lockhart (1972) argues what
+matters is the kind of rehearsal or processing.
+ So, rather than rehearsal in STM, you can achieve LTM via deep,
+semantic processing.
+
+
+e.g. If you’re trying to remember the word “elephant”:
+
+MSM → You repeat “elephant” in STM until it transfers to LTM.
+LOP → You think about what an elephant looks like, how big it is, or connect it with the zoo
+(semantic processing), which makes it memorable.
+
+Key evidence LOP
+Craik & Tulving (1975): Participants were given a list of words, but instead of being asked to
+memorize them, they answered different kinds of questions about each word. The questions
+encouraged different levels of processing:
+Shallow (structural) → e.g., “Is the word in capital letters?”
+Intermediate (phonemic) → e.g., “Does the word rhyme with ‘cat’?”
+Deep (semantic) → e.g., “Does the word fit in this sentence: ‘The ____ walked into the room’?”
+•
+
+After answering these questions, participants were given a surprise recognition test (asked which
+words they had seen before).
+
+•
+
+Words processed at a deep, semantic level were remembered much better than words processed
+at shallow or phonemic levels. Depth of processing, not just rehearsal, determines how well
+information is remembered (STRONG EVIDENCE AGAINST MSM!).
+
+Theories of Forgetting
+
+
+Forgetting can occur at the encoding, storage or retrieval stages.
+
+
+
+What prevents information staying in STM long enough to be transferred to LTM?
+
+
+Decay theory: Suggests that memories fade over time if they are not accessed or rehearsed (STM + LTM)
+
+
+
+Displacement theory: new incoming information pushes out older information as we exceed the limited capacity of
+STM
+
+
+
+Interference theory: forgetting occurs when new or old information disrupts the recall of other memories (LTM).
+There are two types:
+ Proactive Interference: When old information interferes with learning or remembering new information. For
+
+example, if you used to have an old phone number and it keeps popping into your mind when you try to recall
+your new one AND Learning a new password is harder because your old password keeps coming to mind..
+ Retroactive Interference: When new information interferes with the ability to recall older information. For
+
+instance, learning a new language might make it harder to remember vocabulary from a previously learned
+language AND You learn new dance steps, then forget some of the old ones..
+
+Efficient forgetting?
+ According
+
+to Schacter (2002),
+efficient forgetting is a crucial part of
+having a fully functioning memory;
+this is lacking in people with
+hyperthymestic syndrome (or highly
+superior
+autobiographical
+memory/HSAM).
+
+Lecture Summary
+ What is memory? Encoding, storage, retrieval
+ The Multi-Store Model (MSM) – Atkinson & Shiffrin
+ Episodic, Semantic and Procedural memory
+ The Working Memory Model (WMM) - Baddeley & Hitch
+ The Levels of Processing Model (LOP) - Craik and Lockhart
+ Theories of Forgetting – Decay, displacement, interference
+
+

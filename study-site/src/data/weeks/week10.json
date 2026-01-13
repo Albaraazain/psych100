@@ -1,0 +1,1632 @@
+{
+  "week": "Week 10",
+  "dateRange": "22 December - 28 December",
+  "topics": [
+    {
+      "id": "abnormality-classification",
+      "title": "Defining Abnormality and Classification Systems",
+      "subtitle": "Understanding Mental Disorders",
+      "summary": "Abnormality can be defined in multiple ways, including deviation from statistical norms, societal norms, ideal mental health, personal distress, causing distress to others, maladaptiveness, and unexpected behavior. The DSM-5 and ICD provide standardized classification systems for mental disorders.",
+      "keyTakeaways": [
+        "Multiple criteria define abnormality: statistical deviation, norm violation, personal distress, maladaptiveness, and unexpectedness.",
+        "Kraepelin's 1883 work laid the foundation for modern classification systems.",
+        "DSM-5 and ICD are the two major classification systems for mental disorders.",
+        "Classification helps with diagnosis, treatment planning, and research but has limitations.",
+        "The 'Four Ds' (Deviance, Distress, Dysfunction, Danger) are commonly used criteria for abnormality."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "What is Abnormality?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Defining abnormality is complex and multifaceted. No single criterion is sufficient; instead, mental health professionals consider multiple perspectives."
+        },
+        {
+          "type": "list",
+          "title": "Seven Approaches to Defining Abnormality",
+          "items": [
+            "Statistical Deviation: Behavior that is statistically rare. However, this is problematic—giftedness is rare but not abnormal, and common issues like anxiety can be disorders.",
+            "Deviation from Social Norms: Violating society's standards of acceptable behavior. Problem: Is rule-breaking the same as having a disorder? Cultural variation matters.",
+            "Deviation from Ideal Mental Health: Falling short of optimal psychological functioning. However, ideal mental health varies significantly across cultures.",
+            "Personal Distress: Experiencing subjective suffering, such as anxiety or depression. Example: Obsessive-compulsive behaviors causing significant distress.",
+            "Distress to Others: Causing interpersonal problems or distress. Example: Narcissistic personality disorder affecting relationships.",
+            "Maladaptiveness: Behavior that interferes with daily functioning or well-being. Example: Substance use impairing work and relationships.",
+            "Unexpectedness: Behavior that is out of proportion to the situation. Example: Anxiety in anxiety disorders is excessive relative to actual threat."
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "The Four Ds",
+          "text": "Mental health professionals commonly use four criteria to define abnormality: Deviance (statistical/social), Distress (personal suffering), Dysfunction (impaired functioning), and Danger (to self or others). Most disorders meet multiple criteria."
+        },
+        {
+          "type": "heading",
+          "text": "Classification Systems: DSM and ICD"
+        },
+        {
+          "type": "paragraph",
+          "text": "Emil Kraepelin published the first recognized textbook of psychiatry in 1883, claiming that certain groups of symptoms occur together sufficiently often to be called a 'disease' or syndrome. His classification formed the basis for the Diagnostic and Statistical Manual of Mental Disorders (DSM) and the International Classification of Diseases (ICD)."
+        },
+        {
+          "type": "list",
+          "title": "Key Features of Modern Classification",
+          "items": [
+            "DSM-5: Published by the American Psychiatric Association, primarily used in the United States. Provides detailed diagnostic criteria for each disorder.",
+            "ICD-11: Published by the World Health Organization, used internationally for all diseases including mental disorders.",
+            "Both systems use categorical classification with specific criteria that must be met for diagnosis.",
+            "Classification facilitates communication among professionals, guides treatment, and enables research."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "DSM-5 Structure"
+        },
+        {
+          "type": "paragraph",
+          "text": "The DSM-5 organizes mental disorders into 20 major categories, each containing multiple specific disorders."
+        },
+        {
+          "type": "list",
+          "title": "Major DSM-5 Categories (Selected)",
+          "items": [
+            "I. Neurodevelopmental Disorders (e.g., ADHD, Autism Spectrum Disorder)",
+            "II. Schizophrenia Spectrum and Other Psychotic Disorders",
+            "III. Bipolar and Related Disorders",
+            "IV. Depressive Disorders",
+            "V. Anxiety Disorders",
+            "VI. Obsessive-Compulsive and Related Disorders",
+            "VII. Trauma- and Stressor-Related Disorders",
+            "X. Feeding and Eating Disorders",
+            "XVI. Substance-Related and Addictive Disorders",
+            "XVIII. Personality Disorders"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Example: Major Depressive Disorder Criteria"
+        },
+        {
+          "type": "paragraph",
+          "text": "A person must experience at least 5 symptoms during the same 2-week period, representing a change from previous functioning. At least one symptom must be: (1) depressed mood or (2) loss of interest/pleasure."
+        },
+        {
+          "type": "list",
+          "title": "DSM-5 Symptoms for Major Depression",
+          "items": [
+            "Depressed mood most of the day, nearly every day",
+            "Markedly reduced interest or pleasure in most activities",
+            "Significant unintentional weight loss or gain, or change in appetite",
+            "Insomnia or hypersomnia",
+            "Observable psychomotor agitation or slowing",
+            "Fatigue or loss of energy",
+            "Feelings of worthlessness or excessive/inappropriate guilt",
+            "Reduced ability to think, concentrate, or make decisions",
+            "Recurrent thoughts of death, suicidal ideation, or suicide attempt"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Additionally, symptoms must cause clinically significant distress or impairment in social, occupational, or other important areas of functioning."
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Limitations of Classification",
+          "text": "Classification systems don't always work perfectly. Comorbidity (multiple disorders), dimensional variation (mild to severe), and individual differences can make categorical diagnosis challenging. Some argue for dimensional rather than categorical approaches."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Which criterion for abnormality is illustrated by someone with severe social anxiety experiencing intense fear and avoidance that prevents them from attending school or work?",
+          "difficulty": "application",
+          "options": [
+            "Statistical deviation only",
+            "Personal distress and dysfunction (maladaptiveness)",
+            "Deviation from social norms only",
+            "Unexpectedness only"
+          ],
+          "answer": "Personal distress and dysfunction (maladaptiveness)",
+          "explanation": {
+            "correct": "This scenario illustrates both personal distress (intense fear and suffering) and dysfunction/maladaptiveness (inability to attend school or work—clear impairment in daily functioning). Most disorders meet multiple criteria, and this example shows two key ones.",
+            "incorrect": {
+              "Statistical deviation only": "While severe social anxiety might be statistically uncommon, the scenario emphasizes suffering and functional impairment, not just rarity. 'Only' makes this incomplete.",
+              "Deviation from social norms only": "Social anxiety involves excessive fear, not necessarily norm violation. Someone might follow all social norms while still experiencing crippling anxiety. This isn't the best fit.",
+              "Unexpectedness only": "While the fear might be disproportionate (unexpectedness), the scenario specifically highlights suffering and impairment, making distress and dysfunction the primary criteria illustrated."
+            }
+          }
+        },
+        {
+          "question": "What was Emil Kraepelin's key contribution to understanding mental disorders?",
+          "difficulty": "learning",
+          "options": [
+            "He developed the first intelligence test",
+            "He showed that symptoms often cluster together into recognizable syndromes",
+            "He invented psychoanalysis",
+            "He discovered neurotransmitters"
+          ],
+          "answer": "He showed that symptoms often cluster together into recognizable syndromes",
+          "explanation": {
+            "correct": "Kraepelin's 1883 work established that certain groups of symptoms occur together sufficiently often to be called a 'disease' or syndrome. This syndromal approach laid the foundation for the DSM and ICD classification systems.",
+            "incorrect": {
+              "He developed the first intelligence test": "This was Alfred Binet (1905), not Kraepelin. Kraepelin worked on classifying mental disorders, not intelligence testing.",
+              "He invented psychoanalysis": "Sigmund Freud developed psychoanalysis in the late 1800s, not Kraepelin. Kraepelin focused on classification and systematic description of mental disorders, not psychotherapeutic treatment methods.",
+              "He discovered neurotransmitters": "Neurotransmitter discoveries came from neurochemistry research in the mid-20th century, not from Kraepelin's 19th-century psychiatric work."
+            }
+          }
+        },
+        {
+          "question": "According to DSM-5 criteria, what is the minimum number of symptoms and time period required for diagnosing Major Depressive Disorder?",
+          "difficulty": "learning",
+          "options": [
+            "3 symptoms for 1 week",
+            "5 symptoms for 2 weeks",
+            "7 symptoms for 4 weeks",
+            "9 symptoms for 6 weeks"
+          ],
+          "answer": "5 symptoms for 2 weeks",
+          "explanation": {
+            "correct": "DSM-5 requires at least 5 symptoms during the same 2-week period for Major Depressive Disorder, with at least one being depressed mood or loss of interest/pleasure.",
+            "incorrect": {
+              "3 symptoms for 1 week": "This is too few symptoms and too short a duration. It doesn't meet DSM-5 criteria for MDD.",
+              "7 symptoms for 4 weeks": "While experiencing 7 symptoms would qualify, only 5 are required (not 7), and the time period is 2 weeks (not 4).",
+              "9 symptoms for 6 weeks": "The DSM-5 lists 9 possible symptoms, but only 5 are required, and the time period is 2 weeks, not 6."
+            }
+          }
+        },
+        {
+          "question": "A person who is intellectually gifted (IQ of 145) is statistically rare. According to the material on defining abnormality, why is this NOT considered abnormal?",
+          "difficulty": "tricky",
+          "options": [
+            "It doesn't cause distress, dysfunction, or represent a deficit",
+            "Giftedness is socially valued, so it cannot be abnormal",
+            "IQ tests are invalid for measuring abnormality",
+            "Statistical rarity alone is sufficient to define abnormality"
+          ],
+          "answer": "It doesn't cause distress, dysfunction, or represent a deficit",
+          "explanation": {
+            "correct": "This example illustrates the limitation of using statistical deviation alone to define abnormality. Giftedness is rare but doesn't cause personal distress, dysfunction, or problems. Abnormality typically requires multiple criteria—distress, dysfunction, maladaptiveness—not just statistical rarity.",
+            "incorrect": {
+              "Giftedness is socially valued, so it cannot be abnormal": "While social value matters, this isn't the core reason. Even socially devalued rare traits aren't disorders if they don't cause distress or dysfunction. The key is absence of harm/impairment, not social approval.",
+              "IQ tests are invalid for measuring abnormality": "This misses the point. The issue isn't test validity but that statistical rarity (what IQ measures) is insufficient for defining abnormality. Abnormality requires more than just rarity.",
+              "Statistical rarity alone is sufficient to define abnormality": "This is the opposite of what the material teaches. The giftedness example shows that statistical rarity ALONE is NOT sufficient—you need additional criteria like distress or dysfunction."
+            }
+          }
+        },
+        {
+          "question": "Which of the following is a limitation of categorical classification systems like the DSM-5?",
+          "difficulty": "learning",
+          "options": [
+            "They don't provide any diagnostic criteria",
+            "They make communication between professionals impossible",
+            "They struggle with comorbidity and dimensional variation in symptom severity",
+            "They only classify physical diseases, not mental disorders"
+          ],
+          "answer": "They struggle with comorbidity and dimensional variation in symptom severity",
+          "explanation": {
+            "correct": "The material explicitly notes that classification systems don't always work perfectly—comorbidity (having multiple disorders), dimensional variation (symptoms range from mild to severe), and individual differences make categorical diagnosis challenging. Categories are somewhat artificial.",
+            "incorrect": {
+              "They don't provide any diagnostic criteria": "This is false. The DSM-5 provides detailed diagnostic criteria for each disorder—that's its primary function.",
+              "They make communication between professionals impossible": "Actually, the opposite is true. The material states that classification 'facilitates communication among professionals.' This is a benefit, not a limitation.",
+              "They only classify physical diseases, not mental disorders": "This is completely incorrect. The DSM-5 is specifically FOR mental disorders. The ICD covers all diseases including mental ones."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "anxiety-ocd-disorders",
+      "title": "Anxiety and Obsessive-Compulsive Disorders",
+      "subtitle": "Fear, Worry, and Compulsive Behaviors",
+      "summary": "Anxiety disorders involve excessive fear or worry that is out of proportion to actual threat and causes significant distress or impairment. This category includes separation anxiety, selective mutism, specific phobias, social anxiety, panic disorder, agoraphobia, and generalized anxiety disorder. Obsessive-compulsive and related disorders involve intrusive thoughts (obsessions) and/or repetitive behaviors (compulsions).",
+      "keyTakeaways": [
+        "Anxiety disorders are characterized by excessive fear/anxiety that is disproportionate to actual threat.",
+        "Specific phobia involves intense fear of specific objects or situations (animals, heights, blood, etc.).",
+        "Panic disorder involves recurrent unexpected panic attacks with persistent worry about future attacks.",
+        "Generalized Anxiety Disorder (GAD) involves chronic worry about multiple life areas for at least 6 months.",
+        "OCD involves obsessions (intrusive thoughts) and/or compulsions (repetitive behaviors) that are time-consuming.",
+        "Related disorders include body dysmorphic disorder, hoarding, trichotillomania, and excoriation disorder."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Anxiety Disorders Overview"
+        },
+        {
+          "type": "paragraph",
+          "text": "Anxiety disorders are the most common class of mental disorders, affecting millions of people worldwide. They involve excessive fear (response to immediate threat) or anxiety (anticipation of future threat) that is out of proportion to the actual danger posed."
+        },
+        {
+          "type": "list",
+          "title": "Seven Major Anxiety Disorders",
+          "items": [
+            "Separation Anxiety Disorder",
+            "Selective Mutism",
+            "Specific Phobia",
+            "Social Anxiety Disorder (Social Phobia)",
+            "Panic Disorder",
+            "Agoraphobia",
+            "Generalized Anxiety Disorder (GAD)"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Specific Anxiety Disorders"
+        },
+        {
+          "type": "list",
+          "title": "Separation Anxiety Disorder",
+          "items": [
+            "Excessive fear or distress about being separated from major attachment figures",
+            "Persistent worry about harm happening to attachment figures",
+            "Reluctance to leave home or go to sleep",
+            "Nightmares about separation",
+            "Physical complaints (headaches, stomachaches) when separation is anticipated",
+            "More common in children but can occur in adults"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Selective Mutism",
+          "items": [
+            "Consistent failure to speak in specific social situations (e.g., school) despite speaking in other settings",
+            "Not due to lack of language knowledge or communication disorder",
+            "Often associated with social anxiety",
+            "Interferes with educational or occupational achievement"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Specific Phobia",
+          "items": [
+            "Intense fear or anxiety triggered by specific object or situation",
+            "Common types: animals, natural environments (heights, storms), blood-injection-injury, situational (planes, elevators, enclosed spaces)",
+            "Exposure almost always provokes immediate anxiety",
+            "Fear is excessive relative to actual danger",
+            "Leads to avoidance or enduring with intense distress"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Social Anxiety Disorder",
+          "items": [
+            "Persistent fear of social situations where one may be judged, embarrassed, or scrutinized",
+            "Common triggers: conversations, meeting new people, public speaking, eating/drinking in front of others",
+            "Fear of showing anxiety symptoms that will be negatively evaluated",
+            "Leads to avoidance or intense distress",
+            "Significantly interferes with work, school, or relationships"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Panic Disorder",
+          "items": [
+            "Recurrent, unexpected panic attacks (sudden surge of intense fear/discomfort)",
+            "Panic attack symptoms: palpitations, sweating, trembling, shortness of breath, chest pain, nausea, dizziness, chills/heat, numbness, derealization, fear of losing control or dying",
+            "At least one attack followed by ≥1 month of persistent worry about additional attacks or their consequences",
+            "Maladaptive behavior changes to avoid attacks (e.g., avoiding exercise, unfamiliar situations)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Agoraphobia",
+          "items": [
+            "Fear or anxiety about situations where escape might be difficult or help unavailable if panic-like symptoms occur",
+            "Common situations: public transportation, open spaces (parking lots, bridges), enclosed places (shops, theaters), crowds, being outside home alone",
+            "Person actively avoids these situations, requires companion, or endures with intense fear",
+            "Distinct from but often co-occurs with panic disorder"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Generalized Anxiety Disorder (GAD)",
+          "items": [
+            "Chronic, excessive worry about multiple areas of life (work, health, finances, family, minor matters)",
+            "Worry occurs more days than not for at least 6 months",
+            "Difficulty controlling the worry",
+            "Person cannot easily pinpoint the source of anxiety",
+            "Associated with restlessness, fatigue, difficulty concentrating, irritability, muscle tension, sleep disturbance",
+            "Causes significant distress or impairment"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Anxiety vs. Fear",
+          "text": "Fear is an emotional response to immediate, identifiable threat. Anxiety is apprehension about future, uncertain threat. Anxiety disorders involve one or both that are excessive and cause significant impairment."
+        },
+        {
+          "type": "heading",
+          "text": "Obsessive-Compulsive and Related Disorders"
+        },
+        {
+          "type": "paragraph",
+          "text": "These disorders involve obsessions (intrusive thoughts, urges, or images) and/or compulsions (repetitive behaviors or mental acts). They were separated from anxiety disorders in DSM-5 due to distinct features."
+        },
+        {
+          "type": "list",
+          "title": "Five Major Disorders in This Category",
+          "items": [
+            "Obsessive-Compulsive Disorder (OCD)",
+            "Body Dysmorphic Disorder",
+            "Hoarding Disorder",
+            "Trichotillomania (Hair-Pulling Disorder)",
+            "Excoriation (Skin-Picking) Disorder"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Obsessive-Compulsive Disorder (OCD)"
+        },
+        {
+          "type": "paragraph",
+          "text": "OCD involves obsessions, compulsions, or both that are time-consuming (>1 hour per day) or cause significant distress/impairment."
+        },
+        {
+          "type": "list",
+          "title": "Key Features",
+          "items": [
+            "Obsessions: intrusive, unwanted thoughts, urges, or images that cause anxiety (e.g., contamination fears, harm thoughts, need for symmetry)",
+            "Compulsions: repetitive behaviors (hand washing, checking, ordering) or mental acts (counting, praying, repeating words) performed to neutralize anxiety or prevent feared event",
+            "The person recognizes thoughts/behaviors as excessive (though insight can vary)",
+            "Common themes: cleaning/contamination, checking, symmetry/ordering, forbidden thoughts (aggressive, sexual, religious)"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Body Dysmorphic Disorder"
+        },
+        {
+          "type": "list",
+          "title": "Characteristics",
+          "items": [
+            "Preoccupation with perceived defects or flaws in physical appearance that are minor or not observable to others",
+            "Repetitive behaviors: mirror checking, excessive grooming, skin picking, seeking reassurance, comparing appearance to others",
+            "Causes significant distress or impairment",
+            "May include muscle dysmorphia variant (preoccupation with body being too small/not muscular enough)"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Hoarding Disorder"
+        },
+        {
+          "type": "list",
+          "title": "Characteristics",
+          "items": [
+            "Persistent difficulty discarding or parting with possessions, regardless of actual value",
+            "Accumulation leads to clutter that congests living areas and compromises their intended use",
+            "Attempts to discard items cause significant distress",
+            "Not explained by lack of space, poverty, or medical condition",
+            "Causes impairment in functioning"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Trichotillomania and Excoriation Disorder"
+        },
+        {
+          "type": "list",
+          "title": "Hair-Pulling and Skin-Picking",
+          "items": [
+            "Trichotillomania: Recurrent pulling out of one's hair, leading to noticeable hair loss; repeated attempts to stop; often preceded by tension and followed by relief",
+            "Excoriation Disorder: Recurrent skin picking resulting in skin lesions; repeated efforts to stop; leads to distress, medical complications, or functional impairment",
+            "Both involve body-focused repetitive behaviors that are difficult to control"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "OCD vs. OCPD",
+          "text": "Don't confuse Obsessive-Compulsive Disorder (anxiety-driven intrusive thoughts and rituals) with Obsessive-Compulsive Personality Disorder (rigid perfectionism and control as a pervasive personality pattern). They are distinct disorders."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What distinguishes a panic attack in Panic Disorder from normal anxiety?",
+          "difficulty": "learning",
+          "options": [
+            "It lasts for days rather than minutes",
+            "It involves a sudden surge of intense fear with physical symptoms, often unexpected",
+            "It only occurs in social situations",
+            "It never includes physical symptoms"
+          ],
+          "answer": "It involves a sudden surge of intense fear with physical symptoms, often unexpected",
+          "explanation": {
+            "correct": "Panic attacks in Panic Disorder are characterized by sudden, intense surges of fear or discomfort that peak within minutes, often accompanied by physical symptoms (palpitations, sweating, shortness of breath, chest pain, etc.). They are often unexpected and occur 'out of the blue.'",
+            "incorrect": {
+              "It lasts for days rather than minutes": "Panic attacks typically peak within minutes and subside within 20-30 minutes. Persistent anxiety lasting days would be characteristic of GAD or other disorders, not panic attacks.",
+              "It only occurs in social situations": "Panic attacks in Panic Disorder are often UNEXPECTED and can occur anywhere, not just in social situations. Social-only panic would suggest Social Anxiety Disorder.",
+              "It never includes physical symptoms": "This is the opposite of what's true. Panic attacks are DEFINED by intense physical symptoms: palpitations, sweating, trembling, shortness of breath, chest pain, nausea, dizziness, etc."
+            }
+          }
+        },
+        {
+          "question": "A college student cannot speak in class or to professors but talks normally at home with family and friends. This pattern most likely represents:",
+          "difficulty": "application",
+          "options": [
+            "Social Anxiety Disorder",
+            "Selective Mutism",
+            "Separation Anxiety Disorder",
+            "Generalized Anxiety Disorder"
+          ],
+          "answer": "Selective Mutism",
+          "explanation": {
+            "correct": "Selective Mutism involves consistent failure to speak in SPECIFIC social situations (school, work) despite speaking normally in other settings (home). The selectivity is the key feature—speaking in some contexts but not others.",
+            "incorrect": {
+              "Social Anxiety Disorder": "While selective mutism is often associated with social anxiety, Social Anxiety Disorder doesn't necessarily involve complete inability to speak. People with social anxiety typically can speak but experience intense fear and discomfort. The complete mutism in specific settings points to Selective Mutism.",
+              "Separation Anxiety Disorder": "This involves excessive fear about being separated from attachment figures, not situation-specific mutism. There's no indication the student fears separation.",
+              "Generalized Anxiety Disorder": "GAD involves chronic worry about multiple life areas. While it might make speaking difficult, it doesn't typically cause situation-specific mutism. The selective pattern is key."
+            }
+          }
+        },
+        {
+          "question": "In OCD, what is the relationship between obsessions and compulsions?",
+          "difficulty": "learning",
+          "options": [
+            "Obsessions and compulsions are unrelated",
+            "Compulsions are performed to neutralize anxiety from obsessions or prevent feared outcomes",
+            "Obsessions are caused by compulsions",
+            "Everyone with OCD must have both obsessions and compulsions"
+          ],
+          "answer": "Compulsions are performed to neutralize anxiety from obsessions or prevent feared outcomes",
+          "explanation": {
+            "correct": "Compulsions are repetitive behaviors or mental acts performed to reduce the anxiety caused by obsessions or to prevent a feared event. For example, someone with contamination obsessions might compulsively wash hands to neutralize anxiety. The compulsion is a response to the obsession.",
+            "incorrect": {
+              "Obsessions and compulsions are unrelated": "They are closely related. Compulsions typically arise as attempts to cope with the anxiety caused by obsessions. They form a functional cycle.",
+              "Obsessions are caused by compulsions": "This is backwards. Obsessions (intrusive thoughts) typically come first and cause anxiety. Compulsions (repetitive behaviors) are then performed to reduce that anxiety.",
+              "Everyone with OCD must have both obsessions and compulsions": "The material states OCD involves 'obsessions, compulsions, or both.' Some people have primarily obsessions, others primarily compulsions, and many have both."
+            }
+          }
+        },
+        {
+          "question": "What is the key diagnostic feature that distinguishes Generalized Anxiety Disorder from normal worry?",
+          "difficulty": "learning",
+          "options": [
+            "Any worry that lasts more than one day",
+            "Worry that occurs occasionally about specific issues",
+            "Excessive worry about multiple areas occurring more days than not for at least 6 months",
+            "Worry that only occurs during stressful life events"
+          ],
+          "answer": "Excessive worry about multiple areas occurring more days than not for at least 6 months",
+          "explanation": {
+            "correct": "GAD requires chronic, excessive worry about MULTIPLE life areas (work, health, finances, family) that occurs MORE DAYS THAN NOT for AT LEAST 6 MONTHS. The chronicity (6+ months), pervasiveness (multiple areas), and frequency (more days than not) distinguish it from normal worry.",
+            "incorrect": {
+              "Any worry that lasts more than one day": "Normal worry can last more than a day. GAD requires worry occurring more days than not for at least 6 MONTHS, plus other criteria. One day is far too short.",
+              "Worry that occurs occasionally about specific issues": "GAD involves worry about MULTIPLE areas occurring FREQUENTLY (more days than not). 'Occasionally' and 'specific' don't capture the chronic, generalized nature.",
+              "Worry that only occurs during stressful life events": "Normal people worry during stressful events. GAD involves excessive worry that persists regardless of life circumstances and is often about minor matters or multiple areas simultaneously."
+            }
+          }
+        },
+        {
+          "question": "A person spends 3-4 hours daily checking that doors are locked, stove is off, and windows are closed, repeating each check multiple times. They know this is excessive but feel unable to stop. This best illustrates:",
+          "difficulty": "application",
+          "options": [
+            "Generalized Anxiety Disorder",
+            "Panic Disorder",
+            "Obsessive-Compulsive Disorder",
+            "Social Anxiety Disorder"
+          ],
+          "answer": "Obsessive-Compulsive Disorder",
+          "explanation": {
+            "correct": "This is classic OCD with checking compulsions. Key features present: (1) repetitive behaviors (checking), (2) time-consuming (3-4 hours), (3) person recognizes as excessive, (4) feels compelled to perform despite knowing it's irrational. The checking likely stems from obsessive worries about harm/safety.",
+            "incorrect": {
+              "Generalized Anxiety Disorder": "GAD involves chronic worry about multiple life areas but doesn't typically include such specific, repetitive compulsive behaviors. The compulsive checking (ritual behavior) is characteristic of OCD, not GAD.",
+              "Panic Disorder": "Panic Disorder involves sudden panic attacks and worry about future attacks. There's no indication of panic attacks here—just compulsive checking behaviors driven by obsessive concerns.",
+              "Social Anxiety Disorder": "Social Anxiety involves fear of social situations and judgment by others. The scenario describes checking behaviors in private settings (home), not social fears. This is OCD."
+            }
+          }
+        },
+        {
+          "question": "What is agoraphobia primarily characterized by?",
+          "difficulty": "learning",
+          "options": [
+            "Fear of spiders",
+            "Fear of social judgment",
+            "Fear of situations where escape might be difficult or help unavailable",
+            "Fear of contamination"
+          ],
+          "answer": "Fear of situations where escape might be difficult or help unavailable",
+          "explanation": {
+            "correct": "Agoraphobia involves fear or anxiety about situations where escape might be difficult or help unavailable if panic-like symptoms occur. Common situations include public transportation, open spaces, enclosed places, crowds, or being outside the home alone.",
+            "incorrect": {
+              "Fear of spiders": "This would be a specific phobia (animal type), not agoraphobia. Agoraphobia is about situations/places, not specific objects or animals.",
+              "Fear of social judgment": "This describes Social Anxiety Disorder, where the fear centers on being negatively evaluated by others. Agoraphobia's fear is about being trapped/unable to escape, not judgment.",
+              "Fear of contamination": "Contamination fears are typically part of Obsessive-Compulsive Disorder, not agoraphobia. Agoraphobia is about escape/help availability, not cleanliness."
+            }
+          }
+        },
+        {
+          "question": "A person is preoccupied with the belief that their nose is grotesquely large, though others see it as normal. They spend hours daily checking mirrors, comparing their nose to others, and seeking cosmetic surgery consultations. This best fits:",
+          "difficulty": "application",
+          "options": [
+            "Obsessive-Compulsive Disorder",
+            "Body Dysmorphic Disorder",
+            "Social Anxiety Disorder",
+            "Narcissistic Personality Disorder"
+          ],
+          "answer": "Body Dysmorphic Disorder",
+          "explanation": {
+            "correct": "Body Dysmorphic Disorder involves preoccupation with perceived defects in appearance that are minor or not observable to others, with repetitive behaviors like mirror checking, comparing to others, and seeking reassurance/procedures. The nose fixation fits perfectly.",
+            "incorrect": {
+              "Obsessive-Compulsive Disorder": "While BDD involves obsessive thoughts and repetitive behaviors, it's specifically about appearance concerns. In DSM-5, BDD is in the 'Obsessive-Compulsive and Related Disorders' category but is a distinct diagnosis focused on appearance.",
+              "Social Anxiety Disorder": "Social Anxiety involves fear of judgment in social situations. While the person might avoid social situations due to appearance concerns, the primary issue here is the appearance preoccupation itself (BDD), not fear of social evaluation per se.",
+              "Narcissistic Personality Disorder": "NPD involves grandiosity and need for admiration. The scenario describes intense dissatisfaction with appearance (BDD), not inflated self-image. These are opposite patterns."
+            }
+          }
+        },
+        {
+          "question": "How does hoarding disorder differ from OCD?",
+          "difficulty": "tricky",
+          "options": [
+            "Hoarding involves difficulty discarding items due to perceived need/value, while OCD compulsions neutralize anxiety from obsessions",
+            "They are exactly the same disorder",
+            "Hoarding only occurs in elderly people",
+            "OCD never involves collecting or saving items"
+          ],
+          "answer": "Hoarding involves difficulty discarding items due to perceived need/value, while OCD compulsions neutralize anxiety from obsessions",
+          "explanation": {
+            "correct": "Hoarding Disorder is characterized by persistent difficulty discarding possessions due to perceived need to save them or their sentimental/utilitarian value, leading to clutter. While in the OCD-related category, it's distinct: OCD compulsions are performed to neutralize anxiety from specific obsessions, while hoarding involves attachment to items themselves and difficulty letting go. The motivation differs.",
+            "incorrect": {
+              "They are exactly the same disorder": "They are distinct disorders. While hoarding is in the 'OCD and Related Disorders' category in DSM-5, it has its own diagnostic criteria and different underlying mechanisms from OCD.",
+              "Hoarding only occurs in elderly people": "While hoarding may become more apparent with age as clutter accumulates, Hoarding Disorder can occur across the lifespan and is not limited to elderly individuals.",
+              "OCD never involves collecting or saving items": "Some people with OCD do have saving compulsions, but the motivation differs from Hoarding Disorder. In OCD, saving might be driven by specific obsessions (e.g., fear of needing something), while in Hoarding Disorder, it's about perceived value/attachment to items."
+            }
+          }
+        },
+        {
+          "question": "A person has an intense fear of flying, avoiding all air travel even for important events. The fear is excessive given the low statistical risk. This is best classified as:",
+          "difficulty": "application",
+          "options": [
+            "Agoraphobia",
+            "Specific Phobia (situational type)",
+            "Panic Disorder",
+            "Generalized Anxiety Disorder"
+          ],
+          "answer": "Specific Phobia (situational type)",
+          "explanation": {
+            "correct": "Specific Phobia involves intense fear of a specific object or situation that is excessive relative to actual danger, with avoidance or intense distress. Fear of flying is a classic example of situational-type specific phobia (along with elevators, enclosed spaces, bridges).",
+            "incorrect": {
+              "Agoraphobia": "Agoraphobia involves fear of situations where escape might be difficult, typically involving multiple situations (crowds, public transport, open spaces). A focused fear of flying specifically is a specific phobia, not the broader pattern of agoraphobia.",
+              "Panic Disorder": "Panic Disorder involves recurrent unexpected panic attacks and worry about future attacks. While someone might have panic attacks on planes, the scenario describes a specific, persistent fear of flying with avoidance—specific phobia is more precise.",
+              "Generalized Anxiety Disorder": "GAD involves chronic worry about MULTIPLE life areas, not focused fear of one specific situation. The specificity of the flying fear points to specific phobia."
+            }
+          }
+        },
+        {
+          "question": "What distinguishes Social Anxiety Disorder from normal shyness?",
+          "difficulty": "learning",
+          "options": [
+            "Any discomfort in social situations",
+            "Persistent fear of social situations with significant avoidance or distress that impairs functioning",
+            "Preferring small groups over large parties",
+            "Being quiet at first when meeting new people"
+          ],
+          "answer": "Persistent fear of social situations with significant avoidance or distress that impairs functioning",
+          "explanation": {
+            "correct": "Social Anxiety Disorder involves PERSISTENT fear of social situations where one may be judged, with significant avoidance or intense distress, and SIGNIFICANT INTERFERENCE with work, school, or relationships. The key is persistence, severity, and functional impairment—not just discomfort.",
+            "incorrect": {
+              "Any discomfort in social situations": "Many people experience some social discomfort without having a disorder. Social Anxiety Disorder requires persistent fear, significant distress, and functional impairment. 'Any discomfort' is too broad and pathologizes normal variation.",
+              "Preferring small groups over large parties": "This is a normal personality preference (introversion), not a disorder. Social Anxiety Disorder involves fear and avoidance that cause significant distress and interfere with functioning, not just preferences.",
+              "Being quiet at first when meeting new people": "This describes normal shyness or wariness. Social Anxiety Disorder involves persistent, intense fear of negative evaluation that leads to avoidance or severe distress and impairs functioning. Being initially quiet is normal."
+            }
+          }
+        },
+        {
+          "question": "In the DSM-5, why were Obsessive-Compulsive and Related Disorders separated from Anxiety Disorders?",
+          "difficulty": "tricky",
+          "options": [
+            "They have nothing to do with anxiety",
+            "They have distinct features and treatment responses despite some overlap",
+            "They are more severe than anxiety disorders",
+            "They only occur in children"
+          ],
+          "answer": "They have distinct features and treatment responses despite some overlap",
+          "explanation": {
+            "correct": "While OCD and related disorders involve anxiety, research showed they have distinct features (e.g., obsessions, compulsions, body-focused symptoms), neural correlates, and treatment responses compared to anxiety disorders. The separation in DSM-5 reflects these important differences while acknowledging the relationship.",
+            "incorrect": {
+              "They have nothing to do with anxiety": "This is too extreme. OCD and related disorders DO involve anxiety—obsessions cause anxiety, compulsions reduce it. But they have unique features beyond anxiety that warrant separate classification.",
+              "They are more severe than anxiety disorders": "Severity isn't the reason for separation. Both categories include disorders ranging from mild to severe. The separation is based on distinct features and mechanisms, not severity.",
+              "They only occur in children": "This is false. OCD and related disorders occur across the lifespan. Hoarding often becomes more apparent in middle age or later. Age of onset isn't the reason for categorical separation."
+            }
+          }
+        },
+        {
+          "question": "A person repeatedly pulls out their eyebrow hair when stressed, leading to noticeable hair loss. They've tried to stop many times. This represents:",
+          "difficulty": "application",
+          "options": [
+            "Obsessive-Compulsive Disorder",
+            "Trichotillomania (Hair-Pulling Disorder)",
+            "Body Dysmorphic Disorder",
+            "Excoriation Disorder"
+          ],
+          "answer": "Trichotillomania (Hair-Pulling Disorder)",
+          "explanation": {
+            "correct": "Trichotillomania involves recurrent pulling out of one's hair, leading to noticeable hair loss, with repeated attempts to stop. The hair pulling is often preceded by tension and followed by relief. This matches the scenario exactly.",
+            "incorrect": {
+              "Obsessive-Compulsive Disorder": "While trichotillomania is in the 'OCD and Related Disorders' category, it's a distinct diagnosis. OCD involves obsessions and compulsions to neutralize specific fears, while trichotillomania is a body-focused repetitive behavior.",
+              "Body Dysmorphic Disorder": "BDD involves preoccupation with perceived appearance defects. While the person might pull hair, BDD's core is the appearance preoccupation. Trichotillomania's core is the pulling behavior itself, often tension-reducing, not necessarily appearance-related.",
+              "Excoriation Disorder": "Excoriation involves SKIN-PICKING, not hair-pulling. Both are body-focused repetitive behaviors in the same disorder category, but they involve different behaviors."
+            }
+          }
+        },
+        {
+          "question": "What is a key difference between fear and anxiety as described in the material?",
+          "difficulty": "learning",
+          "options": [
+            "Fear is always pathological, anxiety is normal",
+            "Fear responds to immediate identifiable threats, anxiety involves apprehension about future uncertain threats",
+            "Fear only has psychological symptoms, anxiety only has physical symptoms",
+            "There is no difference between fear and anxiety"
+          ],
+          "answer": "Fear responds to immediate identifiable threats, anxiety involves apprehension about future uncertain threats",
+          "explanation": {
+            "correct": "The material distinguishes fear (emotional response to immediate, identifiable threat) from anxiety (apprehension about future, uncertain threat). Fear is 'now' and specific; anxiety is 'what if' and anticipatory. Both can be excessive in anxiety disorders.",
+            "incorrect": {
+              "Fear is always pathological, anxiety is normal": "Neither is inherently pathological. Both fear and anxiety are normal emotions that become disorders when excessive, persistent, and impairing. Normal fear helps us avoid danger.",
+              "Fear only has psychological symptoms, anxiety only has physical symptoms": "Both fear and anxiety involve psychological AND physical symptoms. The distinction is about temporal focus (immediate vs. future), not symptom type.",
+              "There is no difference between fear and anxiety": "The material explicitly distinguishes them based on temporal focus: fear for immediate threats, anxiety for future threats. This distinction is clinically important."
+            }
+          }
+        },
+        {
+          "question": "Which anxiety disorder requires that symptoms last for at least 6 months?",
+          "difficulty": "learning",
+          "options": [
+            "Panic Disorder",
+            "Specific Phobia",
+            "Generalized Anxiety Disorder",
+            "Social Anxiety Disorder"
+          ],
+          "answer": "Generalized Anxiety Disorder",
+          "explanation": {
+            "correct": "The material explicitly states that GAD involves excessive worry occurring more days than not for at least 6 months. This chronicity requirement helps distinguish persistent, generalized anxiety from temporary worry.",
+            "incorrect": {
+              "Panic Disorder": "Panic Disorder requires at least one panic attack followed by ≥1 month of worry about attacks or behavior changes, not 6 months. The time criterion is different.",
+              "Specific Phobia": "While specific phobias are typically persistent, the material doesn't specify a 6-month duration requirement for this diagnosis. The 6-month criterion is specific to GAD.",
+              "Social Anxiety Disorder": "While social anxiety is typically chronic, the material doesn't specify the 6-month duration requirement. The 6-month criterion is highlighted specifically for GAD."
+            }
+          }
+        },
+        {
+          "question": "A person has filled their apartment with newspapers, magazines, and items from dumpsters to the point that only narrow pathways remain. They become extremely distressed when family members try to help clean. This pattern suggests:",
+          "difficulty": "application",
+          "options": [
+            "Obsessive-Compulsive Disorder with contamination fears",
+            "Hoarding Disorder",
+            "Major Depressive Disorder with low motivation",
+            "Antisocial Personality Disorder"
+          ],
+          "answer": "Hoarding Disorder",
+          "explanation": {
+            "correct": "This is classic Hoarding Disorder: (1) persistent difficulty discarding possessions regardless of value, (2) accumulation leading to clutter that compromises use of living space, (3) significant distress when attempting to discard items. All three key criteria are present.",
+            "incorrect": {
+              "Obsessive-Compulsive Disorder with contamination fears": "Contamination OCD typically involves excessive cleaning and avoidance of contaminated items, not accumulation of items. While hoarding can occur with OCD, this scenario's emphasis on difficulty discarding and clutter fits Hoarding Disorder specifically.",
+              "Major Depressive Disorder with low motivation": "While depression can lead to clutter due to low energy, Hoarding Disorder is characterized by active difficulty discarding and distress when trying to discard—not simply lack of motivation to clean. The attachment to items is key.",
+              "Antisocial Personality Disorder": "There's no indication of disregard for others' rights, deceitfulness, impulsivity, or lack of remorse. Hoarding can cause interpersonal problems but doesn't indicate ASPD."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "mood-disorders",
+      "title": "Depressive and Bipolar Disorders",
+      "subtitle": "Mood Disturbances and Affective Episodes",
+      "summary": "Mood disorders involve persistent disturbances in emotional state. Depressive disorders are characterized by sad, empty, or irritable mood with associated cognitive and physical symptoms. Bipolar disorders involve episodes of both depression and elevated mood (mania or hypomania).",
+      "keyTakeaways": [
+        "Major Depressive Disorder requires ≥5 symptoms for ≥2 weeks, including depressed mood or loss of interest.",
+        "Persistent Depressive Disorder (dysthymia) is chronic low-grade depression lasting ≥2 years.",
+        "Bipolar I requires at least one manic episode (severe, often with psychosis or hospitalization).",
+        "Bipolar II involves hypomanic episodes (milder, no marked impairment) plus major depression.",
+        "Manic episodes involve elevated/irritable mood, increased energy, decreased need for sleep, and impaired functioning."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Major Depressive Disorder (MDD)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Major Depressive Disorder is one of the most common and disabling mental disorders worldwide. It is characterized by persistent depressed mood or loss of interest, along with multiple other symptoms."
+        },
+        {
+          "type": "list",
+          "title": "Diagnostic Criteria",
+          "items": [
+            "At least 5 symptoms during the same 2-week period, representing a change from previous functioning",
+            "At least one symptom must be: (1) depressed mood or (2) loss of interest/pleasure",
+            "Symptoms cause clinically significant distress or impairment in social, occupational, or other functioning"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Nine Core Symptoms",
+          "items": [
+            "Depressed mood most of the day, nearly every day (or irritable mood in children/adolescents)",
+            "Markedly diminished interest or pleasure in all or almost all activities",
+            "Significant weight loss/gain or appetite changes",
+            "Insomnia or hypersomnia nearly every day",
+            "Psychomotor agitation or retardation observable by others",
+            "Fatigue or loss of energy",
+            "Feelings of worthlessness or excessive/inappropriate guilt",
+            "Diminished ability to think, concentrate, or make decisions",
+            "Recurrent thoughts of death, suicidal ideation, or suicide attempt"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Suicide Risk",
+          "text": "Suicidal thoughts are a symptom of depression and must be taken seriously. If someone expresses suicidal ideation, immediate assessment and intervention are necessary. Risk is highest when depression lifts slightly and energy returns."
+        },
+        {
+          "type": "heading",
+          "text": "Persistent Depressive Disorder (Dysthymia)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Persistent Depressive Disorder is a chronic form of depression with less severe but more enduring symptoms than Major Depressive Disorder."
+        },
+        {
+          "type": "list",
+          "title": "Key Features",
+          "items": [
+            "Depressed mood for most of the day, more days than not, for at least 2 years (1 year in children/adolescents)",
+            "Symptoms are less severe than MDD but more persistent",
+            "Often involves low energy, poor self-esteem, hopelessness, and difficulty with daily functioning",
+            "May have periods of normal mood lasting up to 2 months",
+            "Can co-occur with episodes of Major Depression ('double depression')"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Bipolar I Disorder"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bipolar I Disorder is defined by at least one manic episode. Depressive episodes often occur but are not required for diagnosis."
+        },
+        {
+          "type": "list",
+          "title": "Manic Episode Characteristics",
+          "items": [
+            "Abnormally and persistently elevated, expansive, or irritable mood",
+            "Abnormally increased activity or energy",
+            "Lasts at least 1 week (or any duration if hospitalization required)",
+            "Causes marked impairment in functioning",
+            "May include psychotic features (delusions, hallucinations)",
+            "May require hospitalization to prevent harm to self or others"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Manic Episode Symptoms (need ≥3)",
+          "items": [
+            "Inflated self-esteem or grandiosity",
+            "Decreased need for sleep (feels rested after 3 hours)",
+            "More talkative than usual or pressure to keep talking",
+            "Flight of ideas or racing thoughts",
+            "Distractibility",
+            "Increase in goal-directed activity or psychomotor agitation",
+            "Excessive involvement in activities with high potential for painful consequences (spending sprees, sexual indiscretions, foolish investments)"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Bipolar II Disorder"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bipolar II Disorder is characterized by recurring hypomanic episodes and major depressive episodes. No full manic episodes have occurred."
+        },
+        {
+          "type": "list",
+          "title": "Hypomanic Episode",
+          "items": [
+            "Similar symptoms to mania but milder",
+            "Lasts at least 4 consecutive days",
+            "Represents an uncharacteristic change but is observable by others",
+            "Does NOT cause marked impairment in functioning",
+            "No psychotic features",
+            "Does NOT require hospitalization",
+            "Distinguishing hypomania from normal good mood can be challenging"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Bipolar I vs. Bipolar II",
+          "text": "The key distinction: Bipolar I involves at least one MANIC episode (severe, often disabling). Bipolar II involves HYPOMANIC episodes (milder, not disabling) plus major depression. Bipolar II is not 'less severe'—depression can be equally debilitating, and risk of suicide may be higher in Bipolar II."
+        },
+        {
+          "type": "heading",
+          "text": "Impact and Course"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mood disorders are among the leading causes of disability worldwide. Depression affects functioning across all life domains. Bipolar disorders involve episodic course with varying frequency of episodes. Without treatment, episodes tend to become more frequent and severe over time."
+        },
+        {
+          "type": "list",
+          "title": "Important Considerations",
+          "items": [
+            "Mood disorders have high heritability—genetic factors play significant role",
+            "Environmental stressors often trigger first episodes; later episodes may occur without obvious triggers",
+            "Effective treatments exist: psychotherapy (especially CBT for depression), medication (antidepressants for MDD, mood stabilizers for bipolar), and lifestyle interventions",
+            "Misdiagnosing Bipolar as unipolar depression leads to inappropriate treatment (antidepressants alone can trigger mania)"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question": "What are the minimum requirements for diagnosing Major Depressive Disorder?",
+          "difficulty": "learning",
+          "options": [
+            "3 symptoms for 1 week",
+            "5 symptoms for 2 weeks, including depressed mood or loss of interest",
+            "7 symptoms for 4 weeks",
+            "Any depressed mood for any duration"
+          ],
+          "answer": "5 symptoms for 2 weeks, including depressed mood or loss of interest",
+          "explanation": {
+            "correct": "DSM-5 requires at least 5 symptoms during the same 2-week period, with at least one being either depressed mood or loss of interest/pleasure. These symptoms must represent a change from previous functioning and cause significant distress or impairment.",
+            "incorrect": {
+              "3 symptoms for 1 week": "This is too few symptoms and too short a duration. It doesn't meet MDD criteria.",
+              "7 symptoms for 4 weeks": "Only 5 symptoms (not 7) are required, and the duration is 2 weeks (not 4). This answer is too stringent.",
+              "Any depressed mood for any duration": "This would over-diagnose depression. Normal sadness after losses is not MDD. The 5-symptom, 2-week, functional-impairment criteria distinguish clinical depression from normal mood variation."
+            }
+          }
+        },
+        {
+          "question": "What distinguishes Persistent Depressive Disorder from Major Depressive Disorder?",
+          "difficulty": "learning",
+          "options": [
+            "PDD is more severe but shorter in duration",
+            "PDD involves chronic low-grade symptoms lasting ≥2 years",
+            "PDD only occurs in children",
+            "PDD includes manic episodes"
+          ],
+          "answer": "PDD involves chronic low-grade symptoms lasting ≥2 years",
+          "explanation": {
+            "correct": "Persistent Depressive Disorder (formerly dysthymia) is characterized by chronic depression—depressed mood more days than not for at least 2 years in adults (1 year in children). Symptoms are less severe than MDD but more enduring.",
+            "incorrect": {
+              "PDD is more severe but shorter in duration": "This is backwards. PDD is LESS severe but LONGER duration (≥2 years) compared to MDD episodes. PDD is chronic low-grade depression.",
+              "PDD only occurs in children": "PDD occurs in both children and adults. The duration requirement differs: 1 year for children/adolescents, 2 years for adults.",
+              "PDD includes manic episodes": "Manic or hypomanic episodes are part of BIPOLAR disorders, not Persistent Depressive Disorder. PDD is purely depressive."
+            }
+          }
+        },
+        {
+          "question": "A person experiences a 10-day period of elevated mood, decreased need for sleep (feeling rested after 2-3 hours), grandiose beliefs about their abilities, rapid speech, and reckless spending that depletes savings. This is hospitalized due to poor judgment. This episode represents:",
+          "difficulty": "application",
+          "options": [
+            "Hypomanic episode (Bipolar II)",
+            "Manic episode (Bipolar I)",
+            "Major Depressive episode",
+            "Normal elevated mood"
+          ],
+          "answer": "Manic episode (Bipolar I)",
+          "explanation": {
+            "correct": "This is a manic episode: (1) elevated mood and increased energy, (2) multiple symptoms (decreased sleep, grandiosity, rapid speech, reckless spending), (3) lasts >7 days, (4) severe impairment requiring hospitalization. These features define Bipolar I Disorder.",
+            "incorrect": {
+              "Hypomanic episode (Bipolar II)": "Hypomania does NOT cause marked impairment or require hospitalization. The hospitalization, reckless spending that depletes savings, and severe impairment indicate MANIA, not hypomania. This is Bipolar I, not II.",
+              "Major Depressive episode": "The mood is ELEVATED, not depressed. Symptoms include increased energy, decreased sleep need, and grandiosity—all opposite of depression. This is mania.",
+              "Normal elevated mood": "Normal good mood doesn't involve hospitalization, reckless spending depleting savings, or marked impairment. The severity, dysfunction, and symptom cluster indicate mania, not normal mood variation."
+            }
+          }
+        },
+        {
+          "question": "What is the key difference between a manic episode (Bipolar I) and a hypomanic episode (Bipolar II)?",
+          "difficulty": "learning",
+          "options": [
+            "Duration: mania lasts years, hypomania lasts weeks",
+            "Severity and impairment: mania causes marked impairment/hospitalization, hypomania does not",
+            "Symptoms: mania involves elevated mood, hypomania involves depressed mood",
+            "Age: mania only occurs in adults, hypomania only in adolescents"
+          ],
+          "answer": "Severity and impairment: mania causes marked impairment/hospitalization, hypomania does not",
+          "explanation": {
+            "correct": "The critical distinction is severity and functional impairment. MANIA causes marked impairment, may include psychosis, and may require hospitalization. HYPOMANIA is milder—observable but does NOT cause marked impairment, no psychosis, no hospitalization. Duration also differs: mania ≥7 days, hypomania ≥4 days.",
+            "incorrect": {
+              "Duration: mania lasts years, hypomania lasts weeks": "Duration requirements are: mania ≥7 days (or any duration if hospitalized), hypomania ≥4 consecutive days. Neither lasts years continuously. This answer is incorrect.",
+              "Symptoms: mania involves elevated mood, hypomania involves depressed mood": "Both mania and hypomania involve elevated, expansive, or irritable mood (NOT depressed mood). They share similar symptoms; the difference is in severity/impairment, not mood direction.",
+              "Age: mania only occurs in adults, hypomania only in adolescents": "Both can occur across the lifespan. Age is not the distinguishing feature—severity and impairment are."
+            }
+          }
+        },
+        {
+          "question": "A person has experienced multiple 3-4 day periods of elevated mood, increased productivity, decreased sleep need, and unusual talkativeness. Friends notice these periods but the person functions well at work. They also experience recurrent 2-week episodes of depression with low energy and hopelessness. This pattern suggests:",
+          "difficulty": "application",
+          "options": [
+            "Major Depressive Disorder only",
+            "Bipolar I Disorder",
+            "Bipolar II Disorder",
+            "Persistent Depressive Disorder"
+          ],
+          "answer": "Bipolar II Disorder",
+          "explanation": {
+            "correct": "Bipolar II involves: (1) hypomanic episodes (4+ days of elevated mood/energy, observable, but no marked impairment—'functions well at work'), and (2) major depressive episodes (2+ weeks of depression). This pattern matches perfectly. The episodes are NOT severe enough to be mania (no hospitalization, no marked impairment).",
+            "incorrect": {
+              "Major Depressive Disorder only": "The elevated mood periods with increased energy and decreased sleep need are hypomanic episodes, not normal mood. Once hypomania appears, the diagnosis shifts from MDD to Bipolar II.",
+              "Bipolar I Disorder": "Bipolar I requires at least one MANIC episode (severe impairment, often hospitalization). This person 'functions well at work' during elevated periods—these are HYPOMANIC, not manic. Bipolar II is correct.",
+              "Persistent Depressive Disorder": "PDD involves chronic low-grade depression, not episodic swings between depression and elevated mood. The elevated periods rule out PDD and point to bipolar spectrum."
+            }
+          }
+        },
+        {
+          "question": "Why is it clinically important to distinguish between Major Depressive Disorder and Bipolar Disorder?",
+          "difficulty": "tricky",
+          "options": [
+            "They have identical treatments",
+            "Bipolar is always more severe than depression",
+            "Antidepressants alone for bipolar can trigger mania; mood stabilizers are needed",
+            "Depression is genetic but bipolar is environmental"
+          ],
+          "answer": "Antidepressants alone for bipolar can trigger mania; mood stabilizers are needed",
+          "explanation": {
+            "correct": "The material explicitly states: 'Misdiagnosing Bipolar as unipolar depression leads to inappropriate treatment (antidepressants alone can trigger mania).' People with bipolar disorder need mood stabilizers (and sometimes antipsychotics), not just antidepressants. Giving antidepressants alone can precipitate manic episodes.",
+            "incorrect": {
+              "They have identical treatments": "This is false and contradicts the material. Treatment differs significantly: MDD is treated primarily with antidepressants and psychotherapy, while bipolar requires mood stabilizers ± antipsychotics. Antidepressants alone can harm bipolar patients.",
+              "Bipolar is always more severe than depression": "The material states that Bipolar II depression can be equally debilitating as Bipolar I, and suicide risk may be higher in Bipolar II. 'Always more severe' is incorrect—severity varies.",
+              "Depression is genetic but bipolar is environmental": "Both have high heritability—genetic factors play significant roles in both. This answer incorrectly suggests only MDD is genetic. Both have genetic and environmental contributions."
+            }
+          }
+        },
+        {
+          "question": "Which of the following is NOT a symptom of a manic episode?",
+          "difficulty": "learning",
+          "options": [
+            "Decreased need for sleep",
+            "Flight of ideas or racing thoughts",
+            "Feelings of worthlessness and excessive guilt",
+            "Inflated self-esteem or grandiosity"
+          ],
+          "answer": "Feelings of worthlessness and excessive guilt",
+          "explanation": {
+            "correct": "Feelings of worthlessness and excessive guilt are symptoms of DEPRESSION, not mania. Manic episodes involve the opposite: inflated self-esteem, grandiosity, and excessive confidence. The mood is elevated, not depressed.",
+            "incorrect": {
+              "Decreased need for sleep": "This is a classic manic symptom—feeling rested after only 2-3 hours of sleep. It's explicitly listed in manic episode criteria.",
+              "Flight of ideas or racing thoughts": "This is a core manic symptom—thoughts racing faster than the person can express them, jumping rapidly between topics.",
+              "Inflated self-esteem or grandiosity": "This is a hallmark of mania—unrealistic beliefs about one's abilities, importance, or power. It's one of the 7 symptoms listed."
+            }
+          }
+        },
+        {
+          "question": "A person has felt mildly depressed most days for 3 years, with low energy, poor self-esteem, and hopelessness, but has never had a 2-week period meeting full criteria for Major Depression. What is the most appropriate diagnosis?",
+          "difficulty": "application",
+          "options": [
+            "Major Depressive Disorder",
+            "Bipolar II Disorder",
+            "Persistent Depressive Disorder",
+            "No diagnosis; this is normal sadness"
+          ],
+          "answer": "Persistent Depressive Disorder",
+          "explanation": {
+            "correct": "Persistent Depressive Disorder requires depressed mood more days than not for at least 2 years (met: 3 years), with symptoms like low energy, poor self-esteem, and hopelessness, but WITHOUT meeting full MDD criteria during most of that time. This matches perfectly.",
+            "incorrect": {
+              "Major Depressive Disorder": "MDD requires 5 symptoms including depressed mood or anhedonia for at least 2 weeks. The scenario doesn't indicate the person ever met full MDD criteria—symptoms are chronic but milder. PDD is more appropriate.",
+              "Bipolar II Disorder": "There's no mention of hypomanic episodes (elevated mood, increased energy, decreased sleep need). Without hypomanic episodes, bipolar diagnosis is not appropriate. This is purely depressive.",
+              "No diagnosis; this is normal sadness": "Three years of persistent low mood, low energy, poor self-esteem, and hopelessness with impairment exceeds normal sadness. This meets criteria for Persistent Depressive Disorder."
+            }
+          }
+        },
+        {
+          "question": "Which statement about suicide risk in mood disorders is most accurate according to the material?",
+          "difficulty": "tricky",
+          "options": [
+            "Suicide risk is only present during severe depression, not when mood improves",
+            "Risk is highest when depression lifts slightly and energy returns",
+            "People who talk about suicide never attempt it",
+            "Suicide only occurs in Bipolar I, not MDD or Bipolar II"
+          ],
+          "answer": "Risk is highest when depression lifts slightly and energy returns",
+          "explanation": {
+            "correct": "The material states: 'Risk is highest when depression lifts slightly and energy returns.' During severe depression, people may lack the energy to act on suicidal thoughts. As depression begins to improve and energy returns, risk increases because they now have energy to act while still experiencing hopelessness.",
+            "incorrect": {
+              "Suicide risk is only present during severe depression, not when mood improves": "This contradicts the material's warning that risk is HIGHEST when depression lifts slightly. Improvement can be dangerous if hopelessness persists while energy returns.",
+              "People who talk about suicide never attempt it": "This is a dangerous myth. Many people who die by suicide have communicated their intent beforehand. Suicidal talk must always be taken seriously.",
+              "Suicide only occurs in Bipolar I, not MDD or Bipolar II": "Suicide risk is present across all mood disorders. The material notes that suicide risk may be HIGHER in Bipolar II than Bipolar I. MDD also carries significant suicide risk."
+            }
+          }
+        },
+        {
+          "question": "A person experiences a 5-day period of unusually elevated mood, working on multiple projects simultaneously, sleeping only 3 hours nightly, and speaking rapidly. They still attend work daily and complete tasks. This is MOST consistent with:",
+          "difficulty": "tricky",
+          "options": [
+            "Manic episode (Bipolar I) because symptoms are severe",
+            "Hypomanic episode (Bipolar II) because functioning is maintained",
+            "Major Depressive episode with psychomotor agitation",
+            "Normal stress response"
+          ],
+          "answer": "Hypomanic episode (Bipolar II) because functioning is maintained",
+          "explanation": {
+            "correct": "This is tricky because symptoms sound severe (decreased sleep, rapid speech, multiple projects). However, the person 'still attends work daily and completes tasks'—functioning is maintained with NO marked impairment. Hypomania requires ≥4 days (met: 5 days) with no marked impairment. If functioning were severely compromised or hospitalization needed, it would be mania.",
+            "incorrect": {
+              "Manic episode (Bipolar I) because symptoms are severe": "Despite seemingly severe symptoms, the key is functional impairment. Mania requires MARKED impairment or hospitalization. The person is still working and completing tasks—no marked impairment. This is hypomania by definition.",
+              "Major Depressive episode with psychomotor agitation": "The mood is ELEVATED, energy is INCREASED, and sleep need is DECREASED—all opposite of depression. Agitation in depression doesn't involve elevated mood or decreased sleep need. This is clearly elevated mood, not depression.",
+              "Normal stress response": "Normal stress doesn't typically involve persistently elevated mood, 3 hours of sleep feeling adequate, and rapid speech for 5 days. This pattern exceeds normal stress and meets criteria for hypomania (requires ≥4 days)."
+            }
+          }
+        },
+        {
+          "question": "What does 'double depression' refer to in the context of mood disorders?",
+          "difficulty": "learning",
+          "options": [
+            "Having both anxiety and depression simultaneously",
+            "Persistent Depressive Disorder with superimposed Major Depressive Episodes",
+            "Depression in both parents of a patient",
+            "Bipolar disorder with two types of depression"
+          ],
+          "answer": "Persistent Depressive Disorder with superimposed Major Depressive Episodes",
+          "explanation": {
+            "correct": "The material mentions that Persistent Depressive Disorder 'can co-occur with episodes of Major Depression ('double depression')'. This means someone with chronic low-grade depression (PDD) experiences acute major depressive episodes on top of their baseline dysthymia.",
+            "incorrect": {
+              "Having both anxiety and depression simultaneously": "While anxiety and depression commonly co-occur (comorbidity), this isn't called 'double depression.' Double depression specifically refers to PDD + MDD episodes.",
+              "Depression in both parents of a patient": "This would be familial depression or family history, not 'double depression.' The term refers to TWO TYPES of depression in the same person, not depression in two people.",
+              "Bipolar disorder with two types of depression": "Bipolar disorders involve depression plus mania/hypomania, not 'two types of depression.' Double depression is PDD + MDD, both in the unipolar depression category."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "schizophrenia-personality",
+      "title": "Schizophrenia Spectrum and Personality Disorders",
+      "subtitle": "Psychotic Symptoms and Enduring Personality Patterns",
+      "summary": "Schizophrenia spectrum disorders involve psychotic symptoms including delusions, hallucinations, and disorganized thinking. Personality disorders are enduring, inflexible patterns of inner experience and behavior that deviate from cultural expectations and cause distress or impairment. They are organized into three clusters: A (odd/eccentric), B (dramatic/emotional), and C (anxious/fearful).",
+      "keyTakeaways": [
+        "Schizophrenia involves delusions, hallucinations, disorganized speech/behavior, and negative symptoms lasting ≥6 months.",
+        "Positive symptoms (delusions, hallucinations) represent additions to normal experience; negative symptoms (flat affect, avolition) represent loss of normal functions.",
+        "Personality disorders involve pervasive, inflexible patterns present since adolescence/early adulthood.",
+        "Cluster A (Paranoid, Schizoid, Schizotypal) involves odd or eccentric behavior.",
+        "Cluster B (Antisocial, Borderline, Histrionic, Narcissistic) involves dramatic, emotional, or erratic behavior.",
+        "Cluster C (Avoidant, Dependent, OCPD) involves anxious or fearful behavior."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Schizophrenia Spectrum Disorders"
+        },
+        {
+          "type": "paragraph",
+          "text": "Schizophrenia spectrum disorders are characterized by psychotic symptoms—abnormalities in perception, thought content, and thought process that represent a significant departure from reality."
+        },
+        {
+          "type": "list",
+          "title": "Five Major Disorders in the Spectrum",
+          "items": [
+            "Schizophrenia: Chronic disorder with psychotic symptoms lasting ≥6 months",
+            "Schizophreniform Disorder: Same symptoms as schizophrenia but duration 1-6 months",
+            "Schizoaffective Disorder: Psychotic symptoms PLUS mood episodes (depression or mania)",
+            "Brief Psychotic Disorder: Sudden psychotic symptoms lasting 1 day to <1 month, then full recovery",
+            "Delusional Disorder: One or more delusions lasting ≥1 month with otherwise relatively normal functioning"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Core Psychotic Symptoms"
+        },
+        {
+          "type": "list",
+          "title": "Positive Symptoms (Additions to Normal Experience)",
+          "items": [
+            "Delusions: False beliefs sustained despite contrary evidence (persecutory, referential, grandiose, control, thought insertion/withdrawal/broadcasting, somatic, nihilistic)",
+            "Hallucinations: False perceptions with compelling sense of reality; mostly auditory in schizophrenia (hearing voices)",
+            "Disorganized Speech: Incoherent speech, derailment, tangentiality, word salad, clanging (rhyming patterns)",
+            "Disorganized or Catatonic Behavior: Unpredictable agitation, inappropriate behavior, catatonia (immobility or excessive movement)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Negative Symptoms (Loss of Normal Functions)",
+          "items": [
+            "Flat or Blunted Affect: Reduced emotional expression; face appears immobile, voice monotone",
+            "Alogia: Poverty of speech; brief, empty replies",
+            "Avolition: Lack of motivation or ability to initiate and persist in goal-directed activities",
+            "Anhedonia: Inability to experience pleasure",
+            "Social Withdrawal: Lack of interest in social interactions"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Clanging Example",
+          "text": "Therapist: 'What color is your dress?' Client: 'Red... like a bed.' Therapist: 'Why is it like a bed?' Client: 'Because it's dead.' Therapist: 'Why is a bed like being dead?' Client: 'I dunno... maybe it's a med.' This demonstrates disorganized speech with rhyming associations."
+        },
+        {
+          "type": "heading",
+          "text": "Schizophrenia"
+        },
+        {
+          "type": "list",
+          "title": "Diagnostic Criteria",
+          "items": [
+            "Two or more symptoms (delusions, hallucinations, disorganized speech, grossly disorganized/catatonic behavior, negative symptoms) for significant time during 1 month",
+            "Continuous signs of disturbance persist for at least 6 months (including prodromal or residual periods)",
+            "Significant decline in functioning (work, relationships, self-care) below pre-onset level",
+            "Symptoms not due to substance use or medical condition"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Other Psychotic Disorders (Brief Comparison)"
+        },
+        {
+          "type": "list",
+          "title": "Duration and Prognosis",
+          "items": [
+            "Brief Psychotic Disorder: 1 day to <1 month, then full recovery; often triggered by extreme stress",
+            "Schizophreniform Disorder: 1-6 months duration; can progress to schizophrenia if symptoms persist",
+            "Schizophrenia: ≥6 months; chronic course, often lifelong",
+            "Schizoaffective Disorder: Psychosis PLUS mood episodes; requires psychotic symptoms during period without mood symptoms to distinguish from mood disorder with psychotic features"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Delusional Disorder"
+        },
+        {
+          "type": "paragraph",
+          "text": "Delusional Disorder involves one or more delusions lasting at least 1 month, with otherwise relatively normal functioning. Unlike schizophrenia, hallucinations are absent or minimal, and functioning outside the delusional belief system is intact."
+        },
+        {
+          "type": "list",
+          "title": "Common Types",
+          "items": [
+            "Erotomanic: Belief that someone (often famous) is in love with them",
+            "Grandiose: Belief of having special power, identity, or knowledge",
+            "Jealous: Belief that partner is unfaithful (without evidence)",
+            "Persecutory (most common): Belief of being conspired against, spied on, poisoned, harassed",
+            "Somatic: Belief of having physical defect or medical condition despite negative tests"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Personality Disorders Overview"
+        },
+        {
+          "type": "paragraph",
+          "text": "Personality disorders are enduring, inflexible patterns of inner experience and behavior that deviate markedly from cultural expectations, are pervasive across situations, begin by adolescence or early adulthood, are stable over time, and lead to distress or impairment."
+        },
+        {
+          "type": "list",
+          "title": "Three Clusters (10 Disorders Total)",
+          "items": [
+            "Cluster A (Odd/Eccentric): Paranoid, Schizoid, Schizotypal",
+            "Cluster B (Dramatic/Emotional/Erratic): Antisocial, Borderline, Histrionic, Narcissistic",
+            "Cluster C (Anxious/Fearful): Avoidant, Dependent, Obsessive-Compulsive Personality Disorder"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Cluster A: Odd/Eccentric"
+        },
+        {
+          "type": "list",
+          "title": "Paranoid Personality Disorder",
+          "items": [
+            "Pervasive distrust and suspiciousness; believes others are exploiting, harming, or deceiving them",
+            "Reluctant to confide (fears information will be used against them)",
+            "Reads hidden threatening meanings into benign remarks",
+            "Bears persistent grudges; quick to feel attacked and counterattack",
+            "Example: Joseph Stalin"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Schizoid Personality Disorder",
+          "items": [
+            "Pervasive pattern of detachment from social relationships",
+            "Neither desires nor enjoys close relationships (including family)",
+            "Almost always chooses solitary activities",
+            "Little interest in sexual experiences with others",
+            "Lacks close friends; appears indifferent to praise or criticism",
+            "Emotional coldness, flat affect",
+            "Example: Bill Gates (speculated)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Schizotypal Personality Disorder",
+          "items": [
+            "Odd beliefs, magical thinking, unusual perceptual experiences",
+            "Ideas of reference (believing neutral events have special personal meaning)",
+            "Odd/eccentric appearance or behavior; unusual speech (vague, metaphorical)",
+            "Lack of close friends; social anxiety that doesn't diminish with familiarity",
+            "Example: Vincent van Gogh (speculated)"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Cluster B: Dramatic/Emotional/Erratic"
+        },
+        {
+          "type": "list",
+          "title": "Antisocial Personality Disorder",
+          "items": [
+            "Pervasive disregard for and violation of others' rights since age 15",
+            "Deceitfulness, repeated lying, conning others",
+            "Impulsivity, failure to plan ahead",
+            "Irritability, aggressiveness, reckless disregard for safety",
+            "Consistent irresponsibility; lack of remorse",
+            "Must be at least age 18; evidence of conduct disorder before age 15",
+            "Example: Ted Bundy"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Borderline Personality Disorder",
+          "items": [
+            "Unstable relationships, self-image, and emotions; terror of abandonment",
+            "Frantic efforts to avoid real or imagined abandonment",
+            "Splitting: alternating between idealization and devaluation of others",
+            "Chronic feelings of emptiness",
+            "Recurrent suicidal behavior, gestures, or self-harm",
+            "Impulsivity (spending, sex, substance abuse, reckless driving, binge eating)",
+            "Examples: Amy Winehouse, Marilyn Monroe"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Histrionic Personality Disorder",
+          "items": [
+            "Excessive emotionality and attention-seeking",
+            "Uncomfortable when not the center of attention",
+            "Overly dramatic, theatrical, exaggerated emotional expression",
+            "Shallow, rapidly shifting emotions",
+            "Sexually seductive or provocative behavior",
+            "Examples: Madonna, Johnny Depp (speculated)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Narcissistic Personality Disorder",
+          "items": [
+            "Grandiosity (in fantasy or behavior), need for admiration, lack of empathy",
+            "Believes they are 'special' and should associate only with high-status people",
+            "Sense of entitlement; exploits others",
+            "Envious of others or believes others envy them",
+            "Fragile self-esteem hidden behind arrogance",
+            "Examples: Kanye West, Donald Trump, Steve Jobs (speculated)"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Cluster C: Anxious/Fearful"
+        },
+        {
+          "type": "list",
+          "title": "Avoidant Personality Disorder",
+          "items": [
+            "Extreme social inhibition, feelings of inadequacy, hypersensitivity to criticism/rejection",
+            "Avoids occupations involving interpersonal contact due to fear of criticism",
+            "Unwilling to get involved unless certain of being liked",
+            "Views self as socially inept or inferior",
+            "Example: Michael Jackson (speculated)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Dependent Personality Disorder",
+          "items": [
+            "Excessive need to be taken care of, submissive and clinging behavior",
+            "Difficulty making decisions without reassurance",
+            "Lets others assume responsibility for major life areas",
+            "Fears being alone; urgently seeks new relationship when one ends",
+            "Difficulty expressing disagreement (fears loss of support)",
+            "Example: Scott Disick (speculated)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Obsessive-Compulsive Personality Disorder (OCPD)",
+          "items": [
+            "Preoccupation with orderliness, perfectionism, and control at expense of flexibility",
+            "Perfectionism interferes with task completion",
+            "Excessively devoted to work; stubborn, rigid",
+            "Reluctant to delegate unless others do things exactly their way",
+            "Miserly spending style; hoarding behaviors",
+            "Example: Elon Musk (speculated)",
+            "NOTE: OCPD is NOT the same as OCD (Obsessive-Compulsive Disorder)"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Personality Disorders vs. Mental Disorders",
+          "text": "Personality disorders are pervasive, stable patterns of behavior present since adolescence/early adulthood. They are ego-syntonic (feel consistent with self-image). Mental disorders like depression or schizophrenia are ego-dystonic (feel alien, unwanted) and have clearer onset and course."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What distinguishes schizophrenia from schizophreniform disorder?",
+          "difficulty": "learning",
+          "options": [
+            "Type of symptoms present",
+            "Duration: schizophrenia ≥6 months, schizophreniform 1-6 months",
+            "Severity of impairment",
+            "Presence of mood symptoms"
+          ],
+          "answer": "Duration: schizophrenia ≥6 months, schizophreniform 1-6 months",
+          "explanation": {
+            "correct": "The symptom pattern is the same for both disorders. The key difference is DURATION: schizophrenia requires continuous signs for at least 6 months (including prodromal/residual phases), while schizophreniform lasts 1-6 months. Schizophreniform can progress to schizophrenia if symptoms persist beyond 6 months.",
+            "incorrect": {
+              "Type of symptoms present": "The material states schizophreniform has the 'same symptom pattern as schizophrenia.' Both involve delusions, hallucinations, disorganized speech, etc. Symptom types are the same.",
+              "Severity of impairment": "While both can cause impairment, severity isn't the defining distinction. The critical difference is duration: 1-6 months for schizophreniform, ≥6 months for schizophrenia.",
+              "Presence of mood symptoms": "Mood symptoms would suggest schizoaffective disorder. Neither schizophrenia nor schizophreniform requires mood episodes—they're both psychotic disorders without prominent mood components."
+            }
+          }
+        },
+        {
+          "question": "Which of the following is a 'negative symptom' of schizophrenia?",
+          "difficulty": "learning",
+          "options": [
+            "Hallucinations",
+            "Delusions",
+            "Flat affect and avolition",
+            "Disorganized speech"
+          ],
+          "answer": "Flat affect and avolition",
+          "explanation": {
+            "correct": "Negative symptoms represent LOSS of normal functions. Flat affect (reduced emotional expression) and avolition (lack of motivation/goal-directed activity) are classic negative symptoms. They reflect absence or reduction of normal behaviors.",
+            "incorrect": {
+              "Hallucinations": "Hallucinations are POSITIVE symptoms—they represent ADDITIONS to normal experience (perceiving things that aren't there). Positive symptoms add abnormal experiences.",
+              "Delusions": "Delusions are POSITIVE symptoms—they represent ADDITIONS (false beliefs that aren't normally present). Positive symptoms involve excess or distortion.",
+              "Disorganized speech": "Disorganized speech is a POSITIVE symptom—it represents an abnormal addition (incoherent communication patterns not present in normal functioning). It's an excess of disorganization."
+            }
+          }
+        },
+        {
+          "question": "A 58-year-old man is convinced for 3 years that neighbors have installed microphones in his walls to blackmail him. He files police reports and covers walls with foil. He still works daily as a bus driver with no hallucinations or bizarre behavior outside this belief. This suggests:",
+          "difficulty": "application",
+          "options": [
+            "Schizophrenia",
+            "Delusional Disorder (persecutory type)",
+            "Paranoid Personality Disorder",
+            "Brief Psychotic Disorder"
+          ],
+          "answer": "Delusional Disorder (persecutory type)",
+          "explanation": {
+            "correct": "Delusional Disorder involves one or more delusions lasting ≥1 month (met: 3 years) with otherwise relatively normal functioning (met: works daily). The persecutory delusion (neighbors spying/blackmailing) is the most common type. No hallucinations or bizarre behavior outside the belief system—classic for Delusional Disorder.",
+            "incorrect": {
+              "Schizophrenia": "Schizophrenia typically involves multiple symptoms (hallucinations, disorganized speech, negative symptoms, etc.) and significant functional decline. This person functions well (works daily) and has only a circumscribed delusion—more consistent with Delusional Disorder.",
+              "Paranoid Personality Disorder": "PPD involves pervasive distrust and suspiciousness across situations, present since early adulthood. This person has a SPECIFIC, FIXED delusion (microphones in walls) for 3 years—a psychotic symptom. PPD doesn't involve frank delusions, just suspiciousness.",
+              "Brief Psychotic Disorder": "Brief Psychotic Disorder lasts 1 day to <1 month. This has persisted for 3 YEARS. Duration rules out Brief Psychotic Disorder."
+            }
+          }
+        },
+        {
+          "question": "What is 'splitting' in the context of Borderline Personality Disorder?",
+          "difficulty": "learning",
+          "options": [
+            "Dissociative identity disorder (multiple personalities)",
+            "Alternating between idealizing and devaluing others",
+            "Separating from family members",
+            "Division of attention between multiple tasks"
+          ],
+          "answer": "Alternating between idealizing and devaluing others",
+          "explanation": {
+            "correct": "Splitting is a defense mechanism common in BPD where the person alternates between seeing others as all-good (idealization) or all-bad (devaluation), with no middle ground. Relationships swing from 'you're perfect' to 'you're terrible' based on perceived acceptance or rejection.",
+            "incorrect": {
+              "Dissociative identity disorder (multiple personalities)": "This confuses splitting with DID (formerly multiple personality disorder). Splitting is a thinking pattern about relationships, not separate identities within one person.",
+              "Separating from family members": "While people with BPD may have tumultuous relationships, 'splitting' doesn't mean physical separation. It's a cognitive pattern of black-and-white thinking about people.",
+              "Division of attention between multiple tasks": "This describes multitasking or divided attention in cognitive psychology. Splitting in BPD is about relationship perceptions, not attention allocation."
+            }
+          }
+        },
+        {
+          "question": "Which personality disorder cluster includes Antisocial, Borderline, Histrionic, and Narcissistic personality disorders?",
+          "difficulty": "learning",
+          "options": [
+            "Cluster A (Odd/Eccentric)",
+            "Cluster B (Dramatic/Emotional/Erratic)",
+            "Cluster C (Anxious/Fearful)",
+            "These are in different clusters"
+          ],
+          "answer": "Cluster B (Dramatic/Emotional/Erratic)",
+          "explanation": {
+            "correct": "Cluster B is characterized by dramatic, emotional, or erratic behavior and includes: Antisocial (disregard for others), Borderline (unstable relationships/emotions), Histrionic (attention-seeking), and Narcissistic (grandiosity/lack of empathy).",
+            "incorrect": {
+              "Cluster A (Odd/Eccentric)": "Cluster A includes Paranoid, Schizoid, and Schizotypal personality disorders—characterized by odd or eccentric behavior, not dramatic/emotional patterns.",
+              "Cluster C (Anxious/Fearful)": "Cluster C includes Avoidant, Dependent, and Obsessive-Compulsive Personality Disorder—characterized by anxious or fearful behavior, not dramatic/erratic patterns.",
+              "These are in different clusters": "All four disorders (Antisocial, Borderline, Histrionic, Narcissistic) are grouped together in Cluster B based on shared dramatic/emotional/erratic features."
+            }
+          }
+        },
+        {
+          "question": "What is the key feature that distinguishes Schizoaffective Disorder from a mood disorder with psychotic features?",
+          "difficulty": "tricky",
+          "options": [
+            "Schizoaffective has more severe hallucinations",
+            "In schizoaffective, psychotic symptoms occur during periods WITHOUT mood symptoms",
+            "Schizoaffective requires hospitalization",
+            "There is no difference between them"
+          ],
+          "answer": "In schizoaffective, psychotic symptoms occur during periods WITHOUT mood symptoms",
+          "explanation": {
+            "correct": "The critical distinction: in Schizoaffective Disorder, there must be a period of at least 2 weeks with delusions or hallucinations WITHOUT a major mood episode. This shows psychosis is independent of mood, not just psychotic features of a mood episode. In mood disorder with psychotic features, psychosis only occurs during mood episodes.",
+            "incorrect": {
+              "Schizoaffective has more severe hallucinations": "Severity of hallucinations doesn't distinguish these disorders. Both can have severe psychotic symptoms. The timing relationship between psychosis and mood episodes is what matters.",
+              "Schizoaffective requires hospitalization": "Hospitalization may occur in both disorders depending on severity. It's not a diagnostic criterion that distinguishes them. The key is whether psychosis occurs independently of mood episodes.",
+              "There is no difference between them": "There IS an important difference: Schizoaffective requires psychosis during periods without mood symptoms (showing independent psychotic process), while mood disorder with psychotic features has psychosis only during mood episodes."
+            }
+          }
+        },
+        {
+          "question": "A person prefers solitary activities, has no close friends, shows little emotion, and appears indifferent to praise or criticism but has no odd beliefs or perceptual experiences. This pattern most suggests:",
+          "difficulty": "application",
+          "options": [
+            "Schizotypal Personality Disorder",
+            "Schizoid Personality Disorder",
+            "Avoidant Personality Disorder",
+            "Autism Spectrum Disorder"
+          ],
+          "answer": "Schizoid Personality Disorder",
+          "explanation": {
+            "correct": "Schizoid Personality Disorder involves detachment from social relationships (no desire for them), preference for solitary activities, emotional coldness/flat affect, and indifference to praise/criticism. The ABSENCE of odd beliefs distinguishes it from Schizotypal.",
+            "incorrect": {
+              "Schizotypal Personality Disorder": "Schizotypal includes odd beliefs, magical thinking, unusual perceptual experiences, and eccentric behavior. The scenario explicitly states NO odd beliefs or perceptual experiences, ruling out Schizotypal. This is Schizoid.",
+              "Avoidant Personality Disorder": "Avoidant PD involves WANTING social connection but avoiding it due to fear of rejection/criticism. The person is not indifferent—they desire relationships but fear them. This scenario shows indifference, suggesting Schizoid.",
+              "Autism Spectrum Disorder": "While ASD can involve social difficulties and preference for routine, it's a neurodevelopmental disorder with specific communication patterns and restricted interests, not a personality disorder. Schizoid PD is more appropriate here."
+            }
+          }
+        },
+        {
+          "question": "What distinguishes Obsessive-Compulsive Personality Disorder (OCPD) from Obsessive-Compulsive Disorder (OCD)?",
+          "difficulty": "tricky",
+          "options": [
+            "They are the same disorder with different names",
+            "OCPD involves rigid perfectionism as a personality trait; OCD involves unwanted intrusive thoughts and anxiety-driven rituals",
+            "OCPD is more severe than OCD",
+            "OCPD only occurs in adults, OCD only in children"
+          ],
+          "answer": "OCPD involves rigid perfectionism as a personality trait; OCD involves unwanted intrusive thoughts and anxiety-driven rituals",
+          "explanation": {
+            "correct": "These are DISTINCT disorders. OCPD is a pervasive personality pattern of perfectionism, control, and orderliness that feels consistent with self (ego-syntonic). OCD involves unwanted obsessions causing anxiety and compulsions performed to reduce anxiety (ego-dystonic—feels foreign/unwanted). The material explicitly warns: 'Don't confuse' them.",
+            "incorrect": {
+              "They are the same disorder with different names": "They are completely different disorders with different diagnostic criteria, mechanisms, and treatments. OCPD is a personality disorder (Cluster C), OCD is an anxiety-related disorder with obsessions/compulsions.",
+              "OCPD is more severe than OCD": "Severity isn't the distinction and varies within each disorder. OCD can be severely disabling. The distinction is about the NATURE of symptoms (personality pattern vs. intrusive thoughts/rituals), not severity.",
+              "OCPD only occurs in adults, OCD only in children": "Both can occur across the lifespan. Age of onset isn't the distinguishing feature—the nature of symptoms is what differs."
+            }
+          }
+        },
+        {
+          "question": "Which personality disorder involves a pervasive pattern of grandiosity, need for admiration, and lack of empathy?",
+          "difficulty": "learning",
+          "options": [
+            "Histrionic Personality Disorder",
+            "Narcissistic Personality Disorder",
+            "Antisocial Personality Disorder",
+            "Borderline Personality Disorder"
+          ],
+          "answer": "Narcissistic Personality Disorder",
+          "explanation": {
+            "correct": "Narcissistic Personality Disorder is defined by grandiosity (inflated sense of self-importance), need for excessive admiration, and lack of empathy. People with NPD believe they are 'special,' feel entitled, and exploit others while lacking empathy.",
+            "incorrect": {
+              "Histrionic Personality Disorder": "Histrionic PD involves attention-seeking and excessive emotionality, not necessarily grandiosity or lack of empathy. The focus is on being the center of attention, not on being 'special' or superior.",
+              "Antisocial Personality Disorder": "Antisocial PD involves disregard for others' rights, deceitfulness, and lack of remorse—but the core is rule-breaking and exploitation, not grandiosity and need for admiration. While both lack empathy, the pattern differs.",
+              "Borderline Personality Disorder": "Borderline PD involves unstable relationships and emotions, fear of abandonment, and emptiness—not grandiosity. People with BPD often have fragile, not inflated, self-image."
+            }
+          }
+        },
+        {
+          "question": "A person becomes convinced after an argument and failing exams that the FBI is monitoring them and classmates are government agents trying to poison them. They talk to themselves and appear terrified for 12 days. With medication, symptoms completely resolve and they return to baseline with full insight. This represents:",
+          "difficulty": "application",
+          "options": [
+            "Schizophrenia",
+            "Brief Psychotic Disorder",
+            "Schizophreniform Disorder",
+            "Delusional Disorder"
+          ],
+          "answer": "Brief Psychotic Disorder",
+          "explanation": {
+            "correct": "Brief Psychotic Disorder involves sudden onset of psychotic symptoms (delusions, hallucinations—here: persecution beliefs, talking to self) lasting 1 day to <1 month (met: 12 days), followed by FULL return to baseline. Often stress-triggered (met: argument, failed exams). The complete recovery with insight is characteristic.",
+            "incorrect": {
+              "Schizophrenia": "Schizophrenia requires ≥6 months of symptoms. This episode lasted only 12 days with complete recovery—far too brief and recovery too complete for schizophrenia.",
+              "Schizophreniform Disorder": "Schizophreniform requires 1-6 MONTHS duration. At 12 days, this is too short. The <1 month duration with full recovery indicates Brief Psychotic Disorder.",
+              "Delusional Disorder": "Delusional Disorder involves non-bizarre delusions with otherwise normal functioning. This person had bizarre delusions (FBI monitoring, poisoning), hallucinations (talking to self), appeared terrified, and had poor functioning—more severe than Delusional Disorder."
+            }
+          }
+        },
+        {
+          "question": "Which Cluster A personality disorder is characterized by magical thinking, unusual perceptual experiences, and eccentric appearance?",
+          "difficulty": "learning",
+          "options": [
+            "Paranoid Personality Disorder",
+            "Schizoid Personality Disorder",
+            "Schizotypal Personality Disorder",
+            "Avoidant Personality Disorder"
+          ],
+          "answer": "Schizotypal Personality Disorder",
+          "explanation": {
+            "correct": "Schizotypal Personality Disorder involves magical thinking, ideas of reference, odd beliefs, unusual perceptual experiences (sensing a 'presence'), and eccentric appearance/behavior. It's the most 'odd' of the Cluster A disorders.",
+            "incorrect": {
+              "Paranoid Personality Disorder": "Paranoid PD involves pervasive distrust and suspiciousness but NOT magical thinking, unusual perceptions, or eccentric appearance. The focus is on mistrust, not oddness.",
+              "Schizoid Personality Disorder": "Schizoid PD involves social detachment and flat affect but NOT odd beliefs, magical thinking, or perceptual disturbances. It's characterized by emotional coldness and isolation, not eccentricity.",
+              "Avoidant Personality Disorder": "Avoidant PD is in Cluster C (Anxious/Fearful), not Cluster A. It involves social inhibition due to fear of criticism—no magical thinking or perceptual oddness."
+            }
+          }
+        },
+        {
+          "question": "What is the material's example of 'clanging' in disorganized speech?",
+          "difficulty": "learning",
+          "options": [
+            "Switching topics mid-sentence",
+            "Speaking very loudly",
+            "Making rhyming associations (red-bed-dead-med)",
+            "Repeating the same phrase over and over"
+          ],
+          "answer": "Making rhyming associations (red-bed-dead-med)",
+          "explanation": {
+            "correct": "The material provides an example: 'What color is your dress?' 'Red... like a bed.' 'Why is it like a bed?' 'Because it's dead.' Clanging involves using words based on sound (rhyming) rather than meaning, creating nonsensical associations.",
+            "incorrect": {
+              "Switching topics mid-sentence": "This describes derailment or loose associations, another form of disorganized speech. Clanging specifically involves RHYMING or sound-based associations.",
+              "Speaking very loudly": "Loud speech relates to volume/prosody, not disorganized thought content. Clanging is about using rhyming words regardless of meaning.",
+              "Repeating the same phrase over and over": "This describes perseveration or echolalia. Clanging involves different words chosen for rhyme/sound, not repetition of the same phrase."
+            }
+          }
+        },
+        {
+          "question": "A person has felt extremely fearful of criticism since adolescence, views themselves as socially inadequate, and avoids work involving people despite desperately wanting friendships. They engage socially only when certain of acceptance. This suggests:",
+          "difficulty": "application",
+          "options": [
+            "Schizoid Personality Disorder",
+            "Avoidant Personality Disorder",
+            "Dependent Personality Disorder",
+            "Social Anxiety Disorder"
+          ],
+          "answer": "Avoidant Personality Disorder",
+          "explanation": {
+            "correct": "Avoidant PD involves extreme social inhibition, feelings of inadequacy, hypersensitivity to criticism, avoiding interpersonal contact due to fear, and WANTING connection but feeling too inadequate. The pervasive pattern since adolescence fits personality disorder criteria.",
+            "incorrect": {
+              "Schizoid Personality Disorder": "Schizoid involves NO DESIRE for relationships—indifference to social connection. This person 'desperately wants friendships,' ruling out Schizoid. The desire for connection is key.",
+              "Dependent Personality Disorder": "Dependent PD involves excessive need to be taken care of with submissive/clinging behavior in relationships. This person AVOIDS relationships due to fear—they can't get close enough to be dependent. Pattern differs.",
+              "Social Anxiety Disorder": "While there's overlap, the pervasive pattern present since adolescence across all life domains suggests personality disorder rather than anxiety disorder. Also, Avoidant PD is Cluster C, and this fits the personality disorder criteria."
+            }
+          }
+        },
+        {
+          "question": "Which of the following is an example of a delusion of reference?",
+          "difficulty": "application",
+          "options": [
+            "Believing you are Napoleon Bonaparte",
+            "Hearing voices commenting on your actions",
+            "Believing TV news anchors are sending you coded messages",
+            "Feeling that your thoughts are being broadcasted to others"
+          ],
+          "answer": "Believing TV news anchors are sending you coded messages",
+          "explanation": {
+            "correct": "Delusions of reference involve believing that neutral events or media have special personal meaning or significance. Thinking TV anchors are sending YOU coded messages is a classic example—ordinary broadcasts are interpreted as personally significant.",
+            "incorrect": {
+              "Believing you are Napoleon Bonaparte": "This is a GRANDIOSE delusion (believing you have exceptional identity/power/importance), not a delusion of reference.",
+              "Hearing voices commenting on your actions": "This is an auditory HALLUCINATION (perception without stimulus), not a delusion (false belief). Hallucinations and delusions are different symptom categories.",
+              "Feeling that your thoughts are being broadcasted to others": "This is THOUGHT BROADCASTING, a type of thought delusion, not a delusion of reference. Delusions of reference involve external events having personal meaning."
+            }
+          }
+        },
+        {
+          "question": "What is the significance of the requirement that Antisocial Personality Disorder can only be diagnosed in individuals age 18 or older?",
+          "difficulty": "tricky",
+          "options": [
+            "The disorder doesn't exist before age 18",
+            "It prevents labeling adolescents with a stigmatizing diagnosis before personality is fully formed",
+            "Treatment is only effective after age 18",
+            "Antisocial behaviors are normal in children"
+          ],
+          "answer": "It prevents labeling adolescents with a stigmatizing diagnosis before personality is fully formed",
+          "explanation": {
+            "correct": "Personality is still developing through adolescence. The age 18 requirement (plus evidence of conduct disorder before age 15) prevents prematurely diagnosing adolescents with a highly stigmatizing disorder when behaviors might still change. It balances recognizing early patterns (conduct disorder) while not fixing a serious label too early.",
+            "incorrect": {
+              "The disorder doesn't exist before age 18": "The pattern EXISTS earlier—the diagnosis requires evidence of Conduct Disorder before age 15. The age 18 requirement is about when to apply the LABEL, not when the pattern begins.",
+              "Treatment is only effective after age 18": "This isn't the reason for the age criterion. Early intervention is valuable. The age requirement is about developmental considerations and avoiding premature labeling, not treatment effectiveness.",
+              "Antisocial behaviors are normal in children": "Some rule-testing is normal, but the material requires evidence of CONDUCT DISORDER (a significant pattern of rule violation causing impairment) before age 15. It's not saying these behaviors are normal, but that personality diagnosis should wait until adulthood."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

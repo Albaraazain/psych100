@@ -1,0 +1,182 @@
+{
+  "task_id": "TASK-20260113-132732-7d7996c7",
+  "task_description": "Generate comprehensive study site content (notes + questions) for PSYC100 General Psychology course by extracting content from 11 PDF lecture files and formatting into JSON structure for the study-site application. Replace existing GPC 415 content with PSYC100 material.",
+  "created_at": "2026-01-13T13:27:32.442150",
+  "workspace": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace/TASK-20260113-132732-7d7996c7",
+  "workspace_base": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace",
+  "client_cwd": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050",
+  "status": "INITIALIZED",
+  "priority": "P1",
+  "phases": [
+    {
+      "id": "phase-defa71ef",
+      "order": 1,
+      "name": "Content Analysis & Extraction",
+      "description": "Analyze all 11 extracted PDF text files to understand course structure, topics, and key concepts for each week",
+      "deliverables": [
+        "Complete mapping of 11 weeks to corresponding PDF files and date ranges",
+        "Extracted key concepts, definitions, and theories from each lecture",
+        "Identified learning objectives and critical topics per week",
+        "Course structure document (assessment: 2 midterms 30% each, final 40%)"
+      ],
+      "success_criteria": [
+        "All 11 PDF text files read and analyzed",
+        "Week-to-topic mapping matches actual course schedule",
+        "Key concepts list contains 10-20 items per lecture topic",
+        "Learning objectives identified for each week"
+      ],
+      "status": "ACTIVE",
+      "created_at": "2026-01-13T13:27:32.441904",
+      "started_at": "2026-01-13T13:27:32.441915"
+    },
+    {
+      "id": "phase-0540edc5",
+      "order": 2,
+      "name": "Structured Notes Generation",
+      "description": "Create comprehensive, well-structured study notes for each of the 11 weeks in the JSON format matching study-site requirements",
+      "deliverables": [
+        "11 weekly JSON files (week1.json to week11.json) with structured content",
+        "Each week contains: summary, keyTakeaways, detailed content sections",
+        "Content formatted with headings, paragraphs, lists, and callouts",
+        "All psychology concepts explained clearly with examples"
+      ],
+      "success_criteria": [
+        "JSON structure matches existing study-site format (week, dateRange, topics array)",
+        "Each topic has 3-5 keyTakeaways",
+        "Content sections include variety: headings, paragraphs, lists, callouts",
+        "Notes are comprehensive (minimum 10 content sections per topic)",
+        "All technical terms and theories properly explained"
+      ],
+      "status": "PENDING",
+      "created_at": "2026-01-13T13:27:32.441943",
+      "started_at": null
+    },
+    {
+      "id": "phase-c91ef0e0",
+      "order": 3,
+      "name": "Question Bank Generation",
+      "description": "Generate multiple-choice questions (MCQs) for each week's content to test student understanding",
+      "deliverables": [
+        "Minimum 15 MCQs per week (165+ total questions)",
+        "Questions covering different difficulty levels (recall, application, analysis)",
+        "Each question has 4 options with one correct answer",
+        "Questions test key concepts, theories, definitions, and applications"
+      ],
+      "success_criteria": [
+        "At least 15 questions per weekly JSON file",
+        "Questions match the JSON format: question, options array, answer",
+        "Mix of difficulty: 40% recall, 40% application, 20% analysis",
+        "No duplicate questions across weeks",
+        "All questions are clear, unambiguous, and accurate"
+      ],
+      "status": "PENDING",
+      "created_at": "2026-01-13T13:27:32.441953",
+      "started_at": null
+    },
+    {
+      "id": "phase-afcb5da1",
+      "order": 4,
+      "name": "Integration & Validation",
+      "description": "Integrate generated content into study-site, update courseData.json, validate JSON structure, and ensure site functionality",
+      "deliverables": [
+        "Updated courseData.json with PSYC100 course info",
+        "All 11 week JSON files placed in src/data/weeks/",
+        "Removed old GPC 415 content",
+        "Validated JSON syntax (no parsing errors)",
+        "Tested site renders correctly with new content"
+      ],
+      "success_criteria": [
+        "courseData.json updated with PSYC100 title and metadata",
+        "All weekly JSON files validated (valid JSON syntax)",
+        "No references to old GPC 415 course remain",
+        "Dev server starts without errors",
+        "Site navigation shows all 11 weeks correctly"
+      ],
+      "status": "PENDING",
+      "created_at": "2026-01-13T13:27:32.441975",
+      "started_at": null
+    },
+    {
+      "id": "phase-11f42e0b",
+      "order": 5,
+      "name": "Final Testing",
+      "description": "Comprehensive testing of all implemented features. This phase uses chrome-devtools MCP for browser testing, curl for API tests, and runs any existing test suites.",
+      "deliverables": [
+        "All UI features tested via browser automation",
+        "All API endpoints tested via curl/integration tests",
+        "Existing test suites pass (if applicable)",
+        "No critical bugs or regressions found"
+      ],
+      "success_criteria": [
+        "Core user flows work end-to-end",
+        "No console errors during testing",
+        "API responses are correct and performant",
+        "Visual appearance matches expectations"
+      ],
+      "status": "PENDING",
+      "created_at": "2026-01-13T13:27:32.442033",
+      "started_at": null,
+      "auto_appended": true,
+      "tests_deliverables_from": [
+        "Content Analysis & Extraction",
+        "Structured Notes Generation",
+        "Question Bank Generation",
+        "Integration & Validation"
+      ]
+    }
+  ],
+  "current_phase_index": 0,
+  "agents": [],
+  "agent_hierarchy": {
+    "orchestrator": []
+  },
+  "max_agents": 45,
+  "max_depth": 5,
+  "max_concurrent": 20,
+  "total_spawned": 0,
+  "active_count": 0,
+  "completed_count": 0,
+  "reviews": [],
+  "orchestration_guidance": {
+    "min_specialization_depth": 2,
+    "recommended_child_agents_per_parent": 3,
+    "specialization_domains": [],
+    "complexity_score": 11
+  },
+  "spiral_checks": {
+    "enabled": true,
+    "last_check": "2026-01-13T13:27:32.442275",
+    "violations": 0
+  },
+  "task_context": {
+    "background_context": "Study site is a Vite-based React application located in 'study-site/' directory. It uses JSON files to store course content. Current content is for wrong course (GPC 415 Behavior Disorders) and needs complete replacement with PSYC100 General Psychology content. The 11 PSYC100 lecture PDFs have been converted to text files in 'pdf-text-extracted/' directory.",
+    "success_criteria": [
+      "All 11 weeks have complete JSON files with notes and questions",
+      "Study site displays PSYC100 content correctly",
+      "No GPC 415 content remains",
+      "Minimum 165 total MCQ questions generated",
+      "All JSON files have valid syntax"
+    ],
+    "constraints": [
+      "Use ONLY sonnet agents (no opus agents)",
+      "Must match existing JSON structure exactly",
+      "Content must be academically accurate",
+      "Questions must be unambiguous with single correct answer"
+    ],
+    "relevant_files": [
+      "study-site/src/courseData.json",
+      "study-site/src/data/weeks/week1.json",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY INTRODUCTION.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY THEORETICAL APPROACHES.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY LEARNING.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY MOTIVATION.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY MEMORY.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY PERCEPTION.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY SOCIAL PSYCHOLOGY.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY DEVELOPMENTAL PSYCHOLOGY.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY INTELLIGENCE.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY PSYCHOPATHOLOGY.txt",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY TREATMENTS AND THERAPIES.txt"
+    ]
+  }
+}

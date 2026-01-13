@@ -1,0 +1,542 @@
+PSYC100 GENERAL PSYCHOLOGY
+SOCIAL PSYCHOLOGY
+
+Learning Outcomes
+I.
+
+Attributions
+I.
+II.
+III.
+IV.
+
+Naïve scientist theory
+Correspondence inference theory
+Covariation theory
+Errors and biases
+
+II. Conformity and Group Influence
+I.
+II.
+III.
+IV.
+
+Internalization vs Compliance
+Sheriff’s Study
+Asch’s Study
+Informational vs Normative social influence
+
+III. Obedience
+I. Milgram’s experiment
+II. Puppy and nurse studies
+III. Zimbardo’s experiment
+
+WHAT IS AN ATTRIBUTION?
+
+How people explain the causes of behaviour (of
+others and own)
+Two main types:
+
+o Internal (dispositional)
+o External (situational)
+
+INTERNAL VS. EXTERNAL
+
+• Internal attribution – where behaviour is
+explained as due to something inside the person
+e.g. intelligence, personality
+• External attribution – where behaviour is
+explained as due to something outside the
+person
+e.g. Luck, task difficulty
+
+THREE CLASSIC THEORIES
+
+I.
+
+Heider (1958) – The Naïve Scientist
+
+II.
+
+Jones & Davis (1965) – Correspondence
+Inference Theory
+
+III. Kelley (1967, 1973) – Covariation Theory
+
+I - HEIDER NAIVE SCIENTIST THEORY
+Heider & Simmel (1944) hypothesised that:
+
+•People perceive behaviour as being caused
+•People give causal attributions even to inanimate
+objects.
+•Heider (1958) asserted people were naïve/lay scientists
+who used rational processes to explain events.
+
+HEIDER AND SIMMEL (1944)
+College students were asked to describe and interpret the motion of three geometrical figures
+(abstract) moving in and out of a rectangle, a section of which opened and closed like a door.
+https://vimeo.com/36847727
+
+Figures were perceived and systematically interpreted by the participants as persons with
+particular personality traits and expressing particular needs and dispositions (e.g. aggression,
+escape to safety, or rescue).
+
+II - CORRESPONDENCE INFERENCE THEORY
+(JONES & DAVIS, 1965)
+
+We use information about another person’s
+behaviour and its effects to draw a correspondent
+inference, in which the behaviour is attributed to a
+disposition or personality characteristic.
+How do we do this?
+
+CORRESPONDENCE INFERENCE THEORY
+
+Were the effects of someone’s behaviour intended? We are more
+likely to draw a correspondent inference if the behaviour appears
+intentional than when it is unintentional.
+Intention is important: Individual must know the consequences of their
+action and have the ability to carry out the action
+Were the effects of the behaviour socially desirable? We are more
+likely to decide there is a correspondence when the effects of the
+behaviour are socially undesirable.
+For example, if someone is very rude in a social situation, we conclude
+that he/she is an unpleasant person.
+
+III - COVARIATION THEORY (KELLEY, 1967; 1973)
+
+Where we have a number of examples of a person’s behaviour, we
+make judgments of covariation to decide how to attribute cause.
+Consensus in respect of other people behaving in the same way in
+response to the stimulus – how do other people respond to this
+stimulus?
+Distinctiveness of the stimulus in evoking the behaviour – does
+the behaviour generalize to other situations?
+Consistency of the behaviour in the presence of this stimulus – Is
+the person’s response consistent across time?
+
+CONSENSUS
+• The generality of behaviours across others
+• Do other people behave in the same way (i.e. like this
+person) in response to the stimulus (i.e. in similar
+situations) ?
+ High consensus is when other people act like the
+person in question
+ Low consensus is when people act differently than
+the person in question
+
+DISTINCTIVENESS
+• The generality of behaviour across other situations (entities or
+tasks)
+• How does the person act in similar situations ?
+ High distinctiveness is when the behaviour is ‘unique’ to this
+situation – the individual never behaves this way in other
+situations
+ Low distinctiveness is when the behaviour is ‘typical’ of these
+situations – the individual behaves this way in most other
+situations.
+
+CONSISTENCY
+• The generality of behaviour across time
+• How has the person responded previously to the situation? Is the person’s response consistent across time?
+ High consistency when the individual always behaves this
+way in this situation – when the behaviour has been seen
+before
+ Low consistency is when this is a new behaviour – the
+individual never behaves this way in this situation
+
+EXAMPLE OF COVARIATION JUDGEMENT
+
+‘Sarah fails her PSYC100 exam’
+
+• Distinctiveness:
+
+hi = failed only this exam; low = failed other exams.
+
+• Consistency:
+
+hi = failed exams before; low = rarely failed exams before.
+
+• Consensus:
+
+hi = other students failed this exam; low = few other students failed this
+exam.
+
+ATTRIBUTION BIAS AND ERRORS
+
+Fundamental Attribution Error
+False Consensus Effect
+Self-Serving Bias
+Actor-Observer Effect
+
+THE FUNDAMENTAL ATTRIBUTION ERROR
+(ROSS, 1977)
+
+The tendency for people to over-emphasize dispositional, or
+personality-based, explanations for behaviours observed in others
+while under-emphasizing the role and power of situational influences
+on the same behaviour.
+In other words, people tend to have a default assumption that what a
+person does is based more on what "kind" of person he is, rather
+than the social and environmental forces at work on that person.
+
+The Quiz Game Study
+Ross, Amabile & Steinmetz
+(1977)
+
+Three groups of participants:
+Questioners
+Contestants
+Observers
+
+Questioners
+
+Composed 10
+difficult questions
+to ask contestants
+
+Contestants
+
+Answered the
+questions
+
+Observers
+
+Watched the
+interaction
+
+Participants played their role
+ asking questions
+ answering questions
+ observing interaction
+Participants then rated the
+general knowledge of
+questioner and contestant (0100).
+
+Results:
+• Contestants and observers rated questioner significantly more
+knowledgeable than contestants.
+• Behavior attributed to dispositional qualities, NOT to participants’ role in
+study; Overestimating dispositional factors and Underestimating
+situational factors
+Role of Rater
+
+Contestant
+Observer
+Questioner
+
+Rating of Questioner
+
+Rating of Contestant
+
+67
+83
+54
+
+41
+49
+51
+
+JONES & HARRIS (1967) ‘CASTRO STUDY’
+
+Subjects listened to pro- and anti-Fidel Castro speeches and asked to rate the
+pro-Castro attitudes of both.
+When the subjects believed that the speech makers freely chose which position to
+take (for or against Castro), they naturally rated the people who gave the proCastro speeches as having a more positive attitude toward Castro.
+When the subjects were specifically told that the speech makers gave either a
+pro- or an anti-Castro speech solely as the result of a coin flip, the subjects still
+rated the people who gave the pro-Castro speeches as having, on average, a
+more positive attitude towards Castro than those giving anti-Castro speeches.
+
+JONES & HARRIS (1967) ‘CASTRO STUDY’
+
+Thus, even when subjects were aware that the speeches
+made were solely because of the flip of a coin, they
+committed the fundamental attribution error when it
+came to judging the motivation behind pro or anti-Castro
+attitudes of the speech makers.
+
+FALSE CONSENSUS EFFECT (ROSS ET AL. 1977)
+
+ Tendency to see own behaviour as more typical than it actually
+is (tendency to overestimate the degree to which others agree
+with them).
+ Commonly present in a group setting where one thinks the
+collective opinion of their own group matches that of the larger
+population.
+
+ROSS, GREENE & HOUSE (1977)
+
+ Participants asked if they would wear a sign around campus and
+watch reactions of others
+ Told did not have to do it
+ After participants made choice, they rated how many other
+students made the same choice as them.
+
+Results:
+50% said they would wear a sign
+50% said they would not
+Estimate
+Wear sign
+63% would
+37% wouldn’t
+Not wear sign
+23% would
+77% wouldn’t
+Overestimated how many others would behave as they did!
+
+SELF-SERVING BIAS (MILLER & ROSS, 1975)
+
+ This is our tendency to take credit for success (self-enhancing
+bias) and deny any responsibility for failure (self-protective
+bias).
+e.g. “I got 90 for my essay!” vs. “The lecturer gave me 40!”
+ We want to protect / enhance self-esteem
+We make dispositional (internal) attributions for our successes
+and situational (external) attribution for our failures.
+
+THE ACTOR-OBSERVER EFFECT (JONES & NISBETT,
+1972)
+
+Although we tend to attribute others' behaviour to personal or
+dispositional factors, we typically attribute our own behaviour to
+situational factors.
+E.g. you didn't do well on your presentation = you "know" it was
+because you had three other projects due in the same week, your
+computer crashed on you twice etc.
+Someone else gives a bad presentation = that person does not
+know his subject well, perhaps lacks intelligence or is terrible at
+public speaking.
+
+THE ACTOR-OBSERVER EFFECT
+The term specifically refers to a difference in the way people
+explain their own behaviour (when they are in the "actor" role) in
+contrast to the way they explain other people's behaviour (when
+they are in the "observer" role).
+Actors attribute their actions to the demands of the situation. 'I
+couldn't help it; I was forced by events‘ etc.
+Observers tend to attribute the actions of the actor to internal,
+stable, personal dispositions. ‘He or she is bad tempered,
+careless, lazy’ etc.
+
+ACTORS VS. OBSERVERS
+
+Nisbett, Caputo, Legant, & Marecek (1973): Male participants
+asked:
+–“Why did you choose your major?”
+–“Why did your friend choose his major?”
+Actors: “Why did I choose engineering in particular ?”
+Observers: “Why did my friend choose this major?”
+
+proportion of all reasons
+
+Nisbett, Caputo, Legant, & Marecek (1973)
+
+e.g., “My friend
+wants to make lots
+of money.”
+
+reasons
+associated
+with
+reasons
+associated
+with
+
+e.g., “Engineering is a
+high-paying field.”
+
+Social Influence
+Conformity – is a type of social influence involving a change in belief or
+behavior in order to fit in with a group. Two types:
+• Internalization - changing your real thoughts and feelings as a result of
+less direct pressure from others
+• Compliance – agreeing with other people’s opinions and complying with
+their request publicly but not changing your real internal opinions.
+
+Obedience - a form of social influence where an individual acts in response
+to a direct order from another individual, who is usually an authority figure. It
+is assumed that without such an order the person would not have acted in
+this way.
+
+Conformity 1
+
+Sherif’s (1935)
+Autokinetic Effect Experiment
+
+Autokinetic effect – when in total darkness we perceive a
+small stationary bright light as moving.
+How much did the light move when viewed by
+themselves and then in groups of 2 or 3.ambiguous
+task.
+
+Conformity 2
+
+Asch’s (1950s)Lines Experiments
+
+• Control group – 35/37 people judged the correct line –
+unambiguous task
+• Experimental group – judgements out loud
+All but one were confederates (1 + 6)
+The confederates had been prearranged to all give an incorrect
+answer to the tests.
+• 37% of experimental group gave incorrect response
+• Subjects showed extreme discomfort
+• Fear of social disapproval
+• https://www.youtube.com/watch?v=NyDDyT1lDhA
+
+Factors that affect conformity
+– Group size:
+• Conformity increases as group size increases
+– Presence of a dissenter:
+• One person disagreeing with the others greatly reduces
+group conformity
+– Culture:
+• Greater in collectivistic cultures
+
+Explanations of Conformity
+Informational influence – to go with information derived from
+others, rather than from ourselves, because it removes ambiguity in
+the situation (desire to be correct) – Sherif’s study
+Normative influence – The influence of other people that leads us
+to conform in order to be liked and accepted by them; results in
+public compliance with the group’s beliefs and behaviors, but not
+necessarily in private acceptance – Asch’s study
+
+Informational vs. NormativeSocial Influence
+• Informational Social Influence
+– Situation is ambiguous
+– Participant relies on others for information
+– Public response = private acceptance (internalization*)
+• Sherif’s study
+
+• Normative Social Influence
+– Situation is not ambiguous
+– Participant is looking for social approval
+– Public response ≠ private acceptance (compliance*)
+• Asch’s study
+
+Obedience
+
+Obedience to Authority
+
+• Milgram’s shock generator studies
+• The participant and a confederate (an actor pretending to be
+another participant) are told by the experimenter that they will be
+participating in an experiment to test “the effects of punishment
+on learning behaviour”.
+• Learner or teacher
+• Teacher gives, learner receives electric shock
+
+Milgram’s (1974) Obedience Experiment
+
+The teacher believes that he is actually giving
+shocks to the learner participant. In reality, there
+are NO shocks being given to the learner.
+
+Milgram’s (1974) Obedience Experiment
+
+• After a certain number of level increases, the actor starts to bang
+on the wall that separates him from the teacher. After banging on
+the wall and complaining of his heart condition, the learner gives
+no further response to the questions and no further complaints.
+• It is at this point that many people begin to indicate their desire to
+stop the experiment and check on the subject but they are told by
+the experimenter to continue – and they do!
+
+Milgram’s (1974) Obedience Experiment
+
+• Before the experiment Milgram asked to fellow psychologists –
+only sadists would give the maximum voltage.
+• However, 65% (26 out of 40) of experimental participants
+administered the experiment's final 450-volt shock, though many
+were quite uncomfortable in doing so. No participant stopped
+before the 300-volt level (average 360-volt).
+
+Milgram’s (1974) Obedience Experiment
+
+Shock Level
+(Volts)
+
+Number
+of participants
+
+%
+
+300
+
+5
+
+12.5
+
+315
+
+4
+
+10.0
+
+330
+
+2
+
+5.0
+
+345
+
+1
+
+2.5
+
+360
+
+1
+
+2.5
+
+375
+
+1
+
+2.5
+
+450
+
+26
+
+65.0
+
+…
+Less artificial studies:
+• Hofling et al (1966) - nurses were asked to give potentially lethal
+injections to patients, and in spite of official guidelines forbidding
+administration in such circumstances, 21 out of 22 appeared
+prepared to do it.
+
+• The study had high levels of ecological validity, due to the fact it was conducted in a real
+life environment.
+
+• Sheridan and King (1972) - people were asked to give real (but
+small) electric shocks to a puppy (for a learning task). The
+participants obeyed even though they could see the distress of the
+animal.
+
+• Zimbardo’s Standford Prison experiment (1973) - . The
+SPE demonstrates aspects of conformity, obedience, and,
+most significantly, the power of social situations on
+people’s behaviour.
+• Guards quickly became authoritarian, enforcing harsh
+rules and humiliating prisoners (e.g., stripping, delousing,
+sleep deprivation). Prisoners showed passive submission,
+anxiety, and rebellion. The 2-week plan ended after 6
+days due to ethical concerns over escalating abuse and
+emotional breakdowns.
+
+Lecture summary
+
+• Attribution theories and errors/biases.
+• Asch and Sheriff studies; internalization and compliance;
+informational and normative social influence
+• Milgram’s obedience study
+• Zimbardo’s prison experiment.
+
+

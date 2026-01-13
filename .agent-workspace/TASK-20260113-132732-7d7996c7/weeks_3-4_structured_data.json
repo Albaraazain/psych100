@@ -1,0 +1,334 @@
+{
+  "week3": {
+    "week": "Week 03",
+    "dateRange": "13 October - 19 October",
+    "topic": "Learning",
+    "learningOutcomes": [
+      "What is learning?",
+      "Behaviourist approaches",
+      "Classical conditioning",
+      "Operant conditioning",
+      "Cognitive approaches",
+      "Tolman's cognitive behaviourism",
+      "Kohler's insight learning"
+    ],
+    "keyConcepts": [
+      {
+        "id": "learning-definition",
+        "term": "Learning",
+        "definition": "A relatively permanent change in behaviour, knowledge, capability, or attitude that occurs as a result of experience (Ormrod, 2016)",
+        "exclusions": ["maturation", "fatigue", "temporary states"],
+        "importance": "fundamental"
+      },
+      {
+        "id": "classical-conditioning",
+        "term": "Classical Conditioning",
+        "theorist": "Ivan Pavlov",
+        "components": {
+          "UCS": "Unconditioned Stimulus - naturally produces response",
+          "UCR": "Unconditioned Response - automatic reflex",
+          "CS": "Conditioned Stimulus - produces response after conditioning",
+          "CR": "Conditioned Response - learned response to CS"
+        },
+        "principles": ["Generalization", "Discrimination", "Extinction", "Spontaneous Recovery"],
+        "importance": "fundamental"
+      },
+      {
+        "id": "little-albert-peter",
+        "term": "Little Albert & Little Peter Studies",
+        "studies": {
+          "Little Albert": {
+            "researchers": "Watson & Rayner (1920)",
+            "purpose": "Demonstrating fear conditioning",
+            "result": "Baby conditioned to fear white rat"
+          },
+          "Little Peter": {
+            "researchers": "Jones (1924)",
+            "purpose": "Demonstrating fear unconditioning",
+            "method": "Systematic desensitization with gradual exposure",
+            "subject": "2 years 10 months old, feared furry animals",
+            "result": "Successfully reduced fear through positive associations"
+          }
+        },
+        "application": "Exposure therapy/systematic desensitization",
+        "importance": "high"
+      },
+      {
+        "id": "law-of-effect",
+        "term": "Law of Effect",
+        "theorist": "Edward Thorndike",
+        "definition": "Behaviours followed by satisfying consequences more likely repeated; behaviours followed by unsatisfying consequences less likely to occur",
+        "experiment": "Puzzle box with cats",
+        "importance": "fundamental"
+      },
+      {
+        "id": "operant-conditioning",
+        "term": "Operant Conditioning",
+        "theorist": "B.F. Skinner",
+        "experiment": "Skinner box with rats",
+        "types": {
+          "Positive Reinforcement": "Adding pleasant stimulus (e.g., bonus for sales target)",
+          "Negative Reinforcement": "Removing unpleasant stimulus (e.g., seatbelt stops beep)",
+          "Positive Punishment": "Adding unpleasant stimulus (e.g., extra chores for curfew break)",
+          "Negative Punishment": "Removing pleasant stimulus (e.g., speeding ticket fine)"
+        },
+        "keyFinding": "Behaviour shaped by reinforcement and punishment",
+        "importance": "fundamental"
+      },
+      {
+        "id": "cc-vs-oc",
+        "term": "Classical vs Operant Conditioning Comparison",
+        "differences": {
+          "Learning type": {
+            "CC": "Involuntary",
+            "OC": "Voluntary"
+          },
+          "Response likelihood": {
+            "CC": "Stimulus guaranteed to produce response",
+            "OC": "Depends on past consequences"
+          },
+          "Reinforcer timing": {
+            "CC": "Presented before response, regardless of behavior",
+            "OC": "Presented after behavior, only if specific behavior emitted"
+          }
+        },
+        "similarity": "Both are associative learning",
+        "importance": "high"
+      },
+      {
+        "id": "preparedness",
+        "term": "Preparedness",
+        "theorist": "Seligman (1970)",
+        "definition": "Animals biologically prepared to learn actions related to species survival with little training",
+        "contrast": "Contraprepared behaviours contrary to natural tendencies, learned with great difficulty",
+        "evidence": {
+          "animals": "Mineka (1980s) - rhesus monkeys quickly learned snake fears after 1-2 exposures",
+          "humans": "Ohman et al. (1975) - humans easily conditioned to fear spiders/snakes, not flowers/houses"
+        },
+        "examples": ["Fear of heights", "Fear of dark", "Fear of snakes/spiders"],
+        "importance": "high"
+      },
+      {
+        "id": "latent-learning",
+        "term": "Latent Learning",
+        "theorist": "Edward Tolman",
+        "definition": "Learning occurs without immediate reinforcement, expressed later when reinforcer introduced",
+        "experiment": "Maze experiments with rats (1930s)",
+        "concept": "Cognitive maps - mental representations of environment",
+        "significance": "Challenges strict behaviorist view that immediate reinforcement necessary",
+        "importance": "high"
+      },
+      {
+        "id": "insight-learning",
+        "term": "Insight Learning",
+        "theorist": "Wolfgang Kohler (1925)",
+        "definition": "Sudden perception of useful relationship that helps solve problem",
+        "subjects": "Chimpanzees",
+        "characteristic": "Not trial-and-error, but sudden understanding",
+        "importance": "medium"
+      },
+      {
+        "id": "learned-helplessness",
+        "term": "Learned Helplessness",
+        "theorist": "Martin Seligman (1960s)",
+        "definition": "Condition where individual/animal develops belief they cannot influence outcomes after repeated uncontrollable negative events, leading to passivity",
+        "connections": {
+          "Classical Conditioning": "Associating aversive stimulus with lack of control",
+          "Operant Conditioning": "Learning that actions have no effect reduces future attempts",
+          "Cognitive Learning": "Perception of powerlessness shapes expectations"
+        },
+        "importance": "medium"
+      },
+      {
+        "id": "social-learning-theory",
+        "term": "Social Learning Theory",
+        "theorist": "Albert Bandura (1977)",
+        "focus": "Observational learning (modeling)",
+        "keyPoint": "Cognitive factors crucial",
+        "famousStudy": "Bobo doll experiment",
+        "importance": "medium"
+      }
+    ],
+    "majorTheorists": ["Pavlov", "Watson", "Thorndike", "Skinner", "Tolman", "Kohler", "Bandura", "Seligman"],
+    "studiesCount": 13,
+    "quizTopicsRecommended": 16
+  },
+  "week4": {
+    "week": "Week 04",
+    "dateRange": "20 October - 26 October",
+    "topic": "Motivation",
+    "learningOutcomes": [
+      "What is motivation?",
+      "Motivation theories",
+      "Drive theory",
+      "Instinct theory",
+      "Arousal theory",
+      "Expectancy-value theory",
+      "Intrinsic-extrinsic motivation",
+      "Achievement motivation"
+    ],
+    "keyConcepts": [
+      {
+        "id": "motivation-definition",
+        "term": "Motivation",
+        "definitions": [
+          {
+            "source": "Geen (1995)",
+            "text": "Processes involved in the initiation, direction, and energization of individual behaviour"
+          },
+          {
+            "source": "Miller (1962)",
+            "text": "Study of all those pushes and prods – biological, social and psychological – that defeat our laziness and move us to action"
+          }
+        ],
+        "categories": {
+          "source": "Rubin & McNeil (1983)",
+          "types": ["Survival/physiological motives", "Competence/cognitive motives", "Social motives"]
+        },
+        "importance": "fundamental"
+      },
+      {
+        "id": "drive-theory",
+        "term": "Drive Theory",
+        "theorist": "Clark Hull (1943)",
+        "basedOn": "Homeostasis - natural tendency to keep body in equilibrium",
+        "definition": "Physiological disruptions to homeostasis produce drives (internal tensions motivating organism to reduce tension)",
+        "examples": ["Thirst", "Hunger"],
+        "evaluation": {
+          "strengths": ["Explains basic biological drives"],
+          "limitations": ["Reductionist", "Doesn't explain dieting", "People eat when not hungry", "Ignores social factors"]
+        },
+        "importance": "fundamental"
+      },
+      {
+        "id": "instinct-theory",
+        "term": "Instinct Theory",
+        "definition": "Instincts are automatic, involuntary, unlearned patterns of behaviour triggered by particular stimuli",
+        "examples": ["Baby crying (survival)", "Coughing", "Blinking"],
+        "evolutionary": {
+          "theorist": "Buss (1999)",
+          "concept": "Desire to pass on genes motivates love, relationships, attraction, marriage"
+        },
+        "evaluation": {
+          "limitations": ["Ignores learning and environment", "Doesn't account for individual differences", "Empirical testing difficult", "Reductionist"]
+        },
+        "importance": "high"
+      },
+      {
+        "id": "arousal-theory",
+        "term": "Arousal Theory",
+        "concept": "People take actions to decrease or increase arousal levels",
+        "optimalArousal": "Motivated to maintain optimal level (varies by individual/situation)",
+        "examples": {
+          "lowArousal": ["Watch exciting movie", "Go for jog"],
+          "highArousal": ["Meditate", "Read book"],
+          "highArousalSeeking": ["Parachute jumping"]
+        },
+        "learningComponent": "We learn what keeps our arousal at optimum level",
+        "evaluation": {
+          "limitations": ["Neglects emotional and social motivators", "Empirical testing challenges", "Reductionist"]
+        },
+        "importance": "high"
+      },
+      {
+        "id": "expectancy-value-theory",
+        "term": "Expectancy-Value Theory",
+        "theorists": "Brehm & Self (1989)",
+        "formula": "Motivation = Expectancy × Incentive Value",
+        "definition": "Goal-directed behavior jointly determined by expectation that behaviors will lead to goal and incentive value placed on goal",
+        "example": {
+          "scenario": "College student preparing for midterm",
+          "highExpectancy": "Consistently scored high on practice quizzes",
+          "highValue": "Exam worth 30% of grade, aims for postgraduate program",
+          "result": "Motivated to study hard"
+        },
+        "evaluation": {
+          "limitations": ["Based on subjective experiences", "External influences not accounted", "Overemphasis on rationality", "Cultural/social variability"]
+        },
+        "importance": "high"
+      },
+      {
+        "id": "intrinsic-extrinsic",
+        "term": "Intrinsic vs Extrinsic Motivation",
+        "definitions": {
+          "Extrinsic": "Performing activity to obtain external reward or avoid punishment",
+          "Intrinsic": "Performing activity for its own sake - enjoyable or challenging"
+        },
+        "examples": {
+          "Intrinsic": "Student enrolls in creative writing because they love storytelling, not required for major",
+          "Extrinsic": "Student enrolls in creative writing because it's easy and will get good grade"
+        },
+        "evaluation": {
+          "limitations": ["Over-simplification", "Individual differences (personality, culture)", "Contextual factors (financial stress)"]
+        },
+        "importance": "high"
+      },
+      {
+        "id": "achievement-motivation",
+        "term": "Achievement Motivation",
+        "theorists": "McClelland & Atkinson (1953)",
+        "concept": "Need for achievement",
+        "components": [
+          "Positively oriented motive for success",
+          "Negatively oriented motivation to avoid failure (fear of failure)"
+        ],
+        "measurement": {
+          "method": "TAT (Thematic Apperception Test)",
+          "description": "Projective test - individuals shown ambiguous pictures, create stories",
+          "developers": "David McClelland and John Atkinson"
+        },
+        "evaluation": {
+          "limitations": ["TAT is subjective", "Relies on trained scorers (variability)", "Measures unconscious motives (may not align with behavior)", "Cultural differences affect interpretation"]
+        },
+        "importance": "high"
+      }
+    ],
+    "theoriesComparison": {
+      "Drive Theory": {
+        "focus": "Biological needs",
+        "strength": "Explains hunger/thirst",
+        "limitation": "Reductionist"
+      },
+      "Instinct Theory": {
+        "focus": "Innate patterns",
+        "strength": "Explains universal behaviors",
+        "limitation": "Ignores learning"
+      },
+      "Arousal Theory": {
+        "focus": "Optimal stimulation",
+        "strength": "Explains thrill-seeking",
+        "limitation": "Neglects emotional factors"
+      },
+      "Expectancy-Value": {
+        "focus": "Cognitive calculation",
+        "strength": "Explains goal-directed behavior",
+        "limitation": "Overemphasizes rationality"
+      },
+      "Intrinsic-Extrinsic": {
+        "focus": "Source of motivation",
+        "strength": "Distinguishes internal/external",
+        "limitation": "Oversimplifies"
+      },
+      "Achievement": {
+        "focus": "Success/failure orientation",
+        "strength": "Explains achievement behavior",
+        "limitation": "TAT subjectivity"
+      }
+    },
+    "majorTheorists": ["Hull", "Buss", "Bandura", "McClelland", "Atkinson", "Geen", "Miller", "Rubin", "McNeil"],
+    "theoriesCount": 6,
+    "quizTopicsRecommended": 17
+  },
+  "metaInformation": {
+    "extractedFrom": [
+      "PSYC100 GENERAL PSYCHOLOGY LEARNING.txt",
+      "PSYC100 GENERAL PSYCHOLOGY MOTIVATION.txt"
+    ],
+    "analysisDate": "2026-01-13",
+    "totalConcepts": 18,
+    "totalTheorists": 16,
+    "totalStudies": 17,
+    "structureMatchesExisting": true,
+    "readyForJSONGeneration": true
+  }
+}

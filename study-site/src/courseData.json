@@ -1,0 +1,97 @@
+{
+  "course": {
+    "code": "PSYC100",
+    "title": "General Psychology",
+    "instructor": "Dr. Asli Niyazi",
+    "email": "nasli@metu.edu.tr",
+    "semester": "2025-2026 Fall",
+    "description": "An introduction to the scientific study of the mind, brain, and behavior. This course covers foundational concepts in psychology including theoretical approaches, learning, motivation, memory, perception, social psychology, developmental psychology, intelligence, psychopathology, and treatments."
+  },
+  "assessment": {
+    "midterm1": {
+      "weight": "30%",
+      "week": 7,
+      "coverage": "Weeks 1-6",
+      "format": "MCQs"
+    },
+    "midterm2": {
+      "weight": "30%",
+      "week": 12,
+      "coverage": "Weeks 8-11",
+      "format": "MCQs"
+    },
+    "final": {
+      "weight": "40%",
+      "coverage": "All weeks",
+      "format": "MCQs"
+    }
+  },
+  "weeks": [
+    {
+      "week": 1,
+      "dateRange": "29 September - 5 October",
+      "title": "What is Psychology?",
+      "file": "week1.json"
+    },
+    {
+      "week": 2,
+      "dateRange": "6 October - 12 October",
+      "title": "Theoretical Approaches",
+      "file": "week2.json"
+    },
+    {
+      "week": 3,
+      "dateRange": "13 October - 19 October",
+      "title": "Learning",
+      "file": "week3.json"
+    },
+    {
+      "week": 4,
+      "dateRange": "20 October - 26 October",
+      "title": "Motivation",
+      "file": "week4.json"
+    },
+    {
+      "week": 5,
+      "dateRange": "3 November - 9 November",
+      "title": "Memory",
+      "file": "week5.json"
+    },
+    {
+      "week": 6,
+      "dateRange": "10 November - 16 November",
+      "title": "Perception",
+      "file": "week6.json"
+    },
+    {
+      "week": 7,
+      "dateRange": "17 November - 23 November",
+      "title": "Social Psychology",
+      "file": "week7.json"
+    },
+    {
+      "week": 8,
+      "dateRange": "24 November - 30 November",
+      "title": "Developmental Psychology",
+      "file": "week8.json"
+    },
+    {
+      "week": 9,
+      "dateRange": "1 December - 7 December",
+      "title": "Intelligence",
+      "file": "week9.json"
+    },
+    {
+      "week": 10,
+      "dateRange": "22 December - 28 December",
+      "title": "Psychopathology",
+      "file": "week10.json"
+    },
+    {
+      "week": 11,
+      "dateRange": "29 December - 4 January",
+      "title": "Treatments and Therapies",
+      "file": "week11.json"
+    }
+  ]
+}

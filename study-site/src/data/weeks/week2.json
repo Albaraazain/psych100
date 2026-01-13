@@ -1,0 +1,590 @@
+{
+  "week": "Week 02",
+  "dateRange": "6 October - 12 October",
+  "topics": [
+    {
+      "id": "theoretical-approaches",
+      "title": "Theoretical Approaches to Psychology",
+      "subtitle": "Understanding Different Perspectives on Human Behavior",
+      "summary": "Exploration of six major theoretical approaches in psychology: Biopsychological, Behaviorist, Psychodynamic, Humanistic, Cognitive, and Evolutionary. Each approach offers a unique lens for understanding human behavior, with distinct assumptions, methods, and applications.",
+      "keyTakeaways": [
+        "Different theoretical approaches are based on different models of the nature of human beings, from deterministic to emphasizing free will.",
+        "The Biopsychological approach emphasizes how brain, nervous system, hormones, and genetics influence behavior, using twin and adoption studies.",
+        "The Behaviorist approach stresses environmental influences through classical and operant conditioning, focusing on observable behavior.",
+        "The Psychodynamic approach (Freud) emphasizes unconscious forces, infantile sexuality, and early experience.",
+        "The Humanistic approach believes in free will and emphasizes positive aspects of human development and self-actualization.",
+        "The Cognitive approach views the mind as an information-processing system and focuses on mental processes like memory and thinking.",
+        "The Evolutionary approach explains mental and behavioral traits as adaptations shaped by natural selection."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "I. The Biopsychological Approach"
+        },
+        {
+          "type": "paragraph",
+          "text": "The biopsychological approach emphasizes that psychological phenomena are rooted in biological processes. To understand why we feel anxious, learn a new skill, or even fall in love, we must look at the brain, nervous system, genetics, and endocrine system. This approach examines how biology impacts behavior through the study of brain structures, neurotransmitters, hormones, and genetic inheritance."
+        },
+        {
+          "type": "list",
+          "title": "Biological Influences on Behavior - Examples",
+          "items": [
+            "Schizophrenia: Linked to excess dopamine levels in the brain",
+            "Depression: Associated with low serotonin levels",
+            "Addiction: Involves dopamine reward pathways",
+            "Extroversion: Related to low arousal levels in the nervous system",
+            "Aggression: Influenced by testosterone levels"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Behavior Genetics"
+        },
+        {
+          "type": "paragraph",
+          "text": "Behavior genetics examines the impact of biology on behavior, specifically how the brain, nervous system, hormones, and genetics influence our actions. It attempts to quantify how much of the variability in any given trait can be attributed to three factors: genetic differences, shared environments (experiences common to family members), and non-shared environments (unique individual experiences)."
+        },
+        {
+          "type": "list",
+          "title": "Research Methods in Behavior Genetics",
+          "items": [
+            "Twin Studies: Compare identical (MZ) twins who share 100% DNA with fraternal (DZ) twins who share 50% DNA",
+            "Adoption Studies: Examine individuals raised by non-biological parents to separate genetic from environmental influences",
+            "Concordance Rates: Measure similarity in traits between twins to estimate heritability"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Twin Studies Methodology",
+          "text": "Twin studies compare monozygotic (MZ) twins who share nearly 100% of their DNA with dizygotic (DZ) twins who share about 50%. If MZ twins are more similar for a trait than DZ twins, genetics likely plays a stronger role. The equal environments assumption posits that both twin types experience similar environmental influences, allowing differences to be attributed to genetics."
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Criticisms of Biopsychological Approach",
+          "text": "Reductionism: Oversimplifies complex behaviors to biology, ignoring culture or environment. Ethical Concerns: Animal testing and genetic editing raise moral issues. Determinism: Suggests biology determines everything, though neuroplasticity shows change is possible."
+        },
+        {
+          "type": "heading",
+          "text": "II. The Behaviorist Approach"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Behaviorist approach focuses exclusively on observable behavior and the role of environmental influences, particularly through learning processes. Founded by John Watson and expanded by B.F. Skinner, behaviorism rejects studying internal mental states as unscientific and instead emphasizes how behavior is learned through interactions with the environment."
+        },
+        {
+          "type": "list",
+          "title": "Two Types of Conditioning",
+          "items": [
+            "Classical Conditioning (Pavlov): A learning process where a neutral stimulus becomes associated with an unconditioned stimulus to elicit a conditioned response. Example: Pavlov's dogs salivating to a bell",
+            "Operant Conditioning (Skinner): Focuses on voluntary behaviors and how their outcomes (consequences) influence whether they're repeated. Uses reinforcement and punishment to shape behavior"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Key Components of Operant Conditioning",
+          "items": [
+            "Positive Reinforcement: Adding a pleasant stimulus to increase behavior (reward)",
+            "Negative Reinforcement: Removing an unpleasant stimulus to increase behavior",
+            "Positive Punishment: Adding an unpleasant stimulus to decrease behavior",
+            "Negative Punishment: Removing a pleasant stimulus to decrease behavior"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Seven Key Assumptions of Behaviorism",
+          "items": [
+            "Behavior is Learned: All behaviors are acquired through environmental interactions via conditioning",
+            "Observable Behavior is the Focus: Only measurable, observable behaviors are studied; internal mental states are irrelevant",
+            "Environmental Determinism: Behavior is determined by external stimuli and reinforcements, not free will",
+            "Conditioning Drives Learning: Either through classical or operant conditioning",
+            "Tabula Rasa (Blank Slate): Humans start as blank slates shaped entirely by experience",
+            "Generalization Across Species: Principles apply universally to humans and animals",
+            "Predictability and Control: Behavior can be predicted and controlled by manipulating environmental stimuli"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Criticisms of Behaviorism",
+          "text": "Overemphasis on observable behavior while neglecting cognitive processes. Neglect of innate factors and biological predispositions. Overreliance on animal studies that may not fully apply to humans. Deterministic view that denies human agency. Ethical concerns about manipulation and control. Failure to address individual differences."
+        },
+        {
+          "type": "heading",
+          "text": "III. The Psychodynamic Approach"
+        },
+        {
+          "type": "paragraph",
+          "text": "While Freud's psychoanalytic theory was the original psychodynamic theory, other psychodynamic theories include those of Jung (1964), Adler (1927), and Erikson (1950). Because of his enormous influence, Freud is the primary focus. The psychodynamic approach emphasizes unconscious forces, early childhood experiences, and internal conflicts as determinants of behavior."
+        },
+        {
+          "type": "list",
+          "title": "Key Concepts in Freudian Theory",
+          "items": [
+            "Levels of Mind: Pre-conscious, Conscious, and Unconscious (where repressed memories and desires reside)",
+            "Personality Structure: Id (pleasure principle), Ego (reality principle), Superego (morality principle)",
+            "Psychosexual Stages: Oral, Anal, Phallic, Latency, Genital - developmental stages where fixation can occur",
+            "Defense Mechanisms: Unconscious strategies the ego uses to protect against anxiety (e.g., repression, projection, denial)"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Personality Components",
+          "text": "Id operates on the pleasure principle, seeking immediate gratification. Ego operates on the reality principle, mediating between id and superego. Superego operates on the morality principle, representing internalized societal and parental standards."
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Criticisms of Psychodynamic Approach",
+          "text": "Lack of empirical evidence and unfalsifiable concepts. Overemphasis on sexuality. Gender bias in theories. Neglect of social and cultural influences on behavior."
+        },
+        {
+          "type": "heading",
+          "text": "IV. The Humanistic Perspective"
+        },
+        {
+          "type": "paragraph",
+          "text": "Both the Psychoanalytic and Behaviourist approaches are deterministic: people are driven by forces beyond their control, either unconscious forces from within (Freud) or reinforcements from outside (Skinner). Humanistic Psychologists believe in people's ability to choose how they act. This approach emphasizes individual potential, personal growth, self-actualization, and subjective experience."
+        },
+        {
+          "type": "list",
+          "title": "Key Theorists and Concepts",
+          "items": [
+            "Abraham Maslow: Needs hierarchy, self-actualization as pinnacle of human motivation, positive growth orientation",
+            "Carl Rogers: Self-concept, unconditional positive regard, conditions of worth, fully functioning person"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Comparison of Maslow and Rogers",
+          "items": [
+            "Similarities: Both focused on self-actualization, positive view of humanity, holistic approach, emphasis on subjective experience",
+            "Key Difference: Maslow proposed a structured hierarchy of needs with clear stages; Rogers focused on a more fluid actualizing tendency without a rigid sequence"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Rogers' Core Concept",
+          "text": "Rogers emphasized congruence between perceived self and actual self as essential for psychological health. When these align, the individual can become a fully functioning person."
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Criticisms of Humanistic Approach",
+          "text": "Concepts are difficult to test empirically. Overly optimistic view of human nature. Overemphasis on subjective experiences at the expense of objective measurement."
+        },
+        {
+          "type": "heading",
+          "text": "V. The Cognitive Approach"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cognitive Psychology doesn't have a unifying theory and, unlike other 'brands' of psychology, it lacks an acknowledged founding figure like Watson, Freud, or Rogers. It focuses on mental processes such as perception, memory, thinking, problem-solving, and decision-making. It views the mind as an information-processing system, akin to a computer, and emphasizes how people actively interpret and make sense of their experiences."
+        },
+        {
+          "type": "list",
+          "title": "Key Theories, Models and Applications",
+          "items": [
+            "Memory Models: Atkinson and Shiffrin's multi-store model, Baddeley's working memory model",
+            "Cognitive Development: Piaget's stages of cognitive development",
+            "Cognitive Behavioral Therapy (CBT): Beck's approach to treating depression",
+            "Rational Emotive Behavior Therapy (REBT): Ellis's approach",
+            "Artificial Intelligence: Computer models of human cognition",
+            "Cognitive Maps: Tolman's research on mental representations"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Criticisms of Cognitive Approach",
+          "text": "Overemphasis on mental processes while neglecting emotions and motivation. The mind-as-computer metaphor oversimplifies human cognition, ignoring creativity, intuition, and subjective experiences. Can be reductionist in breaking down complex thoughts into component processes."
+        },
+        {
+          "type": "heading",
+          "text": "VI. The Evolutionary Approach"
+        },
+        {
+          "type": "paragraph",
+          "text": "Evolutionary psychology is a theoretical approach that explains human mental and behavioral traits as adaptations shaped by natural selection to address survival and reproductive challenges in ancestral environments. It integrates principles from evolutionary biology, cognitive psychology, and anthropology, positing that the human mind consists of specialized cognitive mechanisms, or 'modules,' designed to solve specific adaptive problems like finding food or selecting mates."
+        },
+        {
+          "type": "list",
+          "title": "Evolutionary Psychology Principles Applied to Human Behavior",
+          "items": [
+            "Mate Preferences and Sexual Selection: Men's preference for physical attractiveness (signals fertility); Women's preference for resources (ensures offspring survival) - Buss, 1989",
+            "Fear of Snakes and Spiders: Innate fears evolved to protect from dangerous threats in ancestral environments - Öhman & Mineka, 2001",
+            "Parental Investment: Mothers show higher investment due to greater reproductive costs; fathers may show conditional investment based on paternity certainty - Bowlby, 1969",
+            "Jealousy as Mate-Retention Strategy: Men more distressed by sexual infidelity; women more concerned about emotional infidelity - Buss et al., 1992"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Universal vs Individual Differences",
+          "text": "Evolutionary psychology focuses on universal features of the mind. Individual differences are viewed as expressions of the same universal human nature encountering different environments. Gender is the crucial exception - natural selection constructed mental modules of men and women differently due to divergent reproductive roles."
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Criticisms of Evolutionary Approach",
+          "text": "Falsifiability concerns - difficult to test evolutionary hypotheses empirically. Reductionism - reduces complex behaviors to evolutionary adaptations. Potential for misinterpretation to justify social inequalities or gender stereotypes."
+        },
+        {
+          "type": "heading",
+          "text": "Summary of Approaches"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each approach offers valuable insights while having limitations. The biopsychological approach quantifies heritability. The behaviorist approach emphasizes environmental learning and prediction/control. The psychodynamic approach highlights unconscious processes and early experience. The humanistic approach celebrates free will and positive growth. The cognitive approach models mental processes as information processing. The evolutionary approach explains behaviors as adaptive mechanisms shaped by natural selection."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Which neurotransmitter is associated with depression according to the biopsychological approach?",
+          "difficulty": "learning",
+          "options": [
+            "Dopamine",
+            "Serotonin",
+            "Acetylcholine",
+            "GABA"
+          ],
+          "answer": "Serotonin",
+          "explanation": {
+            "correct": "According to the biopsychological approach, depression is associated with low serotonin levels in the brain, which has led to the development of SSRI medications.",
+            "incorrect": {
+              "Dopamine": "Dopamine is linked to schizophrenia (excess) and addiction (reward pathways), not primarily depression.",
+              "Acetylcholine": "Acetylcholine is involved in muscle movement and memory, not specifically associated with depression.",
+              "GABA": "GABA is an inhibitory neurotransmitter related to anxiety disorders, not depression specifically."
+            }
+          }
+        },
+        {
+          "question": "What is the concordance rate in twin studies used to measure?",
+          "difficulty": "learning",
+          "options": [
+            "Environmental similarity",
+            "Heritability of a trait",
+            "Age differences between twins",
+            "Educational achievement"
+          ],
+          "answer": "Heritability of a trait",
+          "explanation": {
+            "correct": "Concordance rates measure the similarity in traits between twins, allowing researchers to estimate heritability - how much of trait variation is due to genetics versus environment.",
+            "incorrect": {
+              "Environmental similarity": "While twin studies consider environment, concordance rates specifically measure trait similarity to infer genetic influence, not environmental similarity.",
+              "Age differences between twins": "Concordance rates have nothing to do with age differences; twins are the same age by definition.",
+              "Educational achievement": "Concordance rates can be applied to any trait, not specifically educational achievement."
+            }
+          }
+        },
+        {
+          "question": "In Pavlov's classical conditioning experiments, the bell initially served as what type of stimulus?",
+          "difficulty": "learning",
+          "options": [
+            "Unconditioned stimulus",
+            "Conditioned stimulus",
+            "Neutral stimulus",
+            "Conditioned response"
+          ],
+          "answer": "Neutral stimulus",
+          "explanation": {
+            "correct": "The bell initially was a neutral stimulus because it did not naturally cause salivation. Only after repeated pairing with food (UCS) did the bell become a conditioned stimulus (CS) that could elicit salivation.",
+            "incorrect": {
+              "Unconditioned stimulus": "The unconditioned stimulus (UCS) was the food, which naturally caused salivation without any learning.",
+              "Conditioned stimulus": "The bell became a conditioned stimulus only AFTER learning occurred through pairing with food.",
+              "Conditioned response": "A response is a behavior (salivation), not a stimulus. The bell was a stimulus."
+            }
+          }
+        },
+        {
+          "question": "Which component of Freud's personality structure operates on the reality principle?",
+          "difficulty": "learning",
+          "options": [
+            "Id",
+            "Ego",
+            "Superego",
+            "Unconscious"
+          ],
+          "answer": "Ego",
+          "explanation": {
+            "correct": "The ego operates on the reality principle, mediating between the id's desires and the superego's moral standards while considering real-world constraints and consequences.",
+            "incorrect": {
+              "Id": "The id operates on the pleasure principle, seeking immediate gratification without considering reality or morality.",
+              "Superego": "The superego operates on the morality principle, representing internalized societal and parental standards of right and wrong.",
+              "Unconscious": "The unconscious is a level of mind, not a personality structure. It contains repressed memories and desires but doesn't operate on any particular principle."
+            }
+          }
+        },
+        {
+          "question": "What did Abraham Maslow identify as the pinnacle of his needs hierarchy?",
+          "difficulty": "learning",
+          "options": [
+            "Safety needs",
+            "Belongingness needs",
+            "Esteem needs",
+            "Self-actualization"
+          ],
+          "answer": "Self-actualization",
+          "explanation": {
+            "correct": "Maslow identified self-actualization as the highest level in his hierarchy of needs, representing the fulfillment of one's potential and personal growth.",
+            "incorrect": {
+              "Safety needs": "Safety needs are the second level in the hierarchy, above only physiological needs, and represent security and protection.",
+              "Belongingness needs": "Belongingness needs are the third level, representing social connections, love, and acceptance.",
+              "Esteem needs": "Esteem needs are the fourth level, representing respect, recognition, and achievement, but still below self-actualization."
+            }
+          }
+        },
+        {
+          "question": "The cognitive approach compares the mind to which type of system?",
+          "difficulty": "learning",
+          "options": [
+            "Hydraulic system",
+            "Information-processing system/computer",
+            "Chemical reaction system",
+            "Mechanical clock system"
+          ],
+          "answer": "Information-processing system/computer",
+          "explanation": {
+            "correct": "The cognitive approach uses the computer/information-processing metaphor, viewing the mind as a system that encodes, stores, retrieves, and processes information.",
+            "incorrect": {
+              "Hydraulic system": "Freud used hydraulic metaphors for psychic energy, not the cognitive approach.",
+              "Chemical reaction system": "The biopsychological approach might use chemical metaphors for neurotransmitters, not the cognitive approach.",
+              "Mechanical clock system": "Early behaviorists might have used mechanical metaphors, but cognitive psychology specifically adopted computational models."
+            }
+          }
+        },
+        {
+          "question": "According to evolutionary psychology, why might men be more distressed by sexual infidelity than emotional infidelity?",
+          "difficulty": "application",
+          "options": [
+            "Men are less emotional than women",
+            "Sexual infidelity threatens paternity certainty",
+            "Men value physical attractiveness more",
+            "Cultural conditioning only"
+          ],
+          "answer": "Sexual infidelity threatens paternity certainty",
+          "explanation": {
+            "correct": "From an evolutionary perspective, men face paternity uncertainty - they cannot be certain offspring are genetically theirs. Sexual infidelity threatens this certainty and thus their reproductive success, which may have shaped this differential jealousy response.",
+            "incorrect": {
+              "Men are less emotional than women": "This is a stereotype, not an evolutionary explanation. Both genders experience strong emotions; the pattern of jealousy differs, not emotional capacity.",
+              "Men value physical attractiveness more": "While mate preference research shows this, it doesn't explain the jealousy pattern related to infidelity types.",
+              "Cultural conditioning only": "Evolutionary psychology argues this pattern reflects adaptive mechanisms shaped by natural selection, not just cultural learning (though culture plays a role)."
+            }
+          }
+        },
+        {
+          "question": "A therapist removes a fear of dogs by pairing the presence of dogs with relaxation techniques. This is an application of:",
+          "difficulty": "application",
+          "options": [
+            "Operant conditioning",
+            "Classical conditioning",
+            "Psychoanalysis",
+            "Cognitive restructuring"
+          ],
+          "answer": "Classical conditioning",
+          "explanation": {
+            "correct": "This describes systematic desensitization or counterconditioning, based on classical conditioning principles. A new association is created between dogs (CS) and relaxation (replacing the fear response), demonstrating classical conditioning's therapeutic application.",
+            "incorrect": {
+              "Operant conditioning": "Operant conditioning involves consequences (reinforcement/punishment) for voluntary behaviors, not pairing stimuli to change emotional responses.",
+              "Psychoanalysis": "Psychoanalysis explores unconscious conflicts and early experiences, not stimulus-response associations.",
+              "Cognitive restructuring": "While cognitive therapy might address thoughts about dogs, the described technique specifically uses stimulus pairing, which is classical conditioning."
+            }
+          }
+        },
+        {
+          "question": "If identical twins raised apart are more similar for a trait than fraternal twins raised together, what does this suggest?",
+          "difficulty": "application",
+          "options": [
+            "Environment is the primary influence",
+            "Genetics plays a strong role",
+            "Shared environment is crucial",
+            "The trait is not heritable"
+          ],
+          "answer": "Genetics plays a strong role",
+          "explanation": {
+            "correct": "When identical twins (100% DNA) raised in different environments are MORE similar than fraternal twins (50% DNA) raised together, this strongly suggests genetics plays a dominant role, since environmental similarity is greater for the DZ twins.",
+            "incorrect": {
+              "Environment is the primary influence": "If environment were primary, the twins raised together (DZ) should be more similar, but they're not.",
+              "Shared environment is crucial": "This pattern shows shared environment matters less than genetics, since separated MZ twins remain more similar.",
+              "The trait is not heritable": "This is the opposite of what the pattern indicates - high MZ similarity despite separation shows strong heritability."
+            }
+          }
+        },
+        {
+          "question": "A child receives a gold star every time they complete homework, increasing homework completion. This is an example of:",
+          "difficulty": "application",
+          "options": [
+            "Classical conditioning",
+            "Negative reinforcement",
+            "Positive reinforcement",
+            "Negative punishment"
+          ],
+          "answer": "Positive reinforcement",
+          "explanation": {
+            "correct": "Positive reinforcement involves adding a pleasant stimulus (gold star) following a behavior (completing homework) to increase that behavior. This is a classic operant conditioning example.",
+            "incorrect": {
+              "Classical conditioning": "Classical conditioning involves pairing stimuli, not consequences for voluntary behaviors like homework completion.",
+              "Negative reinforcement": "Negative reinforcement removes an unpleasant stimulus to increase behavior - nothing is being removed here.",
+              "Negative punishment": "Negative punishment removes a pleasant stimulus to decrease behavior - but the star is being added, not removed, and behavior is increasing, not decreasing."
+            }
+          }
+        },
+        {
+          "question": "Carl Rogers emphasized that psychological health requires congruence between:",
+          "difficulty": "application",
+          "options": [
+            "Id and ego",
+            "Conscious and unconscious",
+            "Perceived self and actual self",
+            "Nature and nurture"
+          ],
+          "answer": "Perceived self and actual self",
+          "explanation": {
+            "correct": "Rogers believed psychological health requires congruence (alignment) between how we perceive ourselves (self-concept) and who we actually are. When these match, we can become fully functioning persons.",
+            "incorrect": {
+              "Id and ego": "This is Freudian terminology about personality structure, not Rogers' humanistic concepts.",
+              "Conscious and unconscious": "This is psychodynamic language about levels of awareness, not Rogers' focus.",
+              "Nature and nurture": "This refers to the genetics-environment debate, not Rogers' theory about self-concept."
+            }
+          }
+        },
+        {
+          "question": "Which approach is MOST criticized for being deterministic and denying free will?",
+          "difficulty": "tricky",
+          "options": [
+            "Humanistic",
+            "Cognitive",
+            "Behaviorist",
+            "Evolutionary"
+          ],
+          "answer": "Behaviorist",
+          "explanation": {
+            "correct": "Behaviorism is explicitly deterministic, viewing behavior as entirely determined by environmental contingencies and reinforcement history, leaving no room for free will or autonomous choice.",
+            "incorrect": {
+              "Humanistic": "This is the opposite - humanistic psychology strongly emphasizes free will and personal choice as its core principle.",
+              "Cognitive": "While cognitive psychology studies how we process information, it doesn't explicitly deny free will; people actively interpret and choose responses.",
+              "Evolutionary": "While evolutionary psychology explains behavior through adaptations, it's less criticized for denying free will than behaviorism's explicit environmental determinism."
+            }
+          }
+        },
+        {
+          "question": "Why is Freud's psychoanalytic theory criticized as unfalsifiable?",
+          "difficulty": "tricky",
+          "options": [
+            "It has been proven false",
+            "It cannot be tested or disproven",
+            "It is too simple",
+            "It is universally accepted"
+          ],
+          "answer": "It cannot be tested or disproven",
+          "explanation": {
+            "correct": "Unfalsifiable means a theory cannot be empirically tested or potentially disproven. Freud's concepts like the unconscious, repression, and defense mechanisms are difficult or impossible to measure objectively, making them unfalsifiable and thus unscientific by Popper's criteria.",
+            "incorrect": {
+              "It has been proven false": "Unfalsifiable doesn't mean proven false - it means it CANNOT be proven false because it's not testable.",
+              "It is too simple": "Freud's theory is actually criticized for being too complex and speculative, not too simple.",
+              "It is universally accepted": "Freud's theory is controversial and not universally accepted; unfalsifiability is about testability, not acceptance."
+            }
+          }
+        },
+        {
+          "question": "What is the 'tabula rasa' assumption in behaviorism?",
+          "difficulty": "tricky",
+          "options": [
+            "Humans have innate behavioral tendencies",
+            "Humans start as blank slates shaped by experience",
+            "Behavior is predetermined by genetics",
+            "Internal thoughts determine behavior"
+          ],
+          "answer": "Humans start as blank slates shaped by experience",
+          "explanation": {
+            "correct": "Tabula rasa (blank slate) is the behaviorist assumption that humans are born without innate mental content and all knowledge and behavior comes from experience and learning through environmental interactions.",
+            "incorrect": {
+              "Humans have innate behavioral tendencies": "This contradicts tabula rasa - behaviorism explicitly rejects innate tendencies in favor of learned behaviors.",
+              "Behavior is predetermined by genetics": "This is opposite to tabula rasa - behaviorism emphasizes learning and environment over genetic predetermination.",
+              "Internal thoughts determine behavior": "Behaviorism actually rejects focus on internal thoughts, studying only observable behavior shaped by environment."
+            }
+          }
+        },
+        {
+          "question": "The main difference between Maslow and Rogers regarding motivation is:",
+          "difficulty": "tricky",
+          "options": [
+            "Maslow focused on deficiency while Rogers on growth",
+            "Maslow proposed structured hierarchy while Rogers emphasized fluid actualizing tendency",
+            "Rogers rejected self-actualization concept entirely",
+            "Maslow denied the importance of environment"
+          ],
+          "answer": "Maslow proposed structured hierarchy while Rogers emphasized fluid actualizing tendency",
+          "explanation": {
+            "correct": "The key difference is that Maslow proposed a rigid, hierarchical structure of needs with clear stages that must be satisfied sequentially, while Rogers' actualizing tendency is more fluid without a strict sequence.",
+            "incorrect": {
+              "Maslow focused on deficiency while Rogers on growth": "Both actually focused on growth and positive development; this oversimplifies their similarities.",
+              "Rogers rejected self-actualization concept entirely": "False - Rogers strongly embraced self-actualization as central to his theory; both theorists valued it.",
+              "Maslow denied the importance of environment": "False - Maslow recognized environmental factors in need satisfaction; this wasn't their primary difference."
+            }
+          }
+        },
+        {
+          "question": "Which research method separates genetic influences from environmental ones by comparing adopted children to both sets of parents?",
+          "difficulty": "learning",
+          "options": [
+            "Twin studies",
+            "Adoption studies",
+            "Case studies",
+            "Longitudinal studies"
+          ],
+          "answer": "Adoption studies",
+          "explanation": {
+            "correct": "Adoption studies examine adopted children in relation to both biological parents (genetic influence) and adoptive parents (environmental influence), allowing researchers to isolate nature vs nurture effects.",
+            "incorrect": {
+              "Twin studies": "Twin studies compare MZ and DZ twins to estimate heritability but don't involve comparing to adoptive parents.",
+              "Case studies": "Case studies provide in-depth analysis of individuals but don't systematically separate genetic from environmental factors.",
+              "Longitudinal studies": "Longitudinal studies track individuals over time but aren't specifically designed to separate genetic from environmental influences."
+            }
+          }
+        },
+        {
+          "question": "According to behaviorism, which of the following is true about the relationship between humans and animals?",
+          "difficulty": "learning",
+          "options": [
+            "Humans and animals learn through completely different mechanisms",
+            "Animal research cannot inform human behavior",
+            "Principles of conditioning apply universally to both",
+            "Only humans can learn through operant conditioning"
+          ],
+          "answer": "Principles of conditioning apply universally to both",
+          "explanation": {
+            "correct": "Behaviorism assumes generalization across species - that the same principles of learning (classical and operant conditioning) apply universally to both humans and animals, which is why animal studies are considered valid for understanding human behavior.",
+            "incorrect": {
+              "Humans and animals learn through completely different mechanisms": "This contradicts behaviorism's core assumption of universal learning principles across species.",
+              "Animal research cannot inform human behavior": "This is opposite to behaviorism's view - animal studies (Pavlov's dogs, Skinner's rats) are used specifically to understand human learning.",
+              "Only humans can learn through operant conditioning": "False - operant conditioning was demonstrated extensively in animals (Skinner's pigeons and rats) and applied to humans."
+            }
+          }
+        },
+        {
+          "question": "In evolutionary psychology, what are 'modules'?",
+          "difficulty": "learning",
+          "options": [
+            "Learning strategies",
+            "Specialized cognitive mechanisms for solving adaptive problems",
+            "Social groups",
+            "Environmental factors"
+          ],
+          "answer": "Specialized cognitive mechanisms for solving adaptive problems",
+          "explanation": {
+            "correct": "Evolutionary psychology posits that the human mind consists of specialized cognitive mechanisms or 'modules' designed by natural selection to solve specific adaptive problems like mate selection, food acquisition, or threat detection.",
+            "incorrect": {
+              "Learning strategies": "Modules are not learned strategies but evolved cognitive structures shaped by natural selection.",
+              "Social groups": "Modules are internal cognitive mechanisms, not external social structures.",
+              "Environmental factors": "Modules are biological/cognitive structures in the mind, not environmental influences."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

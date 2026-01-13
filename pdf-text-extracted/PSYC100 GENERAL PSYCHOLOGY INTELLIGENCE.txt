@@ -1,0 +1,327 @@
+PSYC100 GENERAL PSYCHOLOGY
+INTELLIGENCE
+
+LEARNING OUTCOMES
+
+
+Defining intelligence
+
+
+
+Theories of intelligence
+
+
+
+
+
+Two-factor theory of Spearman
+
+
+
+Fluid and Crystallized Intelligence theory of Cattell
+
+
+
+Sternberg’s theory
+
+
+
+Gardner’s theory
+
+Intelligence testing
+
+
+Standford-Binet test
+
+
+
+Wechsler tests
+
+
+
+Raven’s progressive matrices
+
+
+
+Gender differences in IQ
+
+
+
+Racial differences in IQ
+
+
+
+The Flynn Effect
+
+WHAT IS INTELLIGENCE?
+
+HOW WOULD YOU DEFINE
+INTELLIGENCE?
+
+“A VERY GENERAL MENTAL CAPABILITY THAT INVOLVES
+THE ABILITY TO REASON, PLAN, SOLVE PROBLEMS,
+THINK ABSTRACTLY, COMPREHEND COMPLEX IDEAS,
+LEARN QUICKLY, AND LEARN FROM EXPERIENCE.”
+
+THEORIES OF INTELLIGENCE
+
+
+Spearman’s two-factor theory (1904)
+
+
+All intellectual activities share a
+common underlying factor (g), along
+with specific factors (s) unique to
+each task. So performance on any
+mental task depends on how intelligent
+you are overall (g) plus how skilled you
+are in that specific area (s).
+
+
+
+There is a single general intelligence
+(g) that influences performance on
+every cognitive task.
+
+
+
+There are also many specific abilities
+(s) unique to each task.
+
+THEORIES OF INTELLIGENCE (CONT.)
+ Fluid and Crystallized Intelligence theory of
+
+Cattell (gf-gc theory)
+ Cattell (1963) argue that g can be subdivided
+
+into two major dimensions – fluid and crystallized
+intelligence.
+ Fluid intelligence (gf) - The ability to reason,
+
+think abstractly, and solve novel problems—
+independent of prior knowledge or experience.
+ Crystallized intelligence (gc) - The ability to use
+
+learned knowledge, skills, and experience. It
+grows through education and cultural exposure.
+
+THEORIES OF INTELLIGENCE (CONT.)
+
+ Sternberg’s Theory
+ Three types of intelligences
+
+THEORIES OF INTELLIGENCE (CONT.)
+
+ Gardner’s Theory
+ Eight types of intelligences
+
+INTELLIGENCE TESTING
+
+ Standford-Binet test
+ Wechsler tests
+ Raven’s progressive matrices
+
+THE STANDFORD-BINET TEST
+ In 1904, Binet and Simon were commissioned by the French government to devise a test
+
+which would identify those children who wouldn’t benefit from ordinary schooling because of
+their lower intelligence.
+ The result was the Simon–Binet test (1905), generally accepted as the first INDIVIDUAL
+
+intelligence test.
+ Revisions led to Standford-Binet test
+ 1986 – 4th revision and 2003 – 5th edition
+ Verbal and nonverbal scales are balanced (based on gf-gc theory)
+ Mean 100, SD 15
+ Verbal IQ, nonverbal IQ, full-scale IQ
+
+ARMY ALPHA AND ARMY BETA IQ TESTS
+ These were the very first GROUP intelligence tests in history, developed in
+
+1917–1919 by the U.S. Army to screen and classify over 1.7 million recruits
+during World War I.
+ Army Alpha - Designed for literate recruits (those who could read and write
+
+English well).
+ Army Beta - Designed for illiterate recruits or non-English speakers (mostly
+
+recent immigrants from Southern/Eastern Europe and some African
+Americans).
+
+WECHSLER TESTS
+
+ Balanced verbal and nonverbal scales
+ The most commonly used IQ tests globally
+ Most recent versions:
+ Wechsler Preschool and Primary Scale of Intelligence (WPPSI – IV, 2012) – 2.5 – 6 yrs old
+ Wechsler Intelligence Scale Children (WISC – V, 2014) – 6-16 yrs old
+ Wechsler Adult Intelligence Scale (WAIS-V, 2024) – 16-90 yrs old
+
+RAVEN’S PROGRESSIVE MATRICES
+
+ Raven’s Standard Progressive Matrices (SPM),
+
+Advanced Progressive Matrices (APM), and Colored
+Progressive Matrices (CPM for children) (Raven,
+1938; 1998).
+ Non-verbal
+ Culture-reduced
+
+GENDER DIFFERENCES IN IQ - GENDER
+
+ Most IQ tests have been constructed so that there are no differences in scores between
+
+genders
+ Any difference between genders may only have been negligible (Terman, 1916)
+ Meta-analyses reporting scores for men average 5 IQ points more than women (Irwing &
+Lynn, 2005) have small effect sizes
+
+GENDER DIFFERENCES IN IQ
+ Males better on visuo-spatial tasks (e.g. mental rotation). Mean of male distribution on mental rotation
+
+is almost one standard deviation above that for females (Masters and Sanders, 1993)
+ Constructing models, furniture assembly
+
+ Males also score higher on mechanical reasoning (e.g. Maintainig, repairing, operating equipment)
+
+and quantitative tasks (maths)
+
+ Females perform better than males on a number of verbal tasks, such as synonym generation, and
+
+verbal fluency. Mean of female distribution is between 0.5 and 1.2 standard deviations above that of
+males.
+
+ Females may also perform better than males on some memory tasks.
+
+WHY?
+Biological:
+•Brain size: Males have ~10% larger brains on average, correlating with ~0.3-0.4 IQ points per gram
+(though females have higher neuronal density).
+•Hormones: Prenatal testosterone exposure predicts better spatial skills and male-typical play;
+estrogen supports verbal memory.
+•Evolution: Hunter-gatherer hypothesis posits male spatial edges from navigation/hunting;
+female verbal from social/child-rearing roles (supported by cross-cultural consistency).
+Environmental:
+•Socialization: Girls encouraged in language arts, boys in STEM toys (e.g., LEGO studies show early
+gaps).
+•Education: Gaps narrow in gender-equal societies (e.g., PISA data from Nordic countries), but highend math differences persist.
+•Gender differentiated toys
+
+GENDER DIFFERENCES IN IQ - RACE
+ A number of studies (based in USA) have reported that some racial groups differ in
+
+intelligence
+ Jensen (1969) suggested that white children were more intelligent than black children, and
+Asian children were more intelligent than either. He claimed that such differences were
+largely due to genetic factors
+ Herrnstein and Murray published The Bell Curve (1994), suggesting a difference of one
+standard deviation between mean IQ scores of Blacks (mean = 85) and Whites (mean = 100)
+in USA
+ Herrnstein and Murray further suggested that the differences are genetic in origin
+
+GENDER DIFFERENCES IN IQ - RACE
+ American Psychological Association
+
+assembled a task force to investigate
+Herrnstein and Murray’s findings (see
+handout Neisser et al., 1996)
+
+ Task force agreed that there were
+
+differences between average IQ scores
+of African Americans and white
+Americans, but suggest that differences
+may be due to cultural factors.
+
+WHY?
+
+ Three possible explanations for race difference on IQ scores
+ Test bias
+ Genetics
+ Environment
+
+TEST BIAS
+
+ This explanation posits that IQ tests are not neutral but reflect the cultural knowledge, language, and
+
+experiences of the dominant group (typically White, middle-class Americans), disadvantaging minority groups.
+Differences in scores, therefore, do not measure true intelligence but familiarity with test content.
+
+GENETICS
+
+ This view argues that racial groups have evolved genetic differences in cognitive abilities due to historical
+
+selection pressures (e.g., climate, migration), leading to inherent IQ disparities
+ Race is primarily a social construct, not a biological one; No genes for "intelligence" have been identified that
+
+differ systematically by race.
+ Nisbett, R. E., et al. (2012). "Intelligence: New findings and theoretical developments." American Psychologist,
+
+67(6), 503–504.
+
+ENVIRONMENT
+
+ This dominant explanation attributes gaps to unequal access to resources, education, health, and opportunity,
+
+which shape cognitive development from prenatal stages onward. Racial categories proxy for systemic
+inequities (e.g., racism, poverty).
+ While all three explanations have been proposed, the overwhelming scientific consensus is that
+
+environmental factors, compounded by historical and ongoing inequities, account for nearly all racial
+IQ differences.
+
+THE FLYNN EFFECT
+ IQ has increased over time, on average around 3
+
+IQ points per decade
+ Largest gains in fluid intelligence (reasoning,
+
+pattern recognition—e.g., Raven’s Matrices), not
+crystallized (vocabulary, facts).
+ Observed in >30 countries, including developing
+
+nations.
+ Slowing or reversing in some developed nations
+
+(Norway, Denmark, UK) since the late 1990s.
+
+WHY?
+ Nutrition: Better prenatal and childhood nutrition → brain growth
+ Education: Longer schooling, abstract thinking training
+ Cognitive Stimulation: TV, puzzles, video games, VR
+ Smaller families: More parental attention per child
+ Test familiarity: Practice with multiple-choice, abstract problems
+
+HEREDITY OR ENVIRONMENT?
+ Both heredity and environment contribute to intelligence
+ Heredity and environment interact in various ways
+ As people’s genetic similarity increases, generally so does the similarity of their
+
+environments. This can be overcome by comparing the IQs of Monozygotics reared
+together with those raised apart.
+ MZsRA are still more similar than same-sex Dizygotics reared together, suggesting a strong
+
+genetic influence.
+ However, studies of MZsRA have been criticized on several important methodological
+
+grounds.
+ Further support for the influence of genetic factors comes from adoption studies. But when
+
+children from disadvantaged parents are adopted into high SES families, substantial gains in
+IQ can occur.
+
+LECTURE SUMMARY
+ Definition of intelligence
+ Theories of intelligence
+ Two-factor theory of Spearman
+ Fluid and Crystallized Intelligence theory of Cattell
+ Sternberg’s theory
+ Gardner’s theory
+ Intelligence testing
+ Standford-Binet test - first IQ test
+ Wechsler tests - most widely used IQ test
+ Gender differences in IQ
+ Racial differences in IQ
+ The Flynn Effect
+
+

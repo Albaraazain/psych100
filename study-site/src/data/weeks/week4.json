@@ -1,0 +1,602 @@
+{
+  "week": "Week 04",
+  "dateRange": "20 October - 26 October",
+  "topics": [
+    {
+      "id": "motivation-psychology",
+      "title": "Motivation",
+      "subtitle": "Theories and Types of Motivation",
+      "summary": "Exploration of what drives human behavior, examining major motivation theories including drive theory, arousal theory, expectancy-value theory, and the distinction between intrinsic and extrinsic motivation. Includes achievement motivation and the application of these theories to understanding behavior.",
+      "keyTakeaways": [
+        "Motivation refers to processes involved in the initiation, direction, and energization of behavior.",
+        "Drive theory focuses on biological needs and homeostasis, while arousal theory emphasizes optimal stimulation levels.",
+        "Expectancy-value theory suggests motivation depends on both the expectation of success and the value placed on goals.",
+        "Intrinsic motivation involves performing activities for inherent satisfaction, while extrinsic motivation involves external rewards.",
+        "Achievement motivation involves the interplay between motivation for success and fear of failure."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "What is Motivation?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Motivation refers, in a general sense, to processes involved in the initiation, direction, and energization of individual behaviour (Geen, 1995). As Miller (1962) described it: 'The study of motivation is the study of all those pushes and prods – biological, social and psychological – that defeat our laziness and move us, either eagerly or reluctantly, to action.'"
+        },
+        {
+          "type": "list",
+          "title": "Types of Motives",
+          "items": [
+            "Survival or physiological motives: Basic biological needs like hunger, thirst, sleep",
+            "Competence or cognitive motives: Needs for knowledge, understanding, and mastery",
+            "Social motives: Needs for belonging, affiliation, and social connection"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Connection to Theoretical Approaches",
+          "text": "Understanding motivation requires drawing on various theoretical approaches in psychology: biopsychological (biological drives), behaviourist (reinforcement), psychodynamic (unconscious motives), humanistic (self-actualization), cognitive (expectations and beliefs), and evolutionary (adaptive behaviors)."
+        },
+        {
+          "type": "heading",
+          "text": "Drive Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Drive theory is based on the concept of homeostasis - the natural tendency to keep the body in a state of equilibrium. Organs like the liver, kidneys, and brain work to maintain this balance. Clark Hull (1943) suggested that physiological disruptions to homeostasis produce drives - internal tensions that motivate an organism to engage in behaviour to reduce this tension."
+        },
+        {
+          "type": "list",
+          "title": "Drive Theory Examples",
+          "items": [
+            "Thirst: When the body is dehydrated, thirst drive motivates drinking behavior to restore fluid balance",
+            "Hunger: When blood sugar drops, hunger drive motivates eating to restore energy levels",
+            "Temperature regulation: When body temperature drops, we're driven to seek warmth"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Evaluation of Drive Theory",
+          "items": [
+            "Drawback: Doesn't explain behaviors like dieting that go against biological drives",
+            "Drawback: People often eat when not hungry (social eating, emotional eating)",
+            "Limitation: Reductionist - oversimplifies complex human motivation to biological needs",
+            "Limitation: Cannot explain behaviors that increase tension (thrill-seeking, curiosity)"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Questions to Consider",
+          "text": "What makes you eat? Why do you get hungry? How much do social factors play a part in your eating behaviour? Drive theory struggles to fully answer these questions without considering psychological and social factors."
+        },
+        {
+          "type": "heading",
+          "text": "Instinct Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Instincts are automatic, involuntary and unlearned patterns of behaviour triggered by the presence of particular stimuli. They are innate, biologically programmed responses that require no learning."
+        },
+        {
+          "type": "list",
+          "title": "Examples of Instincts",
+          "items": [
+            "Infant crying: Babies are born with the instinct to cry - a survival mechanism to get needs met",
+            "Reflexes: Coughing and blinking are automatic protective instincts",
+            "Evolutionary behaviors: Buss (1999) suggested the desire to pass on genes may motivate love, romantic relationships, attraction, and marriage"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Evaluation of Instinct Theory",
+          "items": [
+            "Limitation: Ignores learning and environmental influences on behavior",
+            "Limitation: Cannot account for individual differences in behavior",
+            "Limitation: Empirical challenges - testing innate instincts is difficult because hard to isolate from learned responses",
+            "Limitation: Reductionist - reduces complex human behavior to biological programming"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Arousal Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Arousal theory suggests that people take certain actions to either decrease or increase levels of arousal. When arousal levels get too low, a person might watch an exciting movie or go for a jog. When arousal levels get too high, a person would probably look for ways to relax such as meditating or reading a book."
+        },
+        {
+          "type": "paragraph",
+          "text": "According to this theory, we are motivated to maintain an optimal level of arousal, although this level can vary based on the individual or the situation. For example, someone who enjoys parachute jumping has a much higher optimal arousal level than someone who prefers quiet activities. We learn what keeps our own arousal levels at the optimum level."
+        },
+        {
+          "type": "list",
+          "title": "Optimal Arousal Examples",
+          "items": [
+            "Too low arousal: Feeling bored, seeking stimulation through exciting activities",
+            "Optimal arousal: Feeling alert, engaged, performing at peak",
+            "Too high arousal: Feeling anxious or overwhelmed, seeking calming activities",
+            "Individual differences: Extraverts typically have higher optimal arousal levels than introverts"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Evaluation of Arousal Theory",
+          "items": [
+            "Limitation: Neglects emotional and social motivators - doesn't explain why we pursue meaningful goals beyond arousal",
+            "Limitation: Empirical testing challenges - difficult to measure 'optimal' arousal objectively",
+            "Limitation: Reductionist - reduces motivation to a single dimension (arousal level)"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Why Are People Motivated for Different Reasons?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Drive, instinct, and arousal theories struggle to explain individual differences in motivation. Why do some students study hard while others don't? Why do people pursue different goals? Cognitive theories like expectancy-value theory offer better explanations."
+        },
+        {
+          "type": "heading",
+          "text": "Expectancy-Value Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Goal-directed behavior is jointly determined by the strength of the person's expectation that particular behaviors will lead to a goal and by the incentive value the individual places on that goal (Brehm & Self, 1989). In simple terms: Motivation = expectancy × incentive value."
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Example: College Student Studying",
+          "text": "A college student preparing for a midterm expects to do well because they've consistently scored high on practice quizzes (high expectancy). They value the exam because it's worth 30% of their grade and they aim to get into a postgraduate program (high value). This motivates the student to study hard. Conversely, a student with low confidence in math (low expectancy) and no interest in the subject (low value) might skip studying for a calculus test."
+        },
+        {
+          "type": "list",
+          "title": "Key Components",
+          "items": [
+            "Expectancy: Belief about likelihood of success ('Can I do this?')",
+            "Value: Importance or attractiveness of the goal ('Is it worth it?')",
+            "Both must be present: Even high expectancy won't motivate if value is zero; even high value won't motivate if expectancy is zero",
+            "Individual differences: People vary in their expectancies and values for the same task"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Evaluation of Expectancy-Value Theory",
+          "items": [
+            "Limitation: Based on subjective experiences - students might overestimate or underestimate their abilities",
+            "Limitation: External influences not fully considered - financial constraints, family pressure, etc.",
+            "Limitation: Overemphasis on rationality - students don't always make calculated decisions; emotions, procrastination, impulsivity often dominate",
+            "Limitation: Cultural and social variability - different cultures place different values on achievement"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Intrinsic-Extrinsic Motivation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cognitive theorists distinguish between extrinsic motivation (performing an activity to obtain an external reward or avoid punishment) and intrinsic motivation (performing an activity for its own sake—because you find it enjoyable or challenging)."
+        },
+        {
+          "type": "list",
+          "title": "Intrinsic Motivation Examples",
+          "items": [
+            "A student enrolls in a creative writing course because they love storytelling and find joy in crafting narratives, even if it's not required for their major - the process of writing itself is rewarding",
+            "Playing a musical instrument for personal enjoyment, not for performance or recognition",
+            "Reading books on topics of personal interest without any academic requirement",
+            "Engaging in hobbies like painting, gardening, or coding for the satisfaction they provide"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Extrinsic Motivation Examples",
+          "items": [
+            "A student enrolls in a creative writing course because it's an easy course and will help their GPA",
+            "Working overtime primarily for the bonus pay",
+            "Studying mainly to avoid parental disappointment or to get good grades",
+            "Completing tasks to receive praise, awards, or recognition"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "The Overjustification Effect",
+          "text": "Research shows that providing excessive external rewards for intrinsically motivated activities can actually decrease intrinsic motivation. When people are paid for activities they previously enjoyed, they may come to see the activity as work rather than play."
+        },
+        {
+          "type": "list",
+          "title": "Evaluation of Intrinsic-Extrinsic Motivation",
+          "items": [
+            "Limitation: Over-simplification - most behaviors involve both types of motivation simultaneously",
+            "Limitation: Individual differences - personality traits (e.g., high conscientiousness) and cultural backgrounds (collectivist vs individualist cultures) influence which type is more effective",
+            "Limitation: Contextual factors - external pressures like financial stress can overshadow both types. A student might love a subject (intrinsic) but lack energy due to part-time work demands"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Achievement Motivation"
+        },
+        {
+          "type": "paragraph",
+          "text": "McClelland and Atkinson (1953) proposed that achievement behavior can stem from a positively oriented motive for success and a negatively oriented motivation to avoid failure, more commonly called fear of failure. People high in achievement motivation actively seek out challenges and persist in the face of difficulty."
+        },
+        {
+          "type": "paragraph",
+          "text": "David McClelland and John Atkinson developed methods to measure achievement motivation primarily through the Thematic Apperception Test (TAT). The TAT is a projective psychological test where individuals are shown ambiguous pictures and asked to create stories about them. The content of the stories reveals underlying achievement motives."
+        },
+        {
+          "type": "list",
+          "title": "Achievement Motivation Characteristics",
+          "items": [
+            "High need for achievement: Prefer moderately challenging tasks, take calculated risks, seek feedback",
+            "Fear of failure: Avoid challenging tasks, prefer very easy or very difficult tasks (to avoid shame)",
+            "Success-oriented individuals: Set realistic goals, persist after setbacks, attribute success to ability and effort",
+            "Failure-avoidant individuals: Set unrealistic goals (too easy or too hard), give up quickly, attribute failure to lack of ability"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Evaluation of Achievement Motivation",
+          "items": [
+            "Limitation: The TAT is subjective and relies on trained scorers, which can introduce variability",
+            "Limitation: Measures unconscious motives, which may not always align with explicit behaviors or self-reported goals",
+            "Limitation: Cultural differences in storytelling styles can affect the interpretation of results",
+            "Strength: Provides insight into unconscious achievement drives that may not be apparent in self-reports"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Application to Education",
+          "text": "Understanding achievement motivation helps educators create environments that foster success motivation rather than fear of failure. This includes providing appropriately challenging tasks, offering constructive feedback, and helping students develop growth mindsets."
+        }
+      ],
+      "questions": [
+        {
+          "question": "According to Geen (1995), motivation refers to:",
+          "difficulty": "learning",
+          "options": [
+            "Only biological drives",
+            "Processes in initiation, direction, and energization of behavior",
+            "External rewards only",
+            "Unconscious desires"
+          ],
+          "answer": "Processes in initiation, direction, and energization of behavior",
+          "explanation": {
+            "correct": "Geen's definition emphasizes that motivation involves multiple processes: starting behavior (initiation), guiding it toward goals (direction), and sustaining effort (energization). This broad definition encompasses biological, psychological, and social factors.",
+            "incorrect": {
+              "Only biological drives": "This is too narrow. Motivation includes biological drives but also psychological and social factors. Drive theory focuses on biological needs, but motivation theories recognize multiple sources.",
+              "External rewards only": "This only captures extrinsic motivation. Intrinsic motivation (internal satisfaction) is equally important and doesn't involve external rewards.",
+              "Unconscious desires": "While psychodynamic theory emphasizes unconscious motives, the general definition of motivation is broader and includes conscious goals, expectations, and values."
+            }
+          }
+        },
+        {
+          "question": "Homeostasis refers to:",
+          "difficulty": "learning",
+          "options": [
+            "The body's tendency to maintain equilibrium",
+            "Increasing arousal levels",
+            "External motivation",
+            "Fear of failure"
+          ],
+          "answer": "The body's tendency to maintain equilibrium",
+          "explanation": {
+            "correct": "Homeostasis is the natural tendency of the body to maintain a stable internal state. Organs like the liver, kidneys, and brain work continuously to keep conditions like temperature, blood sugar, and fluid levels balanced. This is the foundation of drive theory.",
+            "incorrect": {
+              "Increasing arousal levels": "This describes arousal-seeking behavior, not homeostasis. Homeostasis is about balance and stability, while arousal theory focuses on optimal stimulation.",
+              "External motivation": "Homeostasis is a biological concept about internal balance, not about external factors that motivate behavior.",
+              "Fear of failure": "This relates to achievement motivation, not the biological concept of homeostasis."
+            }
+          }
+        },
+        {
+          "question": "According to Clark Hull's drive theory, drives are:",
+          "difficulty": "learning",
+          "options": [
+            "External rewards",
+            "Internal tensions that motivate behavior to reduce tension",
+            "Learned patterns of behavior",
+            "Optimal arousal levels"
+          ],
+          "answer": "Internal tensions that motivate behavior to reduce tension",
+          "explanation": {
+            "correct": "Hull proposed that physiological disruptions to homeostasis create internal tensions (drives) that motivate organisms to act in ways that reduce the tension and restore balance. For example, dehydration creates thirst (drive) that motivates drinking (behavior) to restore fluid balance.",
+            "incorrect": {
+              "External rewards": "Drives are internal states, not external rewards. External rewards relate to extrinsic motivation, not drive theory.",
+              "Learned patterns of behavior": "Drives are biological, not learned. Hull's theory emphasizes innate physiological needs, though the behaviors to satisfy them may be learned.",
+              "Optimal arousal levels": "This concept belongs to arousal theory, not drive theory. Drive theory focuses on reducing tension, while arousal theory focuses on maintaining optimal stimulation."
+            }
+          }
+        },
+        {
+          "question": "Which of the following is a major limitation of drive theory?",
+          "difficulty": "application",
+          "options": [
+            "It explains all human behavior perfectly",
+            "It cannot explain behaviors like dieting that go against biological drives",
+            "It overemphasizes social factors",
+            "It is too complex"
+          ],
+          "answer": "It cannot explain behaviors like dieting that go against biological drives",
+          "explanation": {
+            "correct": "Drive theory struggles with behaviors that contradict biological needs. Dieting involves restricting food despite hunger drives. Similarly, people eat when not hungry (social occasions, emotions), and some seek activities that increase tension (thrill-seeking). These phenomena require considering psychological and social factors beyond biological drives.",
+            "incorrect": {
+              "It explains all human behavior perfectly": "This is the opposite of a limitation. Drive theory actually has many limitations and cannot explain all behaviors.",
+              "It overemphasizes social factors": "Drive theory actually underemphasizes social factors - it's criticized for being too biological and reductionist, ignoring social and psychological influences.",
+              "It is too complex": "Drive theory is actually criticized for being too simple (reductionist), reducing complex human motivation to biological needs and tension reduction."
+            }
+          }
+        },
+        {
+          "question": "Instincts are best defined as:",
+          "difficulty": "learning",
+          "options": [
+            "Learned behaviors reinforced over time",
+            "Automatic, involuntary, and unlearned patterns triggered by stimuli",
+            "Conscious decisions to act",
+            "External motivators"
+          ],
+          "answer": "Automatic, involuntary, and unlearned patterns triggered by stimuli",
+          "explanation": {
+            "correct": "Instincts are innate, biologically programmed responses that don't require learning. They're automatic (occur without conscious thought), involuntary (not under conscious control), and triggered by specific stimuli. Examples include infant crying, reflexes like coughing and blinking, and some reproductive behaviors.",
+            "incorrect": {
+              "Learned behaviors reinforced over time": "This describes learned behaviors, the opposite of instincts. Instincts are innate and present from birth without learning.",
+              "Conscious decisions to act": "Instincts are involuntary and automatic, not conscious decisions. Conscious, deliberate actions are not instinctual.",
+              "External motivators": "Instincts are internal biological programs, not external factors. External motivators relate to extrinsic motivation."
+            }
+          }
+        },
+        {
+          "question": "According to arousal theory, when arousal levels are too low, people tend to:",
+          "difficulty": "application",
+          "options": [
+            "Meditate or read a book",
+            "Seek exciting activities",
+            "Sleep",
+            "Avoid all stimulation"
+          ],
+          "answer": "Seek exciting activities",
+          "explanation": {
+            "correct": "When arousal drops below optimal levels, people feel bored or understimulated. To increase arousal back to optimal, they seek stimulation through exciting activities like watching action movies, exercising, or engaging in social activities. The goal is to maintain optimal arousal, not too high or too low.",
+            "incorrect": {
+              "Meditate or read a book": "These are calming activities that decrease arousal. People engage in these when arousal is too high, not too low.",
+              "Sleep": "While sleep might occur with very low arousal, the theory predicts people actively seek stimulation to increase arousal when it's below optimal, rather than passively sleeping.",
+              "Avoid all stimulation": "This would further decrease arousal. The theory predicts the opposite - seeking stimulation to increase arousal to optimal levels."
+            }
+          }
+        },
+        {
+          "question": "In expectancy-value theory, motivation equals:",
+          "difficulty": "learning",
+          "options": [
+            "Expectancy + value",
+            "Expectancy × value",
+            "Expectancy - value",
+            "Expectancy ÷ value"
+          ],
+          "answer": "Expectancy × value",
+          "explanation": {
+            "correct": "The multiplicative relationship (expectancy × value) is crucial: if either expectancy or value is zero, motivation is zero. Both factors must be present. Even if a goal is highly valued, you won't pursue it if you believe success is impossible. Even if you're confident of success, you won't pursue a goal you don't value.",
+            "incorrect": {
+              "Expectancy + value": "Addition would mean motivation exists as long as either factor is present. But motivation requires both - you need to believe you can succeed AND value the goal.",
+              "Expectancy - value": "Subtraction makes no conceptual sense. High value would decrease motivation if expectancy is low, which contradicts the theory.",
+              "Expectancy ÷ value": "Division would mean high value decreases motivation, which is backwards. The theory predicts that both high expectancy and high value increase motivation."
+            }
+          }
+        },
+        {
+          "question": "A student studies hard for an exam because they want to get into graduate school. This is an example of:",
+          "difficulty": "application",
+          "options": [
+            "Intrinsic motivation",
+            "Extrinsic motivation",
+            "Instinct",
+            "Homeostasis"
+          ],
+          "answer": "Extrinsic motivation",
+          "explanation": {
+            "correct": "This is extrinsic motivation because the student is studying for an external goal (graduate school admission) rather than for the inherent enjoyment of learning. The exam is a means to an end (getting into grad school), not an end in itself. External rewards or outcomes drive the behavior.",
+            "incorrect": {
+              "Intrinsic motivation": "Would involve studying because the student finds the material itself interesting and enjoyable, not because of external goals. The focus would be on learning for its own sake.",
+              "Instinct": "Studying is a learned behavior, not an innate instinct. Instincts are automatic, unlearned patterns like crying or blinking.",
+              "Homeostasis": "This biological concept refers to maintaining internal equilibrium, not to academic goals and studying behavior."
+            }
+          }
+        },
+        {
+          "question": "Which is an example of intrinsic motivation?",
+          "difficulty": "application",
+          "options": [
+            "Working overtime for bonus pay",
+            "Playing guitar because you enjoy making music",
+            "Studying to avoid parental disappointment",
+            "Exercising to win a competition"
+          ],
+          "answer": "Playing guitar because you enjoy making music",
+          "explanation": {
+            "correct": "Intrinsic motivation involves engaging in an activity for its own sake, because it's inherently enjoyable or satisfying. Playing guitar for personal enjoyment represents pure intrinsic motivation - the activity itself is the reward. No external incentive or pressure is driving the behavior.",
+            "incorrect": {
+              "Working overtime for bonus pay": "This is extrinsic motivation - working for an external reward (money). The behavior is driven by the consequence, not by enjoyment of the work itself.",
+              "Studying to avoid parental disappointment": "This is extrinsic motivation - studying to avoid an external punishment (parental disapproval). The behavior is driven by external pressure, not internal interest.",
+              "Exercising to win a competition": "This is extrinsic motivation - exercising for an external goal (competition victory). If you exercise because you enjoy the activity itself, that would be intrinsic."
+            }
+          }
+        },
+        {
+          "question": "The overjustification effect refers to:",
+          "difficulty": "tricky",
+          "options": [
+            "Increased intrinsic motivation from rewards",
+            "Decreased intrinsic motivation when external rewards are added",
+            "Increased extrinsic motivation",
+            "No change in motivation"
+          ],
+          "answer": "Decreased intrinsic motivation when external rewards are added",
+          "explanation": {
+            "correct": "The overjustification effect occurs when providing external rewards for intrinsically motivated activities actually decreases intrinsic motivation. When people are paid for activities they previously enjoyed, they may reinterpret the activity as work rather than play, shifting from intrinsic to extrinsic motivation. For example, paying a child to read may reduce their natural love of reading.",
+            "incorrect": {
+              "Increased intrinsic motivation from rewards": "This is the opposite of what happens. External rewards typically decrease, not increase, intrinsic motivation for previously enjoyed activities.",
+              "Increased extrinsic motivation": "While extrinsic motivation may increase, the key feature of the overjustification effect is the decrease in intrinsic motivation, which is problematic when external rewards are removed.",
+              "No change in motivation": "Research clearly shows motivation does change - specifically, intrinsic motivation decreases when excessive external rewards are introduced."
+            }
+          }
+        },
+        {
+          "question": "According to McClelland and Atkinson, achievement behavior can stem from:",
+          "difficulty": "learning",
+          "options": [
+            "Only motive for success",
+            "Only fear of failure",
+            "Both motive for success and fear of failure",
+            "Neither motive for success nor fear of failure"
+          ],
+          "answer": "Both motive for success and fear of failure",
+          "explanation": {
+            "correct": "McClelland and Atkinson identified two distinct components: a positively oriented motive for success (approach motivation) and a negatively oriented motivation to avoid failure (avoidance motivation). People vary in their relative levels of each. Those high in success motivation and low in failure avoidance show the healthiest achievement patterns.",
+            "incorrect": {
+              "Only motive for success": "This ignores the fear of failure component, which is equally important in their theory. Some people are primarily motivated to avoid failure rather than to achieve success.",
+              "Only fear of failure": "This ignores the positive motive for success component. Their theory explicitly includes both approach (success) and avoidance (failure) motivations.",
+              "Neither motive for success nor fear of failure": "This contradicts their theory entirely. They proposed that achievement behavior is driven by these two opposing motives."
+            }
+          }
+        },
+        {
+          "question": "The Thematic Apperception Test (TAT) measures achievement motivation by:",
+          "difficulty": "application",
+          "options": [
+            "Asking direct questions about goals",
+            "Analyzing stories people create about ambiguous pictures",
+            "Observing behavior in achievement situations",
+            "Measuring physiological arousal"
+          ],
+          "answer": "Analyzing stories people create about ambiguous pictures",
+          "explanation": {
+            "correct": "The TAT is a projective test where people view ambiguous pictures and create stories about them. Trained scorers analyze the content for achievement themes (striving for excellence, overcoming obstacles, concern about success/failure). The stories are believed to reveal unconscious achievement motives that might not appear in direct self-reports.",
+            "incorrect": {
+              "Asking direct questions about goals": "This describes self-report questionnaires, not the TAT. The TAT is indirect and projective, designed to reveal unconscious motives rather than conscious self-reports.",
+              "Observing behavior in achievement situations": "This describes behavioral observation methods, not the TAT. The TAT uses story content, not direct behavior observation.",
+              "Measuring physiological arousal": "This describes physiological measurement methods, not the TAT. The TAT analyzes narrative content, not biological responses."
+            }
+          }
+        },
+        {
+          "question": "A major limitation of drive theory is that it:",
+          "difficulty": "tricky",
+          "options": [
+            "Explains too many behaviors",
+            "Is reductionist and cannot explain complex human motivation",
+            "Overemphasizes cognitive factors",
+            "Focuses too much on learning"
+          ],
+          "answer": "Is reductionist and cannot explain complex human motivation",
+          "explanation": {
+            "correct": "Drive theory is criticized for being reductionist - oversimplifying complex human motivation to biological needs and tension reduction. It cannot explain behaviors that increase tension (curiosity, thrill-seeking), behaviors that contradict drives (dieting), or behaviors driven by social and psychological factors. Human motivation involves cognition, emotion, social context, and personal values, not just biological homeostasis.",
+            "incorrect": {
+              "Explains too many behaviors": "The problem is the opposite - drive theory explains too few behaviors, not too many. It's too narrow and limited.",
+              "Overemphasizes cognitive factors": "Drive theory actually ignores cognitive factors, focusing only on biological drives. This is one of its limitations.",
+              "Focuses too much on learning": "Drive theory actually underemphasizes learning, treating drives as innate biological states. It's criticized for not adequately considering how learning shapes motivation."
+            }
+          }
+        },
+        {
+          "question": "According to expectancy-value theory, a student with high confidence but who doesn't value the goal will:",
+          "difficulty": "application",
+          "options": [
+            "Be highly motivated",
+            "Have zero or low motivation",
+            "Be moderately motivated",
+            "Experience fear of failure"
+          ],
+          "answer": "Have zero or low motivation",
+          "explanation": {
+            "correct": "Because motivation = expectancy × value, if value is zero or very low, motivation will be zero or very low regardless of expectancy. Even if the student is 100% confident of success, they won't be motivated to pursue a goal they don't care about. Both factors must be present for high motivation.",
+            "incorrect": {
+              "Be highly motivated": "High expectancy alone isn't enough. The multiplicative formula means zero value produces zero motivation, no matter how high the expectancy.",
+              "Be moderately motivated": "With near-zero value, motivation will be near-zero, not moderate. The multiplicative relationship means low value drastically reduces motivation.",
+              "Experience fear of failure": "Fear of failure relates to low expectancy (believing you'll fail), not to low value. High confidence with low value produces apathy, not fear."
+            }
+          }
+        },
+        {
+          "question": "Which theory best explains why people engage in thrill-seeking behaviors like skydiving?",
+          "difficulty": "tricky",
+          "options": [
+            "Drive theory",
+            "Arousal theory",
+            "Instinct theory",
+            "Achievement motivation"
+          ],
+          "answer": "Arousal theory",
+          "explanation": {
+            "correct": "Arousal theory explains thrill-seeking by suggesting some people have higher optimal arousal levels and need more stimulation. Skydiving increases arousal to reach this optimal level. Individual differences in optimal arousal explain why some people seek extreme activities while others prefer calm pursuits. Drive theory fails here because thrill-seeking increases tension rather than reducing it.",
+            "incorrect": {
+              "Drive theory": "Drive theory predicts behavior should reduce tension and restore homeostasis. Thrill-seeking increases tension, directly contradicting drive theory's predictions. This is a key limitation of drive theory.",
+              "Instinct theory": "Skydiving is not an innate, automatic behavior present from birth. It's a learned, voluntary activity requiring training. Instinct theory cannot explain modern thrill-seeking behaviors.",
+              "Achievement motivation": "While achievement motivation might contribute (seeking to master a skill), it doesn't fully explain why some people seek high arousal activities. Arousal theory better captures the stimulation-seeking aspect."
+            }
+          }
+        },
+        {
+          "question": "Cultural differences in achievement motivation are a limitation of:",
+          "difficulty": "tricky",
+          "options": [
+            "Drive theory only",
+            "Arousal theory only",
+            "The TAT measurement approach",
+            "Intrinsic motivation theory"
+          ],
+          "answer": "The TAT measurement approach",
+          "explanation": {
+            "correct": "The TAT is criticized because cultural differences in storytelling styles can affect results. Different cultures have different narrative conventions, values regarding achievement, and comfort with expressing achievement themes. What appears as low achievement motivation might reflect cultural storytelling norms rather than actual motivation levels. This makes cross-cultural comparisons problematic.",
+            "incorrect": {
+              "Drive theory only": "While drive theory has limitations, cultural differences in achievement motivation aren't its primary criticism. Drive theory focuses on biological needs, which are more universal than achievement motives.",
+              "Arousal theory only": "Arousal theory has limitations, but cultural differences in achievement measurement aren't the main one. The question specifically addresses measuring achievement motivation.",
+              "Intrinsic motivation theory": "The distinction between intrinsic and extrinsic motivation can vary culturally, but the question specifically addresses the TAT measurement method, not the intrinsic/extrinsic distinction."
+            }
+          }
+        },
+        {
+          "question": "People high in need for achievement typically:",
+          "difficulty": "application",
+          "options": [
+            "Prefer very easy tasks to ensure success",
+            "Prefer very difficult tasks to prove themselves",
+            "Prefer moderately challenging tasks",
+            "Avoid all challenging tasks"
+          ],
+          "answer": "Prefer moderately challenging tasks",
+          "explanation": {
+            "correct": "People high in achievement motivation prefer moderately challenging tasks because these provide the most diagnostic information about their abilities and offer the greatest sense of accomplishment. Very easy tasks feel meaningless (no challenge), while very difficult tasks offer little chance of success. Moderate difficulty provides optimal challenge and meaningful feedback.",
+            "incorrect": {
+              "Prefer very easy tasks to ensure success": "This describes failure-avoidant individuals who protect their self-esteem by choosing tasks so easy that failure is impossible. High achievers find easy tasks boring and unrewarding.",
+              "Prefer very difficult tasks to prove themselves": "This describes failure-avoidant individuals who choose impossibly difficult tasks so they have an excuse for failure. High achievers avoid this because learning and growth are minimal with very low success probability.",
+              "Avoid all challenging tasks": "This describes people low in achievement motivation or high in fear of failure. High achievers actively seek appropriate challenges."
+            }
+          }
+        },
+        {
+          "question": "Which combination of factors in expectancy-value theory produces the HIGHEST motivation?",
+          "difficulty": "application",
+          "options": [
+            "High expectancy, low value",
+            "Low expectancy, high value",
+            "High expectancy, high value",
+            "Low expectancy, low value"
+          ],
+          "answer": "High expectancy, high value",
+          "explanation": {
+            "correct": "Because motivation = expectancy × value, the highest motivation occurs when both factors are high. Believing you can succeed (high expectancy) AND caring deeply about the outcome (high value) produces maximum motivation. This is why setting appropriately challenging but achievable goals for valued outcomes is most motivating.",
+            "incorrect": {
+              "High expectancy, low value": "High confidence but low importance produces low motivation. You believe you could succeed but don't care enough to try. Motivation = high × low = moderate at best.",
+              "Low expectancy, high value": "Caring deeply but believing success is unlikely produces low motivation and possibly frustration or avoidance. Motivation = low × high = moderate at best.",
+              "Low expectancy, low value": "Neither believing in success nor valuing the outcome produces minimal motivation. Motivation = low × low = very low."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

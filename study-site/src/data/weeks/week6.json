@@ -1,0 +1,1312 @@
+{
+  "week": "Week 06",
+  "dateRange": "10 November - 16 November",
+  "topics": [
+    {
+      "id": "perception-fundamentals",
+      "title": "What is Perception?",
+      "subtitle": "Organizing and Interpreting Sensory Information",
+      "summary": "Introduction to perception as the organization and interpretation of sensory information. Explores the distinction between sensation and perception, distal vs. proximal stimuli, and how our brains construct representations of the external world.",
+      "keyTakeaways": [
+        "Perception is the organization and interpretation of incoming sensory information to form inner representations of the external world.",
+        "We don't perceive 'reality' directly but only how our brain interprets sensory input.",
+        "The distal stimulus (actual object) remains constant, but the proximal stimulus (pattern on retina) varies with viewing conditions.",
+        "Gestalt Psychology argues that our brain organizes sensory information into meaningful wholes that are greater than the sum of their parts."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Defining Perception"
+        },
+        {
+          "type": "paragraph",
+          "text": "Perception is the organization and interpretation of incoming sensory information to form inner representations of the external world. We don't perceive 'reality' at all but only how our brain interprets it (Macknik & Martinez-Conde, 2014). This means perception is an active constructive process, not a passive recording of sensory data."
+        },
+        {
+          "type": "heading",
+          "text": "Distal vs. Proximal Stimulus"
+        },
+        {
+          "type": "list",
+          "title": "Two Types of Stimuli",
+          "items": [
+            "Distal Stimulus: The actual object you are looking at in the external world",
+            "Proximal Stimulus: The pattern of stimulation that hits the retina of your eye"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A major issue for perception is how your perception remains constant when the proximal stimulation is so variable. For example, a door remains 'rectangular' in your perception even when viewed at an angle where it projects a trapezoid on your retina."
+        },
+        {
+          "type": "heading",
+          "text": "Gestalt Psychology"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ehrenfels (1890) claimed that many groups of stimuli acquire a pattern quality that is greater than the sum of their parts. For example, a melody is more than just individual notes played in sequence - it has a unique quality as a whole. Gestalt Psychology argues that our brain organizes sensory information—like shapes, sounds, or images—into meaningful wholes."
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "The Whole is Greater Than the Sum of Its Parts",
+          "text": "When you look at a face, you don't just see individual eyes, nose, and mouth - you perceive a unified whole face with identity, emotion, and expression. This demonstrates Gestalt principles: the brain automatically organizes parts into meaningful patterns."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What is perception?",
+          "difficulty": "learning",
+          "options": [
+            "The physical stimulation of sensory receptors",
+            "The organization and interpretation of sensory information",
+            "The transmission of neural signals to the brain",
+            "The detection of light by the retina"
+          ],
+          "answer": "The organization and interpretation of sensory information",
+          "explanation": {
+            "correct": "Perception is defined as the organization and interpretation of incoming sensory information to form inner representations of the external world. It goes beyond mere sensation to involve active cognitive processing.",
+            "incorrect": {
+              "The physical stimulation of sensory receptors": "This describes sensation, the first step before perception.",
+              "The transmission of neural signals to the brain": "This is part of the neural pathway but not perception itself.",
+              "The detection of light by the retina": "This is sensation (detection), not perception (interpretation)."
+            }
+          }
+        },
+        {
+          "question": "According to Macknik & Martinez-Conde (2014), what do we actually perceive?",
+          "difficulty": "learning",
+          "options": [
+            "Objective reality exactly as it is",
+            "Only what we pay attention to",
+            "How our brain interprets sensory input",
+            "Perfect copies of external objects"
+          ],
+          "answer": "How our brain interprets sensory input",
+          "explanation": {
+            "correct": "We don't perceive 'reality' directly but only how our brain interprets it. Perception is a constructive process where the brain actively interprets and organizes sensory data, not a passive recording of objective reality.",
+            "incorrect": {
+              "Objective reality exactly as it is": "This contradicts the key point - we perceive interpretations, not direct reality.",
+              "Only what we pay attention to": "While attention affects perception, the key point is that all perception is interpreted, not objective.",
+              "Perfect copies of external objects": "Our perceptions are constructions/interpretations, not perfect copies."
+            }
+          }
+        },
+        {
+          "question": "What is the distal stimulus?",
+          "difficulty": "learning",
+          "options": [
+            "The pattern hitting the retina",
+            "The actual object in the external world",
+            "The neural signal sent to the brain",
+            "The interpretation by the brain"
+          ],
+          "answer": "The actual object in the external world",
+          "explanation": {
+            "correct": "The distal stimulus is the actual object you are looking at in the external world. It remains constant regardless of viewing conditions (distance, angle, lighting).",
+            "incorrect": {
+              "The pattern hitting the retina": "This is the proximal stimulus, not distal.",
+              "The neural signal sent to the brain": "This is part of neural transmission, not the external object itself.",
+              "The interpretation by the brain": "This is perception, which comes after both distal and proximal stimuli."
+            }
+          }
+        },
+        {
+          "question": "What is the proximal stimulus?",
+          "difficulty": "learning",
+          "options": [
+            "The actual object being viewed",
+            "The pattern of stimulation on the retina",
+            "The interpretation by the brain",
+            "The ambient light in the environment"
+          ],
+          "answer": "The pattern of stimulation on the retina",
+          "explanation": {
+            "correct": "The proximal stimulus is the pattern of stimulation that hits the retina. Unlike the distal stimulus (actual object), the proximal stimulus varies with distance, angle, and lighting conditions.",
+            "incorrect": {
+              "The actual object being viewed": "This is the distal stimulus, which remains constant.",
+              "The interpretation by the brain": "This is perception, which occurs after proximal stimulation.",
+              "The ambient light in the environment": "While light affects the proximal stimulus, it's not the stimulus itself."
+            }
+          }
+        },
+        {
+          "question": "A door viewed from the front appears rectangular. When viewed from an angle, it projects a trapezoid on your retina, yet you still perceive it as rectangular. This demonstrates:",
+          "difficulty": "application",
+          "options": [
+            "The proximal stimulus is constant",
+            "The distal stimulus is constant while proximal varies",
+            "Both stimuli change equally",
+            "Neither stimulus changes"
+          ],
+          "answer": "The distal stimulus is constant while proximal varies",
+          "explanation": {
+            "correct": "The door itself (distal stimulus) hasn't changed - it's still rectangular. However, the image on your retina (proximal stimulus) changes from rectangle to trapezoid depending on viewing angle. This illustrates a major perceptual challenge: maintaining constant perception despite variable proximal stimulation.",
+            "incorrect": {
+              "The proximal stimulus is constant": "The proximal stimulus (retinal image) definitely changes from rectangle to trapezoid.",
+              "Both stimuli change equally": "The distal stimulus (actual door) doesn't change, only the proximal one does.",
+              "Neither stimulus changes": "The proximal stimulus clearly changes with viewing angle."
+            }
+          }
+        },
+        {
+          "question": "According to Ehrenfels (1890), a melody demonstrates which principle?",
+          "difficulty": "application",
+          "options": [
+            "Individual notes are all that matter",
+            "Pattern quality is greater than the sum of parts",
+            "Each note must be heard separately",
+            "Melodies are just random sequences"
+          ],
+          "answer": "Pattern quality is greater than the sum of parts",
+          "explanation": {
+            "correct": "Ehrenfels argued that when notes are played together in sequence, they form a recognizable melody with a unique quality beyond just the individual notes. This is a foundational principle of Gestalt psychology - the whole has emergent properties not present in the parts.",
+            "incorrect": {
+              "Individual notes are all that matter": "This contradicts the Gestalt principle - the pattern creates something beyond individual notes.",
+              "Each note must be heard separately": "A melody emerges from notes heard in sequence, not necessarily separately.",
+              "Melodies are just random sequences": "Melodies have organized patterns, not random sequences, which is exactly Ehrenfels' point."
+            }
+          }
+        },
+        {
+          "question": "What does Gestalt Psychology emphasize about how the brain processes sensory information?",
+          "difficulty": "learning",
+          "options": [
+            "It processes each element separately",
+            "It organizes information into meaningful wholes",
+            "It only processes attended information",
+            "It records information like a camera"
+          ],
+          "answer": "It organizes information into meaningful wholes",
+          "explanation": {
+            "correct": "Gestalt Psychology argues that our brain automatically organizes sensory information—like shapes, sounds, or images—into meaningful wholes. The brain doesn't just process individual elements but actively groups and structures them into patterns.",
+            "incorrect": {
+              "It processes each element separately": "This is the opposite of Gestalt principles, which emphasize holistic organization.",
+              "It only processes attended information": "While attention is important, Gestalt organization often occurs automatically.",
+              "It records information like a camera": "The brain actively interprets and organizes, not passively records."
+            }
+          }
+        },
+        {
+          "question": "When you look at a face and perceive a unified identity with emotion rather than just separate eyes, nose, and mouth, this demonstrates:",
+          "difficulty": "application",
+          "options": [
+            "The proximal stimulus principle",
+            "Gestalt principles of organization",
+            "Distal stimulus perception",
+            "Sensory detection only"
+          ],
+          "answer": "Gestalt principles of organization",
+          "explanation": {
+            "correct": "This demonstrates the Gestalt principle that 'the whole is greater than the sum of its parts.' The brain automatically organizes individual facial features into a meaningful whole (a face with identity and expression) rather than just perceiving isolated components.",
+            "incorrect": {
+              "The proximal stimulus principle": "Proximal stimulus refers to retinal patterns, not the organization into meaningful wholes.",
+              "Distal stimulus perception": "While you're perceiving a distal stimulus (the face), the key point is about Gestalt organization.",
+              "Sensory detection only": "This goes beyond detection to active organization and interpretation - perception, not just sensation."
+            }
+          }
+        },
+        {
+          "question": "What is the major perceptual challenge regarding distal and proximal stimuli?",
+          "difficulty": "tricky",
+          "options": [
+            "Both remain constant under all conditions",
+            "Maintaining constant perception despite variable proximal stimulation",
+            "The distal stimulus changes while proximal stays same",
+            "Detecting the difference between them consciously"
+          ],
+          "answer": "Maintaining constant perception despite variable proximal stimulation",
+          "explanation": {
+            "correct": "A major issue for perception is how our perception remains constant (we still see a door as rectangular) when the proximal stimulation (retinal image) is so variable (trapezoid at an angle). This is called perceptual constancy.",
+            "incorrect": {
+              "Both remain constant under all conditions": "The proximal stimulus varies greatly with viewing conditions - this is false.",
+              "The distal stimulus changes while proximal stays same": "This is backwards - distal remains constant while proximal varies.",
+              "Detecting the difference between them consciously": "We typically aren't conscious of proximal variations; the challenge is maintaining constant perception."
+            }
+          }
+        },
+        {
+          "question": "If individual letters on a page are perceived as forming words, and words as forming sentences with meaning, this best illustrates:",
+          "difficulty": "application",
+          "options": [
+            "The separation of distal and proximal stimuli",
+            "Gestalt principles of organization into meaningful wholes",
+            "The constancy of the distal stimulus",
+            "Passive recording of sensory data"
+          ],
+          "answer": "Gestalt principles of organization into meaningful wholes",
+          "explanation": {
+            "correct": "This demonstrates how the brain organizes smaller elements (letters) into larger meaningful patterns (words, sentences) that have properties beyond the sum of individual letters. This is a core Gestalt principle - hierarchical organization into meaningful wholes.",
+            "incorrect": {
+              "The separation of distal and proximal stimuli": "This is about retinal images vs. actual objects, not organization into meaning.",
+              "The constancy of the distal stimulus": "While relevant to perception, the key point here is organizational principles, not constancy.",
+              "Passive recording of sensory data": "Organization into meaning is active interpretation, not passive recording."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gestalt-principles",
+      "title": "Gestalt Principles of Perceptual Organization",
+      "subtitle": "Laws of Perception: Proximity, Closure, Similarity, Continuity, and Symmetry",
+      "summary": "Detailed examination of Gestalt principles that govern how we organize visual information: figure-ground separation, proximity, closure, similarity, continuity (good continuation), and symmetry. These principles describe automatic perceptual grouping.",
+      "keyTakeaways": [
+        "Figure-ground separation is the first perceptual task - distinguishing an object (figure) from its surroundings (ground).",
+        "Proximity: Elements placed close together tend to be perceived as a group.",
+        "Closure: We tend to complete incomplete forms and fill in gaps to perceive whole objects.",
+        "Similarity: Similar parts are more likely to be perceived as belonging together than dissimilar parts.",
+        "Continuity (Good Continuation): We group stimuli into forms that follow continuous lines or patterns.",
+        "Symmetry: Symmetrical elements tend to be perceived as unified groups."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Figure-Ground Separation"
+        },
+        {
+          "type": "paragraph",
+          "text": "The first perceptual task when confronted with an object (or figure) is to recognize it. To do this, we must perceive the figure as being distinct from its surroundings (or ground). This is called figure-ground separation and is fundamental to all visual perception."
+        },
+        {
+          "type": "heading",
+          "text": "The Laws of Perception"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gestalt psychologists identified several principles (called Laws of Perception) that describe how we automatically organize visual information into groups and patterns:"
+        },
+        {
+          "type": "list",
+          "title": "Six Gestalt Principles",
+          "items": [
+            "Proximity: Occurs when elements are placed close together - they tend to be perceived as a group. Example: Dots close together are seen as columns rather than individual dots.",
+            "Closure: We tend to complete incomplete forms and generally fill in the gaps. Example: We perceive a complete circle even when shown a series of segments with gaps.",
+            "Similarity: Similar parts of a form are more likely to be perceived as belonging together than parts that are dissimilar. Example: In an array of alternating colored dots, we perceive rows based on color similarity.",
+            "Continuity (Good Continuation): We group stimuli into forms that follow continuous lines or patterns. Example: Two overlapping lines are seen as continuous lines rather than four separate lines meeting.",
+            "Symmetry: Elements that are symmetrical to each other tend to be perceived as a unified group. Example: Two overlapping diamonds are seen as overlapping rather than as separate corner shapes.",
+            "Figure-Ground Separation: The foundational principle where we distinguish objects (figures) from their backgrounds (ground)."
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Automatic Organization",
+          "text": "These Gestalt principles operate automatically and unconsciously. You don't have to consciously decide to group similar items together - your brain does it automatically as part of perceptual processing."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What is the first perceptual task when viewing an object?",
+          "difficulty": "learning",
+          "options": [
+            "Determining its color",
+            "Figure-ground separation",
+            "Measuring its size",
+            "Identifying its texture"
+          ],
+          "answer": "Figure-ground separation",
+          "explanation": {
+            "correct": "Figure-ground separation is the foundational perceptual task - distinguishing the object (figure) from its surroundings (ground). This must occur before other perceptual processing can take place.",
+            "incorrect": {
+              "Determining its color": "Color perception comes after you've separated the figure from the ground.",
+              "Measuring its size": "Size perception requires first identifying what the object is (figure-ground).",
+              "Identifying its texture": "Texture analysis occurs after figure-ground separation."
+            }
+          }
+        },
+        {
+          "question": "According to the Gestalt principle of proximity, when will elements be perceived as a group?",
+          "difficulty": "learning",
+          "options": [
+            "When they are the same color",
+            "When they are placed close together",
+            "When they are symmetrical",
+            "When they form complete shapes"
+          ],
+          "answer": "When they are placed close together",
+          "explanation": {
+            "correct": "Proximity means that elements placed close together in space tend to be perceived as belonging to the same group. Physical closeness is the organizing principle, regardless of other features.",
+            "incorrect": {
+              "When they are the same color": "This describes the principle of similarity, not proximity.",
+              "When they are symmetrical": "This describes the principle of symmetry, not proximity.",
+              "When they form complete shapes": "This describes the principle of closure, not proximity."
+            }
+          }
+        },
+        {
+          "question": "When you see segments with gaps but perceive a complete circle, which Gestalt principle is operating?",
+          "difficulty": "application",
+          "options": [
+            "Proximity",
+            "Similarity",
+            "Closure",
+            "Continuity"
+          ],
+          "answer": "Closure",
+          "explanation": {
+            "correct": "Closure is the principle where we tend to complete incomplete forms and fill in gaps. The brain automatically completes the circle even though the physical stimulus has breaks in it.",
+            "incorrect": {
+              "Proximity": "Proximity is about grouping nearby elements, not completing incomplete forms.",
+              "Similarity": "Similarity groups similar elements, but doesn't involve completing missing parts.",
+              "Continuity": "Continuity follows lines or patterns, but closure specifically fills in gaps to complete forms."
+            }
+          }
+        },
+        {
+          "question": "In an array of dots alternating between blue and red, you perceive rows of blue dots and rows of red dots. Which principle explains this?",
+          "difficulty": "application",
+          "options": [
+            "Proximity",
+            "Closure",
+            "Similarity",
+            "Symmetry"
+          ],
+          "answer": "Similarity",
+          "explanation": {
+            "correct": "Similarity means that similar parts of a form are more likely to be perceived as belonging together. The dots are grouped by color similarity, creating perceived rows of same-colored dots.",
+            "incorrect": {
+              "Proximity": "While dots in rows might be close, the key organizing factor here is color similarity.",
+              "Closure": "Closure involves completing incomplete forms, not grouping by similar features.",
+              "Symmetry": "Symmetry involves balanced patterns, not grouping by shared features like color."
+            }
+          }
+        },
+        {
+          "question": "When two lines cross and you perceive them as two continuous overlapping lines rather than four separate line segments meeting at a point, which principle is at work?",
+          "difficulty": "application",
+          "options": [
+            "Closure",
+            "Proximity",
+            "Continuity (Good Continuation)",
+            "Similarity"
+          ],
+          "answer": "Continuity (Good Continuation)",
+          "explanation": {
+            "correct": "Good continuation (or continuity) means we group stimuli into forms that follow continuous lines or patterns. The brain prefers to see smooth, continuous lines rather than abrupt direction changes.",
+            "incorrect": {
+              "Closure": "Closure is about completing gaps, not following continuous paths.",
+              "Proximity": "Proximity groups nearby elements but doesn't explain preference for continuous lines.",
+              "Similarity": "Similarity groups similar elements but doesn't explain the preference for continuous paths."
+            }
+          }
+        },
+        {
+          "question": "When you see two overlapping diamonds rather than separate corner pieces or an octahedron, which principle is operating?",
+          "difficulty": "application",
+          "options": [
+            "Proximity",
+            "Symmetry",
+            "Closure",
+            "Similarity"
+          ],
+          "answer": "Symmetry",
+          "explanation": {
+            "correct": "Symmetry principle states that elements that are symmetrical to each other tend to be perceived as a unified group. The brain organizes the pattern into two symmetrical diamonds rather than asymmetrical corner pieces.",
+            "incorrect": {
+              "Proximity": "While elements are close, the key organizing factor is symmetrical structure, not just closeness.",
+              "Closure": "Closure completes gaps; symmetry organizes based on balanced patterns.",
+              "Similarity": "Similarity groups like elements; symmetry specifically organizes symmetrical patterns."
+            }
+          }
+        },
+        {
+          "question": "How many Gestalt principles (including figure-ground) are typically identified?",
+          "difficulty": "learning",
+          "options": [
+            "Three",
+            "Four",
+            "Six",
+            "Eight"
+          ],
+          "answer": "Six",
+          "explanation": {
+            "correct": "Six principles are typically identified: (1) Figure-ground separation, (2) Proximity, (3) Closure, (4) Similarity, (5) Continuity (good continuation), and (6) Symmetry. Principles 2-6 are specifically called 'Laws of Perception.'",
+            "incorrect": {
+              "Three": "This underestimates the number - there are six main principles.",
+              "Four": "This also underestimates - six principles are typically identified.",
+              "Eight": "This overestimates - six is the standard number of Gestalt principles."
+            }
+          }
+        },
+        {
+          "question": "What makes Gestalt principles different from conscious decision-making about visual organization?",
+          "difficulty": "learning",
+          "options": [
+            "They require deliberate effort",
+            "They operate automatically and unconsciously",
+            "They only work for simple patterns",
+            "They must be learned through experience"
+          ],
+          "answer": "They operate automatically and unconsciously",
+          "explanation": {
+            "correct": "Gestalt principles operate automatically and unconsciously. You don't consciously decide to group similar items or complete incomplete forms - your brain does it automatically as part of perceptual processing.",
+            "incorrect": {
+              "They require deliberate effort": "The opposite is true - they operate without conscious effort.",
+              "They only work for simple patterns": "Gestalt principles apply to both simple and complex visual patterns.",
+              "They must be learned through experience": "These principles appear to be innate organizing tendencies, not learned."
+            }
+          }
+        },
+        {
+          "question": "If you see a group of dots arranged so that some are close together and others are far apart, and you automatically perceive clusters, which principle is primary?",
+          "difficulty": "application",
+          "options": [
+            "Closure",
+            "Proximity",
+            "Similarity",
+            "Continuity"
+          ],
+          "answer": "Proximity",
+          "explanation": {
+            "correct": "Proximity is the primary principle here - elements placed close together in space are perceived as belonging to the same group. The spatial relationship (closeness) is the organizing factor.",
+            "incorrect": {
+              "Closure": "Closure involves completing incomplete forms, not spatial grouping.",
+              "Similarity": "The dots aren't described as having different features, so proximity (spatial closeness) is the key factor.",
+              "Continuity": "Continuity follows continuous lines; this scenario is about spatial clustering."
+            }
+          }
+        },
+        {
+          "question": "A logo designer creates a partial circle with three small gaps. Customers still perceive it as a complete circle. The designer is utilizing which Gestalt principle?",
+          "difficulty": "application",
+          "options": [
+            "Proximity - gaps are close",
+            "Closure - brain completes the form",
+            "Similarity - segments look alike",
+            "Symmetry - circle is symmetrical"
+          ],
+          "answer": "Closure - brain completes the form",
+          "explanation": {
+            "correct": "The designer is deliberately using the closure principle - the human tendency to complete incomplete forms and fill in gaps. Viewers automatically perceive a complete circle even though the physical stimulus has breaks.",
+            "incorrect": {
+              "Proximity - gaps are close": "While segments might be close, the key principle is completing the incomplete form (closure).",
+              "Similarity - segments look alike": "Similarity helps, but the primary principle being exploited is closure (gap filling).",
+              "Symmetry - circle is symmetrical": "While circles are symmetrical, the key design choice here is using closure to complete gaps."
+            }
+          }
+        },
+        {
+          "question": "Which Gestalt principle explains why railroad tracks appear to converge in the distance but are still perceived as parallel lines?",
+          "difficulty": "tricky",
+          "options": [
+            "Proximity",
+            "Closure",
+            "Continuity (Good Continuation)",
+            "Similarity"
+          ],
+          "answer": "Continuity (Good Continuation)",
+          "explanation": {
+            "correct": "Good continuation helps us perceive the tracks as continuous parallel lines extending into the distance, even though they appear to converge. We follow the smooth, continuous path of each rail rather than seeing them as disconnected segments.",
+            "incorrect": {
+              "Proximity": "While the rails are close to their own continuing segments, the key is following continuous lines.",
+              "Closure": "The rails aren't incomplete forms that need gap-filling; they're continuous lines.",
+              "Similarity": "While the two rails are similar, the principle of following continuous paths is more relevant here."
+            }
+          }
+        },
+        {
+          "question": "If elements are both close together (proximity) AND similar in color (similarity), which principle will dominate?",
+          "difficulty": "tricky",
+          "options": [
+            "Always proximity",
+            "Always similarity",
+            "They work together to strengthen grouping",
+            "They cancel each other out"
+          ],
+          "answer": "They work together to strengthen grouping",
+          "explanation": {
+            "correct": "Gestalt principles are not mutually exclusive - they often work together. When multiple principles support the same grouping (like proximity AND similarity), they reinforce each other, creating stronger perceptual organization.",
+            "incorrect": {
+              "Always proximity": "No single principle always dominates; they combine their effects.",
+              "Always similarity": "Neither principle consistently overrides the other.",
+              "They cancel each other out": "The opposite is true - multiple principles strengthen grouping when they agree."
+            }
+          }
+        },
+        {
+          "question": "In a famous ambiguous figure, the same visual stimulus can be seen as either a vase or two faces in profile. This primarily demonstrates:",
+          "difficulty": "tricky",
+          "options": [
+            "The principle of closure",
+            "The principle of similarity",
+            "Figure-ground separation can be ambiguous",
+            "The principle of continuity"
+          ],
+          "answer": "Figure-ground separation can be ambiguous",
+          "explanation": {
+            "correct": "The vase/faces illusion demonstrates that figure-ground separation can be ambiguous. What you see as 'figure' (object) vs. 'ground' (background) can switch: the vase can be figure with faces as ground, or faces can be figure with vase as ground.",
+            "incorrect": {
+              "The principle of closure": "While closure might be involved, the key demonstration is about figure-ground ambiguity.",
+              "The principle of similarity": "This illusion isn't primarily about grouping similar elements.",
+              "The principle of continuity": "Continuity involves following continuous lines, not figure-ground ambiguity."
+            }
+          }
+        },
+        {
+          "question": "A camouflage pattern works by disrupting which fundamental Gestalt principle?",
+          "difficulty": "tricky",
+          "options": [
+            "Proximity",
+            "Similarity",
+            "Figure-ground separation",
+            "Symmetry"
+          ],
+          "answer": "Figure-ground separation",
+          "explanation": {
+            "correct": "Camouflage works by making figure-ground separation difficult. It prevents the observer from easily distinguishing the object (figure) from the surroundings (ground), which is the first step in object recognition.",
+            "incorrect": {
+              "Proximity": "Camouflage doesn't primarily exploit proximity grouping.",
+              "Similarity": "While similarity to background helps, the primary disruption is to figure-ground separation itself.",
+              "Symmetry": "Camouflage doesn't primarily work by disrupting symmetry perception."
+            }
+          }
+        },
+        {
+          "question": "An architect designs a building facade with repeating window patterns. Viewers automatically group windows by floor level. Which Gestalt principles are most likely at work?",
+          "difficulty": "tricky",
+          "options": [
+            "Only proximity",
+            "Only similarity",
+            "Proximity and similarity together",
+            "Closure and symmetry"
+          ],
+          "answer": "Proximity and similarity together",
+          "explanation": {
+            "correct": "Windows on the same floor are close together (proximity) AND similar in appearance (similarity). Both principles work together to create horizontal grouping by floor, demonstrating how multiple Gestalt principles can combine.",
+            "incorrect": {
+              "Only proximity": "While proximity is important, the windows' similarity also contributes to grouping.",
+              "Only similarity": "Similarity helps, but the horizontal spatial arrangement (proximity) is also crucial.",
+              "Closure and symmetry": "While possibly present, proximity and similarity are the primary principles for floor-level grouping."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "depth-perception",
+      "title": "Depth Perception and Perceptual Constancies",
+      "subtitle": "Seeing in 3D: Binocular and Monocular Cues",
+      "summary": "Examination of depth perception - the ability to see in three dimensions and judge distance. Covers binocular cues (retinal disparity, convergence) and monocular/pictorial cues (relative size, interposition, linear perspective, texture gradient, light/shadow, aerial perspective, relative height). Also covers perceptual constancies.",
+      "keyTakeaways": [
+        "Depth perception is the ability to see in 3D and judge distance using depth cues.",
+        "Binocular cues require both eyes: retinal disparity (slight difference in retinal images) and convergence (eye rotation).",
+        "Monocular/pictorial cues work with one eye: relative size, interposition, linear perspective, texture gradient, light/shadow, aerial perspective, and relative height.",
+        "Perceptual constancy allows us to perceive objects as unchanging despite changes in sensory input (size, shape, brightness, color, location constancy)."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "What is Depth Perception?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Depth perception is the ability to see things in a 3-dimensional way and to judge distance. We use depth cues to gather information on the images we see. These cues are divided into binocular cues (requiring both eyes) and monocular cues (available to each eye separately)."
+        },
+        {
+          "type": "heading",
+          "text": "Non-Pictorial (Binocular) Cues"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non-pictorial cues involve the physical functioning of the eyes and brain rather than interpreting visual patterns. Both are binocular, requiring two eyes:"
+        },
+        {
+          "type": "list",
+          "title": "Binocular Depth Cues",
+          "items": [
+            "Retinal Disparity: The slight difference in images projected on each retina due to horizontal eye separation. The brain uses this disparity to estimate depth, especially for objects within a few meters. Greater disparity indicates closer objects.",
+            "Convergence: The inward rotation of eyes to focus on nearby objects. The degree of convergence (angle of eye movement) provides information about object distance. Greater convergence indicates closer objects."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Pictorial (Monocular) Cues"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pictorial cues refer to features of the visual field itself and work with just one eye. These are the cues used in paintings and photographs to create depth illusion:"
+        },
+        {
+          "type": "list",
+          "title": "Seven Monocular Depth Cues",
+          "items": [
+            "Relative Size: Objects farther away appear smaller than similar objects that are closer.",
+            "Interposition (Occlusion): When one object partially blocks another, the blocked object is perceived as farther away.",
+            "Linear Perspective: Parallel lines (e.g., railroad tracks) appear to converge as they recede into distance, signaling depth.",
+            "Texture Gradient: Textures appear denser and less detailed as they get farther away.",
+            "Light and Shadow: The way light falls on objects creates shadows that indicate their shape and position in 3D space.",
+            "Aerial Perspective: Distant objects appear hazier or less vivid due to atmospheric scattering of light.",
+            "Relative Height: Objects higher in the visual field (closer to horizon) are perceived as farther away, especially in landscapes."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Perceptual Constancies"
+        },
+        {
+          "type": "paragraph",
+          "text": "The ability to perceive an object as unchanging, despite changes in the sensory information reaching our eyes, is called perceptual constancy. This includes size constancy (objects appear same size regardless of distance), shape constancy (objects appear same shape from different angles), brightness constancy (objects appear same brightness under different lighting), color constancy (objects appear same color under different lighting), and location constancy (world appears stable despite head movements)."
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "The Ames Room Illusion",
+          "text": "The Ames room has trapezoidal walls, floor, and ceiling (not rectangular). Your brain interprets both corners as being at the same distance, even though one is farther away. This creates dramatic size illusions because size constancy operates based on assumed equal distance."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What is depth perception?",
+          "difficulty": "learning",
+          "options": [
+            "The ability to see colors accurately",
+            "The ability to see in 3D and judge distance",
+            "The ability to focus on near objects",
+            "The ability to detect movement"
+          ],
+          "answer": "The ability to see in 3D and judge distance",
+          "explanation": {
+            "correct": "Depth perception is specifically the ability to see things in a three-dimensional way and to judge how far away objects are from us and from each other. This allows us to navigate and interact with our 3D world.",
+            "incorrect": {
+              "The ability to see colors accurately": "This is color perception, not depth perception.",
+              "The ability to focus on near objects": "This is accommodation, a visual function but not depth perception.",
+              "The ability to detect movement": "This is motion perception, a different aspect of vision."
+            }
+          }
+        },
+        {
+          "question": "What is the key difference between binocular and monocular depth cues?",
+          "difficulty": "learning",
+          "options": [
+            "Binocular cues work in darkness; monocular don't",
+            "Binocular cues require both eyes; monocular work with one",
+            "Binocular cues are learned; monocular are innate",
+            "Binocular cues are for far objects; monocular for near"
+          ],
+          "answer": "Binocular cues require both eyes; monocular work with one",
+          "explanation": {
+            "correct": "Binocular cues require both eyes working together (like retinal disparity and convergence), while monocular cues are available to each eye separately and work even with one eye closed.",
+            "incorrect": {
+              "Binocular cues work in darkness; monocular don't": "Both types require visual input; this isn't the distinguishing factor.",
+              "Binocular cues are learned; monocular are innate": "Both types have innate and learned components; this isn't the key difference.",
+              "Binocular cues are for far objects; monocular for near": "Actually, binocular cues work best for nearby objects (within a few meters)."
+            }
+          }
+        },
+        {
+          "question": "Retinal disparity refers to:",
+          "difficulty": "learning",
+          "options": [
+            "Differences in color perception between eyes",
+            "The slight difference in images projected on each retina",
+            "The distance between the two eyes",
+            "The rotation of eyes when focusing"
+          ],
+          "answer": "The slight difference in images projected on each retina",
+          "explanation": {
+            "correct": "Retinal disparity is the slight difference in the images projected on each retina due to the eyes' horizontal separation. The brain uses this disparity to calculate depth - greater disparity indicates closer objects.",
+            "incorrect": {
+              "Differences in color perception between eyes": "Retinal disparity is about spatial differences in images, not color.",
+              "The distance between the two eyes": "This enables retinal disparity but isn't the disparity itself.",
+              "The rotation of eyes when focusing": "This describes convergence, not retinal disparity."
+            }
+          }
+        },
+        {
+          "question": "Convergence as a depth cue involves:",
+          "difficulty": "learning",
+          "options": [
+            "Objects appearing to come together in distance",
+            "The inward rotation of eyes to focus on nearby objects",
+            "The blending of two retinal images",
+            "The overlap of visual fields"
+          ],
+          "answer": "The inward rotation of eyes to focus on nearby objects",
+          "explanation": {
+            "correct": "Convergence is the inward rotation of the eyes to focus on a nearby object. The degree of convergence (angle of eye movement) provides the brain with information about the object's distance - greater convergence means closer objects.",
+            "incorrect": {
+              "Objects appearing to come together in distance": "This describes linear perspective, not convergence of the eyes.",
+              "The blending of two retinal images": "This describes binocular fusion, not the convergence cue.",
+              "The overlap of visual fields": "This enables binocular vision but doesn't specifically describe the convergence cue."
+            }
+          }
+        },
+        {
+          "question": "When one building partially blocks another building behind it, which depth cue tells you the blocked building is farther away?",
+          "difficulty": "application",
+          "options": [
+            "Relative size",
+            "Interposition (Occlusion)",
+            "Linear perspective",
+            "Convergence"
+          ],
+          "answer": "Interposition (Occlusion)",
+          "explanation": {
+            "correct": "Interposition (also called occlusion) is when one object partially blocks another. The blocked object is perceived as farther away. This is a powerful monocular cue that works even with completely ambiguous size information.",
+            "incorrect": {
+              "Relative size": "This would require comparing sizes, but interposition works purely on overlap regardless of size.",
+              "Linear perspective": "This involves parallel lines converging, not one object blocking another.",
+              "Convergence": "Convergence is a binocular cue about eye rotation, not about object overlap."
+            }
+          }
+        },
+        {
+          "question": "Railroad tracks appear to converge in the distance even though you know they're parallel. This demonstrates:",
+          "difficulty": "application",
+          "options": [
+            "Texture gradient",
+            "Linear perspective",
+            "Aerial perspective",
+            "Retinal disparity"
+          ],
+          "answer": "Linear perspective",
+          "explanation": {
+            "correct": "Linear perspective is the depth cue where parallel lines (like railroad tracks) appear to converge as they recede into the distance. This is a powerful monocular cue used extensively in art to create depth illusion.",
+            "incorrect": {
+              "Texture gradient": "This is about textures becoming denser with distance, not parallel lines converging.",
+              "Aerial perspective": "This is about distant objects appearing hazier, not about converging lines.",
+              "Retinal disparity": "This is a binocular cue about different retinal images, not about converging parallel lines."
+            }
+          }
+        },
+        {
+          "question": "A texture like grass or pebbles appears more detailed up close and denser/less detailed in the distance. This demonstrates:",
+          "difficulty": "application",
+          "options": [
+            "Linear perspective",
+            "Texture gradient",
+            "Relative size",
+            "Aerial perspective"
+          ],
+          "answer": "Texture gradient",
+          "explanation": {
+            "correct": "Texture gradient is the depth cue where textures appear denser and less detailed as they get farther away. Individual elements of the texture become harder to distinguish with distance.",
+            "incorrect": {
+              "Linear perspective": "This involves converging parallel lines, not texture density changes.",
+              "Relative size": "While individual texture elements are smaller far away, texture gradient specifically refers to density/detail changes.",
+              "Aerial perspective": "This is about haziness from atmosphere, not texture detail changes."
+            }
+          }
+        },
+        {
+          "question": "Mountains in the far distance appear bluish and hazy compared to nearby mountains. This demonstrates:",
+          "difficulty": "application",
+          "options": [
+            "Texture gradient",
+            "Aerial perspective",
+            "Relative height",
+            "Light and shadow"
+          ],
+          "answer": "Aerial perspective",
+          "explanation": {
+            "correct": "Aerial perspective (also called atmospheric perspective) is the depth cue where distant objects appear hazier or less vivid due to atmospheric scattering of light. The atmosphere creates a blue-gray haze for distant objects.",
+            "incorrect": {
+              "Texture gradient": "This is about texture detail changes, not haziness or color changes.",
+              "Relative height": "This is about position in visual field (height), not haziness.",
+              "Light and shadow": "This is about illumination patterns revealing 3D form, not atmospheric effects."
+            }
+          }
+        },
+        {
+          "question": "In a landscape painting, objects placed higher (closer to the horizon line) are perceived as:",
+          "difficulty": "application",
+          "options": [
+            "Closer to the viewer",
+            "Farther from the viewer",
+            "Larger than lower objects",
+            "Less important"
+          ],
+          "answer": "Farther from the viewer",
+          "explanation": {
+            "correct": "Relative height is the depth cue where objects higher in the visual field (closer to the horizon) are perceived as farther away, especially in landscapes. This is why distant objects are painted higher on the canvas.",
+            "incorrect": {
+              "Closer to the viewer": "This is backwards - higher position indicates greater distance.",
+              "Larger than lower objects": "Height position doesn't directly indicate size, though distant objects are often smaller.",
+              "Less important": "Height position indicates distance, not importance."
+            }
+          }
+        },
+        {
+          "question": "Which depth cue relies on the physical separation between your two eyes?",
+          "difficulty": "learning",
+          "options": [
+            "Linear perspective",
+            "Retinal disparity",
+            "Texture gradient",
+            "Relative size"
+          ],
+          "answer": "Retinal disparity",
+          "explanation": {
+            "correct": "Retinal disparity relies specifically on the horizontal separation between the two eyes, which creates slightly different images on each retina. The brain compares these differences to calculate depth.",
+            "incorrect": {
+              "Linear perspective": "This is a monocular cue that doesn't require two eyes.",
+              "Texture gradient": "This is a monocular cue based on texture patterns, not eye separation.",
+              "Relative size": "This is a monocular cue comparing object sizes, not requiring two eyes."
+            }
+          }
+        },
+        {
+          "question": "What is perceptual constancy?",
+          "difficulty": "learning",
+          "options": [
+            "Objects always look the same size",
+            "Perceiving objects as unchanging despite changes in sensory input",
+            "The inability to detect changes in objects",
+            "Perfect accuracy in size judgments"
+          ],
+          "answer": "Perceiving objects as unchanging despite changes in sensory input",
+          "explanation": {
+            "correct": "Perceptual constancy is the ability to perceive an object as unchanging (in size, shape, color, brightness) despite changes in the sensory information reaching our eyes (like distance, angle, lighting changes).",
+            "incorrect": {
+              "Objects always look the same size": "This is too specific - constancy includes size, shape, color, brightness, and location.",
+              "The inability to detect changes in objects": "Constancy maintains perception of constant properties despite input changes, not inability to detect real changes.",
+              "Perfect accuracy in size judgments": "Constancy is about maintaining stable perception, not perfect accuracy."
+            }
+          }
+        },
+        {
+          "question": "A person appears the same size whether they are 5 or 50 feet away, despite the retinal image being much smaller at 50 feet. This demonstrates:",
+          "difficulty": "application",
+          "options": [
+            "Shape constancy",
+            "Size constancy",
+            "Brightness constancy",
+            "Color constancy"
+          ],
+          "answer": "Size constancy",
+          "explanation": {
+            "correct": "Size constancy is when the brain perceives an object's size as constant even though its retinal image changes with distance. We don't perceive people as shrinking as they walk away, despite smaller retinal images.",
+            "incorrect": {
+              "Shape constancy": "This is about perceiving consistent shape from different angles, not size across distance.",
+              "Brightness constancy": "This is about perceiving consistent brightness under different lighting.",
+              "Color constancy": "This is about perceiving consistent color under different lighting."
+            }
+          }
+        },
+        {
+          "question": "A door appears rectangular whether viewed head-on or at an angle (where it projects a trapezoid on your retina). This demonstrates:",
+          "difficulty": "application",
+          "options": [
+            "Size constancy",
+            "Shape constancy",
+            "Brightness constancy",
+            "Location constancy"
+          ],
+          "answer": "Shape constancy",
+          "explanation": {
+            "correct": "Shape constancy is when an object's shape is perceived as consistent even when viewed from different angles that alter its retinal projection. The door's rectangular shape is perceived despite the trapezoidal retinal image.",
+            "incorrect": {
+              "Size constancy": "This is about consistent size across distances, not shape across angles.",
+              "Brightness constancy": "This is about consistent brightness under different lighting, not shape.",
+              "Location constancy": "This is about perceiving stable locations despite head/eye movements."
+            }
+          }
+        },
+        {
+          "question": "The Ames room creates size illusions because:",
+          "difficulty": "tricky",
+          "options": [
+            "It uses special lighting tricks",
+            "The brain assumes equal distance for both corners when they're not",
+            "One corner is actually much smaller",
+            "It disrupts retinal disparity completely"
+          ],
+          "answer": "The brain assumes equal distance for both corners when they're not",
+          "explanation": {
+            "correct": "The Ames room has trapezoidal (not rectangular) construction. The brain interprets both corners as equidistant based on visual cues (rectangular room assumption), even though one corner is actually much farther. Size constancy then operates based on this false distance assumption, creating dramatic size illusions.",
+            "incorrect": {
+              "It uses special lighting tricks": "The illusion works through room shape and distance cues, not lighting.",
+              "One corner is actually much smaller": "The corners are the same size; one is farther away but appears equidistant.",
+              "It disrupts retinal disparity completely": "Retinal disparity still operates but is overridden by other depth cues suggesting equal distance."
+            }
+          }
+        },
+        {
+          "question": "Which type of depth cue would still work if you closed one eye?",
+          "difficulty": "tricky",
+          "options": [
+            "Convergence",
+            "Retinal disparity",
+            "Both binocular cues",
+            "Monocular/pictorial cues"
+          ],
+          "answer": "Monocular/pictorial cues",
+          "explanation": {
+            "correct": "Monocular (pictorial) cues like relative size, interposition, linear perspective, texture gradient, light/shadow, aerial perspective, and relative height all work with just one eye. This is why paintings and photographs can create depth illusion.",
+            "incorrect": {
+              "Convergence": "Convergence requires two eyes rotating inward together.",
+              "Retinal disparity": "Retinal disparity requires comparing images from two different retinas.",
+              "Both binocular cues": "By definition, binocular cues require both eyes working together."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "theories-visual-perception",
+      "title": "Theories of Visual Perception",
+      "subtitle": "Gregory's Constructivist vs. Gibson's Ecological Theory",
+      "summary": "Examination of two major theories explaining visual perception: Gregory's Constructivist Theory (perception is active, top-down, using prior knowledge) and Gibson's Ecological Theory (perception is direct, bottom-up, from environmental information). Includes discussion of visual illusions.",
+      "keyTakeaways": [
+        "Gregory's Constructivist Theory: Perception is indirect and top-down, involving active construction using prior knowledge, expectations, and hypothesis testing.",
+        "Gibson's Ecological Theory: Perception is direct and bottom-up, picking up invariant information from the environment without complex cognitive processing.",
+        "Gregory explains illusions as misapplied hypotheses based on prior knowledge; Gibson explains them as insufficient environmental information.",
+        "The theories may be complementary - some perceptual tasks may be direct (Gibson) while others require sophisticated internal knowledge (Gregory)."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Three Major Theories"
+        },
+        {
+          "type": "paragraph",
+          "text": "Three major theoretical frameworks explain visual perception: (1) Gestalt Theory (already discussed - 'the whole is greater than the sum of its parts'), (2) Gregory's Constructivist Theory (perception is an active, constructive process using prior knowledge), and (3) Gibson's Ecological Theory (perception is direct without requiring complex cognition)."
+        },
+        {
+          "type": "heading",
+          "text": "Gregory's Constructivist Theory (1966)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Perception is an active, constructive process. The brain uses sensory input, prior knowledge, and expectations to build an interpretation of the visual world. Perception is driven by higher-level cognitive processes such as memory, experience, and context - it is indirect and top-down."
+        },
+        {
+          "type": "list",
+          "title": "Key Features of Constructivist Theory",
+          "items": [
+            "Perception is indirect - the brain constructs perceptions by testing hypotheses based on sensory data and prior knowledge",
+            "Sensory input is incomplete or ambiguous and must be supplemented by cognitive processes",
+            "Essential role for cognition - involves active interpretation using past experiences, expectations, and inferences",
+            "Illusions result from misapplied hypotheses or perceptual errors based on prior knowledge (e.g., size illusions from incorrect depth cues)"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Example: Reading Messy Handwriting",
+          "text": "When reading messy handwriting, your brain uses context and prior knowledge of words to decipher the text, even if some letters are unclear. This demonstrates top-down processing - you use stored knowledge about language to interpret ambiguous sensory input."
+        },
+        {
+          "type": "heading",
+          "text": "Gibson's Ecological Theory (1966)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Perception is direct and does not require complex cognitive processing. The environment provides all the information needed for perception through 'affordances' (cues about how objects can be used). Gibson's theory emphasizes the interaction between organisms and their environment, focusing on real-world, ecological contexts."
+        },
+        {
+          "type": "list",
+          "title": "Key Features of Ecological Theory",
+          "items": [
+            "Perception is direct and bottom-up - we 'pick up' invariant information from the environment without needing inferences",
+            "The optic array provides rich, unambiguous information (e.g., affordances) that specifies what actions are possible",
+            "Minimal role for cognition - perception happens as a result of direct resonance with the environment",
+            "Illusions occur due to insufficient or artificial environmental information (e.g., in lab settings), not cognitive errors"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Example: Walking Through a Forest",
+          "text": "When walking through a forest, you perceive the ground's texture and slopes directly, allowing you to navigate without consciously analyzing every step. The environment provides direct information about affordances - what you can walk on, step over, or avoid."
+        },
+        {
+          "type": "heading",
+          "text": "Are They Complementary?"
+        },
+        {
+          "type": "paragraph",
+          "text": "While Gregory's constructivist ('top-down') and Gibson's direct ('bottom-up') approaches may appear contradictory, they may be complementary. According to Harris (1998): 'Perception is not just a single task but contributes in many different ways to everyday life. Some of these are obviously more difficult than others and it seems likely that some can be accomplished directly, as Gibson maintained, whilst others may require sophisticated internal knowledge and are thus better described by the indirect approach.'"
+        }
+      ],
+      "questions": [
+        {
+          "question": "According to Gregory's Constructivist Theory, perception is best described as:",
+          "difficulty": "learning",
+          "options": [
+            "Direct and bottom-up",
+            "Active, constructive, and top-down",
+            "Passive recording of sensory data",
+            "Purely stimulus-driven"
+          ],
+          "answer": "Active, constructive, and top-down",
+          "explanation": {
+            "correct": "Gregory's theory argues that perception is an active, constructive process where the brain uses sensory input, prior knowledge, and expectations to build interpretations. It's top-down because higher-level knowledge influences how we interpret sensory input.",
+            "incorrect": {
+              "Direct and bottom-up": "This describes Gibson's ecological theory, not Gregory's constructivist theory.",
+              "Passive recording of sensory data": "Gregory emphasizes active construction, not passive recording.",
+              "Purely stimulus-driven": "Constructivist theory emphasizes cognitive contributions beyond just stimulus input."
+            }
+          }
+        },
+        {
+          "question": "According to Gibson's Ecological Theory, perception is best described as:",
+          "difficulty": "learning",
+          "options": [
+            "Active construction using prior knowledge",
+            "Direct pickup of environmental information",
+            "Hypothesis testing and inference",
+            "Dependent on memory and experience"
+          ],
+          "answer": "Direct pickup of environmental information",
+          "explanation": {
+            "correct": "Gibson argues that perception is direct - we directly 'pick up' invariant information from the environment through the optic array without needing complex cognitive processing, inferences, or hypothesis testing.",
+            "incorrect": {
+              "Active construction using prior knowledge": "This describes Gregory's constructivist theory, not Gibson's direct theory.",
+              "Hypothesis testing and inference": "Gibson argues against the need for hypothesis testing - perception is direct.",
+              "Dependent on memory and experience": "While experience matters, Gibson emphasizes direct perception over cognitive mediation."
+            }
+          }
+        },
+        {
+          "question": "How does Gregory's theory explain visual illusions?",
+          "difficulty": "learning",
+          "options": [
+            "Illusions result from insufficient environmental information",
+            "Illusions result from misapplied hypotheses based on prior knowledge",
+            "Illusions don't really exist",
+            "Illusions result from damaged sensory receptors"
+          ],
+          "answer": "Illusions result from misapplied hypotheses based on prior knowledge",
+          "explanation": {
+            "correct": "According to Gregory's constructivist theory, illusions occur when the brain makes incorrect inferences or applies wrong hypotheses based on prior knowledge. For example, size illusions occur when depth cues are misinterpreted.",
+            "incorrect": {
+              "Illusions result from insufficient environmental information": "This is Gibson's explanation, not Gregory's.",
+              "Illusions don't really exist": "Both theories acknowledge illusions exist; they just explain them differently.",
+              "Illusions result from damaged sensory receptors": "Neither theory attributes illusions to sensory damage."
+            }
+          }
+        },
+        {
+          "question": "How does Gibson's theory explain visual illusions?",
+          "difficulty": "learning",
+          "options": [
+            "Illusions result from cognitive errors",
+            "Illusions result from misapplied prior knowledge",
+            "Illusions result from insufficient or artificial environmental information",
+            "Illusions are impossible in natural settings"
+          ],
+          "answer": "Illusions result from insufficient or artificial environmental information",
+          "explanation": {
+            "correct": "Gibson argues that illusions occur due to insufficient or artificial environmental information, particularly in laboratory settings that lack the rich contextual information present in natural environments.",
+            "incorrect": {
+              "Illusions result from cognitive errors": "This is Gregory's explanation; Gibson minimizes cognitive contributions.",
+              "Illusions result from misapplied prior knowledge": "This is Gregory's explanation, not Gibson's.",
+              "Illusions are impossible in natural settings": "Gibson acknowledges illusions but attributes them to impoverished stimuli, not impossibility."
+            }
+          }
+        },
+        {
+          "question": "When reading messy handwriting using context and prior knowledge of words to decipher unclear letters, which theory best explains this?",
+          "difficulty": "application",
+          "options": [
+            "Gibson's ecological theory - direct perception",
+            "Gregory's constructivist theory - top-down processing",
+            "Gestalt theory - proximity principle",
+            "Neither theory applies to reading"
+          ],
+          "answer": "Gregory's constructivist theory - top-down processing",
+          "explanation": {
+            "correct": "This is a classic example of Gregory's top-down processing. You use stored knowledge about language, word structure, and context to interpret ambiguous sensory input (unclear letters). Prior knowledge actively constructs the perception.",
+            "incorrect": {
+              "Gibson's ecological theory - direct perception": "This requires active use of prior knowledge, not direct pickup from stimulus.",
+              "Gestalt theory - proximity principle": "While Gestalt principles might help group letters, the key is using linguistic knowledge (Gregory's theory).",
+              "Neither theory applies to reading": "Gregory's constructivist theory directly applies to reading, especially with ambiguous input."
+            }
+          }
+        },
+        {
+          "question": "When walking through a forest and automatically perceiving ground texture and slopes without conscious analysis, which theory best explains this?",
+          "difficulty": "application",
+          "options": [
+            "Gregory's constructivist theory - hypothesis testing",
+            "Gibson's ecological theory - direct perception of affordances",
+            "Gestalt theory - figure-ground separation",
+            "Neither theory explains navigation"
+          ],
+          "answer": "Gibson's ecological theory - direct perception of affordances",
+          "explanation": {
+            "correct": "This exemplifies Gibson's theory - you directly perceive affordances (what you can walk on, step over) from the environment without conscious analysis. The ground texture and slopes provide direct information for action.",
+            "incorrect": {
+              "Gregory's constructivist theory - hypothesis testing": "This automatic navigation doesn't seem to require conscious hypothesis testing.",
+              "Gestalt theory - figure-ground separation": "While figure-ground helps, the key is direct perception of action possibilities (Gibson).",
+              "Neither theory explains navigation": "Gibson's ecological theory was specifically developed to explain real-world navigation."
+            }
+          }
+        },
+        {
+          "question": "What is the main difference regarding the role of cognition between Gregory's and Gibson's theories?",
+          "difficulty": "learning",
+          "options": [
+            "Both emphasize equal roles for cognition",
+            "Gregory emphasizes essential cognitive role; Gibson emphasizes minimal cognitive role",
+            "Gibson emphasizes more cognition than Gregory",
+            "Neither theory addresses cognition"
+          ],
+          "answer": "Gregory emphasizes essential cognitive role; Gibson emphasizes minimal cognitive role",
+          "explanation": {
+            "correct": "This is a fundamental difference: Gregory argues cognition (memory, expectations, inferences) is essential for perception, while Gibson argues perception is direct with minimal need for cognitive processing - the environment provides sufficient information.",
+            "incorrect": {
+              "Both emphasize equal roles for cognition": "This is a key point of disagreement between the theories.",
+              "Gibson emphasizes more cognition than Gregory": "This is backwards - Gregory emphasizes cognition more than Gibson.",
+              "Neither theory addresses cognition": "The role of cognition is a central point of debate between these theories."
+            }
+          }
+        },
+        {
+          "question": "According to Harris (1998), how might Gregory's and Gibson's theories relate to each other?",
+          "difficulty": "learning",
+          "options": [
+            "They completely contradict each other",
+            "Only one can be correct",
+            "They may be complementary - some tasks direct, others require internal knowledge",
+            "They describe different sensory systems"
+          ],
+          "answer": "They may be complementary - some tasks direct, others require internal knowledge",
+          "explanation": {
+            "correct": "Harris suggests the theories might be complementary: some perceptual tasks can be accomplished directly as Gibson maintained, while others may require sophisticated internal knowledge and are better described by Gregory's indirect approach.",
+            "incorrect": {
+              "They completely contradict each other": "Harris argues they may both be correct for different types of perceptual tasks.",
+              "Only one can be correct": "Harris suggests both capture important aspects of perception.",
+              "They describe different sensory systems": "Both theories address visual perception; Harris argues they may apply to different perceptual tasks."
+            }
+          }
+        },
+        {
+          "question": "What are 'affordances' in Gibson's ecological theory?",
+          "difficulty": "learning",
+          "options": [
+            "Prior knowledge stored in memory",
+            "Cues about how objects can be used or interacted with",
+            "Cognitive hypotheses about objects",
+            "Illusions created by ambiguous stimuli"
+          ],
+          "answer": "Cues about how objects can be used or interacted with",
+          "explanation": {
+            "correct": "Affordances are cues in the environment that directly specify what actions are possible with objects - what you can sit on, grasp, walk on, etc. Gibson argues the environment directly provides this action-relevant information.",
+            "incorrect": {
+              "Prior knowledge stored in memory": "Affordances are in the environment, not stored knowledge (which is Gregory's emphasis).",
+              "Cognitive hypotheses about objects": "Affordances are direct environmental cues, not cognitive constructions.",
+              "Illusions created by ambiguous stimuli": "Affordances are accurate action information, not illusions."
+            }
+          }
+        },
+        {
+          "question": "Which approach is described as 'top-down' processing?",
+          "difficulty": "learning",
+          "options": [
+            "Gibson's ecological theory",
+            "Gregory's constructivist theory",
+            "Both theories equally",
+            "Neither theory"
+          ],
+          "answer": "Gregory's constructivist theory",
+          "explanation": {
+            "correct": "Gregory's theory is 'top-down' because higher-level cognitive processes (prior knowledge, expectations, memory) influence and guide the interpretation of lower-level sensory input.",
+            "incorrect": {
+              "Gibson's ecological theory": "Gibson's is 'bottom-up' - perception driven by stimulus information without top-down cognitive influence.",
+              "Both theories equally": "This is a key difference - Gregory is top-down, Gibson is bottom-up.",
+              "Neither theory": "Gregory's theory is definitively characterized as top-down."
+            }
+          }
+        },
+        {
+          "question": "Which approach is described as 'bottom-up' processing?",
+          "difficulty": "learning",
+          "options": [
+            "Gregory's constructivist theory",
+            "Gibson's ecological theory",
+            "Both theories equally",
+            "Neither theory"
+          ],
+          "answer": "Gibson's ecological theory",
+          "explanation": {
+            "correct": "Gibson's theory is 'bottom-up' because perception is driven by the stimulus information in the environment, flowing upward from sensory input without significant top-down cognitive influence.",
+            "incorrect": {
+              "Gregory's constructivist theory": "Gregory's is 'top-down' - emphasizing cognitive influences on perception.",
+              "Both theories equally": "This is a key difference - Gibson is bottom-up, Gregory is top-down.",
+              "Neither theory": "Gibson's theory is definitively characterized as bottom-up."
+            }
+          }
+        },
+        {
+          "question": "A person from a culture without experience with rectangular buildings views the Müller-Lyer illusion (arrow-like lines) and doesn't experience the illusion. This supports:",
+          "difficulty": "tricky",
+          "options": [
+            "Gibson's theory - illusions require specific environmental experience",
+            "Gregory's theory - illusions depend on prior knowledge/experience",
+            "Neither theory can explain this",
+            "Both theories equally"
+          ],
+          "answer": "Gregory's theory - illusions depend on prior knowledge/experience",
+          "explanation": {
+            "correct": "This supports Gregory's theory that illusions result from misapplied prior knowledge. The Müller-Lyer illusion may depend on experience with rectangular buildings and corners. Without this prior knowledge (carpentered world hypothesis), the illusion doesn't occur.",
+            "incorrect": {
+              "Gibson's theory - illusions require specific environmental experience": "Gibson argues illusions result from impoverished stimuli, not prior knowledge differences.",
+              "Neither theory can explain this": "Gregory's constructivist theory directly predicts this - illusions depend on learned interpretations.",
+              "Both theories equally": "This specifically supports Gregory's emphasis on prior knowledge over Gibson's direct perception."
+            }
+          }
+        },
+        {
+          "question": "Which theory would better explain a pilot's ability to land a plane by directly perceiving approach angle and ground speed from optic flow?",
+          "difficulty": "tricky",
+          "options": [
+            "Gregory's - requires learned hypotheses",
+            "Gibson's - direct perception from optic array",
+            "Neither applies to aviation",
+            "Both explain it equally"
+          ],
+          "answer": "Gibson's - direct perception from optic array",
+          "explanation": {
+            "correct": "This is a classic application of Gibson's theory. Pilots can use optic flow patterns to directly perceive approach angle and speed without complex calculations. The optic array provides rich, direct information about movement through space.",
+            "incorrect": {
+              "Gregory's - requires learned hypotheses": "While learning is involved, the direct specification of approach parameters from optic flow better fits Gibson's theory.",
+              "Neither applies to aviation": "Gibson specifically studied pilot perception and optic flow patterns.",
+              "Both explain it equally": "Gibson's emphasis on direct perception from environmental information better explains this."
+            }
+          }
+        },
+        {
+          "question": "Which statement best captures the fundamental disagreement between Gregory and Gibson?",
+          "difficulty": "tricky",
+          "options": [
+            "Whether vision works at all",
+            "Whether perception requires cognitive interpretation or is direct from environment",
+            "Whether illusions exist",
+            "Whether the brain is involved in perception"
+          ],
+          "answer": "Whether perception requires cognitive interpretation or is direct from environment",
+          "explanation": {
+            "correct": "The fundamental disagreement is whether perception requires cognitive mediation (Gregory - indirect, requires interpretation) or is direct from environmental information (Gibson - no need for interpretation). This is the core theoretical divide.",
+            "incorrect": {
+              "Whether vision works at all": "Both agree vision works; they disagree about how it works.",
+              "Whether illusions exist": "Both acknowledge illusions; they explain them differently.",
+              "Whether the brain is involved in perception": "Both involve the brain; they disagree about what cognitive processes are necessary."
+            }
+          }
+        },
+        {
+          "question": "A radiologist learning to detect subtle abnormalities in X-rays improves with experience and training. This best supports:",
+          "difficulty": "tricky",
+          "options": [
+            "Gibson's theory - direct perception improves",
+            "Gregory's theory - learned interpretations improve",
+            "Neither theory - this is different from normal perception",
+            "Both theories equally"
+          ],
+          "answer": "Gregory's theory - learned interpretations improve",
+          "explanation": {
+            "correct": "Radiologist expertise involves learning what patterns mean (hypotheses about normal vs. abnormal), building knowledge schemas, and using prior experience to interpret ambiguous images. This exemplifies Gregory's emphasis on learned, knowledge-based interpretation.",
+            "incorrect": {
+              "Gibson's theory - direct perception improves": "While practice matters, the key is learning interpretations of ambiguous patterns, not direct pickup.",
+              "Neither theory - this is different from normal perception": "Both theories claim to explain all visual perception, including expert perceptual learning.",
+              "Both theories equally": "The role of learned interpretation better fits Gregory's theory than Gibson's direct perception."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

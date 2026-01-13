@@ -1,0 +1,295 @@
+PSYC100
+GENERAL
+PSYCHOLOGY
+THEORETICAL APPROACHES TO
+PSYCHOLOGY
+
+The Biopsychological approach
+The Behaviourist approach
+Learning
+Outcomes
+
+The Psychodynamic approach
+The Humanistic approach
+The Cognitive approach
+The Evolutionary approach
+
+I - The Biopsychological
+Approach
+How much of our behaviour do you believe to be
+determined by nature (genetics) or nurture
+(environment, upbringing, culture, friends etc.)
+
+The Biopsychological Approach
+The biopsychological approach emphasizes that psychological phenomena are rooted in biological
+processes. In other words, to understand why we feel anxious, learn a new skill, or even fall in
+love, we must look at the brain, nervous system, genetics, and endocrine system.
+For example:
+Schizophrenia – excess dopamine
+Depression – low serotonin
+Addiction – dopamine reward pathways
+Extroversion – low arousal levels
+Aggression – testosterone levels
+
+The Biopsychological Approach
+The impact of biology on our behaviour; how the brain, the nervous system, the hormones
+and genetics influence our behaviour.
+Behaviour genetics:
+1. genetic differences
+2. shared environments
+3. non-shared environments
+Examples: intelligence, personality, addiction
+Two major methods: twin studies and adoption studies
+
+Twin studies
+Twin studies compare identical (monozygotic, MZ) twins, who share nearly 100% of their
+DNA, with fraternal (dizygotic, DZ) twins, who share about 50% of their DNA (like typical
+siblings). By examining similarities and differences in traits between these groups,
+researchers can estimate the heritability of a trait (CONCORDANCE RATE)—how much of
+the variation is due to genetics versus environment.
+If MZ twins are more similar for a trait (e.g., intelligence, depression) than DZ twins, genetics
+likely plays a stronger role, since both twin types are typically raised in similar environments.
+If both MZ and DZ twins show similar levels of similarity, the environment is likely the
+dominant factor.
+
+Twin studies
+The equal environments assumption posits that MZ and DZ twins experience similar
+environmental influences (e.g., parenting, socioeconomic status). This allows differences in
+trait similarity to be attributed to genetics.
+
+1. Classical Twin Design: Compares MZ and DZ twins raised together.
+2. Twins Reared Apart: Studies MZ twins separated at birth and raised in different
+environments. This isolates genetic effects by minimizing shared environmental influences.
+CAUTION HERE!!!
+
+Adoption studies
+Adoption studies examine individuals raised by non-biological (adoptive) parents to separate
+genetic influences from environmental ones. By comparing adopted children to their
+biological parents (genetic influence) and adoptive parents (environmental influence),
+researchers can isolate these factors.
+
+If adopted children resemble their biological parents more than their adoptive parents for a
+trait, genetics likely plays a stronger role. If they resemble their adoptive parents, the
+environment is key.
+
+Criticisms
+Reductionism: It oversimplifies complex behaviours to biology, ignoring culture or
+environment (nature vs. nurture debate).
+Ethical Concerns: Animal testing and genetic editing raise issues.
+Determinism: Suggests biology determines everything, though neuroplasticity shows
+change is possible.
+
+II - The Behaviourist Approach
+Classical conditioning - Classical
+conditioning is a learning process where a
+neutral stimulus becomes associated with an
+unconditioned stimulus to elicit a conditioned
+response.
+UCS (Unconditioned Stimulus), CS
+(Conditioned Stimulus), UCR (Unconditioned
+Response), and CR (Conditioned Response)
+
+The Behaviourist Approach
+Operant conditioning -Unlike classical
+conditioning, which involves automatic
+responses to stimuli, operant conditioning
+focuses on voluntary behaviours and how
+their outcomes influence whether they’re
+repeated
+Positive Reinforcement, Negative
+Reinforcement, Positive Punishment,
+Negative Punishment
+
+The Behaviourist Approach
+Classical conditioning
+
+Pavlov – Dog Experiments
+Watson – Little Albert Study
+
+https://www.youtube.com/watch?v=Xt0ucxOrPQE
+
+The Behaviourist Approach
+Operant Conditioning
+
+Skinner – Skinner Box studies
+
+https://www.youtube.com/watch?v=X-lgMnvPDQ0
+
+7 key assumptions
+1. Behavior is Learned: All behaviors are acquired through interactions with the environment via conditioning
+(classical or operant). Innate or inherited factors are minimized.
+2. Observable Behavior is the Focus: Only measurable, observable behaviors are studied. Internal mental states
+(thoughts, emotions) are considered irrelevant or inaccessible for scientific study.
+3. Environmental Determinism: Behavior is primarily determined by external stimuli and reinforcements, not free
+will or internal processes.
+4. Conditioning Drives Learning: Either Classical Conditioning (Pavlov): Behaviors are learned through
+associations between stimuli (e.g., a bell triggering salivation in dogs), or Operant Conditioning (Skinner):
+Behaviors are shaped by consequences (rewards or punishments).
+5. Tabula Rasa (Blank Slate): Humans and animals start as blank slates, and behavior is shaped entirely by
+experience and learning.
+6. Generalization Across Species: Principles of behavior (e.g., conditioning) apply universally to humans and
+animals, allowing animal studies to inform human behavior.
+7. Predictability and Control: Behavior can be predicted and controlled by manipulating environmental stimuli and
+reinforcements.
+
+Criticisms
+Overemphasis on Observable Behaviour
+Neglect of Innate Factors
+Overreliance on Animal Studies
+Deterministic View
+Ethical Concerns
+Failure to Address Individual Differences
+
+III – The Psychodynamic
+Approach
+While Freud’s psychoanalytic theory was the original
+Psychodynamic theory, the Psychodynamic theories of
+Jung (1964), Adler (1927) and Erikson (1950) aren’t
+psychoanalytic. Because of his enormous influence,
+Freud will be our focus.
+
+Sigmund Freud
+Levels of the mind: Pre-conscious, Conscious, Unconscious
+Personality: Id, Ego, Superego
+Psychosexual Stages of Development
+Defence mechanisms
+
+Id – pleasure principle
+Ego – reality principle
+Superego – morality principle
+
+Psychosexu
+al Stages of
+Developmen
+t
+
+Defense
+mechanis
+ms
+
+Criticisms
+Lack of empirical evidence/ Unfalsifiable concepts
+Overemphasis on sexuality
+Gender bias
+Neglect of social and cultural influences
+
+IV – The Humanistic Perspective
+Both the Psychoanalytic and Behaviourist approaches are deterministic: people are driven by
+forces beyond their control, either unconscious forces from within (Freud) or reinforcements
+from outside (Skinner). Humanistic Psychologists believe in people’s ability to choose how
+they act. It emphasizes individual potential, personal growth, self-actualization, and subjective
+experience
+
+Abraham Maslow – needs hierarchy, self-actualization, positive growth
+Carl Rogers – self concept, unconditional positive regard, conditions of worth, fully
+functioning person
+
+Comparison of Maslow and Rogers
+Similarities:
+Focus on Self-Actualization: Both Maslow and Rogers saw self-actualization as a central human drive,
+emphasizing personal growth and fulfillment.
+Positive View of Humanity: They rejected deterministic or pathology-focused views (e.g., Freud’s
+psychoanalysis) and instead highlighted human potential, creativity, and autonomy.
+Holistic Approach: Both viewed individuals as whole beings, not just products of biology or environment,
+and emphasized subjective experience.
+Difference:
+Structure of Motivation: Maslow proposed a structured hierarchy of needs, with clear stages; Rogers
+focused on a more fluid actualizing tendency, without a rigid sequence.
+
+Maslow
+
+Rogers
+Perceived self = Actual self
+
+Criticisms
+Concepts are difficult to test empirically.
+Overly optimistic view of human nature.
+Overemphasis on subjective experiences.
+
+V – The Cognitive Approach
+Cognitive Psychology doesn’t have a unifying theory and, unlike other ‘brands’ of
+Psychology, it lacks an acknowledged figure: such as Watson, Freud and
+Rogers and their respective approaches (Wade and Tavris, 1990).
+It focuses on mental processes such as perception, memory, thinking, problemsolving, and decision-making. It views the mind as an information-processing
+system, akin to a computer, and emphasizes how people actively interpret and
+make sense of their experiences.
+E.g. Tolman and his cognitive maps
+
+Key theories, models and real
+life applications
+Memory Models: Atkinson and Shiffrin, and Baddeley (TBD later on)
+Cognitive Development: Piaget (TBD later on)
+Cognitive Behavioural Therapy: Beck (TBD later on)
+Rational Emotive Behaviour Therapy: Ellis (TBD later on)
+Artificial Intelligence
+
+Criticisms
+Overemphasis on Mental Processes
+The mind-as-computer metaphor oversimplifies human cognition, ignoring
+creativity, intuition, or subjective experiences that humanism prioritizes.
+Reductionist
+
+VI – The Evolutionary Approach
+Evolutionary psychology is a theoretical approach to psychology that explains human mental
+and behavioural traits as adaptations shaped by natural selection to address survival and
+reproductive challenges in ancestral environments. It integrates principles from evolutionary
+biology, cognitive psychology, and anthropology, positing that the human mind consists of
+specialized cognitive mechanisms, or "modules," designed to solve specific adaptive
+problems like finding food or selecting mates.
+EP is, in general, about universal features of the mind. In so far as individual differences
+exist, the default assumption is that they’re expressions of the same universal human nature
+as it encounters different environments. Gender is the crucial exception to this rule. Natural
+selection has constructed the mental modules of men and women in very different ways as a
+result of their divergent reproductive roles .
+
+Evolutionary psychology principles applied
+to human behaviour
+1. Mate Preferences and Sexual Selection - Evolutionary psychology suggests that
+mate preferences evolved to maximize reproductive success. Men and women developed
+distinct preferences.
+Men’s Preference for Physical Attractiveness & Women’s Preference for Resources (Buss,
+1989).
+2. Fear of Snakes and Spiders - Innate fears of certain animals may have evolved to
+protect humans from dangerous threats in the environment of evolutionary adaptedness
+(Öhman & Mineka, 2001).
+
+Evolutionary psychology principles applied
+to human behaviour
+3. Parental Investment and Attachment - Parents invest heavily in offspring to ensure their
+survival, but strategies differ due to biological costs. Mothers, with higher reproductive costs
+(pregnancy, nursing), tend to be more nurturing, while fathers may focus on resource provision.
+Mother-infant bonding is rapid and intense, driven by oxytocin release during childbirth and
+breastfeeding, fostering attachment to ensure infant survival. Fathers may show conditional
+investment based on paternity certainty (Bowlby, 1969). Mommy’s baby, daddy’s may be!
+4. Jealousy as a Mate-Retention Strategy - Jealousy evolved to protect relationships from
+threats, ensuring reproductive success by preventing partner loss. Men are more distressed by sexual
+infidelity, while women are more concerned about emotional infidelity (Buss et al, 1992).
+
+Criticisms
+Falsifiability
+Reductionism
+Misinterpretation (may be misused to justify social inequalities)
+
+• Different theoretical approaches are based on different models of the
+nature of human beings.
+• Biopsychological approach attempt to quantify how much of the
+variability of any given trait can be attributed to heritability, shared
+environments or non-shared environments.
+
+Summary
+
+• The Behaviourist approach stresses the role of environmental influences
+(learning), especially classical and operant conditioning. Psychology’s
+aim is to predict and control behaviour.
+• The Psychodynamic approach is based on Freud’s psychoanalytic
+theory, which stresses the unconscious (especially repression), infantile
+sexuality and the impact of early experience.
+• Humanistic approach believes in free will and stresses the importance of
+positive aspects of human development.
+• The Cognitive approach analogies and metaphors when trying to
+describe what’s going on inside the brain, in particular the computer
+analogy and the view of people as information processors.
+• Evolutionary approach mentions mechanism or modules which are
+believed to be fixed and universal.
+
+

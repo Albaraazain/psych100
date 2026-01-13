@@ -1,0 +1,319 @@
+{
+  "week": "Week 01",
+  "dateRange": "29 September - 5 October",
+  "topics": [
+    {
+      "id": "what-is-psychology",
+      "title": "What is Psychology? Psychology as a Science",
+      "subtitle": "PSYC100 General Psychology",
+      "summary": "An introduction to psychology as the scientific study of mind, brain, and behavior. This topic explores the definition of psychology, its historical development, relationship with other disciplines, and what makes psychology a legitimate science through empirical methods and systematic investigation.",
+      "keyTakeaways": [
+        "Psychology is the scientific study of the mind, brain, and behavior, exploring thoughts, emotions, and actions to understand individuals and groups.",
+        "Psychology has evolved from philosophy to an independent science since 1879, with major contributions from Wundt, Pavlov, Freud, Skinner, and the cognitive revolution.",
+        "Psychology uses the scientific method including empirical evidence, hypothesis testing, experimentation, and falsifiable theories to study human behavior objectively."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Defining Psychology"
+        },
+        {
+          "type": "paragraph",
+          "text": "The word 'psychology' is derived from the Greek psyche (mind, soul or spirit) and logos (knowledge, discourse or study). Literally, then, Psychology is the 'study of the mind'. Psychology is the scientific study of the mind, brain, and behaviour, exploring thoughts, emotions, and actions to understand individuals and groups. It's a diverse, interdisciplinary field that uses research and experimentation to gain insights into human development, mental processes, and the factors—biological, social, and environmental—that influence how we think, feel, and behave."
+        },
+        {
+          "type": "heading",
+          "text": "A Brief History of Psychology"
+        },
+        {
+          "type": "paragraph",
+          "text": "Psychology's journey from philosophy to science spans over a century, marked by pivotal figures and paradigm shifts that shaped our understanding of the human mind and behavior."
+        },
+        {
+          "type": "list",
+          "title": "Key Historical Milestones",
+          "items": [
+            "1879: Wilhelm Wundt opens first experimental psychology lab in Leipzig - Psychology separates from philosophy, becoming an independent science focused on introspection and experimentation",
+            "1883: Stanley Hall opens first U.S. psychology lab at Johns Hopkins - Expanded scientific psychology globally, emphasizing research",
+            "1885: Hermann Ebbinghaus publishes on memory experiments - Demonstrated systematic self-experimentation, solidifying cognitive psychology's scientific basis",
+            "1886: Sigmund Freud begins psychoanalysis - Introduced talk therapy and unconscious mind theories, adding depth to scientific inquiry into mental processes",
+            "1888: Cattell publishes on mental tests - Advanced psychological assessment with standardized measurements, enhancing scientific rigor",
+            "1892: Formation of American Psychological Association - Professionalized the field, fostering scientific collaboration and standards",
+            "1904: Ivan Pavlov's work on classical conditioning - Introduced behavioral experiments, shifting focus to observable responses and scientific objectivity",
+            "1905: Binet first IQ test - Developed empirical tools for measuring cognition, advancing psychometrics as a science",
+            "1912: Gestalt Psychology - Studies of perception, enriching scientific approaches",
+            "1913-1920: Watson's Behaviourism and Little Albert Experiment - Emphasized experimentation over introspection",
+            "1932: Jean Piaget - Used empirical observation to map child cognition, establishing developmental psychology as a science",
+            "1935: Skinner's Operant Conditioning experiments - Built on behaviorism with rigorous experiments on reinforcement, solidifying scientific behavior analysis"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Modern Developments (1950s-Present)",
+          "items": [
+            "1950s-1970s: Rise of neuroscience and psychopharmacology - Linked psychology to brain science via tools like EEG and MRI, enhancing biological validity",
+            "1960s: Cognitive revolution (Chomsky, Miller) - Shifted to scientific study of mental processes using computer models, integrating with information science",
+            "1980s-1990s: Positive psychology emerges (Martin Seligman) - Focused on empirical study of well-being and strengths, expanding beyond pathology",
+            "2000s: Integration of genetics and psychology - Used scientific methods like twin studies to explore heritability of traits",
+            "2010s: Digital psychology and big data - Leveraged technology for large-scale behavioral analysis, making psychology more data-driven",
+            "2021-2023: Studies on social media, loneliness, and AI-inspired models - Empirical research on modern issues like TikTok's impact on adolescents",
+            "2024-2025: Advancements in AI therapy, telehealth, digital therapeutics - Psychology integrates with tech (AI chatbots for mental health, brain-computer interfaces) and neuroscience"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Major Approaches to Psychology"
+        },
+        {
+          "type": "paragraph",
+          "text": "Psychology has developed through several key theoretical perspectives, each contributing unique insights into understanding human behavior and mental processes."
+        },
+        {
+          "type": "list",
+          "title": "Key Theoretical Approaches",
+          "items": [
+            "Wilhelm Wundt - Founder of experimental psychology; used introspection (looking inside); structuralism (structure of the mind)",
+            "William James - Functionalism (function of the mind); emphasized individual differences",
+            "John Watson - Critical of introspection; promoted behaviourism, influenced by Pavlov; conducted Little Albert experiment",
+            "McCarthy, Chomsky and Miller - Cognitive revolution; explored the possibility of producing computer programs that could 'behave' or 'think' intelligently, coining the term 'artificial intelligence'"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Psychology's Relationship with Other Disciplines"
+        },
+        {
+          "type": "paragraph",
+          "text": "Psychology has deep connections with numerous fields, demonstrating its interdisciplinary nature and broad applicability across diverse domains of human knowledge and practice."
+        },
+        {
+          "type": "list",
+          "title": "Interdisciplinary Applications",
+          "items": [
+            "Mechanical Engineering: Understanding human error and stress when designing systems",
+            "Civil Engineering: How buildings and cities affect mental health and behaviour",
+            "Electrical & Electronic Engineering: Designing devices that monitor stress, mood or cognitive performance",
+            "Chemical Engineering: Working with neuropsychologists to develop drugs that affect the brain",
+            "Aerospace Engineering: Aviation psychology, studying pilot cognition, fatigue and decision-making",
+            "Computer Engineering: Human-Computer Interaction (HCI), user experience, cybersecurity, AI",
+            "EFL: Effective language teaching involves understanding cognitive, emotional, social, and motivational processes",
+            "Political Science & International Relations: Human behavior, cognition, and emotions underpin political and international dynamics",
+            "Business Administration and Economics: Consumer behavior, organizational psychology, decision-making"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "What Makes Psychology a Science?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Psychology employs rigorous scientific methods to study the mind and behavior, distinguishing it from philosophical speculation or common-sense understanding."
+        },
+        {
+          "type": "list",
+          "title": "Major Features of Psychology as a Science",
+          "items": [
+            "Empirical Evidence: Observable, measurable data collection through systematic observation and measurement",
+            "Scientific Method: Hypothesis testing, analyzing results, drawing conclusions based on evidence",
+            "Theories and Models: Psychology develops testable theories such as cognitive dissonance and attachment theory",
+            "Experimentation: Studies cause-effect relationships through controlled experiments",
+            "Quantitative and Qualitative Methods: Uses both numerical data and descriptive analysis",
+            "Falsifiability: Theories can be tested and potentially disproven, following Karl Popper's criterion for science"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Carl Gustav Jung Quote",
+          "text": "Psychology, as a science, seeks to explain the complexities of the human mind through rigorous observation and experimentation."
+        },
+        {
+          "type": "heading",
+          "text": "Challenges in Psychological Science"
+        },
+        {
+          "type": "paragraph",
+          "text": "Despite its scientific rigor, psychology faces unique challenges that researchers must acknowledge and address to maintain validity and objectivity."
+        },
+        {
+          "type": "list",
+          "title": "Key Challenges",
+          "items": [
+            "The Social Nature of Science: Psychologists are part of their own subject matter, making objectivity even more difficult than in other sciences",
+            "Experimenter Bias: Researcher expectations can influence study outcomes",
+            "Demand Characteristics: Participants may interpret the experiment's purpose and alter their behavior accordingly",
+            "The Problem of Representativeness: Questions about cultural diversity in research samples",
+            "The Problem of Artificiality: Laboratory settings may not reflect real-world behavior, affecting generalizability",
+            "Internal vs External Validity: High internal validity (effects due to manipulation of independent variable) may come at the cost of external validity (generalizability to other settings, populations, or times)"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Maintaining Scientific Rigor",
+          "text": "While Psychology sometimes faces challenges, like the complexity of human behaviour or ethical limits on experimentation, its commitment to evidence-based methods aligns it with other sciences like biology or physics. Recognizing and actively addressing these limitations are crucial for maintaining the scientific rigor and validity of psychological research."
+        },
+        {
+          "type": "heading",
+          "text": "Main Areas of Psychology"
+        },
+        {
+          "type": "paragraph",
+          "text": "Psychology encompasses diverse specializations, each focusing on different aspects of human behavior and mental processes, from clinical treatment to organizational dynamics, developmental stages, cognitive functions, and social interactions."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What is the literal meaning of the word 'psychology' derived from Greek?",
+          "options": [
+            "Study of behavior",
+            "Study of the mind",
+            "Study of the brain",
+            "Study of consciousness"
+          ],
+          "answer": "Study of the mind"
+        },
+        {
+          "question": "Who opened the first experimental psychology laboratory in Leipzig in 1879?",
+          "options": [
+            "Sigmund Freud",
+            "Wilhelm Wundt",
+            "William James",
+            "John Watson"
+          ],
+          "answer": "Wilhelm Wundt"
+        },
+        {
+          "question": "What major contribution did Ivan Pavlov make to psychology in 1904?",
+          "options": [
+            "Psychoanalysis",
+            "Classical conditioning",
+            "IQ testing",
+            "Gestalt psychology"
+          ],
+          "answer": "Classical conditioning"
+        },
+        {
+          "question": "Which approach to psychology emphasized introspection and the structure of the mind?",
+          "options": [
+            "Functionalism",
+            "Behaviourism",
+            "Structuralism",
+            "Humanism"
+          ],
+          "answer": "Structuralism"
+        },
+        {
+          "question": "What was the cognitive revolution primarily focused on?",
+          "options": [
+            "Observable behavior only",
+            "Unconscious processes",
+            "Mental processes and information processing",
+            "Emotional experiences"
+          ],
+          "answer": "Mental processes and information processing"
+        },
+        {
+          "question": "Which of the following is NOT a major feature that makes psychology a science?",
+          "options": [
+            "Empirical evidence",
+            "Falsifiability",
+            "Introspection only",
+            "Hypothesis testing"
+          ],
+          "answer": "Introspection only"
+        },
+        {
+          "question": "What is experimenter bias?",
+          "options": [
+            "When participants lie in studies",
+            "When researcher expectations influence study outcomes",
+            "When studies lack control groups",
+            "When data is fabricated"
+          ],
+          "answer": "When researcher expectations influence study outcomes"
+        },
+        {
+          "question": "Who conducted the Little Albert experiment demonstrating classical conditioning in humans?",
+          "options": [
+            "Ivan Pavlov",
+            "B.F. Skinner",
+            "John Watson",
+            "Wilhelm Wundt"
+          ],
+          "answer": "John Watson"
+        },
+        {
+          "question": "What does high internal validity mean in psychological research?",
+          "options": [
+            "Results can be generalized widely",
+            "The study has many participants",
+            "Observed effects are due to manipulation of the independent variable",
+            "The study uses multiple methods"
+          ],
+          "answer": "Observed effects are due to manipulation of the independent variable"
+        },
+        {
+          "question": "When was the American Psychological Association (APA) formed?",
+          "options": [
+            "1879",
+            "1892",
+            "1905",
+            "1913"
+          ],
+          "answer": "1892"
+        },
+        {
+          "question": "Who developed the first IQ test in 1905?",
+          "options": [
+            "Cattell",
+            "Wundt",
+            "Binet",
+            "Ebbinghaus"
+          ],
+          "answer": "Binet"
+        },
+        {
+          "question": "What is demand characteristics in psychological experiments?",
+          "options": [
+            "The cost of conducting research",
+            "Participants interpreting the experiment's purpose and altering behavior",
+            "The need for more participants",
+            "Ethical requirements for studies"
+          ],
+          "answer": "Participants interpreting the experiment's purpose and altering behavior"
+        },
+        {
+          "question": "Which field of engineering might use psychology to study pilot cognition and fatigue?",
+          "options": [
+            "Civil engineering",
+            "Aerospace engineering",
+            "Chemical engineering",
+            "Mechanical engineering"
+          ],
+          "answer": "Aerospace engineering"
+        },
+        {
+          "question": "What technological advancement in the 1950s-1970s helped link psychology to brain science?",
+          "options": [
+            "Computers",
+            "EEG and MRI",
+            "Smartphones",
+            "Social media"
+          ],
+          "answer": "EEG and MRI"
+        },
+        {
+          "question": "Who is associated with functionalism and the study of the function of the mind?",
+          "options": [
+            "Wilhelm Wundt",
+            "William James",
+            "John Watson",
+            "Sigmund Freud"
+          ],
+          "answer": "William James"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+PSYC100 GENERAL PSYCHOLOGY
+
+LEARNING
+
+Learning Outcomes
+
+• What is learning?
+• Behaviourist approaches
+• Classical conditioning
+• Operant conditioning
+• Cognitive approaches
+• Tolman’s cognitive behaviourism
+• Kohler’s insight learning
+
+What is learning?
+Learning, in the context of psychology, is defined as a relatively
+permanent change in behaviour, knowledge, capability, or
+attitude that occurs as a result of experience. This process
+involves the acquisition, modification, or strengthening of
+behaviours (and cognitive structures) through interaction with the
+environment, excluding changes due to maturation, fatigue, or
+temporary states (Ormrod, 2016).
+e.g. maturation (e.g., a child walking due to physical
+development), fatigue (e.g., slower reactions when tired), or
+temporary states (e.g., altered behavior due to a mood swing
+
+Classical Conditioning- Pavlov
+Before conditioning, the taste of food will naturally and automatically
+make the dog salivate, but the sound of a bell won’t. So, the food is
+referred to as an unconditioned stimulus (UCS), and the salivation is an
+unconditioned response (UCR) – an automatic, reflex, biologically builtin response. The dog doesn’t have to learn to salivate in response to
+food, because it does so naturally.
+During conditioning, the bell is paired with the food. Because the bell
+doesn’t naturally produce salivation, it’s called a conditioned stimulus
+(CS): it only produces salivation on the condition that it’s paired with the
+UCS. It’s also neutral with regard to salivation prior to conditioning.
+If the bell and food are paired often enough, the dog starts to salivate as
+soon as it hears the bell and before the food is presented. When this
+occurs, conditioning has taken place. The salivation is now referred to as
+a conditioned response (CR), because it’s produced by a conditioned
+stimulus (CS) – the bell.
+
+Classical conditioning
+
+• Generalisation – responding to all similar sounds
+• Discrimination – responding only to the conditioned
+sound
+• Extinction – the response is inhibited if the bell is not
+paired with food (not totally eliminated)
+• Spontaneous recovery – salivation reappears
+
+Classical conditioning and phobias
+• The case of Little Albert (Watson and Rayner, 1920) - conditioning.
+• The case of Little Peter (Jones, 194) - unconditioning.
+• "Little Albert" experiment (1920), where a baby was conditioned
+to fear a white rat through classical conditioning. In contrast, Jones
+aimed to uncondition or desensitize a fear response in a young
+child, demonstrating that phobias could be reversed through
+gradual exposure and positive associations.
+
+Classical conditioning and phobias
+"Little Peter" was a healthy, intelligent boy approximately 2 years and 10 months old. Peter
+exhibited a strong phobia of furry animals, particularly a white rat, but this fear generalized to
+similar stimuli like rabbits, fur coats, feathers, and cotton wool (but not to non-furry objects like
+wooden blocks). His reactions included crying, fleeing, and physiological signs of distress (e.g.,
+sweating, rapid heartbeat).
+Peter was seated at a table with his favorite foods (e.g., candy, crackers, milk) to create a
+positive emotional state. The feared stimulus (starting with the rat, then shifting focus to the
+rabbit as it elicited stronger fear) was introduced at a safe distance (e.g., across the room).
+Over sessions, the distance was gradually reduced while maintaining the pleasant activity,
+associating the stimulus with enjoyment rather than fear.
+Peter's terror subsided progressively. He stopped crying when the rabbit was nearby, began
+tolerating closer proximity, and eventually petted and held the rabbit without distress—
+sometimes even enjoying it while eating.
+
+Classical conditioning and phobias
+
+• Think about your phobias
+• Is it a learned behaviour?
+• How can we treat these phobias?
+• Exposure therapy – systematic desensitization
+
+Operant conditioning
+
+• Edward Thorndike’s experiments, particularly his work
+with cats in puzzle boxes, were foundational to the
+development of operant conditioning, a learning
+process later expanded upon by B.F. Skinner.
+Thorndike’s research is a cornerstone of operant
+conditioning.
+
+Thorndike
+• Procedure – re. image
+• Observations- Initially, the cat engaged in random
+behaviours (e.g., scratching, clawing, or biting the
+box) in an attempt to escape, “trial-and-error
+learning”; Over time, the cat began to associate the
+specific action (e.g., pressing the lever) with the
+consequence of escaping and receiving food; With
+repeated trials, the time taken to escape decreased
+significantly, as the cat learned to perform the
+correct action more quickly and efficiently.
+• Key Finding: “Law of Effect” behaviours followed by
+satisfying consequences were more likely to be
+repeated, while behaviours followed by unsatisfying
+consequences were less likely to occur again.
+
+Skinner
+• Procedure: re image
+• Observations: Initially, the rat would explore the box and
+accidentally press the lever, receiving a food pellet. Over time,
+the rat learned to associate lever-pressing with the reward,
+increasing the frequency of this behaviour; Skinner noted that
+the rate and pattern of lever-pressing depended on the type
+and timing of the consequences. For instance: Continuous
+reinforcement (reward every time the lever was pressed) led
+to rapid learning. Intermittent reinforcement (reward
+delivered only occasionally, e.g., every third press or at
+random intervals) made the behaviour more resistant to
+extinction (stopping when rewards ceased); If a punishment
+(e.g., a mild shock) was delivered after lever-pressing, the
+behaviour decreased.
+• Key Finding: Skinner’s experiments demonstrated that
+behaviour is shaped by reinforcement (consequences that
+increase behaviour) and punishment (consequences that
+decrease behaviour).
+
+Some examples
+
+• Positive reinforcement
+- An employee meets a
+sales target and
+receives a bonus. This
+motivates them to
+continue working hard
+to achieve future
+bonuses.
+• Negative reinforcement
+- A driver buckles their
+seatbelt to stop the
+car's annoying warning
+beep. The removal of
+the beep encourages
+consistent seatbelt use.
+
+• Positive punishment - A
+teenager breaks curfew
+and is assigned extra
+chores by their parents.
+The added chores
+discourage future
+curfew violations.
+• Negative punishment A driver receives a
+speeding ticket,
+resulting in the loss of
+money (fine). This
+financial penalty
+discourages speeding in
+the future.
+
+Schedules of
+reinforcement
+
+Comparison of CC and OC
+• They’re both types of associative learning.
+• In CC, learning happens involuntarily, in OC learning is voluntary.
+• In CC, the stimulus is guaranteed to produce the response, while the
+likelihood of a particular operant response being emitted is a function of
+the past consequences of such behaviour.
+• In CC, the UCS works in basically the same way regardless of whether it’s
+pleasurable or aversive; in OC, responses that result in pleasurable
+outcomes are likely to be repeated, while those that result in aversive
+outcomes aren’t.
+• In CC, the reinforcer is presented regardless of what the animal does and is
+presented before the response. In OC, the reinforcer is only presented if
+the animal emits some specified, pre-selected behaviour, and is presented
+after the behaviour.
+
+Do principles of learning apply to all species?
+• According to the concept of preparedness (Seligman, 1970), animals are
+biologically prepared to learn actions that are closely related to the
+survival of their species (such as learned water or food aversions), and
+these prepared behaviours are learned with very little training. However,
+contraprepared behaviours are contrary to an animal’s natural tendencies,
+and so are learned with great difficulty, if at all.
+• E.g. E.g. Susan Mineka (1980s) on rhesus monkeys showed they quickly learned to
+fear snakes after observing other monkeys react fearfully to them, even through
+video. This fear was acquired after just one or two exposures and persisted longer
+than fears conditioned to neutral stimuli like flowers.
+
+• Same for humans.
+• E.g. Ohman et al. (1975) – humans can easily be conditioned to fear spiders and
+snakes, but not to flowers, houses or berries.
+
+Do principles of learning apply to all species?
+•Fear of heights: conditioning studies where fear of heights is easily
+strengthened (Gibson & Walk, 1960)
+•Fear of the dark: Studies (e.g., Grillon et al., 1997) show that fear
+responses to dark environments paired with aversive stimuli (e.g., loud
+noises) are stronger and more resistant to extinction than fears of bright,
+open spaces.
+•Öhman and Mineka’s work contrasted fear conditioning to evolutionarily
+relevant stimuli (snakes) with modern ones (electrical outlets). While shocks
+paired with outlets can induce fear, it requires more trials, is weaker, and
+extinguishes faster compared to snake-related fears.
+
+Cognitive approaches
+• Social Learning Theory (Bandura, 1977): While not
+denying the role of both classical and operant
+conditioning, SLT focuses on observational learning
+(or modelling), in which cognitive factors are
+crucial.
+• e.g. Bobo doll experiment
+
+• Tolman’s Cognitive Behaviourism – his maze
+experiments, particularly his work with rats in the
+1930s, were pivotal in challenging the strict
+behaviourist views of learning and introducing the
+concept of cognitive learning.
+• Kohler’s experiment with chimps.
+
+Tolman concluded that Group
+3 had been learning the
+maze’s layout during the nonrewarded trials, even though
+they didn’t demonstrate this
+learning until a reward was
+introduced. This phenomenon
+was termed latent learning
+(“cognitive maps”)
+
+Comparison of operant conditioning and latent
+learning
+
+• Operant conditioning, as developed by Skinner,
+emphasizes that behaviours are shaped by immediate
+consequences (reinforcement or punishment). Tolman’s
+findings showed that learning can occur without
+immediate reinforcement and be expressed later when
+a reinforcer is introduced.
+
+Tolman concluded that Group 3 had been learning the maze’s layout during the non-rewarded tria
+
+Kohler (1925) has demonstated that chimps learn by INSIGHT (the sudden
+perception of a useful relationship that helps to solve a problem).
+
+What about learned helplessness?
+• A condition where an individual/animal, after repeated exposure to uncontrollable
+negative events, develops a belief that they cannot influence outcomes, leading to
+passivity and reduced motivation to act, even when control is possible (Seligman, 1960s).
+• Classical Conditioning: Learned helplessness involves associating an aversive stimulus
+with a lack of control, leading to a conditioned response of helplessness or resignation.
+• Operant Conditioning: When actions (e.g., attempts to escape or solve a problem)
+consistently fail to produce desired outcomes, the individual learns that their behavior
+has no effect, reducing future attempts (negative reinforcement of passivity).
+• Cognitive Learning: The cognitive aspect of learned helplessness emphasizes the role of
+perception and belief. Individuals internalize the idea that they are powerless, which
+shapes their expectations and behavior in new situations.
+
+Learned helplessness
+
+Behaviourist approaches
+Lecture
+summary
+
+• Classical conditioning - Pavlov,
+Watson
+• Operant conditioning Thorndike, Skinner
+
+Cognitive approaches
+• Tolman
+• Kohler
+
+

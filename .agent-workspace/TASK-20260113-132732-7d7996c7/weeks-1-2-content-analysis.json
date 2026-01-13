@@ -1,0 +1,554 @@
+{
+  "weeks": [
+    {
+      "week_number": 1,
+      "date_range": "September 29 - October 5",
+      "topic": "What is Psychology? Psychology as a Science",
+      "learning_objectives": [
+        "Understand the definition and origins of psychology",
+        "Trace the historical development of psychology from 1879 to present",
+        "Identify the relationship between psychology and other disciplines (engineering, business, EFL, PSIR)",
+        "Recognize the main areas of psychology",
+        "Understand the scientific method in psychology and its challenges"
+      ],
+      "key_concepts": [
+        {
+          "concept": "Psychology Definition",
+          "definition": "The scientific study of the mind, brain, and behaviour, exploring thoughts, emotions, and actions to understand individuals and groups. Etymology: psyche (mind, soul, spirit) + logos (knowledge, study).",
+          "importance": "Foundation concept - establishes psychology as scientific discipline"
+        },
+        {
+          "concept": "Wilhelm Wundt (1879)",
+          "definition": "Founded first experimental psychology laboratory in Leipzig, Germany. Introduced introspection and structuralism (study of structure of the mind).",
+          "importance": "Marks psychology's separation from philosophy as independent science"
+        },
+        {
+          "concept": "William James",
+          "definition": "Developed functionalism - focused on function of the mind and individual differences rather than just structure.",
+          "importance": "Shifted focus from 'what is the mind' to 'what does the mind do'"
+        },
+        {
+          "concept": "John Watson - Behaviourism",
+          "definition": "Rejected introspection, emphasized observable behavior. Famous for Little Albert experiment demonstrating classical conditioning in humans.",
+          "importance": "Made psychology more objective and measurable"
+        },
+        {
+          "concept": "Cognitive Revolution (1960s)",
+          "definition": "Shift to scientific study of mental processes using computer models. Key figures: McCarthy (coined 'artificial intelligence'), Chomsky, George Miller.",
+          "importance": "Brought mind back into psychology after behaviorism's dominance"
+        },
+        {
+          "concept": "Scientific Method Features",
+          "definition": "1) Empirical evidence (observable, measurable data), 2) Hypothesis testing, 3) Testable theories, 4) Experimentation (cause-effect), 5) Quantitative/qualitative methods, 6) Falsifiability.",
+          "importance": "Establishes psychology as legitimate science"
+        },
+        {
+          "concept": "Introspection",
+          "definition": "'Looking inside' - systematic self-observation of conscious experience. Pioneered by Wundt.",
+          "importance": "Early method, criticized by Watson as too subjective"
+        },
+        {
+          "concept": "Structuralism",
+          "definition": "Wundt's approach focusing on identifying the structure/components of the mind.",
+          "importance": "First systematic psychological theory"
+        },
+        {
+          "concept": "Functionalism",
+          "definition": "William James's approach examining the function and purpose of mental processes and behavior.",
+          "importance": "Influenced educational and industrial psychology"
+        },
+        {
+          "concept": "Experimenter Bias",
+          "definition": "When researcher's expectations influence experiment results.",
+          "importance": "Key methodological challenge in psychological research"
+        },
+        {
+          "concept": "Demand Characteristics",
+          "definition": "Cues that might reveal experiment's purpose, causing participants to change behavior.",
+          "importance": "Threatens validity of psychological experiments"
+        },
+        {
+          "concept": "Internal vs External Validity",
+          "definition": "Internal: observed effects are due to IV manipulation. External: results generalizable to other settings/populations/times.",
+          "importance": "Trade-off in experimental design - laboratory control vs real-world applicability"
+        },
+        {
+          "concept": "Classical Conditioning",
+          "definition": "Ivan Pavlov (1904) - learning through association. Demonstrated with dogs salivating to bell.",
+          "importance": "Foundation of behaviorist approach to learning"
+        },
+        {
+          "concept": "Operant Conditioning",
+          "definition": "B.F. Skinner (1935) - learning through consequences (reinforcement/punishment).",
+          "importance": "Explains voluntary behavior modification"
+        },
+        {
+          "concept": "Gestalt Psychology (1912)",
+          "definition": "Studies of perception emphasizing 'the whole is greater than sum of parts'.",
+          "importance": "Influenced cognitive psychology and visual perception research"
+        },
+        {
+          "concept": "Positive Psychology (1980s-1990s)",
+          "definition": "Martin Seligman's approach focusing on well-being and human strengths rather than just pathology.",
+          "importance": "Expanded psychology beyond treating mental illness"
+        },
+        {
+          "concept": "Behavioral Genetics",
+          "definition": "Twin studies to explore heritability of psychological traits.",
+          "importance": "Modern integration of genetics with psychology"
+        },
+        {
+          "concept": "Psychoanalysis",
+          "definition": "Sigmund Freud (1886) - talk therapy exploring unconscious mind.",
+          "importance": "Introduced therapeutic approach and unconscious processes"
+        },
+        {
+          "concept": "Mental Tests",
+          "definition": "James McKeen Cattell (1888) - standardized psychological measurements.",
+          "importance": "Founded psychometrics and psychological assessment"
+        },
+        {
+          "concept": "IQ Test",
+          "definition": "Alfred Binet (1905) - first intelligence test for measuring cognition empirically.",
+          "importance": "Revolutionary tool for educational and clinical assessment"
+        }
+      ],
+      "important_studies": [
+        {
+          "study": "Little Albert Experiment (1913-1920)",
+          "researcher": "John Watson",
+          "description": "Demonstrated classical conditioning in humans - taught infant to fear white rat through association with loud noise.",
+          "significance": "Proved behaviorist principles apply to human emotions"
+        },
+        {
+          "study": "Memory Experiments (1885)",
+          "researcher": "Hermann Ebbinghaus",
+          "description": "Systematic self-experimentation on memory using nonsense syllables.",
+          "significance": "Established cognitive psychology's scientific basis"
+        },
+        {
+          "study": "Dog Salivation Experiments (1904)",
+          "researcher": "Ivan Pavlov",
+          "description": "Dogs learned to salivate to bell that predicted food.",
+          "significance": "Discovered classical conditioning - foundational learning principle"
+        },
+        {
+          "study": "Skinner Box Studies (1935)",
+          "researcher": "B.F. Skinner",
+          "description": "Rats/pigeons learning through reinforcement schedules.",
+          "significance": "Demonstrated operant conditioning and behavior modification"
+        }
+      ],
+      "applications": [
+        {
+          "field": "Computer Engineering",
+          "application": "Human-Computer Interaction (HCI), user experience, cybersecurity, AI development"
+        },
+        {
+          "field": "Mechanical Engineering",
+          "application": "Understanding human error and stress in system design"
+        },
+        {
+          "field": "Civil Engineering",
+          "application": "How buildings and cities affect mental health and behavior"
+        },
+        {
+          "field": "Electrical & Electronic Engineering",
+          "application": "Designing devices to monitor stress, mood, cognitive performance"
+        },
+        {
+          "field": "Chemical Engineering",
+          "application": "Neuropsychology collaboration for brain-affecting drug development"
+        },
+        {
+          "field": "Aerospace Engineering",
+          "application": "Aviation psychology - pilot cognition, fatigue, decision-making"
+        },
+        {
+          "field": "EFL (English as Foreign Language)",
+          "application": "Understanding cognitive, emotional, social, motivational processes in language learning"
+        },
+        {
+          "field": "Political Science & International Relations",
+          "application": "Human behavior, cognition, emotions underpin political dynamics"
+        }
+      ],
+      "timeline_highlights": [
+        "1879 - Wundt opens first experimental psychology lab (Leipzig)",
+        "1883 - Stanley Hall opens first U.S. psychology lab (Johns Hopkins)",
+        "1885 - Ebbinghaus publishes memory experiments",
+        "1886 - Freud begins psychoanalysis",
+        "1888 - Cattell publishes on mental tests",
+        "1892 - American Psychological Association formed",
+        "1904 - Pavlov's classical conditioning",
+        "1905 - Binet's first IQ test",
+        "1912 - Gestalt Psychology emerges",
+        "1913-1920 - Watson's Behaviourism and Little Albert",
+        "1932 - Piaget's developmental psychology",
+        "1935 - Skinner's operant conditioning",
+        "1950s - Neuroscience and psychopharmacology rise",
+        "1960s - Cognitive revolution (Chomsky, Miller)",
+        "1980s-1990s - Positive psychology (Seligman)",
+        "2000s - Genetics integration (behavioral genetics)",
+        "2010s - Digital psychology and big data",
+        "2020s - AI therapy, telehealth, brain-computer interfaces"
+      ],
+      "challenges_in_psychology": [
+        "Social nature of science - objectivity problem (psychologists part of their subject matter)",
+        "Psychology experiment as social situation (experimenter bias, demand characteristics)",
+        "Problem of representativeness (cultural factors)",
+        "Problem of artificiality (generalizability issues)",
+        "Internal vs external validity trade-off"
+      ]
+    },
+    {
+      "week_number": 2,
+      "date_range": "October 6 - October 12",
+      "topic": "Theoretical Approaches to Psychology",
+      "learning_objectives": [
+        "Understand the biopsychological approach and behavior genetics methods",
+        "Explain behaviorist principles (classical and operant conditioning)",
+        "Describe psychodynamic theory including Freud's personality structure and psychosexual stages",
+        "Identify humanistic psychology's key concepts (self-actualization, unconditional positive regard)",
+        "Understand cognitive psychology's information-processing approach",
+        "Explain evolutionary psychology's principles and applications"
+      ],
+      "key_concepts": [
+        {
+          "concept": "I. Biopsychological Approach",
+          "definition": "Emphasizes that psychological phenomena are rooted in biological processes - brain, nervous system, genetics, endocrine system. Studies nature vs nurture.",
+          "importance": "Links mental states to measurable biological mechanisms"
+        },
+        {
+          "concept": "Behavior Genetics",
+          "definition": "Studies three sources of trait variation: 1) genetic differences, 2) shared environments, 3) non-shared environments. Examples: intelligence, personality, addiction.",
+          "importance": "Quantifies heredity vs environment contributions"
+        },
+        {
+          "concept": "Twin Studies",
+          "definition": "Compare Monozygotic (MZ, 100% DNA) vs Dizygotic (DZ, 50% DNA) twins to estimate heritability through concordance rates. Assumes equal environments assumption.",
+          "importance": "Gold standard for separating genetic from environmental factors"
+        },
+        {
+          "concept": "Adoption Studies",
+          "definition": "Compare adopted children to biological parents (genetic) vs adoptive parents (environment) to isolate influences.",
+          "importance": "Natural experiment separating nature and nurture"
+        },
+        {
+          "concept": "Concordance Rate",
+          "definition": "Measure of similarity between twins for a trait. Higher MZ than DZ concordance suggests genetic influence.",
+          "importance": "Quantitative measure of heritability"
+        },
+        {
+          "concept": "II. Behaviourist Approach - Classical Conditioning",
+          "definition": "Learning where neutral stimulus becomes associated with unconditioned stimulus to elicit conditioned response. UCS → UCR becomes CS → CR.",
+          "importance": "Explains automatic emotional responses and phobias"
+        },
+        {
+          "concept": "Operant Conditioning",
+          "definition": "Learning through consequences: Positive Reinforcement (add reward), Negative Reinforcement (remove aversive), Positive Punishment (add aversive), Negative Punishment (remove reward).",
+          "importance": "Explains voluntary behavior modification"
+        },
+        {
+          "concept": "Tabula Rasa (Blank Slate)",
+          "definition": "Behaviorist assumption that humans start as blank slates, shaped entirely by experience and learning.",
+          "importance": "Contrasts with nativist views emphasizing innate knowledge"
+        },
+        {
+          "concept": "Environmental Determinism",
+          "definition": "Behaviorist belief that behavior is primarily determined by external stimuli and reinforcements, not free will.",
+          "importance": "Philosophical foundation of behaviorism"
+        },
+        {
+          "concept": "III. Psychodynamic Approach",
+          "definition": "Freud's theory emphasizing unconscious forces, infantile sexuality, early experience impact. Includes later theorists Jung, Adler, Erikson.",
+          "importance": "First comprehensive personality theory"
+        },
+        {
+          "concept": "Levels of Mind (Freud)",
+          "definition": "Conscious (aware), Pre-conscious (retrievable memories), Unconscious (hidden drives, repressed memories).",
+          "importance": "Revolutionary concept that most mental activity is unconscious"
+        },
+        {
+          "concept": "Personality Structure (Freud)",
+          "definition": "Id (pleasure principle - immediate gratification), Ego (reality principle - mediates), Superego (morality principle - conscience).",
+          "importance": "Explains internal psychological conflicts"
+        },
+        {
+          "concept": "Psychosexual Stages",
+          "definition": "Freud's developmental stages: Oral, Anal, Phallic, Latency, Genital. Fixation at any stage affects adult personality.",
+          "importance": "Links childhood experiences to adult personality"
+        },
+        {
+          "concept": "Defense Mechanisms",
+          "definition": "Unconscious strategies ego uses to manage anxiety (e.g., repression, denial, projection, sublimation).",
+          "importance": "Explains how people cope with threatening thoughts/feelings"
+        },
+        {
+          "concept": "IV. Humanistic Approach",
+          "definition": "Emphasizes free will, personal growth, self-actualization, subjective experience. Rejects determinism of psychoanalysis and behaviorism.",
+          "importance": "Focuses on human potential rather than pathology"
+        },
+        {
+          "concept": "Self-Actualization (Maslow)",
+          "definition": "Peak of hierarchy of needs - realizing full potential. Needs hierarchy: Physiological → Safety → Belongingness → Esteem → Self-Actualization.",
+          "importance": "Provides developmental framework for human motivation"
+        },
+        {
+          "concept": "Self-Concept (Rogers)",
+          "definition": "Individual's perception of self. Healthy development requires congruence between perceived self and actual self.",
+          "importance": "Central to Rogers' person-centered therapy"
+        },
+        {
+          "concept": "Unconditional Positive Regard (Rogers)",
+          "definition": "Acceptance and support regardless of what person says or does. Contrasts with conditions of worth.",
+          "importance": "Essential therapeutic condition for personal growth"
+        },
+        {
+          "concept": "Fully Functioning Person (Rogers)",
+          "definition": "Person who experiences congruence between self-concept and experience, lives authentically.",
+          "importance": "Ideal outcome of humanistic therapy"
+        },
+        {
+          "concept": "V. Cognitive Approach",
+          "definition": "Focuses on mental processes (perception, memory, thinking, problem-solving, decision-making). Views mind as information-processing system like computer.",
+          "importance": "Bridges behaviorism and neuroscience"
+        },
+        {
+          "concept": "Cognitive Maps (Tolman)",
+          "definition": "Internal mental representations of spatial environments. Demonstrated that rats learn maze layout, not just turns.",
+          "importance": "Early evidence that learning involves mental representations, not just S-R connections"
+        },
+        {
+          "concept": "Information Processing",
+          "definition": "Computer analogy - mind encodes, stores, retrieves information like computer processes data.",
+          "importance": "Dominant metaphor in modern cognitive psychology"
+        },
+        {
+          "concept": "VI. Evolutionary Approach",
+          "definition": "Explains mental and behavioral traits as adaptations shaped by natural selection. Mind consists of specialized modules for survival/reproduction problems.",
+          "importance": "Integrates biology with psychology"
+        },
+        {
+          "concept": "Adaptive Problems",
+          "definition": "Challenges in ancestral environments (finding food, selecting mates, avoiding predators) that shaped cognitive mechanisms.",
+          "importance": "Explains why certain behaviors are universal"
+        },
+        {
+          "concept": "Cognitive Modules",
+          "definition": "Specialized mental mechanisms designed to solve specific adaptive problems. Assumed to be universal and fixed.",
+          "importance": "Evolutionary explanation for domain-specific cognition"
+        }
+      ],
+      "important_studies": [
+        {
+          "study": "Pavlov's Dog Experiments",
+          "researcher": "Ivan Pavlov",
+          "description": "Dogs salivated to bell (CS) that predicted food (UCS), demonstrating classical conditioning.",
+          "significance": "Foundation of behaviorist learning theory"
+        },
+        {
+          "study": "Little Albert Study",
+          "researcher": "John Watson",
+          "description": "Infant conditioned to fear white rat through pairing with loud noise.",
+          "significance": "Demonstrated classical conditioning applies to human emotions"
+        },
+        {
+          "study": "Skinner Box Studies",
+          "researcher": "B.F. Skinner",
+          "description": "Rats/pigeons learned behaviors through reinforcement schedules in controlled chamber.",
+          "significance": "Systematically demonstrated operant conditioning principles"
+        },
+        {
+          "study": "Mate Preferences Study (1989)",
+          "researcher": "David Buss",
+          "description": "Cross-cultural study showing men prefer physical attractiveness, women prefer resources.",
+          "significance": "Evolutionary psychology evidence for sex differences in mate selection"
+        },
+        {
+          "study": "Sexual vs Emotional Infidelity (1992)",
+          "researcher": "Buss et al.",
+          "description": "Men more distressed by sexual infidelity, women by emotional infidelity.",
+          "significance": "Evolutionary explanation for jealousy differences"
+        },
+        {
+          "study": "Fear of Snakes/Spiders (2001)",
+          "researcher": "Öhman & Mineka",
+          "description": "Innate fears may have evolved to protect from ancestral threats.",
+          "significance": "Preparedness theory - some fears easier to acquire"
+        }
+      ],
+      "key_figures": [
+        {
+          "name": "Ivan Pavlov",
+          "contribution": "Classical conditioning with dogs",
+          "approach": "Behaviourist"
+        },
+        {
+          "name": "John Watson",
+          "contribution": "Applied behaviorism to humans, Little Albert experiment",
+          "approach": "Behaviourist"
+        },
+        {
+          "name": "B.F. Skinner",
+          "contribution": "Operant conditioning, reinforcement theory",
+          "approach": "Behaviourist"
+        },
+        {
+          "name": "Sigmund Freud",
+          "contribution": "Psychoanalytic theory, unconscious mind, psychosexual development",
+          "approach": "Psychodynamic"
+        },
+        {
+          "name": "Carl Jung",
+          "contribution": "Analytical psychology, collective unconscious",
+          "approach": "Psychodynamic"
+        },
+        {
+          "name": "Alfred Adler",
+          "contribution": "Individual psychology, inferiority complex",
+          "approach": "Psychodynamic"
+        },
+        {
+          "name": "Erik Erikson",
+          "contribution": "Psychosocial development stages",
+          "approach": "Psychodynamic"
+        },
+        {
+          "name": "Abraham Maslow",
+          "contribution": "Hierarchy of needs, self-actualization",
+          "approach": "Humanistic"
+        },
+        {
+          "name": "Carl Rogers",
+          "contribution": "Person-centered therapy, unconditional positive regard",
+          "approach": "Humanistic"
+        },
+        {
+          "name": "Edward Tolman",
+          "contribution": "Cognitive maps in rats",
+          "approach": "Cognitive"
+        },
+        {
+          "name": "Jean Piaget",
+          "contribution": "Cognitive development theory",
+          "approach": "Cognitive"
+        },
+        {
+          "name": "Aaron Beck",
+          "contribution": "Cognitive Behavioral Therapy (CBT)",
+          "approach": "Cognitive"
+        },
+        {
+          "name": "Albert Ellis",
+          "contribution": "Rational Emotive Behavior Therapy (REBT)",
+          "approach": "Cognitive"
+        },
+        {
+          "name": "David Buss",
+          "contribution": "Evolutionary psychology research on mate selection",
+          "approach": "Evolutionary"
+        },
+        {
+          "name": "John Bowlby",
+          "contribution": "Attachment theory",
+          "approach": "Evolutionary/Developmental"
+        }
+      ],
+      "applications": [
+        {
+          "approach": "Biopsychological",
+          "application": "Understanding schizophrenia (excess dopamine), depression (low serotonin), addiction (dopamine reward pathways)"
+        },
+        {
+          "approach": "Behaviourist",
+          "application": "Behavior modification, treatment of phobias, addiction treatment, education"
+        },
+        {
+          "approach": "Psychodynamic",
+          "application": "Psychoanalytic therapy, understanding personality disorders, dream analysis"
+        },
+        {
+          "approach": "Humanistic",
+          "application": "Person-centered therapy, counseling, positive psychology interventions"
+        },
+        {
+          "approach": "Cognitive",
+          "application": "Cognitive Behavioral Therapy (CBT), Artificial Intelligence, memory enhancement techniques"
+        },
+        {
+          "approach": "Evolutionary",
+          "application": "Understanding mate selection, parenting strategies, fear responses, social behavior"
+        }
+      ],
+      "criticisms_by_approach": [
+        {
+          "approach": "Biopsychological",
+          "criticisms": [
+            "Reductionism - oversimplifies complex behaviors to biology",
+            "Ethical concerns with animal testing and genetic editing",
+            "Determinism - ignores neuroplasticity and environmental influence"
+          ]
+        },
+        {
+          "approach": "Behaviourist",
+          "criticisms": [
+            "Overemphasis on observable behavior, ignores mental processes",
+            "Neglects innate factors and biological predispositions",
+            "Overreliance on animal studies - generalization issues",
+            "Deterministic view - denies free will",
+            "Ethical concerns (Little Albert experiment)",
+            "Fails to address individual differences"
+          ]
+        },
+        {
+          "approach": "Psychodynamic",
+          "criticisms": [
+            "Lack of empirical evidence, unfalsifiable concepts",
+            "Overemphasis on sexuality",
+            "Gender bias (penis envy, Oedipus complex)",
+            "Neglects social and cultural influences"
+          ]
+        },
+        {
+          "approach": "Humanistic",
+          "criticisms": [
+            "Concepts difficult to test empirically",
+            "Overly optimistic view of human nature",
+            "Overemphasis on subjective experiences"
+          ]
+        },
+        {
+          "approach": "Cognitive",
+          "criticisms": [
+            "Overemphasis on mental processes, neglects emotions",
+            "Computer metaphor oversimplifies cognition",
+            "Reductionist - ignores holistic experience"
+          ]
+        },
+        {
+          "approach": "Evolutionary",
+          "criticisms": [
+            "Falsifiability issues - hard to test ancestral claims",
+            "Reductionism - reduces complex behaviors to adaptation",
+            "Misinterpretation risk - may justify social inequalities"
+          ]
+        }
+      ],
+      "comparison_summary": {
+        "determinism_vs_free_will": "Biopsychological, Behaviorist, and Psychodynamic approaches are deterministic. Humanistic emphasizes free will. Cognitive and Evolutionary are mixed.",
+        "nature_vs_nurture": "Biopsychological emphasizes nature. Behaviorist emphasizes nurture. Others integrate both.",
+        "focus": "Behaviorist: observable behavior. Psychodynamic: unconscious. Humanistic: subjective experience. Cognitive: mental processes. Evolutionary: adaptive functions."
+      }
+    }
+  ],
+  "meta": {
+    "total_weeks_analyzed": 2,
+    "total_key_concepts": 43,
+    "total_studies": 10,
+    "total_applications": 14,
+    "analyst": "content-analyst-week-132802-475e49",
+    "analysis_date": "2026-01-13",
+    "course": "PSYC100 General Psychology"
+  }
+}

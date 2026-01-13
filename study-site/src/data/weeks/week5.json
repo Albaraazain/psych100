@@ -1,0 +1,1130 @@
+{
+  "week": "Week 05",
+  "dateRange": "3 November - 9 November",
+  "topics": [
+    {
+      "id": "memory-fundamentals",
+      "title": "Memory: Encoding, Storage, and Retrieval",
+      "subtitle": "Understanding How Memory Works",
+      "summary": "Exploration of memory as a system of three interrelated processes: encoding (registration), storage, and retrieval. Covers different types of memory stores and how information flows through the memory system.",
+      "keyTakeaways": [
+        "Memory involves three processes: encoding (transforming sensory input), storage (retaining information), and retrieval (extracting stored information).",
+        "Information can be encoded acoustically (sound), visually (images), or semantically (meaning).",
+        "The memory system consists of sensory memory, short-term memory (STM), and long-term memory (LTM), each with different capacities and durations."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "What is Memory?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Memory is a hypothetical construct denoting three distinguishable but interrelated processes that work together to manage how we encode, retain, and recall information."
+        },
+        {
+          "type": "list",
+          "title": "Three Core Processes of Memory",
+          "items": [
+            "Registration (Encoding): The transformation of sensory input (such as a sound or visual image) into a form that can be stored in memory. Involves selective attention and answers 'How are things remembered?'",
+            "Storage: The operation of holding or retaining information in memory over time. Addresses 'Where are our memories kept?' and 'Is there more than one kind of memory?'",
+            "Retrieval: The process by which stored information is extracted from memory when needed. Relates to 'What do we remember?' and 'Why do we forget?'"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Encoding: How Information Enters Memory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some information is encoded automatically without conscious awareness, such as what you had for breakfast yesterday. Other information requires attention to become encoded. There are three main ways information can be encoded:"
+        },
+        {
+          "type": "list",
+          "title": "Types of Encoding",
+          "items": [
+            "Acoustic Encoding: Encoding of sound (e.g., repeating a phone number aloud)",
+            "Visual Encoding: Encoding of picture images (e.g., picturing someone's face or imagining a room's layout)",
+            "Semantic Encoding: Encoding of meaning (e.g., understanding 'justice' means fairness or recalling 'photosynthesis' as how plants make food)"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Storage: Three Forms of Memory"
+        },
+        {
+          "type": "list",
+          "title": "Memory Storage Systems",
+          "items": [
+            "Sensory Memory: The initial stage where sensory information is briefly held for less than a second to a few seconds. Acts as a buffer for processing and attention.",
+            "Short-Term Memory (STM): Holds information for 20-30 seconds with limited capacity (5-9 items). Where we actively think about or manipulate information.",
+            "Long-Term Memory (LTM): Stores information for extended periods (potentially lifetime) with vast capacity. Includes knowledge, skills, and experiences."
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Memory Capacity and Duration",
+          "text": "Short-term memory has a capacity of approximately 7±2 items (Miller, 1956) and duration of 15-30 seconds. Long-term memory has potentially unlimited capacity and can last a lifetime. Chunking information can increase STM capacity, which is why hyphenated phone numbers are easier to remember."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Which of the three memory processes involves transforming sensory input into a storable form?",
+          "difficulty": "learning",
+          "options": [
+            "Storage",
+            "Encoding",
+            "Retrieval",
+            "Consolidation"
+          ],
+          "answer": "Encoding",
+          "explanation": {
+            "correct": "Encoding (also called registration) is the initial process that transforms sensory input like sounds or visual images into a form that can be stored in memory.",
+            "incorrect": {
+              "Storage": "Storage is the second process that holds or retains information after it has been encoded.",
+              "Retrieval": "Retrieval is the third process that extracts information from storage when needed.",
+              "Consolidation": "While consolidation is a memory-related term, it's not one of the three main processes described in the basic memory model."
+            }
+          }
+        },
+        {
+          "question": "When you repeat a phone number aloud to remember it, which type of encoding are you using?",
+          "difficulty": "application",
+          "options": [
+            "Semantic encoding",
+            "Visual encoding",
+            "Acoustic encoding",
+            "Procedural encoding"
+          ],
+          "answer": "Acoustic encoding",
+          "explanation": {
+            "correct": "Acoustic encoding involves encoding sound. When you repeat a phone number aloud, you're processing and storing it as sound information.",
+            "incorrect": {
+              "Semantic encoding": "Semantic encoding deals with the meaning of information, not its sound.",
+              "Visual encoding": "Visual encoding involves pictures or images, not auditory repetition.",
+              "Procedural encoding": "Procedural memory relates to skills and actions, not the encoding of phone numbers."
+            }
+          }
+        },
+        {
+          "question": "According to George Miller's research (1956), what is the approximate capacity of short-term memory?",
+          "difficulty": "learning",
+          "options": [
+            "3±2 items",
+            "5±2 items",
+            "7±2 items",
+            "9±2 items"
+          ],
+          "answer": "7±2 items",
+          "explanation": {
+            "correct": "Miller's famous finding is called 'the magic number 7±2,' indicating that short-term memory can hold approximately 5-9 pieces of information (digits, words, etc.).",
+            "incorrect": {
+              "3±2 items": "This underestimates STM capacity according to Miller's research.",
+              "5±2 items": "While this overlaps with the lower range, Miller specifically identified 7±2 as the capacity.",
+              "9±2 items": "This overestimates the typical STM capacity identified by Miller."
+            }
+          }
+        },
+        {
+          "question": "What is the typical duration of information in short-term memory without rehearsal?",
+          "difficulty": "learning",
+          "options": [
+            "5-10 seconds",
+            "15-30 seconds",
+            "45-60 seconds",
+            "2-3 minutes"
+          ],
+          "answer": "15-30 seconds",
+          "explanation": {
+            "correct": "Research by Peterson & Peterson (1959) showed that STM duration is approximately 15-30 seconds. Information is lost from STM if not rehearsed within 18-30 seconds.",
+            "incorrect": {
+              "5-10 seconds": "This is too short and underestimates STM duration.",
+              "45-60 seconds": "This exceeds the typical STM duration without rehearsal.",
+              "2-3 minutes": "This is far too long for unrehearsed STM, though information can be maintained longer with active rehearsal."
+            }
+          }
+        },
+        {
+          "question": "Which memory store acts as a buffer that briefly holds sensory information for less than a second?",
+          "difficulty": "learning",
+          "options": [
+            "Short-term memory",
+            "Long-term memory",
+            "Sensory memory",
+            "Working memory"
+          ],
+          "answer": "Sensory memory",
+          "explanation": {
+            "correct": "Sensory memory is the initial stage that briefly holds sensory information (sight, sound, etc.) for typically less than a second to a few seconds, allowing us to process and decide what to attend to.",
+            "incorrect": {
+              "Short-term memory": "STM holds information for 20-30 seconds, much longer than sensory memory.",
+              "Long-term memory": "LTM stores information for extended periods, not just fractions of a second.",
+              "Working memory": "Working memory is a more complex model of STM that actively manipulates information, not the initial sensory buffer."
+            }
+          }
+        },
+        {
+          "question": "A student is trying to remember the concept that 'photosynthesis is how plants make food.' Which type of encoding is this?",
+          "difficulty": "application",
+          "options": [
+            "Acoustic encoding",
+            "Visual encoding",
+            "Semantic encoding",
+            "Sensory encoding"
+          ],
+          "answer": "Semantic encoding",
+          "explanation": {
+            "correct": "Semantic encoding involves encoding the meaning of information. Understanding and remembering what photosynthesis means (how plants make food) is encoding based on meaning and concepts.",
+            "incorrect": {
+              "Acoustic encoding": "This would involve encoding how the word 'photosynthesis' sounds, not what it means.",
+              "Visual encoding": "While one might picture a plant, the question focuses on understanding the concept's meaning.",
+              "Sensory encoding": "This is not a standard type of encoding in memory theory; the three main types are acoustic, visual, and semantic."
+            }
+          }
+        },
+        {
+          "question": "Why are hyphenated phone numbers easier to remember than single long numbers?",
+          "difficulty": "application",
+          "options": [
+            "They use visual encoding instead of acoustic",
+            "They allow for chunking, increasing STM capacity",
+            "They automatically transfer to LTM faster",
+            "They bypass the sensory memory stage"
+          ],
+          "answer": "They allow for chunking, increasing STM capacity",
+          "explanation": {
+            "correct": "Chunking groups individual digits into meaningful units (chunks). Since STM capacity is measured in chunks rather than individual items, hyphenating creates fewer chunks to remember, effectively increasing what can be held in STM.",
+            "incorrect": {
+              "They use visual encoding instead of acoustic": "The encoding type doesn't fundamentally change with hyphenation.",
+              "They automatically transfer to LTM faster": "Chunking affects STM capacity but doesn't directly speed up LTM transfer.",
+              "They bypass the sensory memory stage": "All information must pass through sensory memory regardless of how it's formatted."
+            }
+          }
+        },
+        {
+          "question": "What happens to information in STM if it is NOT rehearsed within 18-30 seconds?",
+          "difficulty": "learning",
+          "options": [
+            "It moves to sensory memory",
+            "It is permanently lost due to limited duration",
+            "It automatically transfers to LTM",
+            "It becomes visual instead of acoustic"
+          ],
+          "answer": "It is permanently lost due to limited duration",
+          "explanation": {
+            "correct": "STM has limited duration (15-30 seconds). Without rehearsal, information decays and is lost from STM within this timeframe. Rehearsal is necessary to maintain information in STM or transfer it to LTM.",
+            "incorrect": {
+              "It moves to sensory memory": "Information flows forward from sensory memory to STM, not backward.",
+              "It automatically transfers to LTM": "Transfer to LTM requires rehearsal; unrehearsed information is lost, not transferred.",
+              "It becomes visual instead of acoustic": "The encoding type doesn't change; the information simply decays and disappears."
+            }
+          }
+        },
+        {
+          "question": "Which characteristic distinguishes long-term memory from short-term memory?",
+          "difficulty": "learning",
+          "options": [
+            "LTM uses only acoustic coding",
+            "LTM has potentially unlimited capacity",
+            "LTM cannot store visual information",
+            "LTM requires constant rehearsal"
+          ],
+          "answer": "LTM has potentially unlimited capacity",
+          "explanation": {
+            "correct": "One of the key differences between LTM and STM is capacity. While STM is limited to about 7±2 items, LTM has potentially unlimited capacity and can store vast amounts of information.",
+            "incorrect": {
+              "LTM uses only acoustic coding": "LTM primarily uses semantic coding but can also use visual and acoustic coding.",
+              "LTM cannot store visual information": "LTM can store visual information, such as remembering what your childhood home looks like.",
+              "LTM requires constant rehearsal": "Once information is in LTM, it doesn't require constant rehearsal to be maintained."
+            }
+          }
+        },
+        {
+          "question": "If you can remember what you had for breakfast yesterday even though you didn't try to memorize it, this demonstrates which aspect of memory?",
+          "difficulty": "application",
+          "options": [
+            "Retrieval failure",
+            "Automatic encoding",
+            "Semantic processing",
+            "Rehearsal strategies"
+          ],
+          "answer": "Automatic encoding",
+          "explanation": {
+            "correct": "Automatic encoding occurs when information is encoded into memory without conscious effort or intention. Daily routine events like meals are often automatically encoded without deliberate memorization attempts.",
+            "incorrect": {
+              "Retrieval failure": "This refers to being unable to access stored information, which is the opposite of successfully remembering breakfast.",
+              "Semantic processing": "While breakfast might be encoded semantically, the key point is that it happened automatically without effort.",
+              "Rehearsal strategies": "Rehearsal involves conscious repetition, but breakfast memories typically form without deliberate rehearsal."
+            }
+          }
+        },
+        {
+          "question": "In which memory store is information primarily coded acoustically?",
+          "difficulty": "learning",
+          "options": [
+            "Sensory memory",
+            "Short-term memory",
+            "Long-term memory",
+            "Procedural memory"
+          ],
+          "answer": "Short-term memory",
+          "explanation": {
+            "correct": "Short-term memory primarily uses acoustic coding, as demonstrated when you repeat information in your head (like a phone number) to keep it in STM through rehearsal.",
+            "incorrect": {
+              "Sensory memory": "Sensory memory holds raw sensory information before significant encoding occurs.",
+              "Long-term memory": "LTM primarily uses semantic (meaning-based) coding, though it can also use visual or acoustic coding.",
+              "Procedural memory": "Procedural memory is a type of LTM that stores motor skills and habits, not primarily acoustic information."
+            }
+          }
+        },
+        {
+          "question": "Which memory process answers the question 'Why do we forget?'",
+          "difficulty": "learning",
+          "options": [
+            "Encoding",
+            "Storage",
+            "Retrieval",
+            "Consolidation"
+          ],
+          "answer": "Retrieval",
+          "explanation": {
+            "correct": "Retrieval is the process of extracting stored information from memory. Forgetting can occur when we cannot successfully retrieve information, even if it was properly encoded and stored.",
+            "incorrect": {
+              "Encoding": "Encoding addresses 'How are things remembered?' If information isn't encoded, it was never in memory to be forgotten.",
+              "Storage": "Storage addresses 'Where are memories kept?' but not specifically why we can't access them.",
+              "Consolidation": "While related to memory, consolidation is not one of the three main processes that explain forgetting."
+            }
+          }
+        },
+        {
+          "question": "A photographer can visualize and recall the exact composition of a photo they took years ago. This is an example of:",
+          "difficulty": "application",
+          "options": [
+            "Acoustic encoding in STM",
+            "Visual encoding in LTM",
+            "Semantic encoding in STM",
+            "Procedural encoding in LTM"
+          ],
+          "answer": "Visual encoding in LTM",
+          "explanation": {
+            "correct": "The photographer is recalling visual information (the photo's composition) that has been stored for years, indicating it's in long-term memory. LTM can store visual information like images and scenes.",
+            "incorrect": {
+              "Acoustic encoding in STM": "STM only lasts seconds to minutes, not years, and this is visual not acoustic information.",
+              "Semantic encoding in STM": "Again, STM is too brief for years-old memories, and this is visual imagery not semantic meaning.",
+              "Procedural encoding in LTM": "Procedural memory stores motor skills and habits, not visual images of specific scenes."
+            }
+          }
+        },
+        {
+          "question": "Which statement about the capacity and duration of memory stores is correct?",
+          "difficulty": "tricky",
+          "options": [
+            "Sensory memory has unlimited capacity but very brief duration",
+            "STM has limited capacity and unlimited duration with rehearsal",
+            "LTM has unlimited capacity and potentially lifetime duration",
+            "All memory stores have the same capacity but different durations"
+          ],
+          "answer": "LTM has unlimited capacity and potentially lifetime duration",
+          "explanation": {
+            "correct": "Long-term memory is characterized by potentially unlimited capacity (can store vast amounts of information) and can maintain memories from minutes to an entire lifetime.",
+            "incorrect": {
+              "Sensory memory has unlimited capacity but very brief duration": "Sensory memory has limited capacity and very brief duration (less than a second).",
+              "STM has limited capacity and unlimited duration with rehearsal": "While rehearsal extends STM duration, it remains fundamentally limited; unlimited duration is a characteristic of LTM.",
+              "All memory stores have the same capacity but different durations": "Memory stores differ in both capacity and duration - this is false."
+            }
+          }
+        },
+        {
+          "question": "If information cannot be retrieved from memory, which of the following could be possible explanations?",
+          "difficulty": "tricky",
+          "options": [
+            "It was never properly encoded",
+            "It has decayed from storage",
+            "Retrieval cues are inadequate",
+            "All of the above"
+          ],
+          "answer": "All of the above",
+          "explanation": {
+            "correct": "Forgetting (inability to retrieve) can occur at any stage: encoding (information never entered memory), storage (information decayed over time), or retrieval (information is stored but cannot be accessed with available cues).",
+            "incorrect": {
+              "It was never properly encoded": "While this is one possible reason, it's not the only explanation for retrieval failure.",
+              "It has decayed from storage": "Decay is one theory of forgetting but doesn't account for all retrieval failures.",
+              "Retrieval cues are inadequate": "This explains some forgetting (retrieval failure) but not all cases - encoding and storage failures also occur."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "memory-models",
+      "title": "Models of Memory: MSM, WMM, and LOP",
+      "subtitle": "Theoretical Frameworks for Understanding Memory",
+      "summary": "Examination of three major models of memory: the Multi-Store Model (Atkinson & Shiffrin), the Working Memory Model (Baddeley & Hitch), and the Levels of Processing Model (Craik & Lockhart). Includes different types of long-term memory.",
+      "keyTakeaways": [
+        "The Multi-Store Model (MSM) describes memory as three separate stores: sensory register, short-term memory, and long-term memory.",
+        "The Working Memory Model (WMM) views STM as an active system with multiple components: central executive, phonological loop, visuo-spatial sketchpad, and episodic buffer.",
+        "The Levels of Processing Model (LOP) argues that depth of processing, rather than rehearsal, determines memory retention.",
+        "Long-term memory includes episodic (personal events), semantic (facts/knowledge), and procedural (skills) memory types."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "The Multi-Store Model (MSM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Richard Atkinson and Richard Shiffrin (1968) developed the Multi-Store Model by synthesizing memory research. This structural model describes memory as having three separate stores that differ in encoding, capacity, duration, and retrieval methods."
+        },
+        {
+          "type": "list",
+          "title": "Three Stores in the MSM",
+          "items": [
+            "Sensory Register: Brief storage of sensory information before attention is paid",
+            "Short-Term Memory: Limited capacity (7±2 items) and duration (15-30 seconds) requiring rehearsal",
+            "Long-Term Memory: Potentially unlimited capacity and duration, storing rehearsed information"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Serial Position Effect",
+          "text": "Murdock (1962) found that items at the beginning (primacy effect - due to LTM) and end (recency effect - due to STM) of lists are recalled better than middle items, supporting the distinction between STM and LTM."
+        },
+        {
+          "type": "heading",
+          "text": "Evidence for MSM"
+        },
+        {
+          "type": "paragraph",
+          "text": "The case of patient HM provides strong evidence for MSM. After brain surgery, HM could not form new explicit long-term memories but his short-term/working memory remained functional (STM intact, old LTM intact, new LTM severely impaired). This demonstrates a clear dissociation between STM and LTM, suggesting they are separate systems."
+        },
+        {
+          "type": "heading",
+          "text": "Types of Long-Term Memory"
+        },
+        {
+          "type": "list",
+          "title": "Three Types of LTM",
+          "items": [
+            "Episodic Memory: Storage and recall of personally experienced events tied to specific times and places (autobiographical). Includes flashbulb memories of emotionally significant events. Example: Recalling your first day of university.",
+            "Semantic Memory: General knowledge, facts, and concepts not tied to personal experiences. Example: Knowing that 2+2=4 or that 'cat' refers to a furry animal.",
+            "Procedural Memory: Unconscious recall of skills, habits, and motor routines learned through practice (implicit memory). Example: Riding a bicycle or brushing teeth."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "The Working Memory Model (WMM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Baddeley & Hitch (1974; 2000) proposed that short-term memory is not a single passive store but an active system with multiple components that manipulate and process information."
+        },
+        {
+          "type": "list",
+          "title": "Components of Working Memory",
+          "items": [
+            "Central Executive: Acts as a manager, directing attention and coordinating other subsystems with limited capacity",
+            "Phonological Loop: Stores spoken words for a short time and allows rehearsal (acoustic/verbal information)",
+            "Visuo-Spatial Sketchpad: Holds and manipulates visual and spatial images",
+            "Episodic Buffer: Integrates information from different sources (sound, vision, long-term memory) into unified episodes"
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "MSM vs WMM",
+          "text": "MSM views STM as a single, passive store focusing on memory structure. WMM views STM as an active system with multiple components, focusing on memory processes. WMM provides a more detailed and dynamic model of how information is actively manipulated in short-term memory."
+        },
+        {
+          "type": "heading",
+          "text": "The Levels of Processing Model (LOP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Craik and Lockhart (1972) challenged the MSM's emphasis on rehearsal, arguing that depth of processing - not rehearsal duration - determines memory retention. Deeper, semantic processing leads to better memory than shallow processing."
+        },
+        {
+          "type": "list",
+          "title": "Levels of Processing",
+          "items": [
+            "Shallow (Structural) Processing: Focusing on physical characteristics (e.g., 'Is the word in capital letters?')",
+            "Intermediate (Phonemic) Processing: Focusing on sound (e.g., 'Does the word rhyme with cat?')",
+            "Deep (Semantic) Processing: Focusing on meaning (e.g., 'Does the word fit: The ___ walked into the room?')"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Craik & Tulving (1975) demonstrated that words processed at a deep, semantic level were remembered much better than words processed at shallow or phonemic levels, providing strong evidence against the MSM's rehearsal-based model."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Who developed the Multi-Store Model of Memory in 1968?",
+          "difficulty": "learning",
+          "options": [
+            "Baddeley & Hitch",
+            "Craik & Lockhart",
+            "Atkinson & Shiffrin",
+            "Miller & Selfridge"
+          ],
+          "answer": "Atkinson & Shiffrin",
+          "explanation": {
+            "correct": "Richard Atkinson and Richard Shiffrin developed the Multi-Store Model in 1968 by synthesizing existing memory research into a structural model with three distinct stores.",
+            "incorrect": {
+              "Baddeley & Hitch": "They developed the Working Memory Model (1974), not the Multi-Store Model.",
+              "Craik & Lockhart": "They proposed the Levels of Processing Model (1972), a different approach to memory.",
+              "Miller & Selfridge": "Miller is known for the '7±2' capacity finding, but didn't develop the MSM."
+            }
+          }
+        },
+        {
+          "question": "The serial position effect, where items at the beginning and end of a list are remembered better, demonstrates what about memory?",
+          "difficulty": "application",
+          "options": [
+            "All items are stored in the same memory system",
+            "STM and LTM are distinct systems",
+            "Rehearsal is unnecessary for memory",
+            "Semantic encoding is superior to acoustic"
+          ],
+          "answer": "STM and LTM are distinct systems",
+          "explanation": {
+            "correct": "The primacy effect (better recall of early items) occurs because items enter LTM through rehearsal, while the recency effect (better recall of recent items) occurs because items are still in STM. This dissociation supports MSM's claim that STM and LTM are separate systems.",
+            "incorrect": {
+              "All items are stored in the same memory system": "The serial position effect actually shows the opposite - different positions use different memory systems.",
+              "Rehearsal is unnecessary for memory": "The primacy effect specifically depends on rehearsal allowing items to enter LTM.",
+              "Semantic encoding is superior to acoustic": "The serial position effect doesn't directly address encoding types."
+            }
+          }
+        },
+        {
+          "question": "Patient HM, who could not form new long-term memories after brain surgery but retained normal short-term memory, provides evidence for:",
+          "difficulty": "learning",
+          "options": [
+            "The levels of processing theory",
+            "The working memory model",
+            "Separate STM and LTM systems",
+            "The importance of rehearsal"
+          ],
+          "answer": "Separate STM and LTM systems",
+          "explanation": {
+            "correct": "HM's case shows a clear dissociation: STM remained intact while new LTM formation was impaired. This strongly supports the Multi-Store Model's claim that STM and LTM are separate, independent systems.",
+            "incorrect": {
+              "The levels of processing theory": "HM's case addresses memory structures, not depth of processing.",
+              "The working memory model": "While related, HM's case primarily supports the STM/LTM distinction, the foundation of MSM.",
+              "The importance of rehearsal": "HM's case shows structural separation of memory systems, not specifically about rehearsal."
+            }
+          }
+        },
+        {
+          "question": "Which type of long-term memory stores personally experienced events tied to specific times and places?",
+          "difficulty": "learning",
+          "options": [
+            "Semantic memory",
+            "Procedural memory",
+            "Episodic memory",
+            "Working memory"
+          ],
+          "answer": "Episodic memory",
+          "explanation": {
+            "correct": "Episodic memory stores autobiographical events with rich contextual details including 'what,' 'when,' 'where,' and associated emotions. It's a type of explicit memory that can be consciously recalled.",
+            "incorrect": {
+              "Semantic memory": "Semantic memory stores general knowledge and facts NOT tied to personal experiences or specific contexts.",
+              "Procedural memory": "Procedural memory stores skills and motor routines, not personal events.",
+              "Working memory": "Working memory is the WMM's term for active short-term processing, not a type of LTM."
+            }
+          }
+        },
+        {
+          "question": "Knowing that 2+2=4 or that 'cat' refers to a furry animal is an example of which type of memory?",
+          "difficulty": "application",
+          "options": [
+            "Episodic memory",
+            "Procedural memory",
+            "Semantic memory",
+            "Sensory memory"
+          ],
+          "answer": "Semantic memory",
+          "explanation": {
+            "correct": "Semantic memory involves general knowledge, facts, and concepts that aren't tied to personal experiences or specific contexts. Mathematical facts and word meanings are classic examples of semantic memory.",
+            "incorrect": {
+              "Episodic memory": "Episodic memory is for personal events tied to specific times and places, not general facts.",
+              "Procedural memory": "Procedural memory stores skills and motor routines, not factual knowledge.",
+              "Sensory memory": "Sensory memory briefly holds raw sensory information for less than a second, not learned facts."
+            }
+          }
+        },
+        {
+          "question": "The ability to ride a bicycle, which is recalled unconsciously through performance rather than conscious recollection, represents:",
+          "difficulty": "application",
+          "options": [
+            "Explicit episodic memory",
+            "Explicit semantic memory",
+            "Implicit procedural memory",
+            "Working memory"
+          ],
+          "answer": "Implicit procedural memory",
+          "explanation": {
+            "correct": "Procedural memory is a type of implicit (non-declarative) memory that stores motor skills and habits learned through practice. It's expressed through performance rather than conscious recall - you 'remember' how to ride by doing it.",
+            "incorrect": {
+              "Explicit episodic memory": "Episodic memory is explicit but stores personal events, not motor skills.",
+              "Explicit semantic memory": "Semantic memory stores facts consciously, not unconscious motor skills.",
+              "Working memory": "Working memory is active short-term processing, not storage of learned skills."
+            }
+          }
+        },
+        {
+          "question": "In the Working Memory Model, which component acts as a 'manager' that directs attention and coordinates other subsystems?",
+          "difficulty": "learning",
+          "options": [
+            "Phonological loop",
+            "Visuo-spatial sketchpad",
+            "Central executive",
+            "Episodic buffer"
+          ],
+          "answer": "Central executive",
+          "explanation": {
+            "correct": "The central executive in Baddeley & Hitch's WMM acts like a manager with limited capacity that directs attention and coordinates the other subsystems (phonological loop, visuo-spatial sketchpad, episodic buffer).",
+            "incorrect": {
+              "Phonological loop": "This component stores and rehearses spoken words, but doesn't manage other components.",
+              "Visuo-spatial sketchpad": "This holds and manipulates visual/spatial information but isn't the coordinator.",
+              "Episodic buffer": "This integrates information from different sources but doesn't direct the overall system."
+            }
+          }
+        },
+        {
+          "question": "When you repeat 'milk, eggs, bread' in your head while shopping, which WMM component are you primarily using?",
+          "difficulty": "application",
+          "options": [
+            "Central executive",
+            "Phonological loop",
+            "Visuo-spatial sketchpad",
+            "Episodic buffer"
+          ],
+          "answer": "Phonological loop",
+          "explanation": {
+            "correct": "The phonological loop stores spoken words for a short time and allows rehearsal of acoustic/verbal information. Repeating a shopping list in your head uses this component to maintain the verbal information.",
+            "incorrect": {
+              "Central executive": "While the central executive might coordinate, the actual storage and rehearsal of verbal information is the phonological loop's job.",
+              "Visuo-spatial sketchpad": "This component handles visual and spatial information, not verbal lists.",
+              "Episodic buffer": "While it might integrate information, the active verbal rehearsal specifically involves the phonological loop."
+            }
+          }
+        },
+        {
+          "question": "What is the key difference between the Multi-Store Model and the Working Memory Model regarding short-term memory?",
+          "difficulty": "learning",
+          "options": [
+            "MSM says STM doesn't exist; WMM says it does",
+            "MSM views STM as passive storage; WMM views it as active processing",
+            "MSM says STM is unlimited; WMM says it's limited",
+            "MSM focuses on retrieval; WMM focuses on encoding"
+          ],
+          "answer": "MSM views STM as passive storage; WMM views it as active processing",
+          "explanation": {
+            "correct": "The fundamental difference is that MSM treats STM as a single, passive 'storage box,' while WMM reconceptualizes it as an active system with multiple components that actively manipulate and process information.",
+            "incorrect": {
+              "MSM says STM doesn't exist; WMM says it does": "Both models include short-term memory; they just conceptualize it differently.",
+              "MSM says STM is unlimited; WMM says it's limited": "Both models recognize STM has limited capacity.",
+              "MSM focuses on retrieval; WMM focuses on encoding": "MSM focuses on structure while WMM focuses on processes, but neither exclusively emphasizes retrieval or encoding."
+            }
+          }
+        },
+        {
+          "question": "According to the Levels of Processing Model by Craik and Lockhart (1972), what determines how well information is remembered?",
+          "difficulty": "learning",
+          "options": [
+            "The amount of rehearsal time",
+            "The depth of processing",
+            "The size of the memory store",
+            "The number of retrieval attempts"
+          ],
+          "answer": "The depth of processing",
+          "explanation": {
+            "correct": "LOP argues that depth of processing - how deeply you think about the meaning - determines memory retention, not just rehearsal duration as MSM suggests. Semantic (deep) processing leads to better memory than shallow processing.",
+            "incorrect": {
+              "The amount of rehearsal time": "This is MSM's argument, which LOP challenges. LOP shows that type of processing matters more than rehearsal duration.",
+              "The size of the memory store": "This relates to capacity, not to what determines successful encoding.",
+              "The number of retrieval attempts": "Retrieval practice can help, but LOP specifically addresses encoding depth, not retrieval frequency."
+            }
+          }
+        },
+        {
+          "question": "In Craik & Tulving's (1975) study, participants answered questions about words at different levels. Which question represents the deepest level of processing?",
+          "difficulty": "application",
+          "options": [
+            "'Is the word in capital letters?'",
+            "'Does the word rhyme with cat?'",
+            "'Does the word fit in: The ___ walked into the room?'",
+            "'How many syllables does the word have?'"
+          ],
+          "answer": "'Does the word fit in: The ___ walked into the room?'",
+          "explanation": {
+            "correct": "This question requires semantic processing - thinking about the word's meaning and whether it makes sense in context. This is the deepest level and leads to best recall. It forces participants to process the meaning rather than just surface features.",
+            "incorrect": {
+              "'Is the word in capital letters?'": "This is shallow (structural) processing, focusing only on physical characteristics.",
+              "'Does the word rhyme with cat?'": "This is intermediate (phonemic) processing, focusing on sound rather than meaning.",
+              "'How many syllables does the word have?'": "This is also shallow processing, focusing on structural features rather than meaning."
+            }
+          }
+        },
+        {
+          "question": "The Levels of Processing Model provides strong evidence AGAINST which aspect of the Multi-Store Model?",
+          "difficulty": "tricky",
+          "options": [
+            "The existence of separate memory stores",
+            "The importance of rehearsal for LTM transfer",
+            "The limited capacity of STM",
+            "The distinction between encoding and retrieval"
+          ],
+          "answer": "The importance of rehearsal for LTM transfer",
+          "explanation": {
+            "correct": "MSM argues that rehearsal in STM is necessary to transfer information to LTM. LOP challenges this by showing that depth of processing (semantic vs. shallow) matters more than rehearsal. Incidental learning demonstrates memory without rehearsal.",
+            "incorrect": {
+              "The existence of separate memory stores": "LOP doesn't challenge the existence of different stores, just the mechanism for creating lasting memories.",
+              "The limited capacity of STM": "LOP doesn't dispute STM capacity limitations.",
+              "The distinction between encoding and retrieval": "LOP actually focuses on encoding processes (depth), maintaining the encoding-storage-retrieval distinction."
+            }
+          }
+        },
+        {
+          "question": "Flashbulb memories, such as recalling where you were when you heard about a significant event, are a type of:",
+          "difficulty": "application",
+          "options": [
+            "Semantic memory",
+            "Procedural memory",
+            "Episodic memory",
+            "Working memory"
+          ],
+          "answer": "Episodic memory",
+          "explanation": {
+            "correct": "Flashbulb memories are highly vivid, detailed memories of emotionally significant events. They are a special type of episodic memory because they involve personal experiences tied to specific times, places, and contexts with rich emotional details.",
+            "incorrect": {
+              "Semantic memory": "Semantic memory is for general facts, not personal experiences of specific events.",
+              "Procedural memory": "Procedural memory is for motor skills and habits, not vivid memories of events.",
+              "Working memory": "Working memory is short-term active processing, not long-term storage of significant events."
+            }
+          }
+        },
+        {
+          "question": "Which component of the Working Memory Model integrates information from different sources (sound, vision, long-term memory) into unified episodes?",
+          "difficulty": "learning",
+          "options": [
+            "Central executive",
+            "Phonological loop",
+            "Visuo-spatial sketchpad",
+            "Episodic buffer"
+          ],
+          "answer": "Episodic buffer",
+          "explanation": {
+            "correct": "The episodic buffer was added to Baddeley's model to integrate information from multiple sources - the phonological loop, visuo-spatial sketchpad, and long-term memory - into single coherent episodes or experiences.",
+            "incorrect": {
+              "Central executive": "The central executive coordinates components but doesn't specifically integrate different types of information into episodes.",
+              "Phonological loop": "This component only handles verbal/acoustic information, not integration across modalities.",
+              "Visuo-spatial sketchpad": "This handles only visual/spatial information, not integration of different types."
+            }
+          }
+        },
+        {
+          "question": "If you think about what an elephant looks like and how big it is to remember the word 'elephant,' according to LOP you are using:",
+          "difficulty": "application",
+          "options": [
+            "Shallow structural processing",
+            "Intermediate phonemic processing",
+            "Deep semantic processing",
+            "Procedural processing"
+          ],
+          "answer": "Deep semantic processing",
+          "explanation": {
+            "correct": "Thinking about what an elephant looks like and its size involves processing the meaning and creating rich associations. This deep, semantic processing leads to better memory retention than shallow processing of surface features.",
+            "incorrect": {
+              "Shallow structural processing": "This would be focusing on how the word looks (e.g., capital letters), not its meaning.",
+              "Intermediate phonemic processing": "This would be focusing on how 'elephant' sounds or what it rhymes with.",
+              "Procedural processing": "Procedural processing relates to motor skills, not word meaning."
+            }
+          }
+        },
+        {
+          "question": "A chess player who can recognize patterns on the board without conscious thought is demonstrating which type of memory?",
+          "difficulty": "tricky",
+          "options": [
+            "Episodic memory - recalling specific games",
+            "Semantic memory - knowing chess rules",
+            "Procedural memory - pattern recognition through practice",
+            "Working memory - actively analyzing positions"
+          ],
+          "answer": "Procedural memory - pattern recognition through practice",
+          "explanation": {
+            "correct": "Pattern recognition developed through extensive practice becomes procedural memory - an implicit skill that operates without conscious thought. The chess player has internalized patterns as motor-like routines that are automatically activated.",
+            "incorrect": {
+              "Episodic memory - recalling specific games": "While they might use episodic memory too, automatic pattern recognition is procedural, not episodic.",
+              "Semantic memory - knowing chess rules": "Semantic memory covers explicit knowledge of rules, but automatic pattern recognition is implicit procedural memory.",
+              "Working memory - actively analyzing positions": "Working memory would be conscious analysis, but the question specifies 'without conscious thought,' indicating procedural memory."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "forgetting-theories",
+      "title": "Theories of Forgetting",
+      "subtitle": "Why We Forget: Decay, Displacement, and Interference",
+      "summary": "Exploration of why forgetting occurs at different stages of memory processing (encoding, storage, retrieval). Covers decay theory, displacement theory, and interference theory (proactive and retroactive interference).",
+      "keyTakeaways": [
+        "Forgetting can occur at encoding, storage, or retrieval stages of memory processing.",
+        "Decay theory suggests memories fade over time without access or rehearsal (affects both STM and LTM).",
+        "Displacement theory explains how new information pushes out older information in limited-capacity STM.",
+        "Interference theory proposes that old information (proactive interference) or new information (retroactive interference) disrupts memory in LTM.",
+        "Some forgetting is adaptive - efficient forgetting is crucial for healthy memory function."
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Where Does Forgetting Occur?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Forgetting can occur at any of the three stages of memory processing: encoding (information never enters memory properly), storage (information fades or is lost over time), or retrieval (information is stored but cannot be accessed)."
+        },
+        {
+          "type": "heading",
+          "text": "Decay Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Decay theory suggests that memories fade over time if they are not accessed or rehearsed. This affects both short-term memory (where information decays within 15-30 seconds without rehearsal) and long-term memory (where memories can weaken over years without retrieval)."
+        },
+        {
+          "type": "callout",
+          "icon": "Info",
+          "title": "Classic Research: Ebbinghaus (1885)",
+          "text": "Hermann Ebbinghaus studied his own memory using nonsense syllables and discovered the 'forgetting curve' - memory declines rapidly at first, then levels off. This demonstrates how memories decay over time without rehearsal or use."
+        },
+        {
+          "type": "heading",
+          "text": "Displacement Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Displacement theory applies specifically to short-term memory. Since STM has limited capacity (7±2 items), new incoming information pushes out older information as we exceed this capacity. When STM is 'full,' new items displace old ones rather than both being retained."
+        },
+        {
+          "type": "heading",
+          "text": "Interference Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Interference theory explains forgetting in long-term memory. It proposes that forgetting occurs when new or old information disrupts the recall of other memories. There are two types of interference:"
+        },
+        {
+          "type": "list",
+          "title": "Types of Interference",
+          "items": [
+            "Proactive Interference: Old information interferes with learning or remembering new information. Example: Your old phone number keeps coming to mind when trying to recall your new one, or your old password interferes when learning a new one.",
+            "Retroactive Interference: New information interferes with the ability to recall older information. Example: Learning new dance steps makes you forget some old ones, or learning a new language makes it harder to remember vocabulary from a previously learned language."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Efficient Forgetting"
+        },
+        {
+          "type": "paragraph",
+          "text": "According to Schacter (2002), efficient forgetting is actually a crucial part of having a fully functioning memory. Some forgetting is adaptive - it helps us focus on important information and not be overwhelmed by trivial details."
+        },
+        {
+          "type": "callout",
+          "icon": "AlertCircle",
+          "title": "Hyperthymestic Syndrome (HSAM)",
+          "text": "People with highly superior autobiographical memory (HSAM) cannot efficiently forget and remember virtually every day of their lives in detail. While this seems advantageous, it can be overwhelming and interfere with normal functioning, demonstrating that some forgetting is actually beneficial."
+        }
+      ],
+      "questions": [
+        {
+          "question": "At which stages of memory processing can forgetting occur?",
+          "difficulty": "learning",
+          "options": [
+            "Only at encoding",
+            "Only at retrieval",
+            "At encoding, storage, and retrieval",
+            "Only at storage"
+          ],
+          "answer": "At encoding, storage, and retrieval",
+          "explanation": {
+            "correct": "Forgetting can occur at all three stages: encoding (information never properly enters memory), storage (information fades over time), or retrieval (stored information cannot be accessed). Understanding this helps explain different types of memory failures.",
+            "incorrect": {
+              "Only at encoding": "While encoding failures cause forgetting, storage and retrieval failures also cause information loss.",
+              "Only at retrieval": "Retrieval failure is one cause, but encoding and storage failures also lead to forgetting.",
+              "Only at storage": "Storage decay is one mechanism, but encoding and retrieval problems also cause forgetting."
+            }
+          }
+        },
+        {
+          "question": "According to decay theory, why do memories fade?",
+          "difficulty": "learning",
+          "options": [
+            "New memories displace old ones",
+            "Memories fade over time without access or rehearsal",
+            "Old memories interfere with new ones",
+            "The brain actively deletes unused information"
+          ],
+          "answer": "Memories fade over time without access or rehearsal",
+          "explanation": {
+            "correct": "Decay theory proposes that memories naturally weaken and fade over time if they are not accessed, used, or rehearsed. This applies to both STM (decay within 15-30 seconds) and LTM (gradual weakening over longer periods).",
+            "incorrect": {
+              "New memories displace old ones": "This describes displacement theory, not decay theory.",
+              "Old memories interfere with new ones": "This describes proactive interference, not decay.",
+              "The brain actively deletes unused information": "Decay is passive weakening, not active deletion."
+            }
+          }
+        },
+        {
+          "question": "Which theory of forgetting specifically explains information loss in short-term memory when capacity is exceeded?",
+          "difficulty": "learning",
+          "options": [
+            "Decay theory",
+            "Interference theory",
+            "Displacement theory",
+            "Retrieval failure theory"
+          ],
+          "answer": "Displacement theory",
+          "explanation": {
+            "correct": "Displacement theory specifically addresses STM's limited capacity (7±2 items). When new information enters a 'full' STM, it pushes out older information. This explains why we forget items when trying to hold too much in STM at once.",
+            "incorrect": {
+              "Decay theory": "Decay involves fading over time, not being pushed out by new information.",
+              "Interference theory": "Interference primarily explains LTM forgetting through similar memories conflicting, not STM capacity issues.",
+              "Retrieval failure theory": "This addresses inability to access stored information, not capacity-based displacement."
+            }
+          }
+        },
+        {
+          "question": "When your old phone number keeps coming to mind while trying to remember your new one, this is an example of:",
+          "difficulty": "application",
+          "options": [
+            "Retroactive interference",
+            "Proactive interference",
+            "Displacement",
+            "Decay"
+          ],
+          "answer": "Proactive interference",
+          "explanation": {
+            "correct": "Proactive interference occurs when old information (old phone number) interferes with learning or remembering new information (new phone number). The old memory 'reaches forward' to disrupt the new one.",
+            "incorrect": {
+              "Retroactive interference": "This is when new information disrupts old memories, the opposite direction of interference.",
+              "Displacement": "Displacement is about capacity limits in STM, not interference between similar LTM items.",
+              "Decay": "Decay is passive fading over time, not active interference from competing memories."
+            }
+          }
+        },
+        {
+          "question": "Learning new dance steps and then forgetting some of your old dance routine is an example of:",
+          "difficulty": "application",
+          "options": [
+            "Proactive interference",
+            "Retroactive interference",
+            "Displacement from STM",
+            "Decay theory"
+          ],
+          "answer": "Retroactive interference",
+          "explanation": {
+            "correct": "Retroactive interference occurs when new information (new dance steps) interferes with the ability to recall older information (old dance routine). The new learning 'reaches back' to disrupt older memories.",
+            "incorrect": {
+              "Proactive interference": "This would be if old dance steps interfered with learning new ones, the opposite direction.",
+              "Displacement from STM": "This involves capacity limits in short-term memory, not long-term skill interference.",
+              "Decay theory": "While some forgetting might involve decay, the question specifically describes interference from new learning."
+            }
+          }
+        },
+        {
+          "question": "Hermann Ebbinghaus (1885) studied memory using nonsense syllables and discovered:",
+          "difficulty": "learning",
+          "options": [
+            "The serial position effect",
+            "The forgetting curve",
+            "The working memory model",
+            "Proactive interference"
+          ],
+          "answer": "The forgetting curve",
+          "explanation": {
+            "correct": "Ebbinghaus discovered the forgetting curve through self-study, showing that memory declines rapidly at first after learning, then levels off. This classic research demonstrated how memories decay over time without rehearsal or use.",
+            "incorrect": {
+              "The serial position effect": "This was discovered by Murdock (1962), not Ebbinghaus.",
+              "The working memory model": "This was developed by Baddeley & Hitch (1974), not Ebbinghaus.",
+              "Proactive interference": "While Ebbinghaus studied memory, interference theory was developed by other researchers."
+            }
+          }
+        },
+        {
+          "question": "What does the forgetting curve demonstrate about memory?",
+          "difficulty": "application",
+          "options": [
+            "Memory improves steadily over time",
+            "Memory declines rapidly at first, then levels off",
+            "Memory remains constant without rehearsal",
+            "Memory only declines after several years"
+          ],
+          "answer": "Memory declines rapidly at first, then levels off",
+          "explanation": {
+            "correct": "Ebbinghaus's forgetting curve shows that memory loss is not linear. The steepest decline occurs shortly after learning (rapid initial forgetting), but then the rate of forgetting slows down and levels off over time.",
+            "incorrect": {
+              "Memory improves steadily over time": "This contradicts the forgetting curve - memory declines, not improves.",
+              "Memory remains constant without rehearsal": "The curve specifically shows memory declines without rehearsal.",
+              "Memory only declines after several years": "The curve shows significant decline begins immediately, with the steepest drop in the first hours/days."
+            }
+          }
+        },
+        {
+          "question": "According to Schacter (2002), what role does forgetting play in memory function?",
+          "difficulty": "learning",
+          "options": [
+            "Forgetting is always a sign of memory dysfunction",
+            "Efficient forgetting is crucial for fully functioning memory",
+            "Forgetting should be completely prevented",
+            "Forgetting only occurs in damaged brains"
+          ],
+          "answer": "Efficient forgetting is crucial for fully functioning memory",
+          "explanation": {
+            "correct": "Schacter argues that some forgetting is adaptive and beneficial. Efficient forgetting allows us to focus on important information and not be overwhelmed by trivial details. It's a feature, not a bug, of healthy memory systems.",
+            "incorrect": {
+              "Forgetting is always a sign of memory dysfunction": "Normal forgetting is adaptive, not dysfunctional.",
+              "Forgetting should be completely prevented": "This would be problematic - we need to forget some things to function well.",
+              "Forgetting only occurs in damaged brains": "Normal, healthy brains forget - it's a natural and beneficial process."
+            }
+          }
+        },
+        {
+          "question": "People with hyperthymestic syndrome (HSAM) demonstrate that:",
+          "difficulty": "application",
+          "options": [
+            "Perfect memory is ideal for all situations",
+            "Some forgetting is beneficial for normal functioning",
+            "Memory capacity is unlimited in everyone",
+            "Rehearsal is unnecessary for memory"
+          ],
+          "answer": "Some forgetting is beneficial for normal functioning",
+          "explanation": {
+            "correct": "People with HSAM cannot efficiently forget and remember virtually every day in detail. While this seems advantageous, it can be overwhelming and interfere with normal life, demonstrating that the ability to forget unimportant information is actually adaptive.",
+            "incorrect": {
+              "Perfect memory is ideal for all situations": "HSAM shows the opposite - excessive memory can be problematic.",
+              "Memory capacity is unlimited in everyone": "HSAM is extremely rare; most people have typical memory limitations.",
+              "Rehearsal is unnecessary for memory": "HSAM is about automatic encoding/retention, not about rehearsal being unnecessary in general."
+            }
+          }
+        },
+        {
+          "question": "When you're trying to remember a list of 10 items and can only recall about 7, with the earliest items being pushed out by later ones, this demonstrates:",
+          "difficulty": "application",
+          "options": [
+            "Decay theory in LTM",
+            "Displacement theory in STM",
+            "Proactive interference",
+            "Retroactive interference"
+          ],
+          "answer": "Displacement theory in STM",
+          "explanation": {
+            "correct": "STM capacity is limited to about 7±2 items. When you try to remember 10 items, the later items displace the earlier ones as they exceed STM capacity. This is the classic demonstration of displacement theory.",
+            "incorrect": {
+              "Decay theory in LTM": "This is an STM capacity issue, not LTM decay over time.",
+              "Proactive interference": "This is about old memories interfering with new ones in LTM, not capacity limits.",
+              "Retroactive interference": "This is about new memories disrupting old ones in LTM, not STM displacement."
+            }
+          }
+        },
+        {
+          "question": "Learning a new language and finding it harder to remember vocabulary from a previously learned language is an example of:",
+          "difficulty": "application",
+          "options": [
+            "Proactive interference",
+            "Retroactive interference",
+            "Displacement",
+            "Decay"
+          ],
+          "answer": "Retroactive interference",
+          "explanation": {
+            "correct": "Retroactive interference occurs when new learning (new language vocabulary) makes it harder to recall previously learned information (old language vocabulary). The new information 'reaches back' to disrupt the older memories.",
+            "incorrect": {
+              "Proactive interference": "This would be if the old language interfered with learning the new one, the opposite direction.",
+              "Displacement": "Displacement involves STM capacity, not LTM interference between learned material.",
+              "Decay": "While decay might contribute, the question specifically describes interference from new learning."
+            }
+          }
+        },
+        {
+          "question": "Which theory best explains why you might forget items at the beginning of a long list when trying to keep all items in short-term memory?",
+          "difficulty": "tricky",
+          "options": [
+            "Decay - early items had more time to decay",
+            "Displacement - new items push out early items",
+            "Proactive interference - early items interfere forward",
+            "Retroactive interference - late items interfere backward"
+          ],
+          "answer": "Displacement - new items push out early items",
+          "explanation": {
+            "correct": "When a long list exceeds STM capacity (7±2 items), new items entering STM displace the earliest items because there's no room. This is displacement theory's key prediction about STM limitations.",
+            "incorrect": {
+              "Decay - early items had more time to decay": "While early items exist longer, the primary issue is capacity, not time-based decay.",
+              "Proactive interference - early items interfere forward": "Interference theory applies to LTM, and proactive interference is about old info disrupting new, not displacement.",
+              "Retroactive interference - late items interfere backward": "While late items do affect early ones, in STM this is through displacement (capacity), not interference (similarity)."
+            }
+          }
+        },
+        {
+          "question": "If you studied for a history exam but then studied for a psychology exam, and now struggle to recall history facts, this best exemplifies:",
+          "difficulty": "application",
+          "options": [
+            "Proactive interference from psychology to history",
+            "Retroactive interference from psychology to history",
+            "Displacement in STM",
+            "Decay of history memories"
+          ],
+          "answer": "Retroactive interference from psychology to history",
+          "explanation": {
+            "correct": "The new learning (psychology) is interfering with your ability to recall the older learning (history). This is retroactive interference - newer information reaching back to disrupt earlier memories.",
+            "incorrect": {
+              "Proactive interference from psychology to history": "Proactive interference would be history (old) interfering with psychology (new), the opposite direction.",
+              "Displacement in STM": "This is about LTM interference between similar academic content, not STM capacity limits.",
+              "Decay of history memories": "The primary issue is interference from psychology study, not just time-based decay of history info."
+            }
+          }
+        },
+        {
+          "question": "Your old email password keeps interfering when you try to use your new password. Meanwhile, using the new password makes you forget the old one. This demonstrates:",
+          "difficulty": "tricky",
+          "options": [
+            "Only proactive interference",
+            "Only retroactive interference",
+            "Both proactive and retroactive interference",
+            "Displacement theory"
+          ],
+          "answer": "Both proactive and retroactive interference",
+          "explanation": {
+            "correct": "This scenario shows both types: proactive interference (old password interfering with new one) AND retroactive interference (new password making you forget the old one). Similar memories can interfere in both directions simultaneously.",
+            "incorrect": {
+              "Only proactive interference": "While the old password does interfere forward, the new password also interferes backward.",
+              "Only retroactive interference": "While the new password does interfere backward, the old password also interferes forward.",
+              "Displacement theory": "Displacement is about STM capacity limits, not LTM interference between similar memories."
+            }
+          }
+        },
+        {
+          "question": "Which of the following best describes why interference theory primarily applies to long-term memory rather than short-term memory?",
+          "difficulty": "tricky",
+          "options": [
+            "STM doesn't experience any forgetting",
+            "STM forgetting is better explained by capacity limits (displacement) and decay",
+            "LTM has unlimited capacity so only interference causes forgetting",
+            "STM uses different encoding so interference cannot occur"
+          ],
+          "answer": "STM forgetting is better explained by capacity limits (displacement) and decay",
+          "explanation": {
+            "correct": "STM has such limited capacity (7±2) and duration (15-30 seconds) that its forgetting is primarily due to displacement (exceeding capacity) and decay (time passing). Interference theory applies to LTM where similar memories compete for retrieval.",
+            "incorrect": {
+              "STM doesn't experience any forgetting": "STM definitely experiences forgetting, just through different mechanisms.",
+              "LTM has unlimited capacity so only interference causes forgetting": "LTM can also experience decay; interference isn't the only mechanism.",
+              "STM uses different encoding so interference cannot occur": "Encoding type doesn't prevent interference; the issue is that STM's limits make displacement/decay more relevant."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
