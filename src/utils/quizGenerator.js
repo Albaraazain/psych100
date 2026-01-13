@@ -9,7 +9,8 @@ export const generateQuiz = (topic) => {
       .map(q => ({
         question: q.question,
         answer: q.answer,
-        options: q.options || []
+        options: q.options || [],
+        explanation: q.explanation || null
       }))
       .filter(q => q.question && q.answer && q.options.length >= 2)
       .sort(() => 0.5 - Math.random());
