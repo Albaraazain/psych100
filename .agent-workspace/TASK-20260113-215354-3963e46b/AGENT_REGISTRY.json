@@ -1,0 +1,95 @@
+{
+  "task_id": "TASK-20260113-215354-3963e46b",
+  "task_description": "Generate additional psychology questions for Week 11 Treatments and Therapies quiz covering deeper application scenarios",
+  "created_at": "2026-01-13T21:53:54.582664",
+  "workspace": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace/TASK-20260113-215354-3963e46b",
+  "workspace_base": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace",
+  "client_cwd": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050",
+  "status": "INITIALIZED",
+  "priority": "P1",
+  "phases": [
+    {
+      "id": "phase-5a20a920",
+      "order": 1,
+      "name": "Question Generation",
+      "description": "Generate new treatment/therapy questions with focus on tricky differential diagnosis and application scenarios",
+      "deliverables": [
+        "15-20 new questions with mix of learning, application, and tricky difficulties",
+        "Questions covering treatment comparisons, when to use which approach, criticisms, mechanisms"
+      ],
+      "success_criteria": [
+        "Questions are clinically accurate based on the extracted text",
+        "Mix of difficulty levels",
+        "Comprehensive explanations for correct and incorrect answers"
+      ],
+      "status": "ACTIVE",
+      "created_at": "2026-01-13T21:53:54.582307",
+      "started_at": "2026-01-13T21:53:54.582310"
+    },
+    {
+      "id": "phase-d72d0dfd",
+      "order": 2,
+      "name": "Final Testing",
+      "description": "Comprehensive testing of all implemented features. This phase uses chrome-devtools MCP for browser testing, curl for API tests, and runs any existing test suites.",
+      "deliverables": [
+        "All UI features tested via browser automation",
+        "All API endpoints tested via curl/integration tests",
+        "Existing test suites pass (if applicable)",
+        "No critical bugs or regressions found"
+      ],
+      "success_criteria": [
+        "Core user flows work end-to-end",
+        "No console errors during testing",
+        "API responses are correct and performant",
+        "Visual appearance matches expectations"
+      ],
+      "status": "PENDING",
+      "created_at": "2026-01-13T21:53:54.582626",
+      "started_at": null,
+      "auto_appended": true,
+      "tests_deliverables_from": [
+        "Question Generation"
+      ]
+    }
+  ],
+  "current_phase_index": 0,
+  "agents": [],
+  "agent_hierarchy": {
+    "orchestrator": []
+  },
+  "max_agents": 45,
+  "max_depth": 5,
+  "max_concurrent": 20,
+  "total_spawned": 0,
+  "active_count": 0,
+  "completed_count": 0,
+  "reviews": [],
+  "orchestration_guidance": {
+    "min_specialization_depth": 2,
+    "recommended_child_agents_per_parent": 3,
+    "specialization_domains": [],
+    "complexity_score": 6
+  },
+  "spiral_checks": {
+    "enabled": true,
+    "last_check": "2026-01-13T21:53:54.582692",
+    "violations": 0
+  },
+  "task_context": {
+    "background_context": "Week 11 covers Treatments and Therapies. Currently has 33 questions. Need more challenging questions.\n\nKEY CONTENT FROM EXTRACTED TEXT:\n\nI. BIOLOGICAL APPROACHES:\nA) Drug Therapies (psychopharmacology):\n- Antipsychotics: decrease dopamine, reduce POSITIVE symptoms (delusions/hallucinations), little effect on NEGATIVE symptoms\n- Antianxiety: reduce anxiety, side effects (drowsiness, dependence)\n- Antidepressants: \n  * Tricyclics - increase NE and serotonin\n  * MAO inhibitors - most severe side effects, dietary restrictions\n  * SSRIs - increase serotonin, milder side effects, faster symptom reduction\n  * SNRIs - increase serotonin AND norepinephrine\n- CRITICISMS: 90% may be placebo, don't cure, don't teach coping skills, high relapse\n\nB) ECT:\n- Sedative + muscle relaxant, brief shock (<1 sec), seizure\n- For severe depression with HIGH SUICIDE RISK\n- Effects can be IMMEDIATE (faster than meds)\n- No one knows why it works\n- Criticisms: relapse high, permanent memory loss risk, brain damage risk\n\nC) Psychosurgery:\n- Remove/destroy brain tissue\n- Used RARELY, last resort\n\nII. PSYCHODYNAMIC THERAPIES:\n- Focus: unconscious conflicts\n- Goal: INSIGHT (conscious awareness of psychodynamics)\n- Techniques: Free Association (uncensored thoughts), Dream Interpretation (unconscious wishes)\n\nIII. HUMANISTIC THERAPIES (Carl Rogers):\n- Person-centered/Client-centered therapy\n- THREE therapist attributes:\n  1. Unconditional Positive Regard - care without judgment\n  2. Empathy - view world through client's eyes\n  3. Genuineness - consistency between feeling and behavior\n\nIV. COGNITIVE THERAPIES:\nA) REBT (Ellis) - ABCD Model:\n- A = Activating event\n- B = Belief system (irrational beliefs cause problems)\n- C = Consequences (emotional/behavioral)\n- D = Disputing erroneous beliefs\n\nB) Cognitive Therapy (Beck):\n- Negative automatic thoughts\n- NEGATIVE TRIAD: negative views of SELF, WORLD, FUTURE\n- Thoughts (not situation) cause maladaptive reactions\n\nC) CBT:\n- Thoughts, feelings, behaviors interconnected\n- Uses ABC model\n- Challenge unhelpful thoughts, encourage behavioral changes\n\nV. BEHAVIOR THERAPIES:\n- Behaviors ARE the problem (not symptoms of underlying issue)\n- Behaviors are learned, can be unlearned\n\nA) Exposure Therapy:\n- Systematic Desensitization: GRADUAL exposure + relaxation, fear hierarchy\n- Flooding: IMMEDIATE intense exposure until anxiety decreases\n\nB) Aversion Therapy:\n- Pair attractive stimulus with noxious stimulus\n- E.g., alcohol + nausea-inducing drug\n- A Clockwork Orange example\n\nC) Token Economy:\n- Positive reinforcement (operant conditioning)\n- Tokens given for desired behavior, exchanged for reinforcers\n\nQuestion format:\n{\n  \"question\": \"?\",\n  \"difficulty\": \"learning|application|tricky\",\n  \"options\": [\"A\", \"B\", \"C\", \"D\"],\n  \"answer\": \"Exact option\",\n  \"explanation\": {\"correct\": \"...\", \"incorrect\": {\"A\": \"...\", \"B\": \"...\"}}\n}",
+    "expected_deliverables": [
+      "15-20 new treatment/therapy questions",
+      "Application scenarios comparing treatments",
+      "Tricky questions on when to use which approach"
+    ],
+    "success_criteria": [
+      "Questions based on extracted text content",
+      "Mix of difficulties with emphasis on application/tricky",
+      "Comprehensive explanations"
+    ],
+    "relevant_files": [
+      "src/data/weeks/week11.json",
+      "pdf-text-extracted/PSYC100 GENERAL PSYCHOLOGY TREATMENTS AND THERAPIES.txt"
+    ]
+  }
+}

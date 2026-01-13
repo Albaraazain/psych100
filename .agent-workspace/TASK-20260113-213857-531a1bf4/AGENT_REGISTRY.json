@@ -1,0 +1,96 @@
+{
+  "task_id": "TASK-20260113-213857-531a1bf4",
+  "task_description": "Generate additional high-quality psychology questions for Week 10 Psychopathology quiz covering underrepresented topics from the lecture slides",
+  "created_at": "2026-01-13T21:38:57.077825",
+  "workspace": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace/TASK-20260113-213857-531a1bf4",
+  "workspace_base": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace",
+  "client_cwd": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050",
+  "status": "INITIALIZED",
+  "priority": "P1",
+  "phases": [
+    {
+      "id": "phase-a2f7d0da",
+      "order": 1,
+      "name": "Question Generation",
+      "description": "Generate new psychology questions covering underrepresented topics from the slides",
+      "deliverables": [
+        "15-20 new questions covering: Rosenhan study, delusion types, schizophrenia spectrum disorders, personality disorder scenarios",
+        "Questions in correct JSON format with difficulty levels (learning, application, tricky)",
+        "Each question has comprehensive explanations for correct and incorrect answers"
+      ],
+      "success_criteria": [
+        "All questions are clinically accurate based on the PDF slides",
+        "Questions cover diverse difficulty levels",
+        "Explanations are thorough and educational"
+      ],
+      "status": "ACTIVE",
+      "created_at": "2026-01-13T21:38:57.077788",
+      "started_at": "2026-01-13T21:38:57.077789"
+    },
+    {
+      "id": "phase-2078e7af",
+      "order": 2,
+      "name": "Final Testing",
+      "description": "Comprehensive testing of all implemented features. This phase uses chrome-devtools MCP for browser testing, curl for API tests, and runs any existing test suites.",
+      "deliverables": [
+        "All UI features tested via browser automation",
+        "All API endpoints tested via curl/integration tests",
+        "Existing test suites pass (if applicable)",
+        "No critical bugs or regressions found"
+      ],
+      "success_criteria": [
+        "Core user flows work end-to-end",
+        "No console errors during testing",
+        "API responses are correct and performant",
+        "Visual appearance matches expectations"
+      ],
+      "status": "PENDING",
+      "created_at": "2026-01-13T21:38:57.077803",
+      "started_at": null,
+      "auto_appended": true,
+      "tests_deliverables_from": [
+        "Question Generation"
+      ]
+    }
+  ],
+  "current_phase_index": 0,
+  "agents": [],
+  "agent_hierarchy": {
+    "orchestrator": []
+  },
+  "max_agents": 45,
+  "max_depth": 5,
+  "max_concurrent": 20,
+  "total_spawned": 0,
+  "active_count": 0,
+  "completed_count": 0,
+  "reviews": [],
+  "orchestration_guidance": {
+    "min_specialization_depth": 2,
+    "recommended_child_agents_per_parent": 3,
+    "specialization_domains": [],
+    "complexity_score": 1
+  },
+  "spiral_checks": {
+    "enabled": true,
+    "last_check": "2026-01-13T21:38:57.077851",
+    "violations": 0
+  },
+  "task_context": {
+    "background_context": "The user needs more questions for Week 10 (Psychopathology) of their PSYC 100 quiz app. Current topics have ~46 questions total. Key topics from slides that need more coverage:\n\n1. ROSENHAN STUDY: \"On being sane in insane places\" - pseudopatients admitted to psychiatric hospitals, staff couldn't distinguish them from real patients, raises questions about validity of psychiatric diagnosis\n\n2. DELUSION TYPES (need more detail):\n- Persecutory: being conspired against, spied on, poisoned\n- Reference: neutral events have special personal meaning  \n- Grandiose: special power, identity, knowledge\n- Control delusions: forces controlling thoughts/actions\n- Thought delusions: insertion, withdrawal, broadcasting\n- Somatic: having physical defect despite negative tests\n- Nihilistic: body parts don't exist, one is dead\n\n3. SCHIZOPHRENIA SPECTRUM DISTINCTIONS:\n- Schizophrenia: \u22656 months\n- Schizophreniform: 1-6 months (same symptoms)\n- Schizoaffective: psychosis + mood episodes (key: psychosis occurs WITHOUT mood)\n- Brief Psychotic: 1 day to <1 month, full recovery\n- Delusional Disorder: circumscribed delusions, normal functioning otherwise\n\n4. PERSONALITY DISORDERS (all 10):\n- Cluster A (Odd): Paranoid, Schizoid, Schizotypal\n- Cluster B (Dramatic): Antisocial, Borderline, Histrionic, Narcissistic\n- Cluster C (Anxious): Avoidant, Dependent, OCPD\n\nQuestion format must match existing structure:\n{\n  \"question\": \"Question text?\",\n  \"difficulty\": \"learning|application|tricky\",\n  \"options\": [\"A\", \"B\", \"C\", \"D\"],\n  \"answer\": \"Correct option text exactly\",\n  \"explanation\": {\n    \"correct\": \"Why this is right\",\n    \"incorrect\": {\n      \"Option A\": \"Why wrong\",\n      \"Option B\": \"Why wrong\"\n    }\n  }\n}",
+    "expected_deliverables": [
+      "15-20 new well-crafted psychology questions in JSON format",
+      "Questions covering Rosenhan study, delusion types, schizophrenia spectrum, personality disorders",
+      "Each question with comprehensive explanations"
+    ],
+    "success_criteria": [
+      "Questions are clinically accurate per DSM-5 and lecture content",
+      "Mix of learning, application, and tricky difficulty levels",
+      "Explanations teach why correct answer is right AND why each wrong answer is wrong"
+    ],
+    "relevant_files": [
+      "src/data/weeks/week10.json",
+      "22 December - 28 December/PSYC100 GENERAL PSYCHOLOGY PSYCHOPATHOLOGY.pdf"
+    ]
+  }
+}

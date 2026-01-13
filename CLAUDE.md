@@ -1,0 +1,3 @@
+- dont read pdfs directly, read the text extractions from the pdf
+- questions created should be based on ideas read from the extracted text content from the pdf. potential questions that can come in the exam, some tricky, some informant, some require deep understanding, etc.
+- the worksheet gives some idea of how questions might come, but worksheet questions are a bit easy

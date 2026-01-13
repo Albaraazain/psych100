@@ -35,6 +35,26 @@
       "success_criteria_count": 4,
       "workspace": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace/TASK-20260113-172623-e2e7c155",
       "workspace_base": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace"
+    },
+    "TASK-20260113-213857-531a1bf4": {
+      "description": "Generate additional high-quality psychology questions for Week 10 Psychopathology quiz covering underrepresented topics from the lecture slides",
+      "created_at": "2026-01-13T21:38:57.082829",
+      "status": "INITIALIZED",
+      "has_enhanced_context": true,
+      "deliverables_count": 3,
+      "success_criteria_count": 3,
+      "workspace": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace/TASK-20260113-213857-531a1bf4",
+      "workspace_base": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace"
+    },
+    "TASK-20260113-215354-3963e46b": {
+      "description": "Generate additional psychology questions for Week 11 Treatments and Therapies quiz covering deeper application scenarios",
+      "created_at": "2026-01-13T21:53:54.588834",
+      "status": "INITIALIZED",
+      "has_enhanced_context": true,
+      "deliverables_count": 3,
+      "success_criteria_count": 3,
+      "workspace": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace/TASK-20260113-215354-3963e46b",
+      "workspace_base": "/Users/albaraa/Downloads/PSYC 100 Section 1_20260112_2050/.agent-workspace"
     }
   },
   "agents": {}

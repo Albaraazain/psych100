@@ -919,6 +919,367 @@
               "REBT": "REBT uses the ABCD model to challenge irrational beliefs. While anxiety might be addressed, REBT doesn't use systematic fear hierarchies—that's specific to behavior therapy."
             }
           }
+        },
+        {
+          "question": "Why do antipsychotic drugs have little effect on negative symptoms of schizophrenia (flat affect, social withdrawal)?",
+          "difficulty": "tricky",
+          "options": [
+            "Negative symptoms aren't caused by dopamine excess—they may involve dopamine deficiency in different brain areas",
+            "Patients with negative symptoms don't take their medication consistently",
+            "Negative symptoms are psychological, not biological",
+            "Antipsychotics only work for new symptoms, not chronic ones"
+          ],
+          "answer": "Negative symptoms aren't caused by dopamine excess—they may involve dopamine deficiency in different brain areas",
+          "explanation": {
+            "correct": "Antipsychotics decrease dopamine activity, which helps positive symptoms (delusions, hallucinations) associated with dopamine excess in certain brain pathways. However, negative symptoms (flat affect, social withdrawal, lack of motivation) may actually involve dopamine deficiency in different brain regions (like the frontal cortex). Blocking dopamine won't help—and may even worsen—symptoms caused by too little dopamine.",
+            "incorrect": {
+              "Patients with negative symptoms don't take their medication consistently": "Medication adherence is a clinical concern, but it's not the reason antipsychotics don't help negative symptoms pharmacologically. Even with perfect adherence, negative symptoms respond poorly.",
+              "Negative symptoms are psychological, not biological": "Both positive and negative symptoms have biological bases. The issue is that different symptoms may involve different neurotransmitter systems or brain regions, not that negative symptoms are non-biological.",
+              "Antipsychotics only work for new symptoms, not chronic ones": "This is incorrect. Antipsychotics help positive symptoms whether acute or chronic. The distinction is between positive and negative symptoms, not new and old."
+            }
+          }
+        },
+        {
+          "question": "A patient with depression has a history of tyramine-induced hypertensive crisis. Which antidepressant class should be AVOIDED?",
+          "difficulty": "application",
+          "options": [
+            "SSRIs",
+            "MAO inhibitors",
+            "SNRIs",
+            "Tricyclics"
+          ],
+          "answer": "MAO inhibitors",
+          "explanation": {
+            "correct": "MAO inhibitors have dangerous interactions with tyramine-containing foods (aged cheese, wine, fermented foods). Tyramine is normally broken down by MAO enzymes. When these are inhibited, tyramine accumulates and can cause hypertensive crisis. A patient with history of such a reaction should never take MAO inhibitors.",
+            "incorrect": {
+              "SSRIs": "SSRIs don't have dangerous tyramine interactions. They work by blocking serotonin reuptake and have relatively mild side effects. They would be safer for this patient.",
+              "SNRIs": "SNRIs increase serotonin and norepinephrine but don't inhibit MAO. They don't have the same tyramine interaction risk as MAO inhibitors.",
+              "Tricyclics": "While tricyclics have more side effects than SSRIs, they don't cause tyramine-induced hypertensive crisis. MAO inhibitors are the only class with this specific dangerous food interaction."
+            }
+          }
+        },
+        {
+          "question": "A severely depressed patient with immediate suicide risk needs the fastest-acting treatment. Their depression hasn't responded to multiple medications. What treatment is most appropriate?",
+          "difficulty": "application",
+          "options": [
+            "Start a new SSRI and wait 4-6 weeks",
+            "Begin intensive psychodynamic therapy",
+            "Consider ECT, which can have immediate effects",
+            "Increase the dose of current medication"
+          ],
+          "answer": "Consider ECT, which can have immediate effects",
+          "explanation": {
+            "correct": "ECT is specifically indicated for severe depression with HIGH SUICIDE RISK and when medications have failed. Its effects can be IMMEDIATE—faster than any medication. In a life-threatening situation where medications haven't worked, ECT can be life-saving. The immediate effect is crucial when suicide risk is high.",
+            "incorrect": {
+              "Start a new SSRI and wait 4-6 weeks": "With immediate suicide risk, waiting 4-6 weeks for medication effects is dangerous. The patient needs faster intervention. Also, multiple medications have already failed.",
+              "Begin intensive psychodynamic therapy": "Psychodynamic therapy takes months or years to achieve insight. With immediate suicide risk, this timeframe is too long. ECT can work immediately.",
+              "Increase the dose of current medication": "The patient hasn't responded to multiple medications. Simply increasing dose of a failed medication won't provide the immediate relief needed for high suicide risk."
+            }
+          }
+        },
+        {
+          "question": "The criticism that 'up to 90% of drug effects may be placebo' implies that:",
+          "difficulty": "tricky",
+          "options": [
+            "Medications are fraudulent and should be banned",
+            "Patient expectations and hope may contribute substantially to improvement, not just pharmacology",
+            "Only 10% of patients respond to any medication",
+            "Placebo pills work better than real medications"
+          ],
+          "answer": "Patient expectations and hope may contribute substantially to improvement, not just pharmacology",
+          "explanation": {
+            "correct": "The placebo effect means improvement occurs due to expectation, belief, and the therapeutic ritual—not the drug's pharmacological action. If 90% is placebo, it means psychological factors (hope, expectation, being cared for) contribute heavily to outcomes. This doesn't mean drugs are worthless, but that psychological factors are powerful.",
+            "incorrect": {
+              "Medications are fraudulent and should be banned": "This overstates the criticism. Placebo effects are real psychological phenomena, not fraud. Medications may still have some specific effects beyond placebo, just smaller than assumed.",
+              "Only 10% of patients respond to any medication": "This misinterprets the statistic. If 90% is placebo, it means that among those who improve, 90% of their improvement may be due to expectation rather than pharmacology. Many patients improve—the mechanism is the question.",
+              "Placebo pills work better than real medications": "The criticism doesn't say placebos work BETTER. It says that in real medications, much of the effect may be due to placebo components (expectation, hope) rather than pharmacological action."
+            }
+          }
+        },
+        {
+          "question": "Why is the mechanism of ECT considered a mystery?",
+          "difficulty": "application",
+          "options": [
+            "It doesn't actually work—results are fabricated",
+            "It works for depression but no one knows exactly why inducing seizures helps",
+            "The seizure destroys all memories, making research impossible",
+            "Patients can't consent to research on ECT"
+          ],
+          "answer": "It works for depression but no one knows exactly why inducing seizures helps",
+          "explanation": {
+            "correct": "ECT is effective for severe depression—this is well-established. The mystery is WHY it works. Various theories exist (neurotransmitter changes, neuroplasticity, gene expression) but no definitive mechanism has been proven. This contrasts with medications where we know they affect specific neurotransmitters.",
+            "incorrect": {
+              "It doesn't actually work—results are fabricated": "ECT's effectiveness is supported by substantial research. It's one of the most effective treatments for severe depression. The mystery is the mechanism, not the effectiveness.",
+              "The seizure destroys all memories, making research impossible": "While memory effects occur, ECT doesn't destroy ALL memories and doesn't prevent research. The 'why' remains unknown despite decades of research, not because research is impossible.",
+              "Patients can't consent to research on ECT": "Patients can and do consent to ECT and research. ECT is performed with informed consent like other treatments. The mechanism mystery isn't due to consent issues."
+            }
+          }
+        },
+        {
+          "question": "A patient wants to explore childhood trauma and understand how early experiences shaped their current problems. Which therapy approach is most appropriate?",
+          "difficulty": "application",
+          "options": [
+            "Person-centered therapy focusing on present growth",
+            "Psychodynamic therapy exploring unconscious conflicts",
+            "Behavior therapy using exposure techniques",
+            "Cognitive therapy challenging automatic thoughts"
+          ],
+          "answer": "Psychodynamic therapy exploring unconscious conflicts",
+          "explanation": {
+            "correct": "Psychodynamic therapy specifically focuses on exploring the PAST—childhood experiences, early relationships, and how unconscious conflicts from these experiences shape current problems. The goal is INSIGHT into how the past influences present functioning. This matches the patient's expressed interest.",
+            "incorrect": {
+              "Person-centered therapy focusing on present growth": "Humanistic/person-centered therapy focuses on the PRESENT and FUTURE, not dwelling on the past. It emphasizes current growth and self-actualization rather than exploring childhood trauma.",
+              "Behavior therapy using exposure techniques": "Behavior therapy focuses on current learned behaviors and changing them through conditioning. It doesn't explore childhood origins—behaviorists view the current behavior as the problem, not symptoms of past trauma.",
+              "Cognitive therapy challenging automatic thoughts": "Cognitive therapy targets current thought patterns. While recognizing thoughts may have developed over time, it focuses on present cognitions rather than exploring how childhood shaped them."
+            }
+          }
+        },
+        {
+          "question": "In psychodynamic therapy, the therapist interprets unconscious material. In person-centered therapy, the therapist:",
+          "difficulty": "tricky",
+          "options": [
+            "Also interprets unconscious material but uses different techniques",
+            "Provides a growth-promoting climate without interpretation",
+            "Directly tells clients what to do to solve problems",
+            "Challenges irrational beliefs using disputation"
+          ],
+          "answer": "Provides a growth-promoting climate without interpretation",
+          "explanation": {
+            "correct": "In person-centered therapy, the therapist is a FACILITATOR, not an interpreter. By providing unconditional positive regard, empathy, and genuineness, the therapist creates conditions where clients can access their own inner resources for growth. Clients reach their own insights—the therapist doesn't interpret for them.",
+            "incorrect": {
+              "Also interprets unconscious material but uses different techniques": "Person-centered therapy explicitly rejects interpretation. Rogers believed clients have the capacity to understand themselves. The therapist provides conditions for growth, not expert interpretations.",
+              "Directly tells clients what to do to solve problems": "Person-centered therapy is NON-DIRECTIVE. The therapist doesn't give advice or direct clients. The client is the expert on their own experience.",
+              "Challenges irrational beliefs using disputation": "This describes REBT (Ellis), not person-centered therapy. Person-centered therapy is accepting and non-confrontational, not challenging or disputational."
+            }
+          }
+        },
+        {
+          "question": "Rogers's 'genuineness' (congruence) in therapy means the therapist:",
+          "difficulty": "tricky",
+          "options": [
+            "Is consistently nice and agreeable to make the client feel good",
+            "Behaves consistently with how they actually feel—being authentic",
+            "Tells clients the absolute truth even if it hurts",
+            "Uses genuine medications rather than placebos"
+          ],
+          "answer": "Behaves consistently with how they actually feel—being authentic",
+          "explanation": {
+            "correct": "Genuineness (congruence) means consistency between the therapist's inner experience and outward behavior. The therapist is authentic and transparent, not hiding behind a professional facade. If the therapist feels confused, they might say so rather than pretending to understand. It's about being real, not performing a role.",
+            "incorrect": {
+              "Is consistently nice and agreeable to make the client feel good": "Genuineness is NOT the same as being nice or agreeable. A genuine therapist might express concern, confusion, or even gentle disagreement. The key is authenticity, not pleasantness.",
+              "Tells clients the absolute truth even if it hurts": "Genuineness doesn't mean brutal honesty without tact. It means the therapist's behavior matches their feelings—they're authentic without being harsh or inappropriately self-disclosing.",
+              "Uses genuine medications rather than placebos": "This confuses psychological genuineness with pharmacological authenticity. Rogers's genuineness is about therapist authenticity, not medication."
+            }
+          }
+        },
+        {
+          "question": "A client says 'I'm just here because my spouse made me come. I don't need therapy.' A person-centered therapist would:",
+          "difficulty": "application",
+          "options": [
+            "Interpret the resistance as a defense mechanism",
+            "Accept this feeling without judgment and explore their experience",
+            "Argue that they clearly do need therapy given their problems",
+            "Immediately discharge them since therapy requires motivation"
+          ],
+          "answer": "Accept this feeling without judgment and explore their experience",
+          "explanation": {
+            "correct": "Unconditional positive regard means accepting the client's feelings without judgment—including ambivalence about therapy. The person-centered therapist would validate this experience ('That sounds frustrating') and gently explore without pushing, trusting the client's capacity for growth.",
+            "incorrect": {
+              "Interpret the resistance as a defense mechanism": "Interpretation is a psychodynamic technique, not person-centered. Rogers avoided expert interpretations of client material.",
+              "Argue that they clearly do need therapy given their problems": "Person-centered therapy is non-directive and non-argumentative. Arguing would violate unconditional positive regard and damage the therapeutic relationship.",
+              "Immediately discharge them since therapy requires motivation": "Person-centered therapy trusts the client's capacity for growth. Even ambivalent clients can benefit from an accepting relationship. Immediate discharge contradicts Rogers's approach."
+            }
+          }
+        },
+        {
+          "question": "In Ellis's ABCD model, therapy primarily targets changing:",
+          "difficulty": "tricky",
+          "options": [
+            "A (the activating events that trigger reactions)",
+            "B (the irrational belief systems about events)",
+            "C (the emotional and behavioral consequences)",
+            "The unconscious conflicts underlying all three"
+          ],
+          "answer": "B (the irrational belief systems about events)",
+          "explanation": {
+            "correct": "REBT's core insight is that B (beliefs) causes C (consequences), not A (activating events). Therefore, therapy targets changing irrational BELIEFS. You can't always change external events (A), but you can change how you interpret them (B). By disputing (D) irrational beliefs, emotional consequences (C) improve.",
+            "incorrect": {
+              "A (the activating events that trigger reactions)": "We often can't control external events. Ellis's point is that it's not the events but our BELIEFS about events that cause distress. Changing A is often impossible—changing B is therapeutic.",
+              "C (the emotional and behavioral consequences)": "Consequences result from beliefs. To change C, you must change B. Directly targeting consequences without addressing underlying beliefs would be superficial.",
+              "The unconscious conflicts underlying all three": "REBT is cognitive, not psychodynamic. Ellis explicitly rejected unconscious explanations. The beliefs in REBT are automatic but accessible to consciousness—they're not deeply unconscious conflicts."
+            }
+          }
+        },
+        {
+          "question": "A depressed patient says: 'I failed one test, so I'm a complete failure, my life is hopeless, and nothing will ever get better.' According to Beck, this reflects:",
+          "difficulty": "application",
+          "options": [
+            "Accurate assessment of reality",
+            "The negative triad: negative views of self, world, and future",
+            "Unconscious conflicts about achievement",
+            "Classical conditioning of failure associations"
+          ],
+          "answer": "The negative triad: negative views of self, world, and future",
+          "explanation": {
+            "correct": "This statement perfectly illustrates Beck's negative triad: negative view of SELF ('I'm a complete failure'), negative view of WORLD ('my life is hopeless'), and negative view of FUTURE ('nothing will ever get better'). One small setback triggers this pervasive negativity across all three domains.",
+            "incorrect": {
+              "Accurate assessment of reality": "This is a cognitive distortion, not accurate reality. Failing one test doesn't make someone a 'complete failure.' The overgeneralization and catastrophizing are hallmarks of depressive thinking.",
+              "Unconscious conflicts about achievement": "Beck's approach focuses on conscious (though automatic) thoughts, not unconscious conflicts. The negative triad is about identifiable thought patterns, not repressed material.",
+              "Classical conditioning of failure associations": "This would be a behavioral interpretation. Beck's model is cognitive—it focuses on the content and pattern of thoughts, not conditioned associations."
+            }
+          }
+        },
+        {
+          "question": "What distinguishes REBT's 'disputing' from general CBT's approach to cognitive change?",
+          "difficulty": "tricky",
+          "options": [
+            "REBT actively argues against irrational beliefs; CBT collaboratively examines evidence for thoughts",
+            "REBT is gentler; CBT is more confrontational",
+            "REBT focuses on behavior; CBT focuses on cognition",
+            "There is no difference—they are identical approaches"
+          ],
+          "answer": "REBT actively argues against irrational beliefs; CBT collaboratively examines evidence for thoughts",
+          "explanation": {
+            "correct": "REBT (Ellis) is more DIRECTIVE and CONFRONTATIONAL—the therapist actively disputes and argues against irrational beliefs ('Why MUST everyone approve of you?'). CBT (Beck's style) is more COLLABORATIVE and SOCRATIC—therapist and client together examine evidence for thoughts without the therapist arguing. Both change cognitions, but the style differs.",
+            "incorrect": {
+              "REBT is gentler; CBT is more confrontational": "This is backwards. REBT is typically MORE direct and confrontational. Ellis was known for his forceful challenging of irrational beliefs. CBT tends to be more gentle and collaborative.",
+              "REBT focuses on behavior; CBT focuses on cognition": "Both focus primarily on cognition. REBT targets irrational beliefs; CBT targets automatic thoughts. 'Behavioral' in REBT refers to Ellis's recognition that behavior change accompanies belief change.",
+              "There is no difference—they are identical approaches": "While both are cognitive therapies, their therapeutic styles differ significantly. REBT is more directive/confrontational; CBT more collaborative/Socratic."
+            }
+          }
+        },
+        {
+          "question": "A therapist helps a patient recognize that 'Everyone hates me' is a thought, not a fact, and examines evidence for and against it. This technique is characteristic of:",
+          "difficulty": "application",
+          "options": [
+            "Psychodynamic interpretation of defenses",
+            "Cognitive therapy's examination of automatic thoughts",
+            "Behavioral exposure techniques",
+            "Humanistic unconditional positive regard"
+          ],
+          "answer": "Cognitive therapy's examination of automatic thoughts",
+          "explanation": {
+            "correct": "Helping patients recognize that thoughts aren't facts and examining evidence is core cognitive therapy. 'Everyone hates me' is an automatic thought that feels true. Cognitive therapy treats it as a hypothesis to test, examining evidence and developing more balanced thoughts like 'Some people like me, some are neutral.'",
+            "incorrect": {
+              "Psychodynamic interpretation of defenses": "Psychodynamic therapy would interpret what the thought means unconsciously, not examine evidence for its accuracy. The focus would be on symbolic meaning, not evidence testing.",
+              "Behavioral exposure techniques": "Exposure would involve facing feared situations, not examining thoughts. A behaviorist might expose the person to social situations but wouldn't focus on cognitive examination.",
+              "Humanistic unconditional positive regard": "A humanistic therapist would accept the feeling but wouldn't actively challenge the thought or examine evidence. The approach is accepting, not cognitive restructuring."
+            }
+          }
+        },
+        {
+          "question": "Cognitive therapy argues that situations don't directly cause emotions—rather:",
+          "difficulty": "application",
+          "options": [
+            "Unconscious conflicts mediate between situations and emotions",
+            "Our thoughts and interpretations about situations cause emotional reactions",
+            "Classical conditioning creates automatic emotional responses",
+            "Brain chemistry determines emotional responses regardless of situation"
+          ],
+          "answer": "Our thoughts and interpretations about situations cause emotional reactions",
+          "explanation": {
+            "correct": "This is the core cognitive principle: it's not A (activating event) that causes C (consequences), but B (beliefs/interpretations) about A. Two people in identical situations can feel differently because they THINK about it differently. Change the thought, change the emotion.",
+            "incorrect": {
+              "Unconscious conflicts mediate between situations and emotions": "This is the psychodynamic view. Cognitive therapy focuses on conscious (though automatic) thoughts, not unconscious conflicts.",
+              "Classical conditioning creates automatic emotional responses": "This is the behavioral view—emotions as conditioned responses. Cognitive therapy focuses on the interpretive thoughts that mediate between stimulus and response.",
+              "Brain chemistry determines emotional responses regardless of situation": "This is a reductionist biological view. Cognitive therapy holds that how we THINK about situations affects our emotions, giving us agency to change."
+            }
+          }
+        },
+        {
+          "question": "Why do behaviorists argue that maladaptive behaviors are 'the problem itself' rather than symptoms of underlying issues?",
+          "difficulty": "tricky",
+          "options": [
+            "Because behaviorists don't believe in mental processes at all",
+            "Because behaviors are learned through conditioning and can be unlearned the same way—no deeper cause needed",
+            "Because behaviorists only treat simple phobias, not complex disorders",
+            "Because underlying causes are too difficult to research"
+          ],
+          "answer": "Because behaviors are learned through conditioning and can be unlearned the same way—no deeper cause needed",
+          "explanation": {
+            "correct": "Behaviorists reject the 'medical model' that views behaviors as symptoms of underlying disease. Instead, problem behaviors are seen as LEARNED through the same principles as normal behaviors (classical and operant conditioning, modeling). If a behavior was learned, it can be unlearned. No need to dig for unconscious causes—directly change the behavior.",
+            "incorrect": {
+              "Because behaviorists don't believe in mental processes at all": "Modern behavioral approaches acknowledge thoughts exist; they just focus on observable behavior. The point isn't denying mental processes but emphasizing that behaviors themselves can be targeted for change.",
+              "Because behaviorists only treat simple phobias, not complex disorders": "Behavioral principles are applied to many disorders. The philosophical stance about symptoms vs. problems applies broadly, not just to simple phobias.",
+              "Because underlying causes are too difficult to research": "The issue isn't difficulty—behaviorists philosophically reject the symptom-underlying cause model. They believe the behavior itself is what needs changing, regardless of research ease."
+            }
+          }
+        },
+        {
+          "question": "A patient with severe spider phobia needs treatment but has limited time and wants the fastest results. Between systematic desensitization and flooding, which is faster but more distressing?",
+          "difficulty": "application",
+          "options": [
+            "Systematic desensitization—it uses relaxation so patients progress quickly",
+            "Flooding—immediate intense exposure can reduce fear faster but is more anxiety-provoking",
+            "Both take exactly the same amount of time",
+            "Neither works for phobias—only medication is effective"
+          ],
+          "answer": "Flooding—immediate intense exposure can reduce fear faster but is more anxiety-provoking",
+          "explanation": {
+            "correct": "Flooding involves IMMEDIATE, INTENSE exposure to the most feared stimulus until anxiety naturally decreases (extinction). This can be faster than gradual systematic desensitization but is much more distressing because the patient faces maximum fear immediately. Systematic desensitization is gentler but takes longer to work through the hierarchy.",
+            "incorrect": {
+              "Systematic desensitization—it uses relaxation so patients progress quickly": "Relaxation makes the process more comfortable but not faster. Gradual progression through a fear hierarchy takes more time than immediate intense exposure.",
+              "Both take exactly the same amount of time": "Research shows flooding typically produces faster results because it's immediate rather than gradual. The trade-off is increased distress during treatment.",
+              "Neither works for phobias—only medication is effective": "Both exposure therapies are highly effective for phobias—often more effective than medication. Behavioral treatments are first-line for specific phobias."
+            }
+          }
+        },
+        {
+          "question": "Match the conditioning principle: Aversion therapy uses _____ conditioning, while token economy uses _____ conditioning.",
+          "difficulty": "application",
+          "options": [
+            "Classical; operant",
+            "Operant; classical",
+            "Classical; classical",
+            "Operant; operant"
+          ],
+          "answer": "Classical; operant",
+          "explanation": {
+            "correct": "Aversion therapy pairs two stimuli (alcohol + nausea) to create a conditioned response—this is CLASSICAL conditioning (Pavlovian). Token economy provides rewards after desired behaviors to increase them—this is OPERANT conditioning (consequences shape behavior). Different behavioral techniques use different conditioning principles.",
+            "incorrect": {
+              "Operant; classical": "This is reversed. Aversion therapy creates associations between stimuli (classical), while token economy manipulates consequences of behavior (operant).",
+              "Classical; classical": "Token economy definitely uses operant conditioning—tokens are given AS CONSEQUENCES for behavior, not paired with other stimuli.",
+              "Operant; operant": "Aversion therapy definitely uses classical conditioning—it pairs stimuli to create associations, rather than reinforcing or punishing behaviors."
+            }
+          }
+        },
+        {
+          "question": "In aversion therapy for alcohol abuse, the alcohol serves as the _____ stimulus and the nausea as the _____ stimulus.",
+          "difficulty": "application",
+          "options": [
+            "Conditioned; unconditioned",
+            "Unconditioned; conditioned",
+            "Neutral; reinforcing",
+            "Positive; negative"
+          ],
+          "answer": "Conditioned; unconditioned",
+          "explanation": {
+            "correct": "In classical conditioning, the nausea-inducing drug naturally causes nausea (unconditioned stimulus → unconditioned response). Alcohol is initially neutral regarding nausea. After pairing, alcohol becomes the conditioned stimulus that triggers conditioned nausea/aversion. The alcohol is CONDITIONED to produce the response; nausea is UNCONDITIONED (natural).",
+            "incorrect": {
+              "Unconditioned; conditioned": "This is reversed. Nausea is the naturally-occurring unconditioned response to the drug. Alcohol becomes conditioned AFTER pairing—it doesn't naturally cause nausea.",
+              "Neutral; reinforcing": "Alcohol starts as neutral (regarding nausea) but becomes a conditioned stimulus, not a reinforcing one. Reinforcement is operant terminology; this is classical conditioning.",
+              "Positive; negative": "Positive/negative in conditioning terms refer to adding/removing stimuli in operant conditioning. In aversion therapy's classical conditioning, we discuss conditioned and unconditioned stimuli."
+            }
+          }
+        },
+        {
+          "question": "A token economy in a psychiatric hospital fails because tokens are given at the end of each week rather than immediately after desired behaviors. Which operant principle was violated?",
+          "difficulty": "tricky",
+          "options": [
+            "Punishment must follow undesired behavior",
+            "Reinforcement is most effective when immediate",
+            "Variable ratio schedules are better than fixed schedules",
+            "Negative reinforcement requires stimulus removal"
+          ],
+          "answer": "Reinforcement is most effective when immediate",
+          "explanation": {
+            "correct": "IMMEDIACY of reinforcement is crucial. When reinforcement is delayed (weekly vs. immediately after behavior), the connection between behavior and consequence weakens. The token should be given RIGHT AFTER the desired behavior so the person clearly links their action to the reward. Weekly distribution breaks this contingency.",
+            "incorrect": {
+              "Punishment must follow undesired behavior": "Token economies use positive reinforcement, not punishment. The issue isn't about punishment timing but reinforcement timing.",
+              "Variable ratio schedules are better than fixed schedules": "While schedule type matters for maintenance, the described problem is about DELAY, not schedule. Whether fixed or variable, immediacy is still important.",
+              "Negative reinforcement requires stimulus removal": "Token economies use positive reinforcement (adding tokens), not negative reinforcement. The timing issue is about when positive reinforcement is delivered."
+            }
+          }
         }
       ]
     }

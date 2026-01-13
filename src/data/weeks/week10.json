@@ -213,6 +213,82 @@
               "They only classify physical diseases, not mental disorders": "This is completely incorrect. The DSM-5 is specifically FOR mental disorders. The ICD covers all diseases including mental ones."
             }
           }
+        },
+        {
+          "question": "In Rosenhan's 'On Being Sane in Insane Places' study, what did pseudopatients report to gain admission to psychiatric hospitals?",
+          "difficulty": "learning",
+          "options": [
+            "Severe depression and suicidal thoughts",
+            "Auditory hallucinations saying 'empty,' 'hollow,' and 'thud'",
+            "Paranoid delusions about government surveillance",
+            "Visual hallucinations of threatening figures"
+          ],
+          "answer": "Auditory hallucinations saying 'empty,' 'hollow,' and 'thud'",
+          "explanation": {
+            "correct": "In Rosenhan's 1973 study, pseudopatients (fake patients) presented to psychiatric hospitals claiming to hear voices saying 'empty,' 'hollow,' and 'thud.' These vague auditory hallucinations were the only false symptoms reported—once admitted, they acted completely normal.",
+            "incorrect": {
+              "Severe depression and suicidal thoughts": "The pseudopatients did not report depression or suicidal ideation. They specifically reported auditory hallucinations with vague, existentially-themed words.",
+              "Paranoid delusions about government surveillance": "No paranoid delusions were reported. The study used minimal, vague auditory hallucinations as the only false symptom.",
+              "Visual hallucinations of threatening figures": "The hallucinations were auditory, not visual, and consisted only of words like 'empty,' 'hollow,' and 'thud.'"
+            }
+          }
+        },
+        {
+          "question": "What was the key finding of Rosenhan's study regarding psychiatric staff's ability to identify the pseudopatients?",
+          "difficulty": "learning",
+          "options": [
+            "Staff correctly identified all pseudopatients within 24 hours",
+            "Staff could not distinguish pseudopatients from actual patients",
+            "Only psychiatrists could identify them, but nurses could not",
+            "Pseudopatients were identified by their lack of medication side effects"
+          ],
+          "answer": "Staff could not distinguish pseudopatients from actual patients",
+          "explanation": {
+            "correct": "The striking finding was that psychiatric staff could NOT distinguish the pseudopatients from actual patients, despite the pseudopatients acting completely normal after admission. All were admitted (most diagnosed with schizophrenia), with average stays of 19 days.",
+            "incorrect": {
+              "Staff correctly identified all pseudopatients within 24 hours": "The opposite occurred—staff never identified them as faking. Interestingly, actual patients sometimes suspected the pseudopatients weren't really ill.",
+              "Only psychiatrists could identify them, but nurses could not": "Neither psychiatrists nor any staff identified them. The study demonstrated a systemic inability to detect sanity within insane settings.",
+              "Pseudopatients were identified by their lack of medication side effects": "Pseudopatients often took medications (without swallowing) to maintain their cover. Staff did not use medication response to identify them."
+            }
+          }
+        },
+        {
+          "question": "A researcher wants to replicate Rosenhan's study. Based on the original findings, what should they expect regarding diagnosis upon admission?",
+          "difficulty": "application",
+          "options": [
+            "Modern diagnostic criteria would prevent any false admissions",
+            "Pseudopatients would likely be admitted and diagnosed, raising questions about diagnostic validity",
+            "Brain imaging would immediately reveal normal brain function",
+            "Structured interviews would definitively distinguish real from fake symptoms"
+          ],
+          "answer": "Pseudopatients would likely be admitted and diagnosed, raising questions about diagnostic validity",
+          "explanation": {
+            "correct": "Rosenhan's study demonstrated that once someone enters a psychiatric setting with reported symptoms, the context biases interpretation. The study raised serious questions about whether psychiatric diagnosis can reliably distinguish 'sane' from 'insane'—a fundamental validity concern.",
+            "incorrect": {
+              "Modern diagnostic criteria would prevent any false admissions": "While DSM-5 has more specific criteria, Rosenhan's point was about contextual bias in psychiatric settings. The tendency to interpret behavior through a pathological lens may persist.",
+              "Brain imaging would immediately reveal normal brain function": "Functional brain imaging is not routinely used for psychiatric admission decisions, and no biomarkers definitively distinguish most psychiatric conditions from normalcy.",
+              "Structured interviews would definitively distinguish real from fake symptoms": "Structured interviews improve reliability but cannot guarantee detection of malingering. The study's point was about systemic biases, not just interview techniques."
+            }
+          }
+        },
+        {
+          "question": "What is the primary implication of Rosenhan's study for psychiatric classification systems?",
+          "difficulty": "tricky",
+          "options": [
+            "Classification systems are useless and should be abandoned entirely",
+            "Classification systems have limitations—context can bias diagnosis, and distinguishing normalcy from pathology is challenging",
+            "Only biological tests should be used for psychiatric diagnosis",
+            "Psychiatric diagnosis is perfectly accurate when proper protocols are followed"
+          ],
+          "answer": "Classification systems have limitations—context can bias diagnosis, and distinguishing normalcy from pathology is challenging",
+          "explanation": {
+            "correct": "Rosenhan's study highlighted that classification systems don't always work perfectly. The study demonstrated that psychiatric settings can bias interpretation of normal behavior as pathological, and that reliably distinguishing 'sane' from 'insane' is challenging. This doesn't invalidate classification but reveals important limitations.",
+            "incorrect": {
+              "Classification systems are useless and should be abandoned entirely": "This overstates the conclusion. Classification systems remain valuable for communication, treatment planning, and research. The study reveals limitations, not total invalidity.",
+              "Only biological tests should be used for psychiatric diagnosis": "No reliable biological tests exist for most psychiatric diagnoses. This answer proposes a solution that doesn't exist rather than acknowledging the study's actual implications.",
+              "Psychiatric diagnosis is perfectly accurate when proper protocols are followed": "This contradicts the study's findings. Even with standard protocols, the contextual bias and difficulty distinguishing normalcy from pathology persisted."
+            }
+          }
         }
       ]
     },
@@ -1623,6 +1699,348 @@
               "The disorder doesn't exist before age 18": "The pattern EXISTS earlier—the diagnosis requires evidence of Conduct Disorder before age 15. The age 18 requirement is about when to apply the LABEL, not when the pattern begins.",
               "Treatment is only effective after age 18": "This isn't the reason for the age criterion. Early intervention is valuable. The age requirement is about developmental considerations and avoiding premature labeling, not treatment effectiveness.",
               "Antisocial behaviors are normal in children": "Some rule-testing is normal, but the material requires evidence of CONDUCT DISORDER (a significant pattern of rule violation causing impairment) before age 15. It's not saying these behaviors are normal, but that personality diagnosis should wait until adulthood."
+            }
+          }
+        },
+        {
+          "question": "A patient believes that the news anchor on television is sending coded messages specifically to them through hand gestures and word choices. What type of delusion is this?",
+          "difficulty": "learning",
+          "options": [
+            "Delusion of reference",
+            "Persecutory delusion",
+            "Grandiose delusion",
+            "Thought broadcasting"
+          ],
+          "answer": "Delusion of reference",
+          "explanation": {
+            "correct": "This is a delusion of reference, where the patient believes that neutral events or stimuli (in this case, the news anchor's gestures and words) have special personal significance or are directed specifically at them. This is a classic example of interpreting ordinary media content as containing hidden messages meant for the individual.",
+            "incorrect": {
+              "Persecutory delusion": "While the patient may feel the messages are negative, the key feature here is believing neutral stimuli have personal significance, not being conspired against or harmed.",
+              "Grandiose delusion": "This involves beliefs of having exceptional abilities, fame, or power, not interpreting external events as personally significant.",
+              "Thought broadcasting": "This is the belief that one's thoughts are being transmitted to others, not that external events carry personal messages."
+            }
+          }
+        },
+        {
+          "question": "A 28-year-old woman insists that despite multiple negative medical tests, she has a severe heart defect that doctors cannot detect. She constantly monitors her pulse and refuses to exercise. What type of delusion is she experiencing?",
+          "difficulty": "application",
+          "options": [
+            "Somatic delusion",
+            "Nihilistic delusion",
+            "Persecutory delusion",
+            "Grandiose delusion"
+          ],
+          "answer": "Somatic delusion",
+          "explanation": {
+            "correct": "This is a somatic delusion, characterized by a false belief about having a physical defect or medical condition despite negative medical tests and lack of objective evidence. The patient maintains this belief even when confronted with contradictory medical findings.",
+            "incorrect": {
+              "Nihilistic delusion": "This involves belief that body parts don't exist, one is dead, or the world doesn't exist—more extreme than believing in a medical condition.",
+              "Persecutory delusion": "While she may distrust doctors, the core belief is about having a physical condition, not being conspired against or harmed.",
+              "Grandiose delusion": "This involves beliefs of exceptional abilities or power, not concerns about physical health problems."
+            }
+          }
+        },
+        {
+          "question": "A patient reports that an alien intelligence has been removing thoughts from their mind, leaving blank spots in their thinking. They can feel when thoughts are being 'extracted.' Which specific thought delusion is this?",
+          "difficulty": "tricky",
+          "options": [
+            "Thought withdrawal",
+            "Thought insertion",
+            "Thought broadcasting",
+            "Control delusion"
+          ],
+          "answer": "Thought withdrawal",
+          "explanation": {
+            "correct": "This is thought withdrawal, the specific delusion that external forces are removing or extracting thoughts from one's mind. The patient experiences this as thoughts being taken away, leaving gaps in their thinking. The key feature is thoughts being removed, not added or transmitted.",
+            "incorrect": {
+              "Thought insertion": "This is the opposite—the belief that others are putting thoughts into your mind, not taking them out.",
+              "Thought broadcasting": "This involves believing your thoughts are being transmitted to others, not that they're being removed from your mind.",
+              "Control delusion": "While this involves external forces controlling mental processes, thought withdrawal is a specific subtype focused on thought removal rather than general control."
+            }
+          }
+        },
+        {
+          "question": "Which of the following scenarios best represents a grandiose delusion rather than a persecutory delusion?",
+          "difficulty": "tricky",
+          "options": [
+            "A patient believes they are the reincarnation of Einstein and possess the ability to solve any mathematical problem through divine insight",
+            "A patient believes the government is monitoring their phone calls because they discovered a conspiracy",
+            "A patient believes their neighbors are poisoning their food to make them sick",
+            "A patient believes strangers on the street are following them and reporting on their activities"
+          ],
+          "answer": "A patient believes they are the reincarnation of Einstein and possess the ability to solve any mathematical problem through divine insight",
+          "explanation": {
+            "correct": "This is a grandiose delusion, characterized by beliefs of having exceptional abilities, special identity, or supernatural powers. Believing you're Einstein reincarnated with divine mathematical abilities demonstrates inflated self-importance and special powers—the hallmarks of grandiosity.",
+            "incorrect": {
+              "A patient believes the government is monitoring their phone calls because they discovered a conspiracy": "This is a persecutory delusion—the patient believes they're being spied on and conspired against. Even though they may feel 'special' for discovering the conspiracy, the core belief is about being targeted.",
+              "A patient believes their neighbors are poisoning their food to make them sick": "This is a persecutory delusion involving beliefs of being harmed through poisoning—a classic persecution theme.",
+              "A patient believes strangers on the street are following them and reporting on their activities": "This is a persecutory delusion involving surveillance and being followed—typical persecution content."
+            }
+          }
+        },
+        {
+          "question": "A patient describes hearing their own thoughts echoed aloud so that everyone around them can hear what they're thinking. They whisper to avoid revealing their thoughts to strangers. What type of delusion is this?",
+          "difficulty": "application",
+          "options": [
+            "Thought broadcasting",
+            "Thought insertion",
+            "Auditory hallucination",
+            "Persecutory delusion"
+          ],
+          "answer": "Thought broadcasting",
+          "explanation": {
+            "correct": "This is thought broadcasting, the delusion that one's thoughts are being transmitted to others and can be heard or accessed by them. The patient believes their internal thoughts are being made public and accessible to those around them, which is why they try to modify their behavior to prevent this perceived transmission.",
+            "incorrect": {
+              "Thought insertion": "This involves believing others are putting thoughts into your mind, not that your own thoughts are being transmitted outward.",
+              "Auditory hallucination": "While the patient describes 'hearing' their thoughts, the core pathology here is the delusional belief that others can access their thoughts, not a true perceptual disturbance.",
+              "Persecutory delusion": "While the patient may feel anxious about others knowing their thoughts, this is specifically a thought delusion about transmission, not a general belief about being conspired against."
+            }
+          }
+        },
+        {
+          "question": "A patient believes that their body has died and is rotting, despite appearing physically healthy. They insist they no longer need to eat because 'dead people don't eat.' What type of delusion is this?",
+          "difficulty": "application",
+          "options": [
+            "Nihilistic delusion",
+            "Somatic delusion",
+            "Persecutory delusion",
+            "Control delusion"
+          ],
+          "answer": "Nihilistic delusion",
+          "explanation": {
+            "correct": "This is a nihilistic delusion—the belief that oneself, parts of oneself, or the world does not exist or has ended. Believing one's body has died (Cotard's delusion) is a classic example of nihilistic delusion, characterized by beliefs about non-existence or death despite evidence to the contrary.",
+            "incorrect": {
+              "Somatic delusion": "Somatic delusions involve beliefs about having a physical defect or medical condition. Nihilistic delusions are more extreme—they involve beliefs that body parts don't exist or that one is dead, not merely ill.",
+              "Persecutory delusion": "There's no element of being targeted, harmed, or conspired against. The core belief is about non-existence/death, not persecution.",
+              "Control delusion": "This involves beliefs about external forces controlling one's thoughts or actions, not beliefs about being dead or non-existent."
+            }
+          }
+        },
+        {
+          "question": "A 22-year-old experiences sudden onset of paranoid delusions and auditory hallucinations after a major life stressor. After 18 days, with treatment, symptoms completely resolve and she returns to baseline with full insight. What is the most appropriate diagnosis?",
+          "difficulty": "application",
+          "options": [
+            "Brief Psychotic Disorder",
+            "Schizophreniform Disorder",
+            "Schizophrenia",
+            "Delusional Disorder"
+          ],
+          "answer": "Brief Psychotic Disorder",
+          "explanation": {
+            "correct": "Brief Psychotic Disorder involves sudden onset of psychotic symptoms lasting 1 day to less than 1 month, followed by full return to baseline. This case (18 days, complete resolution, full insight, stress trigger) matches perfectly. The stress trigger and full recovery are characteristic.",
+            "incorrect": {
+              "Schizophreniform Disorder": "This requires 1-6 months duration. At 18 days with full resolution, the duration is too short for schizophreniform disorder.",
+              "Schizophrenia": "Schizophrenia requires at least 6 months of continuous signs of disturbance. This episode lasted only 18 days with complete recovery.",
+              "Delusional Disorder": "Delusional Disorder involves circumscribed delusions with otherwise relatively normal functioning, and typically lacks prominent hallucinations. This case had both delusions and hallucinations with impaired functioning."
+            }
+          }
+        },
+        {
+          "question": "What is the critical time threshold that distinguishes schizophreniform disorder from schizophrenia?",
+          "difficulty": "learning",
+          "options": [
+            "1 month",
+            "3 months",
+            "6 months",
+            "12 months"
+          ],
+          "answer": "6 months",
+          "explanation": {
+            "correct": "The 6-month threshold is critical: schizophreniform disorder has the same symptom pattern as schizophrenia but lasts 1-6 months. Once symptoms persist for 6 months or longer, the diagnosis changes to schizophrenia. This duration criterion is the primary distinction between the two disorders.",
+            "incorrect": {
+              "1 month": "One month distinguishes brief psychotic disorder (1 day to <1 month) from schizophreniform (1-6 months), not schizophreniform from schizophrenia.",
+              "3 months": "There's no significant 3-month threshold in distinguishing these disorders. The critical cutoff is 6 months.",
+              "12 months": "The threshold is 6 months, not 12. Symptoms persisting beyond 6 months indicate schizophrenia, regardless of whether they continue to 12 months."
+            }
+          }
+        },
+        {
+          "question": "A 45-year-old woman believes a famous actor is secretly in love with her. She interprets his TV interviews as containing coded love messages directed only to her and has mailed him letters. Apart from this belief, she works full-time as an accountant and functions normally. What is the most likely diagnosis?",
+          "difficulty": "application",
+          "options": [
+            "Delusional Disorder, erotomanic type",
+            "Schizophrenia",
+            "Brief Psychotic Disorder",
+            "Bipolar I Disorder with psychotic features"
+          ],
+          "answer": "Delusional Disorder, erotomanic type",
+          "explanation": {
+            "correct": "This is classic delusional disorder, erotomanic type: a non-bizarre delusion lasting ≥1 month (believing someone is in love with you is possible, just false), with otherwise relatively normal functioning (works full-time, normal conversations). Erotomanic delusions involve the belief that another person, often of higher status, is in love with the individual.",
+            "incorrect": {
+              "Schizophrenia": "Schizophrenia typically involves multiple symptoms (hallucinations, disorganized speech, negative symptoms) and significant functional decline. This person has only a circumscribed delusion with preserved functioning.",
+              "Brief Psychotic Disorder": "This requires symptoms lasting less than 1 month. The scenario describes a persistent belief over an extended period.",
+              "Bipolar I Disorder with psychotic features": "There's no evidence of manic episodes (elevated mood, decreased sleep, increased energy). Psychotic features in bipolar typically occur during mood episodes."
+            }
+          }
+        },
+        {
+          "question": "How does schizoaffective disorder differ from a mood disorder with psychotic features?",
+          "difficulty": "tricky",
+          "options": [
+            "Schizoaffective has less severe psychotic symptoms",
+            "In schizoaffective disorder, psychotic symptoms occur for at least 2 weeks WITHOUT mood symptoms",
+            "Mood disorders with psychotic features require hospitalization",
+            "Schizoaffective disorder only involves depression, not mania"
+          ],
+          "answer": "In schizoaffective disorder, psychotic symptoms occur for at least 2 weeks WITHOUT mood symptoms",
+          "explanation": {
+            "correct": "The critical distinction is that schizoaffective disorder requires a period of at least 2 weeks with delusions or hallucinations WITHOUT a concurrent major mood episode. This shows the psychosis is independent of mood, not just a feature of mood episodes. In mood disorder with psychotic features, psychosis only occurs during mood episodes.",
+            "incorrect": {
+              "Schizoaffective has less severe psychotic symptoms": "Severity doesn't distinguish these disorders. Both can have severe psychotic symptoms. The distinction is timing—whether psychosis occurs independently of mood episodes.",
+              "Mood disorders with psychotic features require hospitalization": "Hospitalization isn't a diagnostic criterion distinguishing these disorders. Both may or may not require hospitalization depending on severity.",
+              "Schizoaffective disorder only involves depression, not mania": "Schizoaffective disorder can involve either major depressive episodes OR manic episodes along with psychotic symptoms. Both mood types can occur."
+            }
+          }
+        },
+        {
+          "question": "A 35-year-old employee persistently suspects coworkers are undermining him despite no evidence. He interprets neutral comments as hostile, holds longstanding grudges, and avoids confiding in others due to fears of betrayal. He has no odd beliefs or perceptual experiences. This pattern suggests:",
+          "difficulty": "application",
+          "options": [
+            "Paranoid Personality Disorder",
+            "Schizotypal Personality Disorder",
+            "Delusional Disorder, persecutory type",
+            "Social Anxiety Disorder"
+          ],
+          "answer": "Paranoid Personality Disorder",
+          "explanation": {
+            "correct": "This is Paranoid Personality Disorder: pervasive distrust and suspiciousness without evidence, reading hidden threatening meanings into benign remarks, reluctance to confide, and bearing persistent grudges. The absence of odd beliefs distinguishes it from Schizotypal, and it's a pervasive pattern rather than a fixed delusion.",
+            "incorrect": {
+              "Schizotypal Personality Disorder": "Schizotypal involves odd beliefs, magical thinking, and unusual perceptual experiences. The scenario explicitly notes NO odd beliefs or perceptual experiences, ruling out Schizotypal.",
+              "Delusional Disorder, persecutory type": "Delusional Disorder involves fixed, specific delusions. Paranoid PD involves pervasive suspiciousness and misinterpretation without reaching the threshold of frank delusions. The pattern here is more diffuse distrust.",
+              "Social Anxiety Disorder": "Social Anxiety involves fear of social situations due to potential embarrassment or judgment, not pervasive suspicion that others are harmful or exploitative. The motivation for avoidance differs."
+            }
+          }
+        },
+        {
+          "question": "A 40-year-old individual lives alone, shows little interest in social relationships, reports minimal pleasure from activities, and appears indifferent to praise or criticism. They work adequately in a solitary job. What distinguishes Schizoid from Avoidant Personality Disorder in this case?",
+          "difficulty": "tricky",
+          "options": [
+            "Schizoid individuals don't desire relationships; Avoidant individuals desperately want them but fear rejection",
+            "Schizoid is more severe than Avoidant",
+            "Avoidant involves odd beliefs; Schizoid does not",
+            "Schizoid only occurs in males; Avoidant in females"
+          ],
+          "answer": "Schizoid individuals don't desire relationships; Avoidant individuals desperately want them but fear rejection",
+          "explanation": {
+            "correct": "The key distinction is MOTIVATION. Schizoid PD involves genuine indifference to relationships—they neither desire nor enjoy close relationships. Avoidant PD involves intense desire for connection coupled with fear of rejection and feelings of inadequacy. The person here shows indifference, not fearful avoidance, suggesting Schizoid.",
+            "incorrect": {
+              "Schizoid is more severe than Avoidant": "Severity doesn't distinguish these disorders. Both can cause significant impairment. The distinction is motivation: indifference vs. fearful desire for connection.",
+              "Avoidant involves odd beliefs; Schizoid does not": "Neither Schizoid nor Avoidant involves odd beliefs. Odd beliefs characterize Schizotypal PD, not these disorders.",
+              "Schizoid only occurs in males; Avoidant in females": "Both disorders occur across genders. Gender isn't a diagnostic criterion for distinguishing them."
+            }
+          }
+        },
+        {
+          "question": "A 25-year-old exhibits social anxiety that doesn't diminish with familiarity, believes they can sense others' thoughts, has vague metaphorical speech, and dresses eccentrically. This pattern most suggests:",
+          "difficulty": "application",
+          "options": [
+            "Schizotypal Personality Disorder",
+            "Schizoid Personality Disorder",
+            "Social Anxiety Disorder",
+            "Paranoid Personality Disorder"
+          ],
+          "answer": "Schizotypal Personality Disorder",
+          "explanation": {
+            "correct": "Schizotypal PD is characterized by odd beliefs (sensing others' thoughts = magical thinking), unusual speech (vague, metaphorical), eccentric appearance/behavior, and social anxiety that DOESN'T diminish with familiarity. This constellation of oddness and eccentricity is the hallmark of Schizotypal.",
+            "incorrect": {
+              "Schizoid Personality Disorder": "Schizoid involves social detachment and flat affect but NOT odd beliefs, magical thinking, or eccentric behavior. The oddness described here points to Schizotypal.",
+              "Social Anxiety Disorder": "While social anxiety is present, SAD doesn't include magical thinking, odd speech, or eccentric appearance. Also, SAD typically improves with familiarity; Schizotypal anxiety doesn't.",
+              "Paranoid Personality Disorder": "Paranoid PD involves distrust and suspicion, not magical thinking or oddness. The core feature is suspiciousness, which isn't the focus here."
+            }
+          }
+        },
+        {
+          "question": "A 32-year-old displays excessive emotionality, discomfort when not the center of attention, sexually provocative behavior, and rapidly shifting shallow emotions. They perceive relationships as more intimate than they actually are. This pattern suggests:",
+          "difficulty": "application",
+          "options": [
+            "Histrionic Personality Disorder",
+            "Borderline Personality Disorder",
+            "Narcissistic Personality Disorder",
+            "Bipolar II Disorder"
+          ],
+          "answer": "Histrionic Personality Disorder",
+          "explanation": {
+            "correct": "This is classic Histrionic PD: excessive emotionality, attention-seeking, discomfort when not the center of attention, sexually seductive behavior, shallow rapidly shifting emotions, and perceiving relationships as more intimate than they are. The theatrical, attention-focused pattern is the hallmark.",
+            "incorrect": {
+              "Borderline Personality Disorder": "BPD involves unstable relationships, fear of abandonment, self-harm, chronic emptiness, and identity disturbance. While there's emotional instability, BPD's core is fear of abandonment and identity issues, not attention-seeking theatricality.",
+              "Narcissistic Personality Disorder": "NPD involves grandiosity, need for admiration, and lack of empathy. While both seek attention, NPD focuses on being special/superior, while Histrionic focuses on being the center of attention through drama and seduction.",
+              "Bipolar II Disorder": "Bipolar II involves distinct mood episodes (hypomania and depression), not a stable personality pattern. The shallow, rapidly shifting emotions here are a personality trait, not mood episodes."
+            }
+          }
+        },
+        {
+          "question": "A 26-year-old presents with unstable relationships, intense fear of abandonment, alternating between idealizing and devaluing their partner, chronic emptiness, and self-harming during interpersonal stress. This pattern is most consistent with:",
+          "difficulty": "application",
+          "options": [
+            "Borderline Personality Disorder",
+            "Dependent Personality Disorder",
+            "Histrionic Personality Disorder",
+            "Bipolar I Disorder"
+          ],
+          "answer": "Borderline Personality Disorder",
+          "explanation": {
+            "correct": "This is classic Borderline PD: unstable relationships with splitting (idealization/devaluation), frantic efforts to avoid abandonment, chronic emptiness, and self-harm during interpersonal stress. The fear of abandonment and identity instability are central to BPD.",
+            "incorrect": {
+              "Dependent Personality Disorder": "Dependent PD involves excessive need to be taken care of and submissive behavior. While there's fear of being alone, Dependent PD doesn't involve the splitting, self-harm, or intense emotional dysregulation seen in BPD.",
+              "Histrionic Personality Disorder": "Histrionic PD involves attention-seeking and theatrical behavior, not the abandonment fears, splitting, or self-harm that characterize BPD.",
+              "Bipolar I Disorder": "Bipolar I involves distinct manic episodes. While both involve mood instability, BPD's instability is interpersonally triggered and chronic, not episodic like Bipolar."
+            }
+          }
+        },
+        {
+          "question": "What is the key difference between Narcissistic Personality Disorder and Antisocial Personality Disorder regarding their exploitation of others?",
+          "difficulty": "tricky",
+          "options": [
+            "NPD exploits due to entitlement and lack of empathy; ASPD requires a history of conduct disorder before age 15 and involves deceitfulness and disregard for rights",
+            "ASPD involves grandiosity; NPD involves impulsivity",
+            "NPD only occurs in wealthy individuals; ASPD in lower socioeconomic groups",
+            "There is no meaningful difference—they are the same disorder"
+          ],
+          "answer": "NPD exploits due to entitlement and lack of empathy; ASPD requires a history of conduct disorder before age 15 and involves deceitfulness and disregard for rights",
+          "explanation": {
+            "correct": "NPD exploitation stems from feelings of entitlement and superiority—they believe they deserve special treatment. ASPD exploitation is part of a broader pattern of violating others' rights, deceitfulness, and disregard for safety, with required evidence of conduct disorder before age 15. The motivation and broader pattern differ.",
+            "incorrect": {
+              "ASPD involves grandiosity; NPD involves impulsivity": "This is reversed. Grandiosity is a hallmark of NPD, and impulsivity is more characteristic of ASPD. Both can overlap but the primary features differ.",
+              "NPD only occurs in wealthy individuals; ASPD in lower socioeconomic groups": "Neither disorder is limited by socioeconomic status. This is a stereotype, not a diagnostic criterion.",
+              "There is no meaningful difference—they are the same disorder": "They are distinct disorders with different diagnostic criteria, core features, and developmental requirements. ASPD specifically requires conduct disorder history before age 15."
+            }
+          }
+        },
+        {
+          "question": "A 29-year-old avoids social and occupational interactions due to intense fear of criticism and rejection. Despite a strong desire for connection, they perceive themselves as socially inadequate. This is most consistent with:",
+          "difficulty": "application",
+          "options": [
+            "Avoidant Personality Disorder",
+            "Schizoid Personality Disorder",
+            "Dependent Personality Disorder",
+            "Paranoid Personality Disorder"
+          ],
+          "answer": "Avoidant Personality Disorder",
+          "explanation": {
+            "correct": "Avoidant PD involves extreme social inhibition, feelings of inadequacy, and hypersensitivity to criticism—BUT with a strong underlying desire for connection. The key is wanting relationships but feeling too inadequate and fearing rejection too much to pursue them.",
+            "incorrect": {
+              "Schizoid Personality Disorder": "Schizoid involves genuine indifference to relationships—they don't WANT close connections. This person desires connection but fears rejection, which is Avoidant, not Schizoid.",
+              "Dependent Personality Disorder": "Dependent PD involves excessive need to be taken care of and submissive clinging behavior IN relationships. Avoidant PD involves avoiding relationships due to fear of rejection—they can't get close enough to become dependent.",
+              "Paranoid Personality Disorder": "Paranoid PD involves distrust and suspicion that others are harmful. Avoidant PD involves fear of criticism and rejection due to feelings of inadequacy, not suspicion of malicious intent."
+            }
+          }
+        },
+        {
+          "question": "A 34-year-old has excessive need to be cared for, difficulty making decisions without reassurance, lets others assume responsibility for major life areas, and urgently seeks new relationships when one ends. This pattern suggests:",
+          "difficulty": "application",
+          "options": [
+            "Dependent Personality Disorder",
+            "Avoidant Personality Disorder",
+            "Borderline Personality Disorder",
+            "Generalized Anxiety Disorder"
+          ],
+          "answer": "Dependent Personality Disorder",
+          "explanation": {
+            "correct": "Dependent PD involves excessive need to be taken care of, submissive behavior, difficulty making decisions alone, letting others take responsibility, and urgently seeking new relationships when one ends. The core is an excessive need for others to take care of them.",
+            "incorrect": {
+              "Avoidant Personality Disorder": "Avoidant PD involves avoiding relationships due to fear of rejection. This person seeks and depends on relationships—the opposite pattern. They need caretakers, not avoidance.",
+              "Borderline Personality Disorder": "While BPD involves fear of abandonment and relationship instability, BPD's core includes identity disturbance, self-harm, and splitting. Dependent PD is about submissive caretaking-seeking behavior without the emotional dysregulation and self-harm.",
+              "Generalized Anxiety Disorder": "GAD involves chronic worry about multiple life areas. While this person may be anxious, the pattern of submissive dependence on others is a personality pattern, not an anxiety disorder."
             }
           }
         }
